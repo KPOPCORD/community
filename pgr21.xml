@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-09-25T10:23:28.701Z</updated>
+    <updated>2021-09-25T11:18:39.468Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 오늘 신곡 내신 분]]></title>
+        <id>https://ppt21.com/spoent/63286?category=2</id>
+        <link href="https://ppt21.com/spoent/63286?category=2"/>
+        <updated>2021-09-25T11:18:38.645Z</updated>
+        <content type="html"><![CDATA[쿨럭]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 조유리- '가을 상자(with 이석훈)' Official Music Clip]]></title>
         <id>https://ppt21.com/spoent/63285?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/63258?category=2"/>
         <updated>2021-09-24T09:13:51.888Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 한국을 생각하면 눈물을 멈출수 없을거같은 넷플릭스]]></title>
-        <id>https://ppt21.com/spoent/63257?category=2</id>
-        <link href="https://ppt21.com/spoent/63257?category=2"/>
-        <updated>2021-09-24T08:47:25.410Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
     </entry>
 </feed>
