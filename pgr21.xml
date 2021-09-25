@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-09-25T13:24:21.740Z</updated>
+    <updated>2021-09-25T14:19:26.532Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 한국어로 노래 부르는 콜드플레이 크리스마틴.mp4]]></title>
+        <id>https://ppt21.com/spoent/63288?category=2</id>
+        <link href="https://ppt21.com/spoent/63288?category=2"/>
+        <updated>2021-09-25T14:19:25.719Z</updated>
+        <content type="html"><![CDATA[insane]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 오늘 신곡 내신 분]]></title>
         <id>https://ppt21.com/spoent/63286?category=2</id>
@@ -129,13 +136,6 @@
         <id>https://ppt21.com/spoent/63259?category=2</id>
         <link href="https://ppt21.com/spoent/63259?category=2"/>
         <updated>2021-09-24T09:36:03.320Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] (약스포) 오징어 게임 제작기 영상 + 배우들의 키워드 인터뷰]]></title>
-        <id>https://ppt21.com/spoent/63258?category=2</id>
-        <link href="https://ppt21.com/spoent/63258?category=2"/>
-        <updated>2021-09-24T09:13:51.888Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
