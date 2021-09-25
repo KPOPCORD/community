@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-09-25T14:19:26.532Z</updated>
+    <updated>2021-09-25T15:23:09.851Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [라디오스타] 김연경 한일전 코멘트]]></title>
+        <id>https://ppt21.com/spoent/63295?category=2</id>
+        <link href="https://ppt21.com/spoent/63295?category=2"/>
+        <updated>2021-09-25T15:23:08.698Z</updated>
+        <content type="html"><![CDATA[Croove]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 말디니 AC밀란 데뷔골.MP4]]></title>
+        <id>https://ppt21.com/spoent/63292?category=2</id>
+        <link href="https://ppt21.com/spoent/63292?category=2"/>
+        <updated>2021-09-25T15:23:08.708Z</updated>
+        <content type="html"><![CDATA[insane]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 한국어로 노래 부르는 콜드플레이 크리스마틴.mp4]]></title>
         <id>https://ppt21.com/spoent/63288?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/63264?category=2"/>
         <updated>2021-09-24T13:25:28.513Z</updated>
         <content type="html"><![CDATA[청자켓]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 라잇썸 10.13(수) 컴백떡밥과 9.28(수) 엠넷 단독 리얼리티쇼 떡밥정리]]></title>
-        <id>https://ppt21.com/spoent/63262?category=2</id>
-        <link href="https://ppt21.com/spoent/63262?category=2"/>
-        <updated>2021-09-24T12:33:51.351Z</updated>
-        <content type="html"><![CDATA[초원을달리다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [ITZY] 뮤직뱅크 'LOCO' 컴백무대 영상 (+개인 직캠)]]></title>
-        <id>https://ppt21.com/spoent/63259?category=2</id>
-        <link href="https://ppt21.com/spoent/63259?category=2"/>
-        <updated>2021-09-24T09:36:03.320Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
