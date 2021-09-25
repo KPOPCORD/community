@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-09-25T09:20:26.943Z</updated>
+    <updated>2021-09-25T10:23:28.701Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 조유리- '가을 상자(with 이석훈)' Official Music Clip]]></title>
+        <id>https://ppt21.com/spoent/63285?category=2</id>
+        <link href="https://ppt21.com/spoent/63285?category=2"/>
+        <updated>2021-09-25T10:23:27.967Z</updated>
+        <content type="html"><![CDATA[kogang2001]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 2021년 9월 한국인이 좋아하는 TV프로그램]]></title>
+        <id>https://ppt21.com/spoent/63284?category=2</id>
+        <link href="https://ppt21.com/spoent/63284?category=2"/>
+        <updated>2021-09-25T10:23:27.969Z</updated>
+        <content type="html"><![CDATA[추천]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 이정재의 넷플릭스 최애 작품은?]]></title>
         <id>https://ppt21.com/spoent/63281?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/63257?category=2"/>
         <updated>2021-09-24T08:47:25.410Z</updated>
         <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] KBS ‘더 유닛’, 사전 온라인 점수 오류로 참가자 3명 당락 뒤집혀]]></title>
-        <id>https://ppt21.com/spoent/63254?category=2</id>
-        <link href="https://ppt21.com/spoent/63254?category=2"/>
-        <updated>2021-09-24T08:47:25.427Z</updated>
-        <content type="html"><![CDATA[Leeka]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] Coldplay X BTS 콜라보 My Universe 공개]]></title>
-        <id>https://ppt21.com/spoent/63251?category=2</id>
-        <link href="https://ppt21.com/spoent/63251?category=2"/>
-        <updated>2021-09-24T08:47:25.429Z</updated>
-        <content type="html"><![CDATA[우주전쟁]]></content>
     </entry>
 </feed>
