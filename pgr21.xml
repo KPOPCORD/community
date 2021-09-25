@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-09-25T18:24:26.190Z</updated>
+    <updated>2021-09-25T19:17:02.416Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] BTS의 글로벌 시티즌 라이브 공연]]></title>
+        <id>https://ppt21.com/spoent/63298?category=2</id>
+        <link href="https://ppt21.com/spoent/63298?category=2"/>
+        <updated>2021-09-25T19:17:01.607Z</updated>
+        <content type="html"><![CDATA[인사이더]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [ITZY] 스튜디오 춤 'LOCO' 영상 + 1theK 더 부스 라이브]]></title>
         <id>https://ppt21.com/spoent/63297?category=2</id>
@@ -129,13 +136,6 @@
         <id>https://ppt21.com/spoent/63269?category=2</id>
         <link href="https://ppt21.com/spoent/63269?category=2"/>
         <updated>2021-09-24T16:33:34.894Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] '오징어 게임' 아시아 드라마 최초 넷플릭스 월드 1위가 더 대단한 이유]]></title>
-        <id>https://ppt21.com/spoent/63265?category=2</id>
-        <link href="https://ppt21.com/spoent/63265?category=2"/>
-        <updated>2021-09-24T14:20:09.141Z</updated>
         <content type="html"><![CDATA[아롱이다롱이]]></content>
     </entry>
 </feed>
