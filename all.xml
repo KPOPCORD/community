@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-09-26T02:31:21.349Z</updated>
+    <updated>2021-09-26T03:22:40.613Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] aespa 에스파 〖Savage〗 싱크 다이브 SYNK DIVE (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/63304?category=2</id>
+        <link href="https://ppt21.com/spoent/63304?category=2"/>
+        <updated>2021-09-26T03:22:39.968Z</updated>
+        <content type="html"><![CDATA[아롱이다롱이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 데스게임류 텃밭 일본 근황 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/63301?category=2</id>
@@ -129,12 +136,5 @@
         <link href="https://ppt21.com/spoent/63273?category=2"/>
         <updated>2021-09-24T23:21:56.092Z</updated>
         <content type="html"><![CDATA[is001]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] (강스포) 무한도전으로 보는 오징어 게임 요약.jpg (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/63272?category=2</id>
-        <link href="https://ppt21.com/spoent/63272?category=2"/>
-        <updated>2021-09-24T16:33:34.888Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
