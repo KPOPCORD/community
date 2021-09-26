@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-09-26T07:20:24.821Z</updated>
+    <updated>2021-09-26T08:24:37.619Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 불과 2년전엔 나이 두 배 차이였던 사이]]></title>
+        <id>https://ppt21.com/spoent/63312?category=2</id>
+        <link href="https://ppt21.com/spoent/63312?category=2"/>
+        <updated>2021-09-26T08:24:36.816Z</updated>
+        <content type="html"><![CDATA[묻고 더블로 가!]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [트와이스] (스압) 영어 싱글 "The Feels" 콘셉트 포토]]></title>
         <id>https://ppt21.com/spoent/63310?category=2</id>
@@ -129,13 +136,6 @@
         <id>https://ppt21.com/spoent/63275?category=2</id>
         <link href="https://ppt21.com/spoent/63275?category=2"/>
         <updated>2021-09-25T02:33:12.368Z</updated>
-        <content type="html"><![CDATA[추천]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 기안 84 왕따 입장 표명]]></title>
-        <id>https://ppt21.com/spoent/63274?category=2</id>
-        <link href="https://ppt21.com/spoent/63274?category=2"/>
-        <updated>2021-09-25T01:08:28.859Z</updated>
         <content type="html"><![CDATA[추천]]></content>
     </entry>
 </feed>
