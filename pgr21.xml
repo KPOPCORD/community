@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-09-27T11:18:48.094Z</updated>
+    <updated>2021-09-27T12:36:29.870Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [브레이브 걸스] 좋은데이(소주), BMW]]></title>
+        <id>https://ppt21.com/spoent/63343?category=2</id>
+        <link href="https://ppt21.com/spoent/63343?category=2"/>
+        <updated>2021-09-27T12:36:29.178Z</updated>
+        <content type="html"><![CDATA[Croove]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 태양 아내 민효린, 엄마 된다]]></title>
         <id>https://ppt21.com/spoent/63340?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/63300?category=2"/>
         <updated>2021-09-26T01:13:18.126Z</updated>
         <content type="html"><![CDATA[강가딘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 아메리카 대륙에 이어 유럽도 정복(?)한 오징어 게임]]></title>
-        <id>https://ppt21.com/spoent/63299?category=2</id>
-        <link href="https://ppt21.com/spoent/63299?category=2"/>
-        <updated>2021-09-25T23:21:38.498Z</updated>
-        <content type="html"><![CDATA[우주전쟁]]></content>
     </entry>
 </feed>
