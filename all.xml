@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-09-27T07:21:21.698Z</updated>
+    <updated>2021-09-27T08:26:17.298Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] 태양 아내 민효린, 엄마 된다 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/63340?category=2</id>
+        <link href="https://ppt21.com/spoent/63340?category=2"/>
+        <updated>2021-09-27T08:26:16.593Z</updated>
+        <content type="html"><![CDATA[KOS-MOS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [공식]장원영·엔하이픈 성훈 ‘뮤직뱅크’ MC 발탁 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/63339?category=2</id>
@@ -129,12 +136,5 @@
         <link href="https://ppt21.com/spoent/63299?category=2"/>
         <updated>2021-09-25T23:21:38.498Z</updated>
         <content type="html"><![CDATA[우주전쟁]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] BTS의 글로벌 시티즌 라이브 공연 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/63298?category=2</id>
-        <link href="https://ppt21.com/spoent/63298?category=2"/>
-        <updated>2021-09-25T19:17:01.607Z</updated>
-        <content type="html"><![CDATA[인사이더]]></content>
     </entry>
 </feed>
