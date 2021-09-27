@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-09-27T01:10:06.186Z</updated>
+    <updated>2021-09-27T02:32:25.465Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 여기 차은우 얼굴과 49억이 있습니다.]]></title>
+        <id>https://ppt21.com/spoent/63329?category=2</id>
+        <link href="https://ppt21.com/spoent/63329?category=2"/>
+        <updated>2021-09-27T02:32:24.683Z</updated>
+        <content type="html"><![CDATA[추천]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 대충 콜드플레이라는 사람이 BTS 만나러 한국 왔다는 다큐]]></title>
         <id>https://ppt21.com/spoent/63323?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/63288?category=2"/>
         <updated>2021-09-25T14:19:25.719Z</updated>
         <content type="html"><![CDATA[insane]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 오늘 신곡 내신 분]]></title>
-        <id>https://ppt21.com/spoent/63286?category=2</id>
-        <link href="https://ppt21.com/spoent/63286?category=2"/>
-        <updated>2021-09-25T11:18:38.645Z</updated>
-        <content type="html"><![CDATA[쿨럭]]></content>
     </entry>
 </feed>
