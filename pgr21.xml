@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-09-27T05:20:02.480Z</updated>
+    <updated>2021-09-27T06:26:29.930Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 금/토 드라마 1위를 달리는 <원 더 우먼> 핵심 장면]]></title>
+        <id>https://ppt21.com/spoent/63338?category=2</id>
+        <link href="https://ppt21.com/spoent/63338?category=2"/>
+        <updated>2021-09-27T06:26:29.140Z</updated>
+        <content type="html"><![CDATA[빼사스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [트와이스] "The Feels" M/V Teaser 1]]></title>
         <id>https://ppt21.com/spoent/63332?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/63297?category=2"/>
         <updated>2021-09-25T16:32:56.128Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [라디오스타] 김연경 한일전 코멘트]]></title>
-        <id>https://ppt21.com/spoent/63295?category=2</id>
-        <link href="https://ppt21.com/spoent/63295?category=2"/>
-        <updated>2021-09-25T15:23:08.698Z</updated>
-        <content type="html"><![CDATA[Croove]]></content>
     </entry>
 </feed>
