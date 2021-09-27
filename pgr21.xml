@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-09-27T06:26:29.930Z</updated>
+    <updated>2021-09-27T07:21:21.696Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [공식]장원영·엔하이픈 성훈 ‘뮤직뱅크’ MC 발탁]]></title>
+        <id>https://ppt21.com/spoent/63339?category=2</id>
+        <link href="https://ppt21.com/spoent/63339?category=2"/>
+        <updated>2021-09-27T07:21:21.026Z</updated>
+        <content type="html"><![CDATA[판을흔들어라]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 금/토 드라마 1위를 달리는 <원 더 우먼> 핵심 장면]]></title>
         <id>https://ppt21.com/spoent/63338?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/63298?category=2"/>
         <updated>2021-09-25T19:17:01.607Z</updated>
         <content type="html"><![CDATA[인사이더]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [ITZY] 스튜디오 춤 'LOCO' 영상 + 1theK 더 부스 라이브]]></title>
-        <id>https://ppt21.com/spoent/63297?category=2</id>
-        <link href="https://ppt21.com/spoent/63297?category=2"/>
-        <updated>2021-09-25T16:32:56.128Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
