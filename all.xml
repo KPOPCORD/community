@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-09-28T12:34:58.392Z</updated>
+    <updated>2021-09-28T13:34:48.453Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] [레드벨벳] 슬기의 딱지치기 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/63373?category=2</id>
+        <link href="https://ppt21.com/spoent/63373?category=2"/>
+        <updated>2021-09-28T13:34:47.841Z</updated>
+        <content type="html"><![CDATA[그10번]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 백종원이 한 요리 면전에서 악평하는 사람들 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/63372?category=2</id>
+        <link href="https://ppt21.com/spoent/63372?category=2"/>
+        <updated>2021-09-28T13:34:47.841Z</updated>
+        <content type="html"><![CDATA[Croove]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 오징어게임 감독피셜 비하인드 스토리 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/63370?category=2</id>
@@ -122,19 +136,5 @@
         <link href="https://ppt21.com/spoent/63332?category=2"/>
         <updated>2021-09-27T04:29:05.146Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [에스파] 인천 K팝 콘서트 무대 / 아이더 CF 영상 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/63330?category=2</id>
-        <link href="https://ppt21.com/spoent/63330?category=2"/>
-        <updated>2021-09-27T03:23:12.904Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 여기 차은우 얼굴과 49억이 있습니다. (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/63329?category=2</id>
-        <link href="https://ppt21.com/spoent/63329?category=2"/>
-        <updated>2021-09-27T02:32:24.683Z</updated>
-        <content type="html"><![CDATA[추천]]></content>
     </entry>
 </feed>
