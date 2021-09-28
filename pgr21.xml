@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-09-28T05:19:41.186Z</updated>
+    <updated>2021-09-28T06:26:19.908Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 오징어게임 감독피셜 비하인드 스토리]]></title>
+        <id>https://ppt21.com/spoent/63370?category=2</id>
+        <link href="https://ppt21.com/spoent/63370?category=2"/>
+        <updated>2021-09-28T06:26:18.999Z</updated>
+        <content type="html"><![CDATA[어바웃타임]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 오징어 게임의 뒤를 이을 수 있을 지 궁금한 드라마...]]></title>
+        <id>https://ppt21.com/spoent/63368?category=2</id>
+        <link href="https://ppt21.com/spoent/63368?category=2"/>
+        <updated>2021-09-28T06:26:19.005Z</updated>
+        <content type="html"><![CDATA[우주전쟁]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 이달의 소녀, 블록베리 크리에이티브 심각한 자금난으로 활동 빨간불]]></title>
+        <id>https://ppt21.com/spoent/63367?category=2</id>
+        <link href="https://ppt21.com/spoent/63367?category=2"/>
+        <updated>2021-09-28T06:26:19.006Z</updated>
+        <content type="html"><![CDATA[한국화약주식회사]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 백신맞으러 갔다 깜짝놀란 여자 아이돌..JPG]]></title>
         <id>https://ppt21.com/spoent/63365?category=2</id>
@@ -116,26 +137,5 @@
         <link href="https://ppt21.com/spoent/63329?category=2"/>
         <updated>2021-09-27T02:32:24.683Z</updated>
         <content type="html"><![CDATA[추천]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 대충 콜드플레이라는 사람이 BTS 만나러 한국 왔다는 다큐]]></title>
-        <id>https://ppt21.com/spoent/63323?category=2</id>
-        <link href="https://ppt21.com/spoent/63323?category=2"/>
-        <updated>2021-09-26T18:24:38.710Z</updated>
-        <content type="html"><![CDATA[덴드로븀]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [대탈출4]하늘에쉼터2(스포)]]></title>
-        <id>https://ppt21.com/spoent/63322?category=2</id>
-        <link href="https://ppt21.com/spoent/63322?category=2"/>
-        <updated>2021-09-26T18:24:38.719Z</updated>
-        <content type="html"><![CDATA[카루오스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] aespa 에스파 "Savage" 싱크 다이브 SYNK DIVE]]></title>
-        <id>https://ppt21.com/spoent/63321?category=2</id>
-        <link href="https://ppt21.com/spoent/63321?category=2"/>
-        <updated>2021-09-26T16:32:10.909Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
     </entry>
 </feed>
