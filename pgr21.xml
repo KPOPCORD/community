@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-09-29T16:33:20.707Z</updated>
+    <updated>2021-09-29T17:25:04.362Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예]  I Believe I Can Fly 가수 알 켈리 성착취 혐의 유죄]]></title>
+        <id>https://ppt21.com/spoent/63401?category=2</id>
+        <link href="https://ppt21.com/spoent/63401?category=2"/>
+        <updated>2021-09-29T17:25:03.713Z</updated>
+        <content type="html"><![CDATA[모쿠카카]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 라잇썸 10월 13일 컴백예정인 신곡 "VIVACE" 컨셉이미지 LIGHT ver.공개]]></title>
         <id>https://ppt21.com/spoent/63400?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/63368?category=2"/>
         <updated>2021-09-28T06:26:19.005Z</updated>
         <content type="html"><![CDATA[우주전쟁]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 이달의 소녀, 블록베리 크리에이티브 심각한 자금난으로 활동 빨간불]]></title>
-        <id>https://ppt21.com/spoent/63367?category=2</id>
-        <link href="https://ppt21.com/spoent/63367?category=2"/>
-        <updated>2021-09-28T06:26:19.006Z</updated>
-        <content type="html"><![CDATA[한국화약주식회사]]></content>
     </entry>
 </feed>
