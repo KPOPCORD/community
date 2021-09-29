@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-09-29T09:21:18.201Z</updated>
+    <updated>2021-09-29T10:24:40.791Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] 블랙핑크] 파리 패션위크에 참석한 블핑이들 모습 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/63394?category=2</id>
+        <link href="https://ppt21.com/spoent/63394?category=2"/>
+        <updated>2021-09-29T10:24:40.107Z</updated>
+        <content type="html"><![CDATA[헤인즈]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] [스테이씨] 백신 접종 이전 vs 이후.gif (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/63393?category=2</id>
+        <link href="https://ppt21.com/spoent/63393?category=2"/>
+        <updated>2021-09-29T10:24:40.108Z</updated>
+        <content type="html"><![CDATA[VictoryFood]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] '아이돌학교' 233번 순위 조작했다… (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/63391?category=2</id>
@@ -122,19 +136,5 @@
         <link href="https://ppt21.com/spoent/63359?category=2"/>
         <updated>2021-09-28T02:32:36.570Z</updated>
         <content type="html"><![CDATA[우주전쟁]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 춤추는 배성재 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/63355?category=2</id>
-        <link href="https://ppt21.com/spoent/63355?category=2"/>
-        <updated>2021-09-28T01:11:02.512Z</updated>
-        <content type="html"><![CDATA[강가딘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 넷플릭스CEO "오징어 게임 넷플릭스 최고 인기작될 가능성 있다" (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/63353?category=2</id>
-        <link href="https://ppt21.com/spoent/63353?category=2"/>
-        <updated>2021-09-28T01:11:02.513Z</updated>
-        <content type="html"><![CDATA[청자켓]]></content>
     </entry>
 </feed>
