@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-09-29T11:18:31.702Z</updated>
+    <updated>2021-09-29T12:34:42.482Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] (스포) '오징어 게임' 코멘터리 영상]]></title>
+        <id>https://ppt21.com/spoent/63396?category=2</id>
+        <link href="https://ppt21.com/spoent/63396?category=2"/>
+        <updated>2021-09-29T12:34:41.710Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [블랙핑크] 파리 패션위크에 참석한 블핑이들 모습   (스압)]]></title>
         <id>https://ppt21.com/spoent/63394?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/63360?category=2"/>
         <updated>2021-09-28T02:32:36.568Z</updated>
         <content type="html"><![CDATA[빼사스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 방탄소년단 11월, 12월 미국서 오프라인 콘서트 개최...]]></title>
-        <id>https://ppt21.com/spoent/63359?category=2</id>
-        <link href="https://ppt21.com/spoent/63359?category=2"/>
-        <updated>2021-09-28T02:32:36.570Z</updated>
-        <content type="html"><![CDATA[우주전쟁]]></content>
     </entry>
 </feed>
