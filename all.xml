@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-09-29T01:07:28.945Z</updated>
+    <updated>2021-09-29T02:29:36.567Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] 댄서와 아이돌 같은 안무를 출때 비교 영상 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/63384?category=2</id>
+        <link href="https://ppt21.com/spoent/63384?category=2"/>
+        <updated>2021-09-29T02:29:35.899Z</updated>
+        <content type="html"><![CDATA[Anti-MAGE]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] [ITZY] "SWIPE" Performance Video (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/63383?category=2</id>
+        <link href="https://ppt21.com/spoent/63383?category=2"/>
+        <updated>2021-09-29T02:29:35.901Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 요즘 오디션 프로그램 참가자 나이대 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/63382?category=2</id>
+        <link href="https://ppt21.com/spoent/63382?category=2"/>
+        <updated>2021-09-29T02:29:35.903Z</updated>
+        <content type="html"><![CDATA[추천]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [레드벨벳] 슬기의 딱지치기 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/63373?category=2</id>
@@ -115,26 +136,5 @@
         <link href="https://ppt21.com/spoent/63340?category=2"/>
         <updated>2021-09-27T08:26:16.593Z</updated>
         <content type="html"><![CDATA[KOS-MOS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [공식]장원영·엔하이픈 성훈 ‘뮤직뱅크’ MC 발탁 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/63339?category=2</id>
-        <link href="https://ppt21.com/spoent/63339?category=2"/>
-        <updated>2021-09-27T07:21:21.026Z</updated>
-        <content type="html"><![CDATA[판을흔들어라]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 금/토 드라마 1위를 달리는 <원 더 우먼> 핵심 장면 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/63338?category=2</id>
-        <link href="https://ppt21.com/spoent/63338?category=2"/>
-        <updated>2021-09-27T06:26:29.140Z</updated>
-        <content type="html"><![CDATA[빼사스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [트와이스] "The Feels" M/V Teaser 1 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/63332?category=2</id>
-        <link href="https://ppt21.com/spoent/63332?category=2"/>
-        <updated>2021-09-27T04:29:05.146Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
