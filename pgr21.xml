@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-09-29T12:34:42.482Z</updated>
+    <updated>2021-09-29T13:26:20.158Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 생각보다 매운 새 엠넷리얼리티 "Do you 라잇썸" 풀버전 유튜브 공개]]></title>
+        <id>https://ppt21.com/spoent/63398?category=2</id>
+        <link href="https://ppt21.com/spoent/63398?category=2"/>
+        <updated>2021-09-29T13:26:19.453Z</updated>
+        <content type="html"><![CDATA[초원을달리다]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 한국 여성 가수 부자 1위는 아이유?]]></title>
+        <id>https://ppt21.com/spoent/63397?category=2</id>
+        <link href="https://ppt21.com/spoent/63397?category=2"/>
+        <updated>2021-09-29T13:26:19.453Z</updated>
+        <content type="html"><![CDATA[아케이드]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] (스포) '오징어 게임' 코멘터리 영상]]></title>
         <id>https://ppt21.com/spoent/63396?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/63365?category=2"/>
         <updated>2021-09-28T04:29:04.787Z</updated>
         <content type="html"><![CDATA[판을흔들어라]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [ITZY] 예지, 류진, 유나 'LOCO' 인기가요 페이스캠]]></title>
-        <id>https://ppt21.com/spoent/63361?category=2</id>
-        <link href="https://ppt21.com/spoent/63361?category=2"/>
-        <updated>2021-09-28T02:32:36.566Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] SNL 조정석 AI]]></title>
-        <id>https://ppt21.com/spoent/63360?category=2</id>
-        <link href="https://ppt21.com/spoent/63360?category=2"/>
-        <updated>2021-09-28T02:32:36.568Z</updated>
-        <content type="html"><![CDATA[빼사스]]></content>
     </entry>
 </feed>
