@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-09-29T14:20:33.744Z</updated>
+    <updated>2021-09-29T15:23:13.706Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] 라잇썸 10월 13일 컴백예정인 신곡 "VIVACE" 컨셉이미지 공개 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/63400?category=2</id>
+        <link href="https://ppt21.com/spoent/63400?category=2"/>
+        <updated>2021-09-29T15:23:13.063Z</updated>
+        <content type="html"><![CDATA[초원을달리다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 생각보다 매운 새 엠넷리얼리티 "Do you 라잇썸" 풀버전 유튜브 공개 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/63398?category=2</id>
@@ -129,12 +136,5 @@
         <link href="https://ppt21.com/spoent/63367?category=2"/>
         <updated>2021-09-28T06:26:19.006Z</updated>
         <content type="html"><![CDATA[한국화약주식회사]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 백신맞으러 갔다 깜짝놀란 여자 아이돌..JPG (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/63365?category=2</id>
-        <link href="https://ppt21.com/spoent/63365?category=2"/>
-        <updated>2021-09-28T04:29:04.787Z</updated>
-        <content type="html"><![CDATA[판을흔들어라]]></content>
     </entry>
 </feed>
