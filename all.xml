@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-09-30T14:22:09.927Z</updated>
+    <updated>2021-09-30T15:23:53.395Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] 라잇썸 10월 13일 컴백예정인 신곡 "VIVACE" 컨셉이미지 WISH ver.공개 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/63418?category=2</id>
+        <link href="https://ppt21.com/spoent/63418?category=2"/>
+        <updated>2021-09-30T15:23:52.791Z</updated>
+        <content type="html"><![CDATA[초원을달리다]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 오징어게임 퍼펙트 올킬 한걸음 남았네요 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/63416?category=2</id>
+        <link href="https://ppt21.com/spoent/63416?category=2"/>
+        <updated>2021-09-30T15:23:52.791Z</updated>
+        <content type="html"><![CDATA[forangel]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 지금 넷플릭스에 공개하면 성공한다?...못 한다?... (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/63415?category=2</id>
+        <link href="https://ppt21.com/spoent/63415?category=2"/>
+        <updated>2021-09-30T15:23:52.791Z</updated>
+        <content type="html"><![CDATA[우주전쟁]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 백종원 대학생 vs 39세 vs 55세 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/63414?category=2</id>
@@ -115,26 +136,5 @@
         <link href="https://ppt21.com/spoent/63384?category=2"/>
         <updated>2021-09-29T02:29:35.899Z</updated>
         <content type="html"><![CDATA[Anti-MAGE]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [ITZY] "SWIPE" Performance Video (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/63383?category=2</id>
-        <link href="https://ppt21.com/spoent/63383?category=2"/>
-        <updated>2021-09-29T02:29:35.901Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 요즘 오디션 프로그램 참가자 나이대 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/63382?category=2</id>
-        <link href="https://ppt21.com/spoent/63382?category=2"/>
-        <updated>2021-09-29T02:29:35.903Z</updated>
-        <content type="html"><![CDATA[추천]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [레드벨벳] 슬기의 딱지치기 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/63373?category=2</id>
-        <link href="https://ppt21.com/spoent/63373?category=2"/>
-        <updated>2021-09-28T13:34:47.841Z</updated>
-        <content type="html"><![CDATA[그10번]]></content>
     </entry>
 </feed>
