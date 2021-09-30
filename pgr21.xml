@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-09-30T13:27:08.110Z</updated>
+    <updated>2021-09-30T14:22:09.924Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 백종원 대학생 vs 39세 vs 55세]]></title>
+        <id>https://ppt21.com/spoent/63414?category=2</id>
+        <link href="https://ppt21.com/spoent/63414?category=2"/>
+        <updated>2021-09-30T14:22:09.203Z</updated>
+        <content type="html"><![CDATA[Croove]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 한소희 주연 넷플릭스 오리지널 드라마 <마이 네임> 공식 예고편]]></title>
         <id>https://ppt21.com/spoent/63408?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/63373?category=2"/>
         <updated>2021-09-28T13:34:47.841Z</updated>
         <content type="html"><![CDATA[그10번]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 백종원이 한 요리 면전에서 악평하는 사람들]]></title>
-        <id>https://ppt21.com/spoent/63372?category=2</id>
-        <link href="https://ppt21.com/spoent/63372?category=2"/>
-        <updated>2021-09-28T13:34:47.841Z</updated>
-        <content type="html"><![CDATA[Croove]]></content>
     </entry>
 </feed>
