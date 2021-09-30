@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-09-30T15:23:53.397Z</updated>
+    <updated>2021-09-30T16:33:46.482Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 소녀시대 윤아가 추는 Next Level]]></title>
+        <id>https://ppt21.com/spoent/63420?category=2</id>
+        <link href="https://ppt21.com/spoent/63420?category=2"/>
+        <updated>2021-09-30T16:33:45.693Z</updated>
+        <content type="html"><![CDATA[Croove]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] [아이유] 10월 20일 컴백?]]></title>
+        <id>https://ppt21.com/spoent/63419?category=2</id>
+        <link href="https://ppt21.com/spoent/63419?category=2"/>
+        <updated>2021-09-30T16:33:45.693Z</updated>
+        <content type="html"><![CDATA[VictoryFood]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 라잇썸 10월 13일 컴백예정인 신곡 "VIVACE" 컨셉이미지 WISH ver.공개]]></title>
         <id>https://ppt21.com/spoent/63418?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/63388?category=2"/>
         <updated>2021-09-29T05:20:03.735Z</updated>
         <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [트와이스] "The Feels" M/V Teaser 2]]></title>
-        <id>https://ppt21.com/spoent/63387?category=2</id>
-        <link href="https://ppt21.com/spoent/63387?category=2"/>
-        <updated>2021-09-29T04:28:52.743Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 댄서와 아이돌 같은 안무를 출때 비교 영상]]></title>
-        <id>https://ppt21.com/spoent/63384?category=2</id>
-        <link href="https://ppt21.com/spoent/63384?category=2"/>
-        <updated>2021-09-29T02:29:35.899Z</updated>
-        <content type="html"><![CDATA[Anti-MAGE]]></content>
     </entry>
 </feed>
