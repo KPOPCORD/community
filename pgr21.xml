@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-10-01T01:16:00.847Z</updated>
+    <updated>2021-10-01T02:37:59.588Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 흑화된 ITZY 유나.gif]]></title>
+        <id>https://ppt21.com/spoent/63423?category=2</id>
+        <link href="https://ppt21.com/spoent/63423?category=2"/>
+        <updated>2021-10-01T02:37:58.770Z</updated>
+        <content type="html"><![CDATA[Anti-MAGE]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 소녀시대 윤아가 추는 Next Level]]></title>
         <id>https://ppt21.com/spoent/63420?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/63389?category=2"/>
         <updated>2021-09-29T06:26:58.123Z</updated>
         <content type="html"><![CDATA[우주전쟁]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] "오징어게임" 의 넷플릭스 월드랭킹 포인트가 더 오른다고?]]></title>
-        <id>https://ppt21.com/spoent/63388?category=2</id>
-        <link href="https://ppt21.com/spoent/63388?category=2"/>
-        <updated>2021-09-29T05:20:03.735Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
     </entry>
 </feed>
