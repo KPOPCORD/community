@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-10-01T11:18:37.721Z</updated>
+    <updated>2021-10-01T13:26:26.192Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] '기생충'과 '오징어 게임'의 공통점 하나]]></title>
+        <id>https://ppt21.com/spoent/63437?category=2</id>
+        <link href="https://ppt21.com/spoent/63437?category=2"/>
+        <updated>2021-10-01T13:26:25.545Z</updated>
+        <content type="html"><![CDATA[BTS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 트와이스 오늘 근황.jyp]]></title>
         <id>https://ppt21.com/spoent/63435?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/63398?category=2"/>
         <updated>2021-09-29T13:26:19.453Z</updated>
         <content type="html"><![CDATA[초원을달리다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 한국 여성 가수 부자 1위는 아이유?]]></title>
-        <id>https://ppt21.com/spoent/63397?category=2</id>
-        <link href="https://ppt21.com/spoent/63397?category=2"/>
-        <updated>2021-09-29T13:26:19.453Z</updated>
-        <content type="html"><![CDATA[아케이드]]></content>
     </entry>
 </feed>
