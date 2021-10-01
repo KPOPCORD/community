@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-10-01T04:29:16.844Z</updated>
+    <updated>2021-10-01T05:19:52.336Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 넷플릭스 TV쇼 부문 순위를 자국 컨텐츠로 채우는 폐쇄적인 나라가 있다?!]]></title>
+        <id>https://ppt21.com/spoent/63430?category=2</id>
+        <link href="https://ppt21.com/spoent/63430?category=2"/>
+        <updated>2021-10-01T05:19:51.554Z</updated>
+        <content type="html"><![CDATA[BTS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [트와이스] "The Feels" M/V]]></title>
         <id>https://ppt21.com/spoent/63428?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/63394?category=2"/>
         <updated>2021-09-29T10:24:40.107Z</updated>
         <content type="html"><![CDATA[헤인즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [스테이씨] 백신 접종 이전 vs 이후.gif]]></title>
-        <id>https://ppt21.com/spoent/63393?category=2</id>
-        <link href="https://ppt21.com/spoent/63393?category=2"/>
-        <updated>2021-09-29T10:24:40.108Z</updated>
-        <content type="html"><![CDATA[VictoryFood]]></content>
     </entry>
 </feed>
