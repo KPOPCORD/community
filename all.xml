@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-01T14:20:27.848Z</updated>
+    <updated>2021-10-01T15:23:14.289Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] 아카펠라로 듣는 오징어 게임 OST (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/63439?category=2</id>
+        <link href="https://ppt21.com/spoent/63439?category=2"/>
+        <updated>2021-10-01T15:23:13.567Z</updated>
+        <content type="html"><![CDATA[빼사스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] '기생충'과 '오징어 게임'의 공통점 하나 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/63437?category=2</id>
@@ -128,13 +135,6 @@
         <id>https://ppt21.com/spoent/63400?category=2</id>
         <link href="https://ppt21.com/spoent/63400?category=2"/>
         <updated>2021-09-29T15:23:13.063Z</updated>
-        <content type="html"><![CDATA[초원을달리다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 생각보다 매운 새 엠넷리얼리티 "Do you 라잇썸" 풀버전 유튜브 공개 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/63398?category=2</id>
-        <link href="https://ppt21.com/spoent/63398?category=2"/>
-        <updated>2021-09-29T13:26:19.453Z</updated>
         <content type="html"><![CDATA[초원을달리다]]></content>
     </entry>
 </feed>
