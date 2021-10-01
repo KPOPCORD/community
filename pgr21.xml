@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-10-01T05:19:52.336Z</updated>
+    <updated>2021-10-01T06:26:25.368Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] BBC "오징어게임은 넷플릭스 역사상 최고 흥행작 될 것"]]></title>
+        <id>https://ppt21.com/spoent/63432?category=2</id>
+        <link href="https://ppt21.com/spoent/63432?category=2"/>
+        <updated>2021-10-01T06:26:24.705Z</updated>
+        <content type="html"><![CDATA[아롱이다롱이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 넷플릭스 TV쇼 부문 순위를 자국 컨텐츠로 채우는 폐쇄적인 나라가 있다?!]]></title>
         <id>https://ppt21.com/spoent/63430?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/63396?category=2"/>
         <updated>2021-09-29T12:34:41.710Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [블랙핑크] 파리 패션위크에 참석한 블핑이들 모습   (스압)]]></title>
-        <id>https://ppt21.com/spoent/63394?category=2</id>
-        <link href="https://ppt21.com/spoent/63394?category=2"/>
-        <updated>2021-09-29T10:24:40.107Z</updated>
-        <content type="html"><![CDATA[헤인즈]]></content>
     </entry>
 </feed>
