@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-01T03:23:19.026Z</updated>
+    <updated>2021-10-01T04:29:16.841Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] [트와이스] "The Feels" M/V (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/63428?category=2</id>
+        <link href="https://ppt21.com/spoent/63428?category=2"/>
+        <updated>2021-10-01T04:29:16.121Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 오래된 뮤지션들의 최근 음악들 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/63427?category=2</id>
@@ -129,12 +136,5 @@
         <link href="https://ppt21.com/spoent/63393?category=2"/>
         <updated>2021-09-29T10:24:40.108Z</updated>
         <content type="html"><![CDATA[VictoryFood]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] '아이돌학교' 233번 순위 조작했다… (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/63391?category=2</id>
-        <link href="https://ppt21.com/spoent/63391?category=2"/>
-        <updated>2021-09-29T07:20:38.286Z</updated>
-        <content type="html"><![CDATA[Leeka]]></content>
     </entry>
 </feed>
