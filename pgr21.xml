@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-10-02T08:24:32.447Z</updated>
+    <updated>2021-10-02T09:20:35.618Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [ITZY] 류진, 유나 입덕직캠 (+켈리 클락슨 쇼 4K 영상)]]></title>
+        <id>https://ppt21.com/spoent/63447?category=2</id>
+        <link href="https://ppt21.com/spoent/63447?category=2"/>
+        <updated>2021-10-02T09:20:34.825Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [놀면뭐하니+ 선공개] 꽤나 감쪽같은(?) AKMU - 낙하 커버]]></title>
         <id>https://ppt21.com/spoent/63446?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/63416?category=2"/>
         <updated>2021-09-30T15:23:52.791Z</updated>
         <content type="html"><![CDATA[forangel]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 지금 넷플릭스에 공개하면 성공한다?...못 한다?...]]></title>
-        <id>https://ppt21.com/spoent/63415?category=2</id>
-        <link href="https://ppt21.com/spoent/63415?category=2"/>
-        <updated>2021-09-30T15:23:52.791Z</updated>
-        <content type="html"><![CDATA[우주전쟁]]></content>
     </entry>
 </feed>
