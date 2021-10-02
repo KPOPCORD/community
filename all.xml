@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-02T06:25:34.479Z</updated>
+    <updated>2021-10-02T07:20:12.404Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] 래퍼 노엘, 5개 혐의로 사전구속영장 신청... 음주운전은 빠졌다 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/63445?category=2</id>
+        <link href="https://ppt21.com/spoent/63445?category=2"/>
+        <updated>2021-10-02T07:20:11.607Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 오징어게임 인기가 식기전에 인스타 개설한 이정재 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/63444?category=2</id>
+        <link href="https://ppt21.com/spoent/63444?category=2"/>
+        <updated>2021-10-02T07:20:11.607Z</updated>
+        <content type="html"><![CDATA[인증됨]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 오징어 게임 출연진들 미국 투나잇 쇼 출연 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/63442?category=2</id>
@@ -122,19 +136,5 @@
         <link href="https://ppt21.com/spoent/63414?category=2"/>
         <updated>2021-09-30T14:22:09.203Z</updated>
         <content type="html"><![CDATA[Croove]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 한소희 주연 넷플릭스 오리지널 드라마 <마이 네임> 공식 예고편 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/63408?category=2</id>
-        <link href="https://ppt21.com/spoent/63408?category=2"/>
-        <updated>2021-09-30T02:34:54.021Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 오징어 게임 넷플릭스 랭킹 포인트 다시 경신... (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/63404?category=2</id>
-        <link href="https://ppt21.com/spoent/63404?category=2"/>
-        <updated>2021-09-29T22:21:38.401Z</updated>
-        <content type="html"><![CDATA[우주전쟁]]></content>
     </entry>
 </feed>
