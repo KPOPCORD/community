@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-10-03T18:24:37.247Z</updated>
+    <updated>2021-10-03T19:16:48.056Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 구독자 4천만명이 넘는 유튜버 두명이 오징어 게임 관련해 올린 트윗]]></title>
+        <id>https://ppt21.com/spoent/63477?category=2</id>
+        <link href="https://ppt21.com/spoent/63477?category=2"/>
+        <updated>2021-10-03T19:16:47.188Z</updated>
+        <content type="html"><![CDATA[아롱이다롱이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [에스파] 'Savage' M/V Teaser]]></title>
         <id>https://ppt21.com/spoent/63475?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/63437?category=2"/>
         <updated>2021-10-01T13:26:25.545Z</updated>
         <content type="html"><![CDATA[BTS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 트와이스 오늘 근황.jyp]]></title>
-        <id>https://ppt21.com/spoent/63435?category=2</id>
-        <link href="https://ppt21.com/spoent/63435?category=2"/>
-        <updated>2021-10-01T11:18:36.973Z</updated>
-        <content type="html"><![CDATA[파랑파랑]]></content>
     </entry>
 </feed>
