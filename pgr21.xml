@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-10-02T23:22:21.384Z</updated>
+    <updated>2021-10-03T01:16:49.086Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 이번주 후반부터 쏟아지고 있는 오징어게임 기사들(미국)]]></title>
+        <id>https://ppt21.com/spoent/63462?category=2</id>
+        <link href="https://ppt21.com/spoent/63462?category=2"/>
+        <updated>2021-10-03T01:16:48.360Z</updated>
+        <content type="html"><![CDATA[청자켓]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 이정재 인스타(feat.정우성).swf]]></title>
+        <id>https://ppt21.com/spoent/63461?category=2</id>
+        <link href="https://ppt21.com/spoent/63461?category=2"/>
+        <updated>2021-10-03T01:16:48.384Z</updated>
+        <content type="html"><![CDATA[TWICE쯔위]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 다음주 놀토에 에스파 윈터 카리나가 나옵니다]]></title>
         <id>https://ppt21.com/spoent/63459?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/63420?category=2"/>
         <updated>2021-09-30T16:33:45.693Z</updated>
         <content type="html"><![CDATA[Croove]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [아이유] 10월 20일 컴백?]]></title>
-        <id>https://ppt21.com/spoent/63419?category=2</id>
-        <link href="https://ppt21.com/spoent/63419?category=2"/>
-        <updated>2021-09-30T16:33:45.693Z</updated>
-        <content type="html"><![CDATA[VictoryFood]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 라잇썸 10월 13일 컴백예정인 신곡 "VIVACE" 컨셉이미지 WISH ver.공개]]></title>
-        <id>https://ppt21.com/spoent/63418?category=2</id>
-        <link href="https://ppt21.com/spoent/63418?category=2"/>
-        <updated>2021-09-30T15:23:52.791Z</updated>
-        <content type="html"><![CDATA[초원을달리다]]></content>
     </entry>
 </feed>
