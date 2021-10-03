@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-03T02:33:11.480Z</updated>
+    <updated>2021-10-03T03:22:45.369Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] 드디어(?) 썩은 토마토 하나 받은 오징어 게임... (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/63466?category=2</id>
+        <link href="https://ppt21.com/spoent/63466?category=2"/>
+        <updated>2021-10-03T03:22:44.569Z</updated>
+        <content type="html"><![CDATA[우주전쟁]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 미국 아침마당의 오징어게임 현상소개 한꼭지 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/63464?category=2</id>
+        <link href="https://ppt21.com/spoent/63464?category=2"/>
+        <updated>2021-10-03T03:22:44.607Z</updated>
+        <content type="html"><![CDATA[어강됴리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 이번주 후반부터 쏟아지고 있는 오징어게임 기사들(미국) (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/63462?category=2</id>
@@ -122,19 +136,5 @@
         <link href="https://ppt21.com/spoent/63425?category=2"/>
         <updated>2021-10-01T03:23:18.292Z</updated>
         <content type="html"><![CDATA[Leeka]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 흑화된 ITZY 유나.gif (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/63423?category=2</id>
-        <link href="https://ppt21.com/spoent/63423?category=2"/>
-        <updated>2021-10-01T02:37:58.770Z</updated>
-        <content type="html"><![CDATA[Anti-MAGE]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 소녀시대 윤아가 추는 Next Level (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/63420?category=2</id>
-        <link href="https://ppt21.com/spoent/63420?category=2"/>
-        <updated>2021-09-30T16:33:45.693Z</updated>
-        <content type="html"><![CDATA[Croove]]></content>
     </entry>
 </feed>
