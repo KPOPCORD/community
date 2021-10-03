@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-10-03T10:23:46.930Z</updated>
+    <updated>2021-10-03T11:18:17.151Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 김연경에게서 꺽다리 이광수의 향기가..]]></title>
+        <id>https://ppt21.com/spoent/63470?category=2</id>
+        <link href="https://ppt21.com/spoent/63470?category=2"/>
+        <updated>2021-10-03T11:18:16.333Z</updated>
+        <content type="html"><![CDATA[강가딘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [트와이스]  "The Feels" 투나잇쇼 무대 + 비하인드 영상]]></title>
         <id>https://ppt21.com/spoent/63468?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/63428?category=2"/>
         <updated>2021-10-01T04:29:16.121Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 오래된 뮤지션들의 최근 음악들]]></title>
-        <id>https://ppt21.com/spoent/63427?category=2</id>
-        <link href="https://ppt21.com/spoent/63427?category=2"/>
-        <updated>2021-10-01T03:23:18.292Z</updated>
-        <content type="html"><![CDATA[두점]]></content>
     </entry>
 </feed>
