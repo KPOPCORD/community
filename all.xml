@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-03T05:19:15.531Z</updated>
+    <updated>2021-10-03T06:26:19.689Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] [트와이스]  "The Feels" 투나잇쇼 무대 + 비하인드 영상 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/63468?category=2</id>
+        <link href="https://ppt21.com/spoent/63468?category=2"/>
+        <updated>2021-10-03T06:26:18.882Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 드디어(?) 썩은 토마토 하나 받은 오징어 게임... (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/63466?category=2</id>
@@ -129,12 +136,5 @@
         <link href="https://ppt21.com/spoent/63427?category=2"/>
         <updated>2021-10-01T03:23:18.292Z</updated>
         <content type="html"><![CDATA[두점]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 스우파 로잘린. 수많은 먹튀의혹들 등장 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/63425?category=2</id>
-        <link href="https://ppt21.com/spoent/63425?category=2"/>
-        <updated>2021-10-01T03:23:18.292Z</updated>
-        <content type="html"><![CDATA[Leeka]]></content>
     </entry>
 </feed>
