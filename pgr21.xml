@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-10-04T12:34:22.356Z</updated>
+    <updated>2021-10-04T13:26:36.464Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [대탈출4]무대 제작하는 방법(크레이지하우스)]]></title>
+        <id>https://ppt21.com/spoent/63492?category=2</id>
+        <link href="https://ppt21.com/spoent/63492?category=2"/>
+        <updated>2021-10-04T13:26:35.816Z</updated>
+        <content type="html"><![CDATA[카루오스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 지상파 음방 레전드 라인업 1997년 9월 7일 TV가요20]]></title>
         <id>https://ppt21.com/spoent/63491?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/63445?category=2"/>
         <updated>2021-10-02T07:20:11.607Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 오징어게임 인기가 식기전에 인스타 개설한 이정재]]></title>
-        <id>https://ppt21.com/spoent/63444?category=2</id>
-        <link href="https://ppt21.com/spoent/63444?category=2"/>
-        <updated>2021-10-02T07:20:11.607Z</updated>
-        <content type="html"><![CDATA[인증됨]]></content>
     </entry>
 </feed>
