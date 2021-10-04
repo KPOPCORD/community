@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-10-04T09:21:30.755Z</updated>
+    <updated>2021-10-04T10:24:38.102Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [있지] 유나가 추는 퀸덤, 알콜프리, 유캔싯, 넥스트레벨, 암낫쿨.ytb]]></title>
+        <id>https://ppt21.com/spoent/63489?category=2</id>
+        <link href="https://ppt21.com/spoent/63489?category=2"/>
+        <updated>2021-10-04T10:24:37.364Z</updated>
+        <content type="html"><![CDATA[VictoryFood]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 'K-Pop 대부' 이수만 관련 홍콩 페이퍼컴퍼니 무더기 발견]]></title>
         <id>https://ppt21.com/spoent/63488?category=2</id>
@@ -129,13 +136,6 @@
         <id>https://ppt21.com/spoent/63442?category=2</id>
         <link href="https://ppt21.com/spoent/63442?category=2"/>
         <updated>2021-10-02T04:28:38.488Z</updated>
-        <content type="html"><![CDATA[우주전쟁]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] BTS 아미들도 아직까진 어쩌지 못하는 차트...]]></title>
-        <id>https://ppt21.com/spoent/63440?category=2</id>
-        <link href="https://ppt21.com/spoent/63440?category=2"/>
-        <updated>2021-10-01T23:22:23.205Z</updated>
         <content type="html"><![CDATA[우주전쟁]]></content>
     </entry>
 </feed>
