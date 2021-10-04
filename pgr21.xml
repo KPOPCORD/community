@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-10-04T14:20:28.359Z</updated>
+    <updated>2021-10-04T15:23:08.338Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [AKB48] 근거없는루머 풀버전 안무연습영상.ytb]]></title>
+        <id>https://ppt21.com/spoent/63496?category=2</id>
+        <link href="https://ppt21.com/spoent/63496?category=2"/>
+        <updated>2021-10-04T15:23:07.629Z</updated>
+        <content type="html"><![CDATA[VictoryFood]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 오랜만에 윤하 연애조건 가사실수]]></title>
+        <id>https://ppt21.com/spoent/63495?category=2</id>
+        <link href="https://ppt21.com/spoent/63495?category=2"/>
+        <updated>2021-10-04T15:23:07.629Z</updated>
+        <content type="html"><![CDATA[style]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 안테나에서 유재석을 영입한 이유]]></title>
         <id>https://ppt21.com/spoent/63494?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/63459?category=2"/>
         <updated>2021-10-02T16:32:39.714Z</updated>
         <content type="html"><![CDATA[강가딘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [ITZY] 류진, 유나 입덕직캠 (+켈리 클락슨 쇼 4K 영상)]]></title>
-        <id>https://ppt21.com/spoent/63447?category=2</id>
-        <link href="https://ppt21.com/spoent/63447?category=2"/>
-        <updated>2021-10-02T09:20:34.825Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [놀면뭐하니+ 선공개] 꽤나 감쪽같은(?) AKMU - 낙하 커버]]></title>
-        <id>https://ppt21.com/spoent/63446?category=2</id>
-        <link href="https://ppt21.com/spoent/63446?category=2"/>
-        <updated>2021-10-02T08:24:31.652Z</updated>
-        <content type="html"><![CDATA[나의 연인]]></content>
     </entry>
 </feed>
