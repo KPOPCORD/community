@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-04T11:18:30.840Z</updated>
+    <updated>2021-10-04T12:34:22.359Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] 지상파 음방 레전드 라인업 1997년 9월 7일 TV가요20 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/63491?category=2</id>
+        <link href="https://ppt21.com/spoent/63491?category=2"/>
+        <updated>2021-10-04T12:34:21.610Z</updated>
+        <content type="html"><![CDATA[Croove]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [있지] 유나가 추는 퀸덤, 알콜프리, 유캔싯, 넥스트레벨, 암낫쿨.ytb (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/63489?category=2</id>
@@ -129,12 +136,5 @@
         <link href="https://ppt21.com/spoent/63444?category=2"/>
         <updated>2021-10-02T07:20:11.607Z</updated>
         <content type="html"><![CDATA[인증됨]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 오징어 게임 출연진들 미국 투나잇 쇼 출연 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/63442?category=2</id>
-        <link href="https://ppt21.com/spoent/63442?category=2"/>
-        <updated>2021-10-02T04:28:38.488Z</updated>
-        <content type="html"><![CDATA[우주전쟁]]></content>
     </entry>
 </feed>
