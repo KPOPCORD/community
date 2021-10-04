@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-10-04T13:26:36.464Z</updated>
+    <updated>2021-10-04T14:20:28.359Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 안테나에서 유재석을 영입한 이유]]></title>
+        <id>https://ppt21.com/spoent/63494?category=2</id>
+        <link href="https://ppt21.com/spoent/63494?category=2"/>
+        <updated>2021-10-04T14:20:27.612Z</updated>
+        <content type="html"><![CDATA[Leeka]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [대탈출4]무대 제작하는 방법(크레이지하우스)]]></title>
         <id>https://ppt21.com/spoent/63492?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/63446?category=2"/>
         <updated>2021-10-02T08:24:31.652Z</updated>
         <content type="html"><![CDATA[나의 연인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 래퍼 노엘, 5개 혐의로 사전구속영장 신청... 음주운전은 빠졌다]]></title>
-        <id>https://ppt21.com/spoent/63445?category=2</id>
-        <link href="https://ppt21.com/spoent/63445?category=2"/>
-        <updated>2021-10-02T07:20:11.607Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
