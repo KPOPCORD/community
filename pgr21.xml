@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-10-05T01:11:12.136Z</updated>
+    <updated>2021-10-05T02:31:57.468Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 오늘 발표된 빌보드 핫100 순위...]]></title>
+        <id>https://ppt21.com/spoent/63497?category=2</id>
+        <link href="https://ppt21.com/spoent/63497?category=2"/>
+        <updated>2021-10-05T02:31:56.896Z</updated>
+        <content type="html"><![CDATA[우주전쟁]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [AKB48] 근거없는루머 풀버전 안무연습영상.ytb]]></title>
         <id>https://ppt21.com/spoent/63496?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/63461?category=2"/>
         <updated>2021-10-03T01:16:48.384Z</updated>
         <content type="html"><![CDATA[TWICE쯔위]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 다음주 놀토에 에스파 윈터 카리나가 나옵니다]]></title>
-        <id>https://ppt21.com/spoent/63459?category=2</id>
-        <link href="https://ppt21.com/spoent/63459?category=2"/>
-        <updated>2021-10-02T16:32:39.714Z</updated>
-        <content type="html"><![CDATA[강가딘]]></content>
     </entry>
 </feed>
