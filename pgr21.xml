@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-10-05T06:26:20.386Z</updated>
+    <updated>2021-10-05T07:20:53.108Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [트와이스] "The Feels" 여러 가지 추가 영상]]></title>
+        <id>https://ppt21.com/spoent/63501?category=2</id>
+        <link href="https://ppt21.com/spoent/63501?category=2"/>
+        <updated>2021-10-05T07:20:52.461Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 리사 "MONEY" 퍼포먼스 비디오]]></title>
         <id>https://ppt21.com/spoent/63500?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/63468?category=2"/>
         <updated>2021-10-03T06:26:18.882Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 드디어(?) 썩은 토마토 하나 받은 오징어 게임...]]></title>
-        <id>https://ppt21.com/spoent/63466?category=2</id>
-        <link href="https://ppt21.com/spoent/63466?category=2"/>
-        <updated>2021-10-03T03:22:44.569Z</updated>
-        <content type="html"><![CDATA[우주전쟁]]></content>
     </entry>
 </feed>
