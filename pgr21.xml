@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-10-06T13:36:41.805Z</updated>
+    <updated>2021-10-06T14:20:39.559Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[연예] 통제불능 고텐션돌 라잇썸의 예상밖 마라맛 엠넷리얼리티 "두유라잇썸" 2화 유튜브 전체공개]]></title>
+        <title type="html"><![CDATA[[연예] [(여자)아이들] EBS 최고의 요리비결에 출연한 슈화]]></title>
+        <id>https://ppt21.com/spoent/63533?category=2</id>
+        <link href="https://ppt21.com/spoent/63533?category=2"/>
+        <updated>2021-10-06T14:20:38.809Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] [오마이걸] 최근 일본 TBS 음방 무대 영상]]></title>
+        <id>https://ppt21.com/spoent/63531?category=2</id>
+        <link href="https://ppt21.com/spoent/63531?category=2"/>
+        <updated>2021-10-06T14:20:38.810Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 통제불능 라잇썸의 마라맛 엠넷리얼리티 "두유라잇썸" 2화 풀버전 공개]]></title>
         <id>https://ppt21.com/spoent/63530?category=2</id>
         <link href="https://ppt21.com/spoent/63530?category=2"/>
         <updated>2021-10-06T13:36:41.098Z</updated>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/63500?category=2"/>
         <updated>2021-10-05T06:26:19.577Z</updated>
         <content type="html"><![CDATA[음란파괴왕]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 지금 상당히 부담스러우실 분들...]]></title>
-        <id>https://ppt21.com/spoent/63499?category=2</id>
-        <link href="https://ppt21.com/spoent/63499?category=2"/>
-        <updated>2021-10-05T04:29:09.486Z</updated>
-        <content type="html"><![CDATA[우주전쟁]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] Coldplay X BTS - My Universe (Official Video)]]></title>
-        <id>https://ppt21.com/spoent/63498?category=2</id>
-        <link href="https://ppt21.com/spoent/63498?category=2"/>
-        <updated>2021-10-05T03:22:57.229Z</updated>
-        <content type="html"><![CDATA[늘지금처럼]]></content>
     </entry>
 </feed>
