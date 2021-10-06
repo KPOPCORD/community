@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-10-06T05:20:00.609Z</updated>
+    <updated>2021-10-06T06:26:04.268Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 현재 오징어 게임 최대 라이벌...]]></title>
+        <id>https://ppt21.com/spoent/63524?category=2</id>
+        <link href="https://ppt21.com/spoent/63524?category=2"/>
+        <updated>2021-10-06T06:26:03.391Z</updated>
+        <content type="html"><![CDATA[우주전쟁]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 여자친구 은하, 신비, 엄지 3인조로 다시 뭉쳐]]></title>
         <id>https://ppt21.com/spoent/63519?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/63491?category=2"/>
         <updated>2021-10-04T12:34:21.610Z</updated>
         <content type="html"><![CDATA[Croove]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [있지] 유나가 추는 퀸덤, 알콜프리, 유캔싯, 넥스트레벨, 암낫쿨.ytb]]></title>
-        <id>https://ppt21.com/spoent/63489?category=2</id>
-        <link href="https://ppt21.com/spoent/63489?category=2"/>
-        <updated>2021-10-04T10:24:37.364Z</updated>
-        <content type="html"><![CDATA[VictoryFood]]></content>
     </entry>
 </feed>
