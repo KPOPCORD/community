@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-06T10:24:14.150Z</updated>
+    <updated>2021-10-06T11:18:46.560Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] 오징어게임 현실 인기체감 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/63528?category=2</id>
+        <link href="https://ppt21.com/spoent/63528?category=2"/>
+        <updated>2021-10-06T11:18:45.723Z</updated>
+        <content type="html"><![CDATA[아롱이다롱이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 루이비통이랑 깐부맺은 오징어게임 여자주인공.JPG (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/63527?category=2</id>
@@ -129,12 +136,5 @@
         <link href="https://ppt21.com/spoent/63496?category=2"/>
         <updated>2021-10-04T15:23:07.629Z</updated>
         <content type="html"><![CDATA[VictoryFood]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 오랜만에 윤하 연애조건 가사실수 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/63495?category=2</id>
-        <link href="https://ppt21.com/spoent/63495?category=2"/>
-        <updated>2021-10-04T15:23:07.629Z</updated>
-        <content type="html"><![CDATA[style]]></content>
     </entry>
 </feed>
