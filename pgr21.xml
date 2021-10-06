@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-10-06T08:25:42.422Z</updated>
+    <updated>2021-10-06T09:21:45.946Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[연예] [에스파] 'Savage' 챌린지 영상]]></title>
+        <title type="html"><![CDATA[[연예] 루이비통이랑 깐부맺은 오징어게임 여자주인공.JPG]]></title>
+        <id>https://ppt21.com/spoent/63527?category=2</id>
+        <link href="https://ppt21.com/spoent/63527?category=2"/>
+        <updated>2021-10-06T09:21:45.155Z</updated>
+        <content type="html"><![CDATA[insane]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] [에스파] 'Savage' 챌린지 영상 + M/V 리액션]]></title>
         <id>https://ppt21.com/spoent/63526?category=2</id>
         <link href="https://ppt21.com/spoent/63526?category=2"/>
         <updated>2021-10-06T08:25:41.774Z</updated>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/63495?category=2"/>
         <updated>2021-10-04T15:23:07.629Z</updated>
         <content type="html"><![CDATA[style]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 안테나에서 유재석을 영입한 이유]]></title>
-        <id>https://ppt21.com/spoent/63494?category=2</id>
-        <link href="https://ppt21.com/spoent/63494?category=2"/>
-        <updated>2021-10-04T14:20:27.612Z</updated>
-        <content type="html"><![CDATA[Leeka]]></content>
     </entry>
 </feed>
