@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-06T11:18:46.560Z</updated>
+    <updated>2021-10-06T12:34:37.675Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] aespa 에스파 신곡 "Savage"  현재 실시간 성적 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/63529?category=2</id>
+        <link href="https://ppt21.com/spoent/63529?category=2"/>
+        <updated>2021-10-06T12:34:36.905Z</updated>
+        <content type="html"><![CDATA[아롱이다롱이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 오징어게임 현실 인기체감 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/63528?category=2</id>
@@ -129,12 +136,5 @@
         <link href="https://ppt21.com/spoent/63497?category=2"/>
         <updated>2021-10-05T02:31:56.896Z</updated>
         <content type="html"><![CDATA[우주전쟁]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [AKB48] 근거없는루머 풀버전 안무연습영상.ytb (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/63496?category=2</id>
-        <link href="https://ppt21.com/spoent/63496?category=2"/>
-        <updated>2021-10-04T15:23:07.629Z</updated>
-        <content type="html"><![CDATA[VictoryFood]]></content>
     </entry>
 </feed>
