@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-10-07T08:27:11.574Z</updated>
+    <updated>2021-10-07T09:19:55.483Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 조유리 'GLASSY' M/V]]></title>
+        <id>https://ppt21.com/spoent/63544?category=2</id>
+        <link href="https://ppt21.com/spoent/63544?category=2"/>
+        <updated>2021-10-07T09:19:54.819Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] '오징어 게임' 촬영 비하인드 영상]]></title>
         <id>https://ppt21.com/spoent/63542?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/63508?category=2"/>
         <updated>2021-10-05T09:21:15.058Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 오늘 컴백하는 sm걸그룹 "에스파" 초동 1일차 실시간]]></title>
-        <id>https://ppt21.com/spoent/63505?category=2</id>
-        <link href="https://ppt21.com/spoent/63505?category=2"/>
-        <updated>2021-10-05T08:26:28.794Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
     </entry>
 </feed>
