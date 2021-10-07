@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-07T07:22:35.899Z</updated>
+    <updated>2021-10-07T08:27:11.577Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] '오징어 게임' 촬영 비하인드 영상 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/63542?category=2</id>
+        <link href="https://ppt21.com/spoent/63542?category=2"/>
+        <updated>2021-10-07T08:27:10.841Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 트와이스, 12월 체조경기장 콘서트 개최…'위드 코로나' 시대 연다 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/63541?category=2</id>
@@ -12,7 +19,7 @@
         <content type="html"><![CDATA[TWICE쯔위]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[연예] '오징어 게임' 출연진의 미국 투나잇쇼 출연 영상 (Pgr21 ─ 연예)]]></title>
+        <title type="html"><![CDATA[[연예] '오징어 게임' 출연진의 미국 투나잇쇼 출연 영상 (영상 추가) (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/63538?category=2</id>
         <link href="https://ppt21.com/spoent/63538?category=2"/>
         <updated>2021-10-07T04:29:06.466Z</updated>
@@ -129,12 +136,5 @@
         <link href="https://ppt21.com/spoent/63505?category=2"/>
         <updated>2021-10-05T08:26:28.794Z</updated>
         <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 야구 캐스터 했어도 성공했을거 같은 가수 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/63504?category=2</id>
-        <link href="https://ppt21.com/spoent/63504?category=2"/>
-        <updated>2021-10-05T08:26:28.795Z</updated>
-        <content type="html"><![CDATA[강가딘]]></content>
     </entry>
 </feed>
