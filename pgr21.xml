@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-10-07T09:19:55.483Z</updated>
+    <updated>2021-10-07T10:24:34.373Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[연예] 조유리 'GLASSY' M/V]]></title>
+        <title type="html"><![CDATA[[연예] [여자친구] 은하,신비,엄지 VISUAL FILM TEASER]]></title>
+        <id>https://ppt21.com/spoent/63545?category=2</id>
+        <link href="https://ppt21.com/spoent/63545?category=2"/>
+        <updated>2021-10-07T10:24:33.560Z</updated>
+        <content type="html"><![CDATA[메자이의 학점약탈자]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 조유리 'GLASSY' M/V (+쇼케이스 무대 영상)]]></title>
         <id>https://ppt21.com/spoent/63544?category=2</id>
         <link href="https://ppt21.com/spoent/63544?category=2"/>
         <updated>2021-10-07T09:19:54.819Z</updated>
@@ -129,13 +136,6 @@
         <id>https://ppt21.com/spoent/63513?category=2</id>
         <link href="https://ppt21.com/spoent/63513?category=2"/>
         <updated>2021-10-05T13:27:02.260Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [에스파] 'Savage' M/V]]></title>
-        <id>https://ppt21.com/spoent/63508?category=2</id>
-        <link href="https://ppt21.com/spoent/63508?category=2"/>
-        <updated>2021-10-05T09:21:15.058Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
