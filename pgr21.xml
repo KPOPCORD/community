@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-10-06T23:22:22.433Z</updated>
+    <updated>2021-10-07T01:13:29.589Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [놀면 뭐하니? 후공개] 낙하 커버 풀버전]]></title>
+        <id>https://ppt21.com/spoent/63534?category=2</id>
+        <link href="https://ppt21.com/spoent/63534?category=2"/>
+        <updated>2021-10-07T01:13:28.871Z</updated>
+        <content type="html"><![CDATA[강가딘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [(여자)아이들] EBS 최고의 요리비결에 출연한 슈화]]></title>
         <id>https://ppt21.com/spoent/63533?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/63501?category=2"/>
         <updated>2021-10-05T07:20:52.461Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 리사 "MONEY" 퍼포먼스 비디오]]></title>
-        <id>https://ppt21.com/spoent/63500?category=2</id>
-        <link href="https://ppt21.com/spoent/63500?category=2"/>
-        <updated>2021-10-05T06:26:19.577Z</updated>
-        <content type="html"><![CDATA[음란파괴왕]]></content>
     </entry>
 </feed>
