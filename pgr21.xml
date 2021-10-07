@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-10-07T15:20:50.606Z</updated>
+    <updated>2021-10-07T16:28:56.538Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [런닝맨] 송지효 몸개그 모음집 feat. ???: 귀여워 죽네 죽어]]></title>
+        <id>https://ppt21.com/spoent/63555?category=2</id>
+        <link href="https://ppt21.com/spoent/63555?category=2"/>
+        <updated>2021-10-07T16:28:55.751Z</updated>
+        <content type="html"><![CDATA[dss]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 유튜브 인기 동영상을 4개나 먹은 에스파]]></title>
         <id>https://ppt21.com/spoent/63553?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/63525?category=2"/>
         <updated>2021-10-06T07:21:34.354Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 현재 오징어 게임 최대 라이벌...]]></title>
-        <id>https://ppt21.com/spoent/63524?category=2</id>
-        <link href="https://ppt21.com/spoent/63524?category=2"/>
-        <updated>2021-10-06T06:26:03.391Z</updated>
-        <content type="html"><![CDATA[우주전쟁]]></content>
     </entry>
 </feed>
