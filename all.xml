@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-08T03:23:11.864Z</updated>
+    <updated>2021-10-08T04:28:59.022Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] [트와이스] 투나잇쇼 & GMA 4K 무대 영상 + 개인 직캠 (+6주년 기념화보 비하인드) (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/63565?category=2</id>
+        <link href="https://ppt21.com/spoent/63565?category=2"/>
+        <updated>2021-10-08T04:28:58.313Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] [트와이스] 11월 12일 정규 3집 "Formula of Love: O+T=<3" 발매 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/63563?category=2</id>
+        <link href="https://ppt21.com/spoent/63563?category=2"/>
+        <updated>2021-10-08T04:28:58.313Z</updated>
+        <content type="html"><![CDATA[발적화]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [런닝맨] 송지효 몸개그 모음집 feat. ???: 귀여워 죽네 죽어 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/63555?category=2</id>
@@ -122,19 +136,5 @@
         <link href="https://ppt21.com/spoent/63527?category=2"/>
         <updated>2021-10-06T09:21:45.155Z</updated>
         <content type="html"><![CDATA[insane]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [에스파] 'Savage' 챌린지 영상 + M/V 리액션 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/63526?category=2</id>
-        <link href="https://ppt21.com/spoent/63526?category=2"/>
-        <updated>2021-10-06T08:25:41.774Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [트와이스] "The Feels" 영상 몇 개 더 (아직 떡밥이 더!) (+2개 더 추가) (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/63525?category=2</id>
-        <link href="https://ppt21.com/spoent/63525?category=2"/>
-        <updated>2021-10-06T07:21:34.354Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
