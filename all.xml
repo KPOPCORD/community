@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-08T04:28:59.022Z</updated>
+    <updated>2021-10-08T05:20:04.321Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] 배성재의 텐 넉까지마.피아 with. 넉살, 김소희, 윤채경 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/63567?category=2</id>
+        <link href="https://ppt21.com/spoent/63567?category=2"/>
+        <updated>2021-10-08T05:20:03.522Z</updated>
+        <content type="html"><![CDATA[강가딘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [트와이스] 투나잇쇼 & GMA 4K 무대 영상 + 개인 직캠 (+6주년 기념화보 비하인드) (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/63565?category=2</id>
@@ -129,12 +136,5 @@
         <link href="https://ppt21.com/spoent/63528?category=2"/>
         <updated>2021-10-06T11:18:45.723Z</updated>
         <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 루이비통이랑 깐부맺은 오징어게임 여자주인공.JPG (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/63527?category=2</id>
-        <link href="https://ppt21.com/spoent/63527?category=2"/>
-        <updated>2021-10-06T09:21:45.155Z</updated>
-        <content type="html"><![CDATA[insane]]></content>
     </entry>
 </feed>
