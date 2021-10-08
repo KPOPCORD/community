@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-10-08T06:26:32.278Z</updated>
+    <updated>2021-10-08T07:21:29.936Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 부산국제영화제에서 3회차 까지 상영한 넷플릭스 드라마 "마이네임" "지옥" 후기들]]></title>
+        <id>https://ppt21.com/spoent/63569?category=2</id>
+        <link href="https://ppt21.com/spoent/63569?category=2"/>
+        <updated>2021-10-08T07:21:29.181Z</updated>
+        <content type="html"><![CDATA[아롱이다롱이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 미스틱 루키즈의 마지막 멤버 오오사토 하루나]]></title>
         <id>https://ppt21.com/spoent/63568?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/63530?category=2"/>
         <updated>2021-10-06T13:36:41.098Z</updated>
         <content type="html"><![CDATA[초원을달리다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] aespa 에스파 신곡 "Savage"  현재 실시간 성적]]></title>
-        <id>https://ppt21.com/spoent/63529?category=2</id>
-        <link href="https://ppt21.com/spoent/63529?category=2"/>
-        <updated>2021-10-06T12:34:36.905Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
     </entry>
 </feed>
