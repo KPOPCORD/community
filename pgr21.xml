@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-10-08T08:26:35.636Z</updated>
+    <updated>2021-10-08T09:21:39.165Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 최유리 - Wish (바람) 갯마을 차차차 OST Part 4]]></title>
+        <id>https://ppt21.com/spoent/63571?category=2</id>
+        <link href="https://ppt21.com/spoent/63571?category=2"/>
+        <updated>2021-10-08T09:21:38.460Z</updated>
+        <content type="html"><![CDATA[moodoori]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] [단독] 디즈니+ 한국 쇼케이스에 조인성·서강준·강다니엘 출연]]></title>
+        <id>https://ppt21.com/spoent/63570?category=2</id>
+        <link href="https://ppt21.com/spoent/63570?category=2"/>
+        <updated>2021-10-08T09:21:38.460Z</updated>
+        <content type="html"><![CDATA[아롱이다롱이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 부산국제영화제에서 3회차까지 상영한 넷플릭스 드라마 "마이네임" "지옥" 후기들]]></title>
         <id>https://ppt21.com/spoent/63569?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/63533?category=2"/>
         <updated>2021-10-06T14:20:38.809Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [오마이걸] 최근 일본 TBS 음방 무대 영상]]></title>
-        <id>https://ppt21.com/spoent/63531?category=2</id>
-        <link href="https://ppt21.com/spoent/63531?category=2"/>
-        <updated>2021-10-06T14:20:38.810Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 통제불능 라잇썸의 마라맛 엠넷리얼리티 "두유라잇썸" 2화 풀버전 공개]]></title>
-        <id>https://ppt21.com/spoent/63530?category=2</id>
-        <link href="https://ppt21.com/spoent/63530?category=2"/>
-        <updated>2021-10-06T13:36:41.098Z</updated>
-        <content type="html"><![CDATA[초원을달리다]]></content>
     </entry>
 </feed>
