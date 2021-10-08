@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-10-08T19:17:15.389Z</updated>
+    <updated>2021-10-08T20:22:17.656Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 속보) 쇼미더머니10 부활(스포주의)]]></title>
+        <id>https://ppt21.com/spoent/63578?category=2</id>
+        <link href="https://ppt21.com/spoent/63578?category=2"/>
+        <updated>2021-10-08T20:22:17.024Z</updated>
+        <content type="html"><![CDATA[실제상황입니다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 이란 외무 "동결 자금 안 풀면 한국 드라마 방영 중단할 수도"]]></title>
         <id>https://ppt21.com/spoent/63574?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/63538?category=2"/>
         <updated>2021-10-07T04:29:06.466Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 오징어 게임 프라임타임 에미상 후보에 오를 수도 있어...]]></title>
-        <id>https://ppt21.com/spoent/63537?category=2</id>
-        <link href="https://ppt21.com/spoent/63537?category=2"/>
-        <updated>2021-10-07T02:35:20.528Z</updated>
-        <content type="html"><![CDATA[우주전쟁]]></content>
     </entry>
 </feed>
