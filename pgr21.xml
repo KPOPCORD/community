@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-10-09T22:21:14.275Z</updated>
+    <updated>2021-10-09T23:21:54.103Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 다음주 놀면 뭐하니+ 게스트]]></title>
+        <id>https://ppt21.com/spoent/63594?category=2</id>
+        <link href="https://ppt21.com/spoent/63594?category=2"/>
+        <updated>2021-10-09T23:21:53.395Z</updated>
+        <content type="html"><![CDATA[달리와]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 안정적인 오징어 게임 넷플릭스 포인트...]]></title>
         <id>https://ppt21.com/spoent/63591?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/63555?category=2"/>
         <updated>2021-10-07T16:28:55.751Z</updated>
         <content type="html"><![CDATA[dss]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 유튜브 인기 동영상을 4개나 먹은 에스파]]></title>
-        <id>https://ppt21.com/spoent/63553?category=2</id>
-        <link href="https://ppt21.com/spoent/63553?category=2"/>
-        <updated>2021-10-07T15:20:49.918Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
     </entry>
 </feed>
