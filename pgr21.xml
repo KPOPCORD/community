@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-10-09T10:24:06.464Z</updated>
+    <updated>2021-10-09T11:17:48.970Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [풍류대장] 어 생각보다 좋네?]]></title>
+        <id>https://ppt21.com/spoent/63586?category=2</id>
+        <link href="https://ppt21.com/spoent/63586?category=2"/>
+        <updated>2021-10-09T11:17:48.288Z</updated>
+        <content type="html"><![CDATA[도롱롱롱롱롱이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] '오징어 게임' 배우들의 달고나 챌린지]]></title>
         <id>https://ppt21.com/spoent/63584?category=2</id>
@@ -129,13 +136,6 @@
         <id>https://ppt21.com/spoent/63544?category=2</id>
         <link href="https://ppt21.com/spoent/63544?category=2"/>
         <updated>2021-10-07T09:19:54.819Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] '오징어 게임' 촬영 비하인드 영상]]></title>
-        <id>https://ppt21.com/spoent/63542?category=2</id>
-        <link href="https://ppt21.com/spoent/63542?category=2"/>
-        <updated>2021-10-07T08:27:10.841Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
