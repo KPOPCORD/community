@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-10-09T05:19:11.169Z</updated>
+    <updated>2021-10-09T06:25:24.417Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [에스파] 'Savage' 원더케이 스페셜클립 + 김이나 작사가 반응]]></title>
+        <id>https://ppt21.com/spoent/63580?category=2</id>
+        <link href="https://ppt21.com/spoent/63580?category=2"/>
+        <updated>2021-10-09T06:25:23.658Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 속보) 쇼미더머니10 부활(스포주의)]]></title>
         <id>https://ppt21.com/spoent/63578?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/63541?category=2"/>
         <updated>2021-10-07T07:22:35.198Z</updated>
         <content type="html"><![CDATA[TWICE쯔위]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] '오징어 게임' 출연진의 미국 투나잇쇼 출연 영상 (영상 추가)]]></title>
-        <id>https://ppt21.com/spoent/63538?category=2</id>
-        <link href="https://ppt21.com/spoent/63538?category=2"/>
-        <updated>2021-10-07T04:29:06.466Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
