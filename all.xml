@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-10T10:23:53.821Z</updated>
+    <updated>2021-10-10T11:18:11.565Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] [장원영] 뮤직뱅크 MC 무대 Butter (원곡:BTS) (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/63607?category=2</id>
+        <link href="https://ppt21.com/spoent/63607?category=2"/>
+        <updated>2021-10-10T11:18:10.624Z</updated>
+        <content type="html"><![CDATA[VictoryFood]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 다음달 열리는 방탄소년단 LA스타디움 공연 일반예매 취소 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/63606?category=2</id>
@@ -128,13 +135,6 @@
         <id>https://ppt21.com/spoent/63570?category=2</id>
         <link href="https://ppt21.com/spoent/63570?category=2"/>
         <updated>2021-10-08T09:21:38.460Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 부산국제영화제에서 3회차까지 상영한 넷플릭스 드라마 "마이네임" "지옥" 후기들 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/63569?category=2</id>
-        <link href="https://ppt21.com/spoent/63569?category=2"/>
-        <updated>2021-10-08T07:21:29.181Z</updated>
         <content type="html"><![CDATA[아롱이다롱이]]></content>
     </entry>
 </feed>
