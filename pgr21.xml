@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-10-09T23:21:54.103Z</updated>
+    <updated>2021-10-10T01:13:53.920Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 어제 놀면 뭐하니에 나온 기자...]]></title>
+        <id>https://ppt21.com/spoent/63595?category=2</id>
+        <link href="https://ppt21.com/spoent/63595?category=2"/>
+        <updated>2021-10-10T01:13:53.004Z</updated>
+        <content type="html"><![CDATA[강가딘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 다음주 놀면 뭐하니+ 게스트]]></title>
         <id>https://ppt21.com/spoent/63594?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/63563?category=2"/>
         <updated>2021-10-08T04:28:58.313Z</updated>
         <content type="html"><![CDATA[발적화]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [런닝맨] 송지효 몸개그 모음집 feat. ???: 귀여워 죽네 죽어]]></title>
-        <id>https://ppt21.com/spoent/63555?category=2</id>
-        <link href="https://ppt21.com/spoent/63555?category=2"/>
-        <updated>2021-10-07T16:28:55.751Z</updated>
-        <content type="html"><![CDATA[dss]]></content>
     </entry>
 </feed>
