@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-10-11T02:34:40.397Z</updated>
+    <updated>2021-10-11T03:23:16.053Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 이게 왜 오징어 게임만큼 인기가 없지?...]]></title>
+        <id>https://ppt21.com/spoent/63617?category=2</id>
+        <link href="https://ppt21.com/spoent/63617?category=2"/>
+        <updated>2021-10-11T03:23:15.418Z</updated>
+        <content type="html"><![CDATA[우주전쟁]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [모모랜드] 法 "모모랜드 소속사, 前멤버 데이지에 미정산금 7900만원 지급해야"]]></title>
         <id>https://ppt21.com/spoent/63614?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/63578?category=2"/>
         <updated>2021-10-08T20:22:17.024Z</updated>
         <content type="html"><![CDATA[실제상황입니다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 이란 외무 "동결 자금 안 풀면 한국 드라마 방영 중단할 수도"]]></title>
-        <id>https://ppt21.com/spoent/63574?category=2</id>
-        <link href="https://ppt21.com/spoent/63574?category=2"/>
-        <updated>2021-10-08T13:25:50.666Z</updated>
-        <content type="html"><![CDATA[추천]]></content>
     </entry>
 </feed>
