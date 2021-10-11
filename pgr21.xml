@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-10-11T01:14:34.394Z</updated>
+    <updated>2021-10-11T02:34:40.397Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [모모랜드] 法 "모모랜드 소속사, 前멤버 데이지에 미정산금 7900만원 지급해야"]]></title>
+        <id>https://ppt21.com/spoent/63614?category=2</id>
+        <link href="https://ppt21.com/spoent/63614?category=2"/>
+        <updated>2021-10-11T02:34:39.780Z</updated>
+        <content type="html"><![CDATA[Bronx Bombers]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 2021년 10월 둘째주 D-차트 : ITZY 1위! AB6IX 6위-키 7위 진입]]></title>
         <id>https://ppt21.com/spoent/63609?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/63574?category=2"/>
         <updated>2021-10-08T13:25:50.666Z</updated>
         <content type="html"><![CDATA[추천]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [아이유] 10월 19일 자정 디지털싱글 strawberry moon 공개]]></title>
-        <id>https://ppt21.com/spoent/63573?category=2</id>
-        <link href="https://ppt21.com/spoent/63573?category=2"/>
-        <updated>2021-10-08T13:25:50.666Z</updated>
-        <content type="html"><![CDATA[VictoryFood]]></content>
     </entry>
 </feed>
