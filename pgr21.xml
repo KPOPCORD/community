@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-10-11T07:21:30.178Z</updated>
+    <updated>2021-10-11T08:25:55.115Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] '주꾸미 게임'으로 진행되는 다음 주 런닝맨]]></title>
+        <id>https://ppt21.com/spoent/63624?category=2</id>
+        <link href="https://ppt21.com/spoent/63624?category=2"/>
+        <updated>2021-10-11T08:25:54.408Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 조회수 터지는 오징어게임 2차 창작물]]></title>
+        <id>https://ppt21.com/spoent/63623?category=2</id>
+        <link href="https://ppt21.com/spoent/63623?category=2"/>
+        <updated>2021-10-11T08:25:54.411Z</updated>
+        <content type="html"><![CDATA[어강됴리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 세계에서 유일하게 "오징어 게임" 제목을 쓰지 않는 나라]]></title>
         <id>https://ppt21.com/spoent/63619?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/63586?category=2"/>
         <updated>2021-10-09T11:17:48.288Z</updated>
         <content type="html"><![CDATA[도롱롱롱롱롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] '오징어 게임' 배우들의 달고나 챌린지]]></title>
-        <id>https://ppt21.com/spoent/63584?category=2</id>
-        <link href="https://ppt21.com/spoent/63584?category=2"/>
-        <updated>2021-10-09T10:24:05.716Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [에스파] 'Savage' 원더케이 스페셜클립 + 가사에 대한 김이나 작사가 반응]]></title>
-        <id>https://ppt21.com/spoent/63580?category=2</id>
-        <link href="https://ppt21.com/spoent/63580?category=2"/>
-        <updated>2021-10-09T06:25:23.658Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
