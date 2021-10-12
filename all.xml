@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-12T09:21:14.476Z</updated>
+    <updated>2021-10-12T10:24:27.862Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] 브라질에서 오징어 게임이 라운드 6이 된 이유 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/63634?category=2</id>
+        <link href="https://ppt21.com/spoent/63634?category=2"/>
+        <updated>2021-10-12T10:24:27.153Z</updated>
+        <content type="html"><![CDATA[Leeka]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 채연 근황 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/63632?category=2</id>
@@ -129,12 +136,5 @@
         <link href="https://ppt21.com/spoent/63595?category=2"/>
         <updated>2021-10-10T01:13:53.004Z</updated>
         <content type="html"><![CDATA[강가딘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 다음주 놀면 뭐하니+ 게스트 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/63594?category=2</id>
-        <link href="https://ppt21.com/spoent/63594?category=2"/>
-        <updated>2021-10-09T23:21:53.395Z</updated>
-        <content type="html"><![CDATA[달리와]]></content>
     </entry>
 </feed>
