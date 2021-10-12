@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-10-12T05:20:03.352Z</updated>
+    <updated>2021-10-12T06:25:48.646Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 채연 근황]]></title>
+        <id>https://ppt21.com/spoent/63632?category=2</id>
+        <link href="https://ppt21.com/spoent/63632?category=2"/>
+        <updated>2021-10-12T06:25:48.007Z</updated>
+        <content type="html"><![CDATA[TWICE쯔위]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 팔로워 1900만]]></title>
         <id>https://ppt21.com/spoent/63630?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/63594?category=2"/>
         <updated>2021-10-09T23:21:53.395Z</updated>
         <content type="html"><![CDATA[달리와]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 안정적인 오징어 게임 넷플릭스 포인트...]]></title>
-        <id>https://ppt21.com/spoent/63591?category=2</id>
-        <link href="https://ppt21.com/spoent/63591?category=2"/>
-        <updated>2021-10-09T15:22:03.839Z</updated>
-        <content type="html"><![CDATA[우주전쟁]]></content>
     </entry>
 </feed>
