@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-10-12T04:28:39.217Z</updated>
+    <updated>2021-10-12T05:20:03.352Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 팔로워 1900만]]></title>
+        <id>https://ppt21.com/spoent/63630?category=2</id>
+        <link href="https://ppt21.com/spoent/63630?category=2"/>
+        <updated>2021-10-12T05:20:02.556Z</updated>
+        <content type="html"><![CDATA[Leeka]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 현재 논란(?)중인 걸그룹.. jpg]]></title>
         <id>https://ppt21.com/spoent/63629?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/63591?category=2"/>
         <updated>2021-10-09T15:22:03.839Z</updated>
         <content type="html"><![CDATA[우주전쟁]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 풍류대장 글 올라와서 진짜 좋은 노래 하나 강추합니다.MP4]]></title>
-        <id>https://ppt21.com/spoent/63590?category=2</id>
-        <link href="https://ppt21.com/spoent/63590?category=2"/>
-        <updated>2021-10-09T15:22:03.841Z</updated>
-        <content type="html"><![CDATA[insane]]></content>
     </entry>
 </feed>
