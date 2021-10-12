@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-10-12T22:22:03.599Z</updated>
+    <updated>2021-10-12T23:22:11.770Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 오징어게임, 17일만에 1억 1100만명 시청. 역대최고 기록]]></title>
+        <id>https://ppt21.com/spoent/63641?category=2</id>
+        <link href="https://ppt21.com/spoent/63641?category=2"/>
+        <updated>2021-10-12T23:22:11.104Z</updated>
+        <content type="html"><![CDATA[핑크솔져]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 요즘 유행하는 블랙핑크 역바이럴 (스압)]]></title>
         <id>https://ppt21.com/spoent/63639?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/63599?category=2"/>
         <updated>2021-10-10T04:28:41.627Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 해외 사이트 오징어 게임 캐릭터 호감도 순위 (스포 있음)]]></title>
-        <id>https://ppt21.com/spoent/63597?category=2</id>
-        <link href="https://ppt21.com/spoent/63597?category=2"/>
-        <updated>2021-10-10T03:22:43.781Z</updated>
-        <content type="html"><![CDATA[우주전쟁]]></content>
     </entry>
 </feed>
