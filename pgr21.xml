@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-10-14T01:11:55.282Z</updated>
+    <updated>2021-10-14T02:32:56.207Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 의외로 축구에 엄청나게 진심이라는 여자연예인.jpg]]></title>
+        <id>https://ppt21.com/spoent/63659?category=2</id>
+        <link href="https://ppt21.com/spoent/63659?category=2"/>
+        <updated>2021-10-14T02:32:55.521Z</updated>
+        <content type="html"><![CDATA[insane]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 미친 선방 보여준 권진영이어.MP4]]></title>
+        <id>https://ppt21.com/spoent/63658?category=2</id>
+        <link href="https://ppt21.com/spoent/63658?category=2"/>
+        <updated>2021-10-14T02:32:55.522Z</updated>
+        <content type="html"><![CDATA[insane]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [러블리즈] 지금 우리 (밴드라이브 ver)]]></title>
         <id>https://ppt21.com/spoent/63656?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/63619?category=2"/>
         <updated>2021-10-11T06:27:00.446Z</updated>
         <content type="html"><![CDATA[너]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 이게 왜 오징어 게임만큼 인기가 없지?...]]></title>
-        <id>https://ppt21.com/spoent/63617?category=2</id>
-        <link href="https://ppt21.com/spoent/63617?category=2"/>
-        <updated>2021-10-11T03:23:15.418Z</updated>
-        <content type="html"><![CDATA[우주전쟁]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [모모랜드] 法 "모모랜드 소속사, 前멤버 데이지에 미정산금 7900만원 지급해야"]]></title>
-        <id>https://ppt21.com/spoent/63614?category=2</id>
-        <link href="https://ppt21.com/spoent/63614?category=2"/>
-        <updated>2021-10-11T02:34:39.780Z</updated>
-        <content type="html"><![CDATA[Bronx Bombers]]></content>
     </entry>
 </feed>
