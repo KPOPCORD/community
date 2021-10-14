@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-10-14T10:24:28.778Z</updated>
+    <updated>2021-10-14T11:18:41.949Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [에스파] 엠카운트다운 컴백무대 영상 (+직캠)]]></title>
+        <id>https://ppt21.com/spoent/63667?category=2</id>
+        <link href="https://ppt21.com/spoent/63667?category=2"/>
+        <updated>2021-10-14T11:18:41.178Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 바람의검심 더비기닝 발도재 vs 오키타]]></title>
+        <id>https://ppt21.com/spoent/63666?category=2</id>
+        <link href="https://ppt21.com/spoent/63666?category=2"/>
+        <updated>2021-10-14T11:18:41.178Z</updated>
+        <content type="html"><![CDATA[Croove]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 영화 <듄> 시사 초반 트위터 반응]]></title>
         <id>https://ppt21.com/spoent/63665?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/63630?category=2"/>
         <updated>2021-10-12T05:20:02.556Z</updated>
         <content type="html"><![CDATA[Leeka]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [에스파] 'Savage' 퍼포먼스 스테이지 #1 + 놀토 직캠]]></title>
-        <id>https://ppt21.com/spoent/63627?category=2</id>
-        <link href="https://ppt21.com/spoent/63627?category=2"/>
-        <updated>2021-10-12T02:34:25.113Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 미스틱루키즈의 그룹명이 Billle로 결정되었습니다.]]></title>
-        <id>https://ppt21.com/spoent/63626?category=2</id>
-        <link href="https://ppt21.com/spoent/63626?category=2"/>
-        <updated>2021-10-11T17:24:49.781Z</updated>
-        <content type="html"><![CDATA[어강됴리]]></content>
     </entry>
 </feed>
