@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-14T04:28:44.527Z</updated>
+    <updated>2021-10-14T05:19:55.302Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] 한국형 우주영화 "더 문"이 크랭크업 되었습니다... (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/63661?category=2</id>
+        <link href="https://ppt21.com/spoent/63661?category=2"/>
+        <updated>2021-10-14T05:19:54.618Z</updated>
+        <content type="html"><![CDATA[우주전쟁]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예]  철파엠에 나온 유사걸그룹 주춘주춘 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/63660?category=2</id>
@@ -129,12 +136,5 @@
         <link href="https://ppt21.com/spoent/63624?category=2"/>
         <updated>2021-10-11T08:25:54.408Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 조회수 터지는 오징어게임 2차 창작물 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/63623?category=2</id>
-        <link href="https://ppt21.com/spoent/63623?category=2"/>
-        <updated>2021-10-11T08:25:54.411Z</updated>
-        <content type="html"><![CDATA[어강됴리]]></content>
     </entry>
 </feed>
