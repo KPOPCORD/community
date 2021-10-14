@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-14T14:21:11.508Z</updated>
+    <updated>2021-10-14T15:23:20.627Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] 오늘 있었던 "디즈니플러스" 한국 쇼케이스에 참석한 배우들 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/63670?category=2</id>
+        <link href="https://ppt21.com/spoent/63670?category=2"/>
+        <updated>2021-10-14T15:23:19.947Z</updated>
+        <content type="html"><![CDATA[아롱이다롱이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] [골목식당] 콩나물국밥 맛집 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/63669?category=2</id>
+        <link href="https://ppt21.com/spoent/63669?category=2"/>
+        <updated>2021-10-14T15:23:19.947Z</updated>
+        <content type="html"><![CDATA[Croove]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 큐브 라잇썸 엠카 "VIVACE" 첫 컴백무대 공개 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/63668?category=2</id>
@@ -122,19 +136,5 @@
         <link href="https://ppt21.com/spoent/63639?category=2"/>
         <updated>2021-10-12T14:20:42.043Z</updated>
         <content type="html"><![CDATA[헤인즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 브라질에서 오징어 게임이 라운드 6이 된 이유 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/63634?category=2</id>
-        <link href="https://ppt21.com/spoent/63634?category=2"/>
-        <updated>2021-10-12T10:24:27.153Z</updated>
-        <content type="html"><![CDATA[Leeka]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 채연 근황 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/63632?category=2</id>
-        <link href="https://ppt21.com/spoent/63632?category=2"/>
-        <updated>2021-10-12T06:25:48.007Z</updated>
-        <content type="html"><![CDATA[TWICE쯔위]]></content>
     </entry>
 </feed>
