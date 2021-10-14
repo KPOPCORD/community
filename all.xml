@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-14T22:22:58.960Z</updated>
+    <updated>2021-10-14T23:22:19.927Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] 오징어 게임 넷플릭스 랭킹 현황... (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/63672?category=2</id>
+        <link href="https://ppt21.com/spoent/63672?category=2"/>
+        <updated>2021-10-14T23:22:19.204Z</updated>
+        <content type="html"><![CDATA[우주전쟁]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 오늘 있었던 "디즈니플러스" 한국 쇼케이스에 참석한 배우들 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/63670?category=2</id>
@@ -129,12 +136,5 @@
         <link href="https://ppt21.com/spoent/63641?category=2"/>
         <updated>2021-10-12T23:22:11.104Z</updated>
         <content type="html"><![CDATA[핑크솔져]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 요즘 유행하는 블랙핑크 역바이럴 (스압) (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/63639?category=2</id>
-        <link href="https://ppt21.com/spoent/63639?category=2"/>
-        <updated>2021-10-12T14:20:42.043Z</updated>
-        <content type="html"><![CDATA[헤인즈]]></content>
     </entry>
 </feed>
