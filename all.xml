@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-14T02:32:56.204Z</updated>
+    <updated>2021-10-14T03:23:18.246Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예]  철파엠에 나온 유사걸그룹 주춘주춘 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/63660?category=2</id>
+        <link href="https://ppt21.com/spoent/63660?category=2"/>
+        <updated>2021-10-14T03:23:17.561Z</updated>
+        <content type="html"><![CDATA[강가딘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 의외로 축구에 엄청나게 진심이라는 여자연예인.jpg (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/63659?category=2</id>
@@ -129,12 +136,5 @@
         <link href="https://ppt21.com/spoent/63623?category=2"/>
         <updated>2021-10-11T08:25:54.411Z</updated>
         <content type="html"><![CDATA[어강됴리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 세계에서 유일하게 "오징어 게임" 제목을 쓰지 않는 나라 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/63619?category=2</id>
-        <link href="https://ppt21.com/spoent/63619?category=2"/>
-        <updated>2021-10-11T06:27:00.446Z</updated>
-        <content type="html"><![CDATA[너]]></content>
     </entry>
 </feed>
