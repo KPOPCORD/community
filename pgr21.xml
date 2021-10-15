@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-10-15T05:19:58.547Z</updated>
+    <updated>2021-10-15T06:26:39.617Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 휘파람으로 오징어게임 OST 재현하는 이종범 웹툰작가]]></title>
+        <id>https://ppt21.com/spoent/63678?category=2</id>
+        <link href="https://ppt21.com/spoent/63678?category=2"/>
+        <updated>2021-10-15T06:26:38.919Z</updated>
+        <content type="html"><![CDATA[강가딘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [트와이스] "The Feels" M/V 비하인드 영상 EP1~EP3]]></title>
         <id>https://ppt21.com/spoent/63676?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/63646?category=2"/>
         <updated>2021-10-13T02:35:28.841Z</updated>
         <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [에스파] Artist on The Rise: aespa (+빌보드코리아 인터뷰)]]></title>
-        <id>https://ppt21.com/spoent/63644?category=2</id>
-        <link href="https://ppt21.com/spoent/63644?category=2"/>
-        <updated>2021-10-13T02:35:28.841Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
