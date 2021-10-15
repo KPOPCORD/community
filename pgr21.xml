@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-10-15T07:22:52.173Z</updated>
+    <updated>2021-10-15T08:26:14.148Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [에스파] 오늘 뮤직뱅크 1위 후보 상황]]></title>
+        <id>https://ppt21.com/spoent/63681?category=2</id>
+        <link href="https://ppt21.com/spoent/63681?category=2"/>
+        <updated>2021-10-15T08:26:13.458Z</updated>
+        <content type="html"><![CDATA[Bronx Bombers]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [에스파] 경멸의 눈빛]]></title>
         <id>https://ppt21.com/spoent/63679?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/63651?category=2"/>
         <updated>2021-10-13T09:21:39.911Z</updated>
         <content type="html"><![CDATA[초원을달리다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [러블리즈] 계약 만료까지 한 달... 이 팀의 미래는?]]></title>
-        <id>https://ppt21.com/spoent/63647?category=2</id>
-        <link href="https://ppt21.com/spoent/63647?category=2"/>
-        <updated>2021-10-13T04:28:58.549Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
