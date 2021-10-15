@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-10-15T15:23:18.798Z</updated>
+    <updated>2021-10-15T16:36:11.105Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 오랜만에 아이돌 모드로 돌아온 안소희]]></title>
+        <id>https://ppt21.com/spoent/63694?category=2</id>
+        <link href="https://ppt21.com/spoent/63694?category=2"/>
+        <updated>2021-10-15T16:36:10.400Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [스테이씨] 1년만에 흑자전환을 앞둔 중소 걸그룹?.youtube]]></title>
         <id>https://ppt21.com/spoent/63693?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/63666?category=2"/>
         <updated>2021-10-14T11:18:41.178Z</updated>
         <content type="html"><![CDATA[Croove]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 영화 <듄> 시사 초반 트위터 반응]]></title>
-        <id>https://ppt21.com/spoent/63665?category=2</id>
-        <link href="https://ppt21.com/spoent/63665?category=2"/>
-        <updated>2021-10-14T10:24:28.099Z</updated>
-        <content type="html"><![CDATA[빼사스]]></content>
     </entry>
 </feed>
