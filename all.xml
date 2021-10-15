@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-15T11:20:08.214Z</updated>
+    <updated>2021-10-15T12:34:55.269Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] 타짜 곽철용선생에게 고스톱 배우는 효짱과 입커누나 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/63689?category=2</id>
+        <link href="https://ppt21.com/spoent/63689?category=2"/>
+        <updated>2021-10-15T12:34:54.560Z</updated>
+        <content type="html"><![CDATA[강가딘]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 김세정 - 아이와 나의 바다 (IU) 커버 CLEAN_ver 100만 뷰 달성 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/63687?category=2</id>
+        <link href="https://ppt21.com/spoent/63687?category=2"/>
+        <updated>2021-10-15T12:34:54.562Z</updated>
+        <content type="html"><![CDATA[자두삶아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 넷플릭스 [마이 네임] 1화 본 느낌...(스포 없음) (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/63686?category=2</id>
@@ -122,19 +136,5 @@
         <link href="https://ppt21.com/spoent/63659?category=2"/>
         <updated>2021-10-14T02:32:55.521Z</updated>
         <content type="html"><![CDATA[insane]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 미친 선방 보여준 권진영이어.MP4 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/63658?category=2</id>
-        <link href="https://ppt21.com/spoent/63658?category=2"/>
-        <updated>2021-10-14T02:32:55.522Z</updated>
-        <content type="html"><![CDATA[insane]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [러블리즈] 지금 우리 (밴드라이브 ver) (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/63656?category=2</id>
-        <link href="https://ppt21.com/spoent/63656?category=2"/>
-        <updated>2021-10-13T15:24:44.505Z</updated>
-        <content type="html"><![CDATA[지금 우리]]></content>
     </entry>
 </feed>
