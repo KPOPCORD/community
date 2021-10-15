@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-10-15T13:26:24.989Z</updated>
+    <updated>2021-10-15T14:20:39.265Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] MC스나이퍼 근황]]></title>
+        <id>https://ppt21.com/spoent/63691?category=2</id>
+        <link href="https://ppt21.com/spoent/63691?category=2"/>
+        <updated>2021-10-15T14:20:38.485Z</updated>
+        <content type="html"><![CDATA[TWICE쯔위]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [트와이스] 쉴 틈이 없다! 데뷔 6주년 타임테이블 공개]]></title>
         <id>https://ppt21.com/spoent/63690?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/63661?category=2"/>
         <updated>2021-10-14T05:19:54.618Z</updated>
         <content type="html"><![CDATA[우주전쟁]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예]  철파엠에 나온 유사걸그룹 주춘주춘]]></title>
-        <id>https://ppt21.com/spoent/63660?category=2</id>
-        <link href="https://ppt21.com/spoent/63660?category=2"/>
-        <updated>2021-10-14T03:23:17.561Z</updated>
-        <content type="html"><![CDATA[강가딘]]></content>
     </entry>
 </feed>
