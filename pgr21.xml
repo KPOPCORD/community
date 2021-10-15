@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-10-15T14:20:39.265Z</updated>
+    <updated>2021-10-15T15:23:18.798Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [스테이씨] 1년만에 흑자전환을 앞둔 중소 걸그룹?.youtube]]></title>
+        <id>https://ppt21.com/spoent/63693?category=2</id>
+        <link href="https://ppt21.com/spoent/63693?category=2"/>
+        <updated>2021-10-15T15:23:18.146Z</updated>
+        <content type="html"><![CDATA[Bar Sur]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] MC스나이퍼 근황]]></title>
         <id>https://ppt21.com/spoent/63691?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/63665?category=2"/>
         <updated>2021-10-14T10:24:28.099Z</updated>
         <content type="html"><![CDATA[빼사스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 한국형 우주영화 "더 문"이 크랭크업 되었습니다...]]></title>
-        <id>https://ppt21.com/spoent/63661?category=2</id>
-        <link href="https://ppt21.com/spoent/63661?category=2"/>
-        <updated>2021-10-14T05:19:54.618Z</updated>
-        <content type="html"><![CDATA[우주전쟁]]></content>
     </entry>
 </feed>
