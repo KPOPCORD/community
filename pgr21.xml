@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-10-15T06:26:39.617Z</updated>
+    <updated>2021-10-15T07:22:52.173Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [에스파] 경멸의 눈빛]]></title>
+        <id>https://ppt21.com/spoent/63679?category=2</id>
+        <link href="https://ppt21.com/spoent/63679?category=2"/>
+        <updated>2021-10-15T07:22:50.357Z</updated>
+        <content type="html"><![CDATA[바스테나]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 휘파람으로 오징어게임 OST 재현하는 이종범 웹툰작가]]></title>
         <id>https://ppt21.com/spoent/63678?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/63647?category=2"/>
         <updated>2021-10-13T04:28:58.549Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [공식] 넷플릭스 피셜 " 오징어게임 시청자수, 17일만에 1억 1100만 돌파 "]]></title>
-        <id>https://ppt21.com/spoent/63646?category=2</id>
-        <link href="https://ppt21.com/spoent/63646?category=2"/>
-        <updated>2021-10-13T02:35:28.841Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
     </entry>
 </feed>
