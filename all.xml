@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-15T12:34:55.269Z</updated>
+    <updated>2021-10-15T13:26:24.993Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] [트와이스] 쉴 틈이 없다! 데뷔 6주년 타임테이블 공개 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/63690?category=2</id>
+        <link href="https://ppt21.com/spoent/63690?category=2"/>
+        <updated>2021-10-15T13:26:24.252Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 타짜 곽철용선생에게 고스톱 배우는 효짱과 입커누나 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/63689?category=2</id>
@@ -129,12 +136,5 @@
         <link href="https://ppt21.com/spoent/63660?category=2"/>
         <updated>2021-10-14T03:23:17.561Z</updated>
         <content type="html"><![CDATA[강가딘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 의외로 축구에 엄청나게 진심이라는 여자연예인.jpg (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/63659?category=2</id>
-        <link href="https://ppt21.com/spoent/63659?category=2"/>
-        <updated>2021-10-14T02:32:55.521Z</updated>
-        <content type="html"><![CDATA[insane]]></content>
     </entry>
 </feed>
