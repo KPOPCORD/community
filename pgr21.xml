@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-10-15T08:26:14.148Z</updated>
+    <updated>2021-10-15T09:21:31.320Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] e-스포츠 아나운서 3인의 고스톱 한판]]></title>
+        <id>https://ppt21.com/spoent/63684?category=2</id>
+        <link href="https://ppt21.com/spoent/63684?category=2"/>
+        <updated>2021-10-15T09:21:30.698Z</updated>
+        <content type="html"><![CDATA[강가딘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [에스파] 오늘 뮤직뱅크 1위 후보 상황]]></title>
         <id>https://ppt21.com/spoent/63681?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/63652?category=2"/>
         <updated>2021-10-13T10:24:40.416Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 큐브 아이돌 라잇썸 신곡 "VIVACE" 뮤직비디오 공개]]></title>
-        <id>https://ppt21.com/spoent/63651?category=2</id>
-        <link href="https://ppt21.com/spoent/63651?category=2"/>
-        <updated>2021-10-13T09:21:39.911Z</updated>
-        <content type="html"><![CDATA[초원을달리다]]></content>
     </entry>
 </feed>
