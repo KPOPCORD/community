@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-16T11:18:03.441Z</updated>
+    <updated>2021-10-16T12:33:03.659Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] 오징어 게임을 본 스티븐 킹 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/63705?category=2</id>
+        <link href="https://ppt21.com/spoent/63705?category=2"/>
+        <updated>2021-10-16T12:33:02.959Z</updated>
+        <content type="html"><![CDATA[빼사스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 우리말 배우자면서 '땡깡맨'? (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/63704?category=2</id>
@@ -129,12 +136,5 @@
         <link href="https://ppt21.com/spoent/63678?category=2"/>
         <updated>2021-10-15T06:26:38.919Z</updated>
         <content type="html"><![CDATA[강가딘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [트와이스] "The Feels" M/V 비하인드 영상 EP1~EP3 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/63676?category=2</id>
-        <link href="https://ppt21.com/spoent/63676?category=2"/>
-        <updated>2021-10-15T04:29:11.274Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
