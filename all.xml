@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-16T04:28:41.568Z</updated>
+    <updated>2021-10-16T05:19:23.674Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] 배우 마이클 케인이 연기 은퇴를 선언했습니다. (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/63700?category=2</id>
+        <link href="https://ppt21.com/spoent/63700?category=2"/>
+        <updated>2021-10-16T05:19:22.971Z</updated>
+        <content type="html"><![CDATA[Anti-MAGE]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [에스파] 켈리 클락슨 쇼 'Savage' 무대 영상 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/63699?category=2</id>
@@ -129,12 +136,5 @@
         <link href="https://ppt21.com/spoent/63669?category=2"/>
         <updated>2021-10-14T15:23:19.947Z</updated>
         <content type="html"><![CDATA[Croove]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 큐브 라잇썸 엠카 "VIVACE" 첫 컴백무대 공개 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/63668?category=2</id>
-        <link href="https://ppt21.com/spoent/63668?category=2"/>
-        <updated>2021-10-14T13:26:08.975Z</updated>
-        <content type="html"><![CDATA[초원을달리다]]></content>
     </entry>
 </feed>
