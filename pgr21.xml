@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-10-16T19:16:56.684Z</updated>
+    <updated>2021-10-16T20:21:55.596Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 전성기 기무라 타쿠야를 실제로 본다면?]]></title>
+        <id>https://ppt21.com/spoent/63715?category=2</id>
+        <link href="https://ppt21.com/spoent/63715?category=2"/>
+        <updated>2021-10-16T20:21:54.916Z</updated>
+        <content type="html"><![CDATA[한이연]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 15일 공개된 넷플릭스 드라마 "마이네임" 월드랭킹 6위로 진입]]></title>
         <id>https://ppt21.com/spoent/63714?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/63685?category=2"/>
         <updated>2021-10-15T11:20:07.579Z</updated>
         <content type="html"><![CDATA[TWICE쯔위]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] e-스포츠 아나운서 3인의 고스톱 한판]]></title>
-        <id>https://ppt21.com/spoent/63684?category=2</id>
-        <link href="https://ppt21.com/spoent/63684?category=2"/>
-        <updated>2021-10-15T09:21:30.698Z</updated>
-        <content type="html"><![CDATA[강가딘]]></content>
     </entry>
 </feed>
