@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-10-16T03:22:49.304Z</updated>
+    <updated>2021-10-16T04:28:41.565Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [에스파] 켈리 클락슨 쇼 'Savage' 무대 영상]]></title>
+        <id>https://ppt21.com/spoent/63699?category=2</id>
+        <link href="https://ppt21.com/spoent/63699?category=2"/>
+        <updated>2021-10-16T04:28:40.784Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 오징어게임 배우들 예능 출연 현황 (놀면 뭐하니, 유퀴즈, 나혼산)]]></title>
+        <id>https://ppt21.com/spoent/63698?category=2</id>
+        <link href="https://ppt21.com/spoent/63698?category=2"/>
+        <updated>2021-10-16T04:28:40.785Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 오랜만에 아이돌 모드로 돌아온 안소희]]></title>
         <id>https://ppt21.com/spoent/63694?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/63668?category=2"/>
         <updated>2021-10-14T13:26:08.975Z</updated>
         <content type="html"><![CDATA[초원을달리다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [에스파] 엠카운트다운 컴백무대 영상 (+직캠)]]></title>
-        <id>https://ppt21.com/spoent/63667?category=2</id>
-        <link href="https://ppt21.com/spoent/63667?category=2"/>
-        <updated>2021-10-14T11:18:41.178Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 바람의검심 더비기닝 발도재 vs 오키타]]></title>
-        <id>https://ppt21.com/spoent/63666?category=2</id>
-        <link href="https://ppt21.com/spoent/63666?category=2"/>
-        <updated>2021-10-14T11:18:41.178Z</updated>
-        <content type="html"><![CDATA[Croove]]></content>
     </entry>
 </feed>
