@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-10-16T14:19:35.512Z</updated>
+    <updated>2021-10-16T15:22:16.413Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [아이유] strawberry moon MV Teaser]]></title>
+        <id>https://ppt21.com/spoent/63710?category=2</id>
+        <link href="https://ppt21.com/spoent/63710?category=2"/>
+        <updated>2021-10-16T15:22:15.760Z</updated>
+        <content type="html"><![CDATA[VictoryFood]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] (스포) 오징어게임 촬영순서가 달랐던 장면.jpg]]></title>
         <id>https://ppt21.com/spoent/63706?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/63681?category=2"/>
         <updated>2021-10-15T08:26:13.458Z</updated>
         <content type="html"><![CDATA[Bronx Bombers]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [에스파] 경멸의 눈빛]]></title>
-        <id>https://ppt21.com/spoent/63679?category=2</id>
-        <link href="https://ppt21.com/spoent/63679?category=2"/>
-        <updated>2021-10-15T07:22:50.357Z</updated>
-        <content type="html"><![CDATA[바스테나]]></content>
     </entry>
 </feed>
