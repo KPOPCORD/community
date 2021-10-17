@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-17T18:24:51.800Z</updated>
+    <updated>2021-10-17T19:17:24.694Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] [오징어게임] 오늘의 국뽕 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/63738?category=2</id>
+        <link href="https://ppt21.com/spoent/63738?category=2"/>
+        <updated>2021-10-17T19:17:24.104Z</updated>
+        <content type="html"><![CDATA[어강됴리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [에스파] 'Savage' 퍼포먼스 스테이지 #2 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/63737?category=2</id>
@@ -129,12 +136,5 @@
         <link href="https://ppt21.com/spoent/63700?category=2"/>
         <updated>2021-10-16T05:19:22.971Z</updated>
         <content type="html"><![CDATA[Anti-MAGE]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [에스파] 켈리 클락슨 쇼 'Savage' 무대 영상 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/63699?category=2</id>
-        <link href="https://ppt21.com/spoent/63699?category=2"/>
-        <updated>2021-10-16T04:28:40.784Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
