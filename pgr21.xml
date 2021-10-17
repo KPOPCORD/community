@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-10-17T13:24:19.482Z</updated>
+    <updated>2021-10-17T14:19:47.227Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] "오징어게임" 에 이어 "마이네임" 도 터졌다, 월드랭킹 4위까지 상승]]></title>
+        <id>https://ppt21.com/spoent/63735?category=2</id>
+        <link href="https://ppt21.com/spoent/63735?category=2"/>
+        <updated>2021-10-17T14:19:46.529Z</updated>
+        <content type="html"><![CDATA[아롱이다롱이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 오징어 게임 언급한 힙합 가수]]></title>
         <id>https://ppt21.com/spoent/63734?category=2</id>
@@ -13,7 +20,7 @@
         <content type="html"><![CDATA[SaiNT]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[연예] [에스파] 드디어 직접 전달받은 트로피, 데뷔 후 첫 1위 앵콜 영상]]></title>
+        <title type="html"><![CDATA[[연예] [에스파] 드디어 직접 전달받은 트로피, 데뷔 후 첫 1위 앵콜 영상 (+앵콜 직캠)]]></title>
         <id>https://ppt21.com/spoent/63733?category=2</id>
         <link href="https://ppt21.com/spoent/63733?category=2"/>
         <updated>2021-10-17T13:24:18.789Z</updated>
@@ -129,13 +136,6 @@
         <id>https://ppt21.com/spoent/63698?category=2</id>
         <link href="https://ppt21.com/spoent/63698?category=2"/>
         <updated>2021-10-16T04:28:40.785Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 오랜만에 아이돌 모드로 돌아온 안소희]]></title>
-        <id>https://ppt21.com/spoent/63694?category=2</id>
-        <link href="https://ppt21.com/spoent/63694?category=2"/>
-        <updated>2021-10-15T16:36:10.400Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
