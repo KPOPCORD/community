@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-10-17T12:32:56.870Z</updated>
+    <updated>2021-10-17T13:24:19.482Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 오징어 게임 언급한 힙합 가수]]></title>
+        <id>https://ppt21.com/spoent/63734?category=2</id>
+        <link href="https://ppt21.com/spoent/63734?category=2"/>
+        <updated>2021-10-17T13:24:18.783Z</updated>
+        <content type="html"><![CDATA[SaiNT]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] [에스파] 드디어 직접 전달받은 트로피, 데뷔 후 첫 1위 앵콜 영상]]></title>
+        <id>https://ppt21.com/spoent/63733?category=2</id>
+        <link href="https://ppt21.com/spoent/63733?category=2"/>
+        <updated>2021-10-17T13:24:18.789Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 2021년 10월 셋째주 D-차트 : 에스파 첫 1위! 트와이스 11위-조유리 14위 진입]]></title>
         <id>https://ppt21.com/spoent/63730?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/63694?category=2"/>
         <updated>2021-10-15T16:36:10.400Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [스테이씨] 1년만에 흑자전환을 앞둔 중소 걸그룹?.youtube]]></title>
-        <id>https://ppt21.com/spoent/63693?category=2</id>
-        <link href="https://ppt21.com/spoent/63693?category=2"/>
-        <updated>2021-10-15T15:23:18.146Z</updated>
-        <content type="html"><![CDATA[Bar Sur]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] MC스나이퍼 근황]]></title>
-        <id>https://ppt21.com/spoent/63691?category=2</id>
-        <link href="https://ppt21.com/spoent/63691?category=2"/>
-        <updated>2021-10-15T14:20:38.485Z</updated>
-        <content type="html"><![CDATA[TWICE쯔위]]></content>
     </entry>
 </feed>
