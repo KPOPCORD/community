@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-18T01:16:00.447Z</updated>
+    <updated>2021-10-18T02:37:27.197Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] [트와이스] 팬들에게 보내는 6주년 메시지 (+영상) (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/63742?category=2</id>
+        <link href="https://ppt21.com/spoent/63742?category=2"/>
+        <updated>2021-10-18T02:37:26.580Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 이번주 런닝맨에 ITZY 예지, 우주소녀 루다가 나옵니다 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/63739?category=2</id>
@@ -129,12 +136,5 @@
         <link href="https://ppt21.com/spoent/63703?category=2"/>
         <updated>2021-10-16T07:20:23.546Z</updated>
         <content type="html"><![CDATA[묘이 미나]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [오징어게임] 국뽕충전 시간이 되었습니다. (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/63702?category=2</id>
-        <link href="https://ppt21.com/spoent/63702?category=2"/>
-        <updated>2021-10-16T06:26:02.751Z</updated>
-        <content type="html"><![CDATA[어강됴리]]></content>
     </entry>
 </feed>
