@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-18T14:21:09.631Z</updated>
+    <updated>2021-10-18T15:23:40.062Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] [아이유] 'strawberry moon' M/V (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/63753?category=2</id>
+        <link href="https://ppt21.com/spoent/63753?category=2"/>
+        <updated>2021-10-18T15:23:39.345Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 넷플릭스 드라마 "마이네임" 오늘자 월드랭킹 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/63752?category=2</id>
+        <link href="https://ppt21.com/spoent/63752?category=2"/>
+        <updated>2021-10-18T15:23:39.345Z</updated>
+        <content type="html"><![CDATA[아롱이다롱이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 라잇썸 'VIVACE' 스튜디오 춤 퍼포먼스 영상 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/63746?category=2</id>
@@ -122,19 +136,5 @@
         <link href="https://ppt21.com/spoent/63715?category=2"/>
         <updated>2021-10-16T20:21:54.916Z</updated>
         <content type="html"><![CDATA[한이연]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 15일 공개된 넷플릭스 드라마 "마이네임" 월드랭킹 6위로 진입 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/63714?category=2</id>
-        <link href="https://ppt21.com/spoent/63714?category=2"/>
-        <updated>2021-10-16T19:16:56.033Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [아이유] strawberry moon MV Teaser (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/63710?category=2</id>
-        <link href="https://ppt21.com/spoent/63710?category=2"/>
-        <updated>2021-10-16T15:22:15.760Z</updated>
-        <content type="html"><![CDATA[VictoryFood]]></content>
     </entry>
 </feed>
