@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-10-18T05:20:02.031Z</updated>
+    <updated>2021-10-18T06:27:16.218Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 스우파 홀리뱅×LIGHTSUM 콜라보 예고]]></title>
+        <id>https://ppt21.com/spoent/63745?category=2</id>
+        <link href="https://ppt21.com/spoent/63745?category=2"/>
+        <updated>2021-10-18T06:27:15.339Z</updated>
+        <content type="html"><![CDATA[초원을달리다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 태어난김에 사는 기안84가 전세집 계약하는법.jpg]]></title>
         <id>https://ppt21.com/spoent/63744?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/63706?category=2"/>
         <updated>2021-10-16T13:24:14.440Z</updated>
         <content type="html"><![CDATA[오우거]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 오징어 게임을 본 스티븐 킹]]></title>
-        <id>https://ppt21.com/spoent/63705?category=2</id>
-        <link href="https://ppt21.com/spoent/63705?category=2"/>
-        <updated>2021-10-16T12:33:02.959Z</updated>
-        <content type="html"><![CDATA[빼사스]]></content>
     </entry>
 </feed>
