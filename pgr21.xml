@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-10-18T15:23:40.059Z</updated>
+    <updated>2021-10-18T16:35:58.374Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 충격과 공포의 걸스플래닛 데뷔조 중간속보]]></title>
+        <id>https://ppt21.com/spoent/63755?category=2</id>
+        <link href="https://ppt21.com/spoent/63755?category=2"/>
+        <updated>2021-10-18T16:35:57.696Z</updated>
+        <content type="html"><![CDATA[묘이 미나]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [아이유] 'strawberry moon' M/V]]></title>
         <id>https://ppt21.com/spoent/63753?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/63717?category=2"/>
         <updated>2021-10-17T01:12:24.580Z</updated>
         <content type="html"><![CDATA[강가딘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 전성기 기무라 타쿠야를 실제로 본다면?]]></title>
-        <id>https://ppt21.com/spoent/63715?category=2</id>
-        <link href="https://ppt21.com/spoent/63715?category=2"/>
-        <updated>2021-10-16T20:21:54.916Z</updated>
-        <content type="html"><![CDATA[한이연]]></content>
     </entry>
 </feed>
