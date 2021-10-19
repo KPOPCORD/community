@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-10-19T15:23:25.320Z</updated>
+    <updated>2021-10-19T16:34:00.204Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [트와이스] 이데일리 문화대상 공연 영상 (+팬 직캠!)]]></title>
+        <id>https://ppt21.com/spoent/63768?category=2</id>
+        <link href="https://ppt21.com/spoent/63768?category=2"/>
+        <updated>2021-10-19T16:33:59.423Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 넷플릭스 한국드라마 월드랭킹 업데이트]]></title>
         <id>https://ppt21.com/spoent/63767?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/63730?category=2"/>
         <updated>2021-10-17T12:32:56.171Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 넷플릭스, ‘오징어 게임’으로 8억 9천만$ 수익 예상]]></title>
-        <id>https://ppt21.com/spoent/63722?category=2</id>
-        <link href="https://ppt21.com/spoent/63722?category=2"/>
-        <updated>2021-10-17T06:25:58.342Z</updated>
-        <content type="html"><![CDATA[핑크솔져]]></content>
     </entry>
 </feed>
