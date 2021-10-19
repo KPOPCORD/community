@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-19T07:21:11.268Z</updated>
+    <updated>2021-10-19T08:26:18.412Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] 부산 출신 아이돌 선후배의 만남 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/63761?category=2</id>
+        <link href="https://ppt21.com/spoent/63761?category=2"/>
+        <updated>2021-10-19T08:26:17.637Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 지애 라디오 생방 중 오마이걸 비니가 보낸 문자 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/63759?category=2</id>
@@ -129,12 +136,5 @@
         <link href="https://ppt21.com/spoent/63719?category=2"/>
         <updated>2021-10-17T03:23:00.006Z</updated>
         <content type="html"><![CDATA[TWICE쯔위]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] LA갈비가 양식이라는 꼰지애 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/63718?category=2</id>
-        <link href="https://ppt21.com/spoent/63718?category=2"/>
-        <updated>2021-10-17T01:12:24.578Z</updated>
-        <content type="html"><![CDATA[강가딘]]></content>
     </entry>
 </feed>
