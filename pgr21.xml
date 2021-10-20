@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-10-20T01:15:05.464Z</updated>
+    <updated>2021-10-20T02:35:41.731Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 유키카 근황]]></title>
+        <id>https://ppt21.com/spoent/63772?category=2</id>
+        <link href="https://ppt21.com/spoent/63772?category=2"/>
+        <updated>2021-10-20T02:35:41.037Z</updated>
+        <content type="html"><![CDATA[어강됴리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 김선호 공식 입장이 나왔습니다]]></title>
         <id>https://ppt21.com/spoent/63771?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/63735?category=2"/>
         <updated>2021-10-17T14:19:46.529Z</updated>
         <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 오징어 게임 언급한 힙합 가수]]></title>
-        <id>https://ppt21.com/spoent/63734?category=2</id>
-        <link href="https://ppt21.com/spoent/63734?category=2"/>
-        <updated>2021-10-17T13:24:18.783Z</updated>
-        <content type="html"><![CDATA[SaiNT]]></content>
     </entry>
 </feed>
