@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-10-20T10:25:03.316Z</updated>
+    <updated>2021-10-20T11:18:40.671Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [니쥬] 멤버들 동물로 캐릭터화한 NIZOO 공개]]></title>
+        <id>https://ppt21.com/spoent/63787?category=2</id>
+        <link href="https://ppt21.com/spoent/63787?category=2"/>
+        <updated>2021-10-20T11:18:39.914Z</updated>
+        <content type="html"><![CDATA[VictoryFood]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 미국에서 먹히는 라잇썸근황 (Feat.US아이튠즈차트)]]></title>
         <id>https://ppt21.com/spoent/63784?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/63742?category=2"/>
         <updated>2021-10-18T02:37:26.580Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 이번주 런닝맨에 ITZY 예지, 우주소녀 루다가 나옵니다]]></title>
-        <id>https://ppt21.com/spoent/63739?category=2</id>
-        <link href="https://ppt21.com/spoent/63739?category=2"/>
-        <updated>2021-10-17T23:23:01.984Z</updated>
-        <content type="html"><![CDATA[강가딘]]></content>
     </entry>
 </feed>
