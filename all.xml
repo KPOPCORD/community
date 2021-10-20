@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-20T13:27:28.370Z</updated>
+    <updated>2021-10-20T14:20:54.820Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] 데뷔 15년차 아이돌이 막내가 되버리는 아이돌 모임.jpg (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/63789?category=2</id>
+        <link href="https://ppt21.com/spoent/63789?category=2"/>
+        <updated>2021-10-20T14:20:54.046Z</updated>
+        <content type="html"><![CDATA[insane]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [니쥬] 멤버들 동물로 캐릭터화한 NIZOO 공개 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/63787?category=2</id>
@@ -129,12 +136,5 @@
         <link href="https://ppt21.com/spoent/63743?category=2"/>
         <updated>2021-10-18T03:23:27.498Z</updated>
         <content type="html"><![CDATA[묻고 더블로 가!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [트와이스] 팬들에게 보내는 6주년 메시지 (+영상) (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/63742?category=2</id>
-        <link href="https://ppt21.com/spoent/63742?category=2"/>
-        <updated>2021-10-18T02:37:26.580Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
