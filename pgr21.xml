@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-10-19T23:22:17.663Z</updated>
+    <updated>2021-10-20T01:15:05.464Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 김선호 공식 입장이 나왔습니다]]></title>
+        <id>https://ppt21.com/spoent/63771?category=2</id>
+        <link href="https://ppt21.com/spoent/63771?category=2"/>
+        <updated>2021-10-20T01:15:04.815Z</updated>
+        <content type="html"><![CDATA[먹설턴트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 오징어게임 28일 시청가구수 1억4천2백만명 기록]]></title>
         <id>https://ppt21.com/spoent/63769?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/63734?category=2"/>
         <updated>2021-10-17T13:24:18.783Z</updated>
         <content type="html"><![CDATA[SaiNT]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [에스파] 드디어 직접 전달받은 트로피, 데뷔 후 첫 1위 앵콜 영상]]></title>
-        <id>https://ppt21.com/spoent/63733?category=2</id>
-        <link href="https://ppt21.com/spoent/63733?category=2"/>
-        <updated>2021-10-17T13:24:18.789Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
