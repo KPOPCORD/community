@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-10-20T14:20:54.723Z</updated>
+    <updated>2021-10-20T15:23:35.213Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 넷플릭스 "마이네임" 월드랭킹 3위로 상승]]></title>
+        <id>https://ppt21.com/spoent/63792?category=2</id>
+        <link href="https://ppt21.com/spoent/63792?category=2"/>
+        <updated>2021-10-20T15:23:34.478Z</updated>
+        <content type="html"><![CDATA[아롱이다롱이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 데뷔 15년차 아이돌이 막내가 되버리는 아이돌 모임.jpg]]></title>
         <id>https://ppt21.com/spoent/63789?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/63744?category=2"/>
         <updated>2021-10-18T05:20:01.281Z</updated>
         <content type="html"><![CDATA[insane]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 에스파 춤 따라하는 유나]]></title>
-        <id>https://ppt21.com/spoent/63743?category=2</id>
-        <link href="https://ppt21.com/spoent/63743?category=2"/>
-        <updated>2021-10-18T03:23:27.498Z</updated>
-        <content type="html"><![CDATA[묻고 더블로 가!]]></content>
     </entry>
 </feed>
