@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-10-20T07:21:15.630Z</updated>
+    <updated>2021-10-20T08:26:17.341Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 웬디의 'Put Your Records On' 커버]]></title>
+        <id>https://ppt21.com/spoent/63778?category=2</id>
+        <link href="https://ppt21.com/spoent/63778?category=2"/>
+        <updated>2021-10-20T08:26:16.579Z</updated>
+        <content type="html"><![CDATA[아난]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 유키카 근황]]></title>
         <id>https://ppt21.com/spoent/63772?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/63737?category=2"/>
         <updated>2021-10-17T16:32:37.476Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] "오징어게임" 에 이어 "마이네임" 도 터졌다, 월드랭킹 4위까지 상승]]></title>
-        <id>https://ppt21.com/spoent/63735?category=2</id>
-        <link href="https://ppt21.com/spoent/63735?category=2"/>
-        <updated>2021-10-17T14:19:46.529Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
     </entry>
 </feed>
