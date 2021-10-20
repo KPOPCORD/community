@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-10-20T09:22:53.561Z</updated>
+    <updated>2021-10-20T10:25:03.316Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 미국에서 먹히는 라잇썸근황 (Feat.US아이튠즈차트)]]></title>
+        <id>https://ppt21.com/spoent/63784?category=2</id>
+        <link href="https://ppt21.com/spoent/63784?category=2"/>
+        <updated>2021-10-20T10:25:02.517Z</updated>
+        <content type="html"><![CDATA[초원을달리다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 오징어게임으로 10일만에 구독자 100만 올랐다는 유튜버.jpg]]></title>
         <id>https://ppt21.com/spoent/63780?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/63739?category=2"/>
         <updated>2021-10-17T23:23:01.984Z</updated>
         <content type="html"><![CDATA[강가딘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [오징어게임] 오늘의 국뽕]]></title>
-        <id>https://ppt21.com/spoent/63738?category=2</id>
-        <link href="https://ppt21.com/spoent/63738?category=2"/>
-        <updated>2021-10-17T19:17:24.104Z</updated>
-        <content type="html"><![CDATA[어강됴리]]></content>
     </entry>
 </feed>
