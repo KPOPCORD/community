@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-20T08:26:17.344Z</updated>
+    <updated>2021-10-20T09:22:53.626Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] 오징어게임으로 10일만에 구독자 100만 올랐다는 유튜버.jpg (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/63780?category=2</id>
+        <link href="https://ppt21.com/spoent/63780?category=2"/>
+        <updated>2021-10-20T09:22:52.912Z</updated>
+        <content type="html"><![CDATA[insane]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 웬디의 'Put Your Records On' 커버 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/63778?category=2</id>
@@ -129,12 +136,5 @@
         <link href="https://ppt21.com/spoent/63738?category=2"/>
         <updated>2021-10-17T19:17:24.104Z</updated>
         <content type="html"><![CDATA[어강됴리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [에스파] 'Savage' 퍼포먼스 스테이지 #2 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/63737?category=2</id>
-        <link href="https://ppt21.com/spoent/63737?category=2"/>
-        <updated>2021-10-17T16:32:37.476Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
