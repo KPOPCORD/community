@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-10-21T08:26:27.709Z</updated>
+    <updated>2021-10-21T09:23:08.901Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [요일바] NCT 127 vs 임창정 (Im Chang Jung) - 또 다시 Sticker (J.E.B Mashup)]]></title>
+        <id>https://ppt21.com/spoent/63802?category=2</id>
+        <link href="https://ppt21.com/spoent/63802?category=2"/>
+        <updated>2021-10-21T09:23:08.139Z</updated>
+        <content type="html"><![CDATA[미원]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 넷플릭스 역대 TV 시리즈 인기 순위]]></title>
         <id>https://ppt21.com/spoent/63801?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/63753?category=2"/>
         <updated>2021-10-18T15:23:39.345Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 넷플릭스 드라마 "마이네임" 오늘자 월드랭킹]]></title>
-        <id>https://ppt21.com/spoent/63752?category=2</id>
-        <link href="https://ppt21.com/spoent/63752?category=2"/>
-        <updated>2021-10-18T15:23:39.345Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
     </entry>
 </feed>
