@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-21T03:23:15.523Z</updated>
+    <updated>2021-10-21T04:29:54.307Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] CJ ENM, SM 엔터테인먼트 인수 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/63797?category=2</id>
+        <link href="https://ppt21.com/spoent/63797?category=2"/>
+        <updated>2021-10-21T04:29:53.654Z</updated>
+        <content type="html"><![CDATA[유료도로당]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [트와이스] 6주년 홈파티 코스프레 사진, 움짤모음 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/63795?category=2</id>
@@ -129,12 +136,5 @@
         <link href="https://ppt21.com/spoent/63746?category=2"/>
         <updated>2021-10-18T07:21:12.813Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 스우파 홀리뱅×LIGHTSUM 콜라보 예고 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/63745?category=2</id>
-        <link href="https://ppt21.com/spoent/63745?category=2"/>
-        <updated>2021-10-18T06:27:15.339Z</updated>
-        <content type="html"><![CDATA[초원을달리다]]></content>
     </entry>
 </feed>
