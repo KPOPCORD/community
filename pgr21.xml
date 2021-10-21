@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-10-21T11:18:35.915Z</updated>
+    <updated>2021-10-21T12:35:48.712Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 2021년 호박고구마 호박고구마!!!]]></title>
+        <id>https://ppt21.com/spoent/63803?category=2</id>
+        <link href="https://ppt21.com/spoent/63803?category=2"/>
+        <updated>2021-10-21T12:35:47.979Z</updated>
+        <content type="html"><![CDATA[style]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [요일바] NCT 127 vs 임창정 (Im Chang Jung) - 또 다시 Sticker (J.E.B Mashup)]]></title>
         <id>https://ppt21.com/spoent/63802?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/63755?category=2"/>
         <updated>2021-10-18T16:35:57.696Z</updated>
         <content type="html"><![CDATA[묘이 미나]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [아이유] 'strawberry moon' M/V]]></title>
-        <id>https://ppt21.com/spoent/63753?category=2</id>
-        <link href="https://ppt21.com/spoent/63753?category=2"/>
-        <updated>2021-10-18T15:23:39.345Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
