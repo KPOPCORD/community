@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-22T02:36:35.432Z</updated>
+    <updated>2021-10-22T03:23:46.643Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] 알렉 볼드윈, 영화 촬영중 실탄발사해 촬영감독 사망. (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/63816?category=2</id>
+        <link href="https://ppt21.com/spoent/63816?category=2"/>
+        <updated>2021-10-22T03:23:45.799Z</updated>
+        <content type="html"><![CDATA[캬라]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 넷플릭스 오리지널 드라마 "지옥" 포스트 2종 공개 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/63813?category=2</id>
+        <link href="https://ppt21.com/spoent/63813?category=2"/>
+        <updated>2021-10-22T03:23:45.806Z</updated>
+        <content type="html"><![CDATA[아롱이다롱이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 걸스플래닛, 중국 연습생 폭로 "한국 스태프가 우릴 차별해" (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/63811?category=2</id>
@@ -122,19 +136,5 @@
         <link href="https://ppt21.com/spoent/63778?category=2"/>
         <updated>2021-10-20T08:26:16.579Z</updated>
         <content type="html"><![CDATA[아난]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 유키카 근황 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/63772?category=2</id>
-        <link href="https://ppt21.com/spoent/63772?category=2"/>
-        <updated>2021-10-20T02:35:41.037Z</updated>
-        <content type="html"><![CDATA[어강됴리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 김선호 공식 입장이 나왔습니다 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/63771?category=2</id>
-        <link href="https://ppt21.com/spoent/63771?category=2"/>
-        <updated>2021-10-20T01:15:04.815Z</updated>
-        <content type="html"><![CDATA[먹설턴트]]></content>
     </entry>
 </feed>
