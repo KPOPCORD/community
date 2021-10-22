@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-22T07:21:07.841Z</updated>
+    <updated>2021-10-22T08:26:15.318Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] 라잇썸 이번 첫 음원차트1위는 미국 아이튠즈에서 달성했네요. (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/63820?category=2</id>
+        <link href="https://ppt21.com/spoent/63820?category=2"/>
+        <updated>2021-10-22T08:26:14.692Z</updated>
+        <content type="html"><![CDATA[초원을달리다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [트와이스] 6주년 기념 트둥퀴즈쇼 + 'Candy' 영상 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/63818?category=2</id>
@@ -129,12 +136,5 @@
         <link href="https://ppt21.com/spoent/63787?category=2"/>
         <updated>2021-10-20T11:18:39.914Z</updated>
         <content type="html"><![CDATA[VictoryFood]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 미국에서 먹히는 라잇썸근황 (Feat.US아이튠즈차트) (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/63784?category=2</id>
-        <link href="https://ppt21.com/spoent/63784?category=2"/>
-        <updated>2021-10-20T10:25:02.517Z</updated>
-        <content type="html"><![CDATA[초원을달리다]]></content>
     </entry>
 </feed>
