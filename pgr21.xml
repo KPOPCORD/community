@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-10-22T09:21:41.799Z</updated>
+    <updated>2021-10-22T10:25:02.744Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 민초파 수장 아이유 충격 중도 선언? (feat. 머리 상태)]]></title>
+        <id>https://ppt21.com/spoent/63821?category=2</id>
+        <link href="https://ppt21.com/spoent/63821?category=2"/>
+        <updated>2021-10-22T10:25:02.039Z</updated>
+        <content type="html"><![CDATA[VictoryFood]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 라잇썸 이번 첫 음원차트1위는 미국 아이튠즈에서 달성했네요.]]></title>
         <id>https://ppt21.com/spoent/63820?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/63789?category=2"/>
         <updated>2021-10-20T14:20:54.046Z</updated>
         <content type="html"><![CDATA[insane]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [니쥬] 멤버들 동물로 캐릭터화한 NIZOO 공개]]></title>
-        <id>https://ppt21.com/spoent/63787?category=2</id>
-        <link href="https://ppt21.com/spoent/63787?category=2"/>
-        <updated>2021-10-20T11:18:39.914Z</updated>
-        <content type="html"><![CDATA[VictoryFood]]></content>
     </entry>
 </feed>
