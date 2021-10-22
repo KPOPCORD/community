@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-22T14:20:14.105Z</updated>
+    <updated>2021-10-22T15:23:53.633Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] [걸플999] 결국 그의 동생이 데뷔조에 들어갔습니다. (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/63828?category=2</id>
+        <link href="https://ppt21.com/spoent/63828?category=2"/>
+        <updated>2021-10-22T15:23:52.987Z</updated>
+        <content type="html"><![CDATA[별빛정원]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [에스파] 뮤직뱅크 'Savage' 무대 영상 + 직캠 (+엔딩 움짤) (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/63822?category=2</id>
@@ -129,12 +136,5 @@
         <link href="https://ppt21.com/spoent/63795?category=2"/>
         <updated>2021-10-21T01:20:13.666Z</updated>
         <content type="html"><![CDATA[그10번]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 넷플릭스 "마이네임" 월드랭킹 3위로 상승 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/63792?category=2</id>
-        <link href="https://ppt21.com/spoent/63792?category=2"/>
-        <updated>2021-10-20T15:23:34.478Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
     </entry>
 </feed>
