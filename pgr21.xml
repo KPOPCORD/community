@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-10-22T15:23:53.629Z</updated>
+    <updated>2021-10-22T16:33:53.256Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 부자가 발가락 핥을때마다 1억씩 준다고 하면?? 연예인 대답]]></title>
+        <id>https://ppt21.com/spoent/63829?category=2</id>
+        <link href="https://ppt21.com/spoent/63829?category=2"/>
+        <updated>2021-10-22T16:33:52.612Z</updated>
+        <content type="html"><![CDATA[Croove]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [걸플999] 결국 그의 동생이 데뷔조에 들어갔습니다.]]></title>
         <id>https://ppt21.com/spoent/63828?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/63797?category=2"/>
         <updated>2021-10-21T04:29:53.654Z</updated>
         <content type="html"><![CDATA[유료도로당]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [트와이스] 6주년 홈파티 코스프레 사진, 움짤모음]]></title>
-        <id>https://ppt21.com/spoent/63795?category=2</id>
-        <link href="https://ppt21.com/spoent/63795?category=2"/>
-        <updated>2021-10-21T01:20:13.666Z</updated>
-        <content type="html"><![CDATA[그10번]]></content>
     </entry>
 </feed>
