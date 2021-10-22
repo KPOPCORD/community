@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-22T10:25:02.741Z</updated>
+    <updated>2021-10-22T11:18:30.265Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] [에스파] 뮤직뱅크 'Savage' 무대 영상 + 직캠 (+엔딩 움짤) (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/63822?category=2</id>
+        <link href="https://ppt21.com/spoent/63822?category=2"/>
+        <updated>2021-10-22T11:18:29.577Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 민초파 수장 아이유 충격 중도 선언? (feat. 머리 상태) (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/63821?category=2</id>
@@ -129,12 +136,5 @@
         <link href="https://ppt21.com/spoent/63792?category=2"/>
         <updated>2021-10-20T15:23:34.478Z</updated>
         <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 데뷔 15년차 아이돌이 막내가 되버리는 아이돌 모임.jpg (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/63789?category=2</id>
-        <link href="https://ppt21.com/spoent/63789?category=2"/>
-        <updated>2021-10-20T14:20:54.046Z</updated>
-        <content type="html"><![CDATA[insane]]></content>
     </entry>
 </feed>
