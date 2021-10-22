@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-22T01:22:30.908Z</updated>
+    <updated>2021-10-22T02:36:35.432Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] 걸스플래닛, 중국 연습생 폭로 "한국 스태프가 우릴 차별해" (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/63811?category=2</id>
+        <link href="https://ppt21.com/spoent/63811?category=2"/>
+        <updated>2021-10-22T02:36:34.755Z</updated>
+        <content type="html"><![CDATA[빼사스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 넷플릭스 코인 타는 배텐 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/63809?category=2</id>
@@ -129,12 +136,5 @@
         <link href="https://ppt21.com/spoent/63771?category=2"/>
         <updated>2021-10-20T01:15:04.815Z</updated>
         <content type="html"><![CDATA[먹설턴트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 오징어게임 28일 시청가구수 1억4천2백만명 기록 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/63769?category=2</id>
-        <link href="https://ppt21.com/spoent/63769?category=2"/>
-        <updated>2021-10-19T22:21:56.763Z</updated>
-        <content type="html"><![CDATA[핑크솔져]]></content>
     </entry>
 </feed>
