@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-23T15:22:34.997Z</updated>
+    <updated>2021-10-23T16:32:44.755Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] [방과후설렘] 참가자 전원에게 단독 파트를 준 오디션 시그널송 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/63852?category=2</id>
+        <link href="https://ppt21.com/spoent/63852?category=2"/>
+        <updated>2021-10-23T16:32:44.111Z</updated>
+        <content type="html"><![CDATA[VictoryFood]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 아는형님 에스파 하이라이트 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/63851?category=2</id>
+        <link href="https://ppt21.com/spoent/63851?category=2"/>
+        <updated>2021-10-23T16:32:44.111Z</updated>
+        <content type="html"><![CDATA[Croove]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 요즘 듣는 데뷔 10년된 남자아이돌 노래 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/63850?category=2</id>
+        <link href="https://ppt21.com/spoent/63850?category=2"/>
+        <updated>2021-10-23T16:32:44.113Z</updated>
+        <content type="html"><![CDATA[2004년]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] (스포)스우파 파이널 진출 팀 감상 + 혼성미션 방송 영상 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/63840?category=2</id>
@@ -114,27 +135,6 @@
         <id>https://ppt21.com/spoent/63809?category=2</id>
         <link href="https://ppt21.com/spoent/63809?category=2"/>
         <updated>2021-10-21T23:22:30.301Z</updated>
-        <content type="html"><![CDATA[강가딘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 21일자 넷플릭스 월드랭킹 tv shows 부문 top10 (한국드라마 4편 진입) (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/63808?category=2</id>
-        <link href="https://ppt21.com/spoent/63808?category=2"/>
-        <updated>2021-10-21T16:44:53.822Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] Smells Like Teen Spirit by Nirvana. (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/63807?category=2</id>
-        <link href="https://ppt21.com/spoent/63807?category=2"/>
-        <updated>2021-10-21T15:49:04.615Z</updated>
-        <content type="html"><![CDATA[v.Serum]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 6개월동안 주식해서 5만원 벌었다는 윤수빈아나 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/63805?category=2</id>
-        <link href="https://ppt21.com/spoent/63805?category=2"/>
-        <updated>2021-10-21T15:49:04.615Z</updated>
         <content type="html"><![CDATA[강가딘]]></content>
     </entry>
 </feed>
