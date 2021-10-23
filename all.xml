@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-23T10:23:38.565Z</updated>
+    <updated>2021-10-23T11:18:37.318Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] 킬링보이스에 출연한 헬스유튜버.avi (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/63839?category=2</id>
+        <link href="https://ppt21.com/spoent/63839?category=2"/>
+        <updated>2021-10-23T11:18:36.606Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 방송 중에 공개 고백 받은 음악중심MC 김민주 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/63836?category=2</id>
+        <link href="https://ppt21.com/spoent/63836?category=2"/>
+        <updated>2021-10-23T11:18:36.637Z</updated>
+        <content type="html"><![CDATA[VictoryFood]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 쇼미더머니10 우승자 확정 (스포) (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/63831?category=2</id>
@@ -122,19 +136,5 @@
         <link href="https://ppt21.com/spoent/63804?category=2"/>
         <updated>2021-10-21T15:49:04.616Z</updated>
         <content type="html"><![CDATA[강가딘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 2021년 호박고구마 호박고구마!!! (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/63803?category=2</id>
-        <link href="https://ppt21.com/spoent/63803?category=2"/>
-        <updated>2021-10-21T12:35:47.979Z</updated>
-        <content type="html"><![CDATA[style]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [요일바] NCT 127 vs 임창정 (Im Chang Jung) - 또 다시 Sticker (J.E.B Mashup) (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/63802?category=2</id>
-        <link href="https://ppt21.com/spoent/63802?category=2"/>
-        <updated>2021-10-21T09:23:08.139Z</updated>
-        <content type="html"><![CDATA[미원]]></content>
     </entry>
 </feed>
