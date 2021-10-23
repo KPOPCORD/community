@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-23T22:21:33.708Z</updated>
+    <updated>2021-10-23T23:22:04.897Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] 나미춘, "유지애! 내가 춤으로 무조건 이긴다 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/63853?category=2</id>
+        <link href="https://ppt21.com/spoent/63853?category=2"/>
+        <updated>2021-10-23T23:22:04.251Z</updated>
+        <content type="html"><![CDATA[강가딘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [방과후설렘] 참가자 전원에게 단독 파트를 준 오디션 시그널송 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/63852?category=2</id>
@@ -129,12 +136,5 @@
         <link href="https://ppt21.com/spoent/63811?category=2"/>
         <updated>2021-10-22T02:36:34.755Z</updated>
         <content type="html"><![CDATA[빼사스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 넷플릭스 코인 타는 배텐 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/63809?category=2</id>
-        <link href="https://ppt21.com/spoent/63809?category=2"/>
-        <updated>2021-10-21T23:22:30.301Z</updated>
-        <content type="html"><![CDATA[강가딘]]></content>
     </entry>
 </feed>
