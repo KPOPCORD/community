@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-10-24T14:20:01.497Z</updated>
+    <updated>2021-10-24T15:22:40.824Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [트와이스] 정규 3집 'Formula of Love: O+T=<3' M/V 오프닝 트레일러]]></title>
+        <id>https://ppt21.com/spoent/63870?category=2</id>
+        <link href="https://ppt21.com/spoent/63870?category=2"/>
+        <updated>2021-10-24T15:22:40.182Z</updated>
+        <content type="html"><![CDATA[TWICE쯔위]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [에스파] 인기가요 1위 앵콜 직캠 (+무대 영상 & 엔딩요정)]]></title>
         <id>https://ppt21.com/spoent/63869?category=2</id>
@@ -129,13 +136,6 @@
         <id>https://ppt21.com/spoent/63818?category=2</id>
         <link href="https://ppt21.com/spoent/63818?category=2"/>
         <updated>2021-10-22T04:29:40.285Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [에스파] UN의 날 기념 문화공연에서 가진 특별한 무대]]></title>
-        <id>https://ppt21.com/spoent/63817?category=2</id>
-        <link href="https://ppt21.com/spoent/63817?category=2"/>
-        <updated>2021-10-22T04:29:40.290Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
