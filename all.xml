@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-24T13:24:41.417Z</updated>
+    <updated>2021-10-24T14:20:01.499Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] [에스파] 인기가요 1위 앵콜 직캠 (+무대 영상 & 엔딩요정) (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/63869?category=2</id>
+        <link href="https://ppt21.com/spoent/63869?category=2"/>
+        <updated>2021-10-24T14:20:00.838Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 김수현 작가의 역대 드라마 집필 리스트.TXT (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/63867?category=2</id>
+        <link href="https://ppt21.com/spoent/63867?category=2"/>
+        <updated>2021-10-24T14:20:00.839Z</updated>
+        <content type="html"><![CDATA[비타에듀]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 벤 샤피로의 오징어게임(기생충) 감상평.JPG (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/63864?category=2</id>
@@ -122,19 +136,5 @@
         <link href="https://ppt21.com/spoent/63817?category=2"/>
         <updated>2021-10-22T04:29:40.290Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 알렉 볼드윈, 영화 촬영중 실탄발사해 촬영감독 사망. (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/63816?category=2</id>
-        <link href="https://ppt21.com/spoent/63816?category=2"/>
-        <updated>2021-10-22T03:23:45.799Z</updated>
-        <content type="html"><![CDATA[캬라]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 넷플릭스 오리지널 드라마 "지옥" 포스트 2종 공개 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/63813?category=2</id>
-        <link href="https://ppt21.com/spoent/63813?category=2"/>
-        <updated>2021-10-22T03:23:45.806Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
     </entry>
 </feed>
