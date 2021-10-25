@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-25T22:22:13.620Z</updated>
+    <updated>2021-10-25T23:23:14.490Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] 유지애 "미주는 퀴즈로 내가 이긴다." (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/63884?category=2</id>
+        <link href="https://ppt21.com/spoent/63884?category=2"/>
+        <updated>2021-10-25T23:23:13.756Z</updated>
+        <content type="html"><![CDATA[강가딘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 백스트리트보이즈의 2010년 이후 공연 셋리스트.TXT (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/63881?category=2</id>
@@ -129,12 +136,5 @@
         <link href="https://ppt21.com/spoent/63830?category=2"/>
         <updated>2021-10-23T01:15:05.188Z</updated>
         <content type="html"><![CDATA[강가딘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 부자가 발가락 핥을때마다 1억씩 준다고 하면?? 연예인 대답 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/63829?category=2</id>
-        <link href="https://ppt21.com/spoent/63829?category=2"/>
-        <updated>2021-10-22T16:33:52.612Z</updated>
-        <content type="html"><![CDATA[Croove]]></content>
     </entry>
 </feed>
