@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-10-26T05:20:14.860Z</updated>
+    <updated>2021-10-26T06:26:42.541Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [아이유] 신곡 발표 기념 딸기 쿡방]]></title>
+        <id>https://ppt21.com/spoent/63891?category=2</id>
+        <link href="https://ppt21.com/spoent/63891?category=2"/>
+        <updated>2021-10-26T06:26:41.941Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 넷플릭스 TV Show 랭킹 근황...]]></title>
         <id>https://ppt21.com/spoent/63890?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/63839?category=2"/>
         <updated>2021-10-23T11:18:36.606Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 방송 중에 공개 고백 받은 음악중심MC 김민주]]></title>
-        <id>https://ppt21.com/spoent/63836?category=2</id>
-        <link href="https://ppt21.com/spoent/63836?category=2"/>
-        <updated>2021-10-23T11:18:36.637Z</updated>
-        <content type="html"><![CDATA[VictoryFood]]></content>
     </entry>
 </feed>
