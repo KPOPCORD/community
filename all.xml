@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-26T14:23:02.096Z</updated>
+    <updated>2021-10-26T15:23:53.092Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] [듄] 북미 오프닝 성적 등 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/63904?category=2</id>
+        <link href="https://ppt21.com/spoent/63904?category=2"/>
+        <updated>2021-10-26T15:23:52.354Z</updated>
+        <content type="html"><![CDATA[빼사스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] SNL 주현영 인턴기자 근황 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/63902?category=2</id>
@@ -129,12 +136,5 @@
         <link href="https://ppt21.com/spoent/63864?category=2"/>
         <updated>2021-10-24T11:18:40.185Z</updated>
         <content type="html"><![CDATA[핑크솔져]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 나미춘, "유지애! 내가 춤으로 무조건 이긴다 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/63853?category=2</id>
-        <link href="https://ppt21.com/spoent/63853?category=2"/>
-        <updated>2021-10-23T23:22:04.251Z</updated>
-        <content type="html"><![CDATA[강가딘]]></content>
     </entry>
 </feed>
