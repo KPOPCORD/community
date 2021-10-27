@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-10-27T12:35:31.184Z</updated>
+    <updated>2021-10-27T13:27:27.626Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 어느 걸그룹 방송사고.swf]]></title>
+        <id>https://ppt21.com/spoent/63928?category=2</id>
+        <link href="https://ppt21.com/spoent/63928?category=2"/>
+        <updated>2021-10-27T13:27:26.807Z</updated>
+        <content type="html"><![CDATA[TWICE쯔위]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 위키피디아 분석기사 "오징어게임 역대 최고 히트작"]]></title>
         <id>https://ppt21.com/spoent/63924?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/63890?category=2"/>
         <updated>2021-10-26T04:29:27.846Z</updated>
         <content type="html"><![CDATA[우주전쟁]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 디스패치 김선호 전여친 실명언급하는 최신 기사]]></title>
-        <id>https://ppt21.com/spoent/63885?category=2</id>
-        <link href="https://ppt21.com/spoent/63885?category=2"/>
-        <updated>2021-10-26T01:08:50.602Z</updated>
-        <content type="html"><![CDATA[오곡물티슈]]></content>
     </entry>
 </feed>
