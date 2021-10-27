@@ -1,151 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://KPOPCORD.github.io/community/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2021-10-27T21:21:51.792Z</updated>
+    <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
+    <title>더쿠 ─ 케이돌토크</title>
+    <updated>2021-10-27T21:21:51.783Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://theqoo.net/favicon-32x32.png</icon>
     <entry>
-        <title type="html"><![CDATA[[연예] 어느 걸그룹 방송사고.swf (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/63928?category=2</id>
-        <link href="https://ppt21.com/spoent/63928?category=2"/>
-        <updated>2021-10-27T13:27:26.807Z</updated>
-        <content type="html"><![CDATA[TWICE쯔위]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 위키피디아 분석기사 "오징어게임 역대 최고 히트작" (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/63924?category=2</id>
-        <link href="https://ppt21.com/spoent/63924?category=2"/>
-        <updated>2021-10-27T12:35:30.480Z</updated>
-        <content type="html"><![CDATA[핑크솔져]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] tvN 신작 월화 드라마에 출연하는 하승진 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/63923?category=2</id>
-        <link href="https://ppt21.com/spoent/63923?category=2"/>
-        <updated>2021-10-27T11:19:06.122Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 순간, 식빵이라고 말할 뻔한 여자 연예인 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/63922?category=2</id>
-        <link href="https://ppt21.com/spoent/63922?category=2"/>
-        <updated>2021-10-27T10:25:17.723Z</updated>
-        <content type="html"><![CDATA[BTS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [트와이스] 쯔위 로피시엘 화보 촬영 비하인드 영상 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/63920?category=2</id>
-        <link href="https://ppt21.com/spoent/63920?category=2"/>
-        <updated>2021-10-27T07:21:15.660Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [에스파] 갑자기(?) 더쇼 1위 / 인기가요 페이스캠 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/63919?category=2</id>
-        <link href="https://ppt21.com/spoent/63919?category=2"/>
-        <updated>2021-10-27T07:21:15.662Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 상금 10억, 세상에 단 하나뿐인 K-치킨 전쟁이 시작된다 (feat.오징어게임) (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/63914?category=2</id>
-        <link href="https://ppt21.com/spoent/63914?category=2"/>
-        <updated>2021-10-27T04:29:18.688Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 지옥  공식예고편 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/63911?category=2</id>
-        <link href="https://ppt21.com/spoent/63911?category=2"/>
-        <updated>2021-10-27T02:33:09.533Z</updated>
-        <content type="html"><![CDATA[어강됴리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 신곡나온 에픽하이 근황.jpg (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/63910?category=2</id>
-        <link href="https://ppt21.com/spoent/63910?category=2"/>
-        <updated>2021-10-27T01:08:40.750Z</updated>
-        <content type="html"><![CDATA[너]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 어린 시절 외모 콤플렉스였던 배우.jpg (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/63909?category=2</id>
-        <link href="https://ppt21.com/spoent/63909?category=2"/>
-        <updated>2021-10-27T01:08:40.757Z</updated>
-        <content type="html"><![CDATA[명탐정코난]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예]  진정한 희극인의 길을 가고있는 미주 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/63906?category=2</id>
-        <link href="https://ppt21.com/spoent/63906?category=2"/>
-        <updated>2021-10-27T01:08:40.757Z</updated>
-        <content type="html"><![CDATA[강가딘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [듄] 북미 오프닝 성적 등 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/63904?category=2</id>
-        <link href="https://ppt21.com/spoent/63904?category=2"/>
-        <updated>2021-10-26T15:23:52.354Z</updated>
-        <content type="html"><![CDATA[빼사스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] SNL 주현영 인턴기자 근황 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/63902?category=2</id>
-        <link href="https://ppt21.com/spoent/63902?category=2"/>
-        <updated>2021-10-26T14:23:01.354Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 걸스플래닛999' 김수연, 미스틱스토리 첫 걸그룹 빌리(Billlie)로 데뷔 예정 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/63901?category=2</id>
-        <link href="https://ppt21.com/spoent/63901?category=2"/>
-        <updated>2021-10-26T13:26:43.766Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 미스틱 걸그룹(빌리) 멤버 소개 및 이것저것 여담 (사진주의) (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/63899?category=2</id>
-        <link href="https://ppt21.com/spoent/63899?category=2"/>
-        <updated>2021-10-26T13:26:43.768Z</updated>
-        <content type="html"><![CDATA[breathe]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] '마이 네임' 작가&감독&배우 코멘터리 영상 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/63898?category=2</id>
-        <link href="https://ppt21.com/spoent/63898?category=2"/>
-        <updated>2021-10-26T12:35:14.266Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 볼빨간사춘기 '나비효과' & '너는 내 세상이었어' M/V (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/63895?category=2</id>
-        <link href="https://ppt21.com/spoent/63895?category=2"/>
-        <updated>2021-10-26T09:22:53.279Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [아이유] 신곡 발표 기념 딸기 쿡방 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/63891?category=2</id>
-        <link href="https://ppt21.com/spoent/63891?category=2"/>
-        <updated>2021-10-26T06:26:41.941Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 넷플릭스 TV Show 랭킹 근황... (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/63890?category=2</id>
-        <link href="https://ppt21.com/spoent/63890?category=2"/>
-        <updated>2021-10-26T04:29:27.846Z</updated>
-        <content type="html"><![CDATA[우주전쟁]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://KPOPCORD.github.io/community/all.xml</id>
-        <link href="https://KPOPCORD.github.io/community/all.xml"/>
+        <title type="html"><![CDATA[0]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056"/>
         <updated>2021-10-27T21:21:50.860Z</updated>
         <content type="html"><![CDATA[<td colspan="5"><i class="fas fa-expand-arrows-alt"></i> 모든 공지 확인하기(<span id="notice_count"></span>)</td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Billlie(빌리) Our first fan song, [ FLOWERLD ] (더쿠 ─ 케이돌토크)]]></title>
+        <title type="html"><![CDATA[Billlie(빌리) Our first fan song, [ FLOWERLD ]]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2218246595</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2218246595"/>
         <updated>2021-10-27T21:21:51.101Z</updated>
@@ -159,7 +27,7 @@
 <td class="m_no">77</td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[더보이즈 큐 위더보 (더쿠 ─ 케이돌토크)]]></title>
+        <title type="html"><![CDATA[더보이즈 큐 위더보]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2218178771</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2218178771"/>
         <updated>2021-10-27T21:21:51.129Z</updated>
@@ -173,7 +41,7 @@
 <td class="m_no">47</td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[엔하이픈 선우 멤트🌙 (더쿠 ─ 케이돌토크)]]></title>
+        <title type="html"><![CDATA[엔하이픈 선우 멤트🌙]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2218177897</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2218177897"/>
         <updated>2021-10-27T21:21:51.129Z</updated>
@@ -187,7 +55,7 @@
 <td class="m_no">58</td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[더보이즈 상연 위더보 (더쿠 ─ 케이돌토크)]]></title>
+        <title type="html"><![CDATA[더보이즈 상연 위더보]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2218171678</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2218171678"/>
         <updated>2021-10-27T21:21:51.133Z</updated>
@@ -201,7 +69,7 @@
 <td class="m_no">39</td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[전소미 ‘XOXO’ THE FIRST ALBUM 2021.10.29 6PM (KST) (더쿠 ─ 케이돌토크)]]></title>
+        <title type="html"><![CDATA[전소미 ‘XOXO’ THE FIRST ALBUM 2021.10.29 6PM (KST)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2218149770</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2218149770"/>
         <updated>2021-10-27T21:21:51.134Z</updated>
@@ -215,7 +83,7 @@
 <td class="m_no">174</td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[투바투 <Frost> Official MV (세계관 뮤비) (더쿠 ─ 케이돌토크)]]></title>
+        <title type="html"><![CDATA[투바투 <Frost> Official MV (세계관 뮤비)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2218148907</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2218148907"/>
         <updated>2021-10-27T21:21:51.135Z</updated>
@@ -229,7 +97,7 @@
 <td class="m_no">260</td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LEE JIN HYUK (이진혁) 'Work Work' MV (Performance Ver.) (더쿠 ─ 케이돌토크)]]></title>
+        <title type="html"><![CDATA[LEE JIN HYUK (이진혁) 'Work Work' MV (Performance Ver.)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2218146000</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2218146000"/>
         <updated>2021-10-27T21:21:51.137Z</updated>
@@ -243,7 +111,7 @@
 <td class="m_no">52</td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[2021 WEEK&DRIPPIN] DRIPPIN(드리핀) FAMILY PHOTO (더쿠 ─ 케이돌토크)]]></title>
+        <title type="html"><![CDATA[[2021 WEEK&DRIPPIN] DRIPPIN(드리핀) FAMILY PHOTO]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2218144283</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2218144283"/>
         <updated>2021-10-27T21:21:51.138Z</updated>
@@ -257,7 +125,7 @@
 <td class="m_no">106</td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[THE BOYZ 3RD SINGLE ALBUM [MAVERICK] HIGHLIGHT MEDLEY (더쿠 ─ 케이돌토크)]]></title>
+        <title type="html"><![CDATA[THE BOYZ 3RD SINGLE ALBUM [MAVERICK] HIGHLIGHT MEDLEY]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2218142650</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2218142650"/>
         <updated>2021-10-27T21:21:51.140Z</updated>
@@ -271,7 +139,7 @@
 <td class="m_no">193</td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이진혁 4집 쇼케이스 무대컷 (더쿠 ─ 케이돌토크)]]></title>
+        <title type="html"><![CDATA[이진혁 4집 쇼케이스 무대컷]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2218063511</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2218063511"/>
         <updated>2021-10-27T21:21:51.143Z</updated>
@@ -285,7 +153,7 @@
 <td class="m_no">59</td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[케이팝 남자아이돌 빌보드 200 차트 순위 (211027) (더쿠 ─ 케이돌토크)]]></title>
+        <title type="html"><![CDATA[케이팝 남자아이돌 빌보드 200 차트 순위 (211027)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2218056450</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2218056450"/>
         <updated>2021-10-27T21:21:51.143Z</updated>
@@ -299,7 +167,7 @@
 <td class="m_no">940</td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[7곡 꽉꽉 채운 원위 키아 믹스테잎 'Unarmed4' (더쿠 ─ 케이돌토크)]]></title>
+        <title type="html"><![CDATA[7곡 꽉꽉 채운 원위 키아 믹스테잎 'Unarmed4']]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2218046988</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2218046988"/>
         <updated>2021-10-27T21:21:51.144Z</updated>
@@ -313,7 +181,7 @@
 <td class="m_no">37</td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[엔하이픈 정원 멤트❤ (더쿠 ─ 케이돌토크)]]></title>
+        <title type="html"><![CDATA[엔하이픈 정원 멤트❤]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2218028456</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2218028456"/>
         <updated>2021-10-27T21:21:51.159Z</updated>
@@ -327,7 +195,7 @@
 <td class="m_no">86</td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[남우현(NAM WOO HYUN) ‘냉정과 열정 사이’ Dance Practice Video (더쿠 ─ 케이돌토크)]]></title>
+        <title type="html"><![CDATA[남우현(NAM WOO HYUN) ‘냉정과 열정 사이’ Dance Practice Video]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2217916580</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2217916580"/>
         <updated>2021-10-27T21:21:51.160Z</updated>
@@ -341,7 +209,7 @@
 <td class="m_no">78</td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[엔하이픈 성훈 멤트🖤 (더쿠 ─ 케이돌토크)]]></title>
+        <title type="html"><![CDATA[엔하이픈 성훈 멤트🖤]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2217916579</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2217916579"/>
         <updated>2021-10-27T21:21:51.160Z</updated>
@@ -355,7 +223,7 @@
 <td class="m_no">122</td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[엔하이픈 Tamed-Dashed 안무영상 (더쿠 ─ 케이돌토크)]]></title>
+        <title type="html"><![CDATA[엔하이픈 Tamed-Dashed 안무영상]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2217909853</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2217909853"/>
         <updated>2021-10-27T21:21:51.161Z</updated>
@@ -369,7 +237,7 @@
 <td class="m_no">79</td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JUST B 'TICK TOCK' Official MV (더쿠 ─ 케이돌토크)]]></title>
+        <title type="html"><![CDATA[JUST B 'TICK TOCK' Official MV]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2217846827</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2217846827"/>
         <updated>2021-10-27T21:21:51.162Z</updated>
@@ -383,7 +251,7 @@
 <td class="m_no">35</td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[도라이비 우주로!] 우주왕비 도라이비(妃)의 '우주로' 그 여정의 시작 (더쿠 ─ 케이돌토크)]]></title>
+        <title type="html"><![CDATA[[도라이비 우주로!] 우주왕비 도라이비(妃)의 '우주로' 그 여정의 시작]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2217817137</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2217817137"/>
         <updated>2021-10-27T21:21:51.163Z</updated>
@@ -397,7 +265,7 @@
 <td class="m_no">27</td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[네이버포스트] 엔하이픈 컴백쇼 비하인드 포토 (더쿠 ─ 케이돌토크)]]></title>
+        <title type="html"><![CDATA[[네이버포스트] 엔하이픈 컴백쇼 비하인드 포토]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2217788393</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2217788393"/>
         <updated>2021-10-27T21:21:51.166Z</updated>
@@ -411,7 +279,7 @@
 <td class="m_no">106</td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아스트로 MJ Digital Single <Happy Virus> Concept Photo① (더쿠 ─ 케이돌토크)]]></title>
+        <title type="html"><![CDATA[아스트로 MJ Digital Single <Happy Virus> Concept Photo①]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2217744971</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2217744971"/>
         <updated>2021-10-27T21:21:51.167Z</updated>
