@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-27T10:25:18.585Z</updated>
+    <updated>2021-10-27T11:19:06.958Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] tvN 신작 월화 드라마에 출연하는 하승진 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/63923?category=2</id>
+        <link href="https://ppt21.com/spoent/63923?category=2"/>
+        <updated>2021-10-27T11:19:06.122Z</updated>
+        <content type="html"><![CDATA[아롱이다롱이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 순간, 식빵이라고 말할 뻔한 여자 연예인 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/63922?category=2</id>
@@ -129,12 +136,5 @@
         <link href="https://ppt21.com/spoent/63884?category=2"/>
         <updated>2021-10-25T23:23:13.756Z</updated>
         <content type="html"><![CDATA[강가딘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 백스트리트보이즈의 2010년 이후 공연 셋리스트.TXT (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/63881?category=2</id>
-        <link href="https://ppt21.com/spoent/63881?category=2"/>
-        <updated>2021-10-25T12:35:15.841Z</updated>
-        <content type="html"><![CDATA[비타에듀]]></content>
     </entry>
 </feed>
