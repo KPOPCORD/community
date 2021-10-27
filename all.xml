@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-27T09:22:33.927Z</updated>
+    <updated>2021-10-27T10:25:18.585Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] 순간, 식빵이라고 말할 뻔한 여자 연예인 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/63922?category=2</id>
+        <link href="https://ppt21.com/spoent/63922?category=2"/>
+        <updated>2021-10-27T10:25:17.723Z</updated>
+        <content type="html"><![CDATA[BTS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [트와이스] 쯔위 로피시엘 화보 촬영 비하인드 영상 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/63920?category=2</id>
@@ -129,12 +136,5 @@
         <link href="https://ppt21.com/spoent/63881?category=2"/>
         <updated>2021-10-25T12:35:15.841Z</updated>
         <content type="html"><![CDATA[비타에듀]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 뭣 모르고  도시어부 나가서 고기 왕창 잡은 이달소 올리비아 혜 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/63880?category=2</id>
-        <link href="https://ppt21.com/spoent/63880?category=2"/>
-        <updated>2021-10-25T07:21:34.372Z</updated>
-        <content type="html"><![CDATA[강가딘]]></content>
     </entry>
 </feed>
