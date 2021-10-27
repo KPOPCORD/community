@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-10-27T11:19:06.963Z</updated>
+    <updated>2021-10-27T12:35:31.184Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 위키피디아 분석기사 "오징어게임 역대 최고 히트작"]]></title>
+        <id>https://ppt21.com/spoent/63924?category=2</id>
+        <link href="https://ppt21.com/spoent/63924?category=2"/>
+        <updated>2021-10-27T12:35:30.480Z</updated>
+        <content type="html"><![CDATA[핑크솔져]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] tvN 신작 월화 드라마에 출연하는 하승진]]></title>
         <id>https://ppt21.com/spoent/63923?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/63885?category=2"/>
         <updated>2021-10-26T01:08:50.602Z</updated>
         <content type="html"><![CDATA[오곡물티슈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 유지애 "미주는 퀴즈로 내가 이긴다."]]></title>
-        <id>https://ppt21.com/spoent/63884?category=2</id>
-        <link href="https://ppt21.com/spoent/63884?category=2"/>
-        <updated>2021-10-25T23:23:13.756Z</updated>
-        <content type="html"><![CDATA[강가딘]]></content>
     </entry>
 </feed>
