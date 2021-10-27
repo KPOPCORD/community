@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-10-27T01:08:41.595Z</updated>
+    <updated>2021-10-27T02:33:10.322Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 지옥  공식예고편]]></title>
+        <id>https://ppt21.com/spoent/63911?category=2</id>
+        <link href="https://ppt21.com/spoent/63911?category=2"/>
+        <updated>2021-10-27T02:33:09.533Z</updated>
+        <content type="html"><![CDATA[어강됴리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 신곡나온 에픽하이 근황.jpg]]></title>
         <id>https://ppt21.com/spoent/63910?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/63872?category=2"/>
         <updated>2021-10-24T17:24:00.273Z</updated>
         <content type="html"><![CDATA[유니언스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [트와이스] 정규 3집 'Formula of Love: O+T=<3' M/V 오프닝 트레일러]]></title>
-        <id>https://ppt21.com/spoent/63870?category=2</id>
-        <link href="https://ppt21.com/spoent/63870?category=2"/>
-        <updated>2021-10-24T15:22:40.182Z</updated>
-        <content type="html"><![CDATA[TWICE쯔위]]></content>
     </entry>
 </feed>
