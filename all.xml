@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-27T21:21:51.792Z</updated>
+    <updated>2021-10-27T21:28:50.912Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[연예] 어느 걸그룹 방송사고.swf (Pgr21 ─ 연예)]]></title>
@@ -138,290 +138,143 @@
         <content type="html"><![CDATA[우주전쟁]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://KPOPCORD.github.io/community/all.xml</id>
-        <link href="https://KPOPCORD.github.io/community/all.xml"/>
-        <updated>2021-10-27T21:21:50.860Z</updated>
-        <content type="html"><![CDATA[<td colspan="5"><i class="fas fa-expand-arrows-alt"></i> 모든 공지 확인하기(<span id="notice_count"></span>)</td>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Billlie(빌리) Our first fan song, [ FLOWERLD ] (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2218246595</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2218246595"/>
         <updated>2021-10-27T21:21:51.101Z</updated>
-        <content type="html"><![CDATA[<td class="no">
-302317 </td>
-<td class="cate"><span style="color:#fb8cc5">스퀘어</span></td> <td class="title">
-<a href="/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2218246595"><span style="">Billlie(빌리) Our first fan song, [ FLOWERLD ]</span></a>
-<a href="/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2218246595#2218246595_comment" class="replyNum">1</a> </td>
-<td class="time">
-02:02 </td>
-<td class="m_no">77</td>]]></content>
+        <content type="html"><![CDATA[302317]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[더보이즈 큐 위더보 (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2218178771</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2218178771"/>
         <updated>2021-10-27T21:21:51.129Z</updated>
-        <content type="html"><![CDATA[<td class="no">
-302316 </td>
-<td class="cate"><span style="color:#fb8cc5">스퀘어</span></td> <td class="title">
-<a href="/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2218178771"><span style="">더보이즈 큐 위더보</span></a>
-</td>
-<td class="time">
-00:32 </td>
-<td class="m_no">47</td>]]></content>
+        <content type="html"><![CDATA[302316]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[엔하이픈 선우 멤트🌙 (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2218177897</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2218177897"/>
         <updated>2021-10-27T21:21:51.129Z</updated>
-        <content type="html"><![CDATA[<td class="no">
-302315 </td>
-<td class="cate"><span style="color:#fb8cc5">스퀘어</span></td> <td class="title">
-<a href="/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2218177897"><span style="">엔하이픈 선우 멤트🌙</span></a>
-<i class="fas fa-images"></i> <a href="/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2218177897#2218177897_comment" class="replyNum">2</a> </td>
-<td class="time">
-00:31 </td>
-<td class="m_no">58</td>]]></content>
+        <content type="html"><![CDATA[302315]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[더보이즈 상연 위더보 (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2218171678</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2218171678"/>
         <updated>2021-10-27T21:21:51.133Z</updated>
-        <content type="html"><![CDATA[<td class="no">
-302314 </td>
-<td class="cate"><span style="color:#fb8cc5">스퀘어</span></td> <td class="title">
-<a href="/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2218171678"><span style="">더보이즈 상연 위더보</span></a>
-</td>
-<td class="time">
-00:25 </td>
-<td class="m_no">39</td>]]></content>
+        <content type="html"><![CDATA[302314]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[전소미 ‘XOXO’ THE FIRST ALBUM 2021.10.29 6PM (KST) (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2218149770</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2218149770"/>
         <updated>2021-10-27T21:21:51.134Z</updated>
-        <content type="html"><![CDATA[<td class="no">
-302313 </td>
-<td class="cate"><span style="color:#fb8cc5">스퀘어</span></td> <td class="title">
-<a href="/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2218149770"><span style="">전소미 ‘XOXO’ THE FIRST ALBUM 2021.10.29 6PM (KST)</span></a>
-<i class="fas fa-images"></i> <a href="/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2218149770#2218149770_comment" class="replyNum">3</a> </td>
-<td class="time">
-00:06 </td>
-<td class="m_no">174</td>]]></content>
+        <content type="html"><![CDATA[302313]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[투바투 <Frost> Official MV (세계관 뮤비) (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2218148907</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2218148907"/>
         <updated>2021-10-27T21:21:51.135Z</updated>
-        <content type="html"><![CDATA[<td class="no">
-302312 </td>
-<td class="cate"><span style="color:#fb8cc5">스퀘어</span></td> <td class="title">
-<a href="/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2218148907"><span style="">투바투 &lt;Frost&gt; Official MV (세계관 뮤비)</span></a>
-<a href="/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2218148907#2218148907_comment" class="replyNum">10</a> </td>
-<td class="time">
-00:05 </td>
-<td class="m_no">260</td>]]></content>
+        <content type="html"><![CDATA[302312]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[LEE JIN HYUK (이진혁) 'Work Work' MV (Performance Ver.) (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2218146000</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2218146000"/>
         <updated>2021-10-27T21:21:51.137Z</updated>
-        <content type="html"><![CDATA[<td class="no">
-302311 </td>
-<td class="cate"><span style="color:#fb8cc5">스퀘어</span></td> <td class="title">
-<a href="/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2218146000"><span style="">LEE JIN HYUK (이진혁) 'Work Work' MV (Performance Ver.)</span></a>
-<a href="/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2218146000#2218146000_comment" class="replyNum">1</a> </td>
-<td class="time">
-00:03 </td>
-<td class="m_no">52</td>]]></content>
+        <content type="html"><![CDATA[302311]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[2021 WEEK&DRIPPIN] DRIPPIN(드리핀) FAMILY PHOTO (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2218144283</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2218144283"/>
         <updated>2021-10-27T21:21:51.138Z</updated>
-        <content type="html"><![CDATA[<td class="no">
-302310 </td>
-<td class="cate"><span style="color:#fb8cc5">스퀘어</span></td> <td class="title">
-<a href="/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2218144283"><span style="">[2021 WEEK&amp;DRIPPIN] DRIPPIN(드리핀) FAMILY PHOTO</span></a>
-<a href="/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2218144283#2218144283_comment" class="replyNum">5</a> </td>
-<td class="time">
-00:02 </td>
-<td class="m_no">106</td>]]></content>
+        <content type="html"><![CDATA[302310]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[THE BOYZ 3RD SINGLE ALBUM [MAVERICK] HIGHLIGHT MEDLEY (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2218142650</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2218142650"/>
         <updated>2021-10-27T21:21:51.140Z</updated>
-        <content type="html"><![CDATA[<td class="no">
-302309 </td>
-<td class="cate"><span style="color:#fb8cc5">스퀘어</span></td> <td class="title">
-<a href="/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2218142650"><span style="">THE BOYZ 3RD SINGLE ALBUM [MAVERICK] HIGHLIGHT MEDLEY</span></a>
-</td>
-<td class="time">
-00:00 </td>
-<td class="m_no">193</td>]]></content>
+        <content type="html"><![CDATA[302309]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이진혁 4집 쇼케이스 무대컷 (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2218063511</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2218063511"/>
         <updated>2021-10-27T21:21:51.143Z</updated>
-        <content type="html"><![CDATA[<td class="no">
-302308 </td>
-<td class="cate"><span style="color:#fb8cc5">스퀘어</span></td> <td class="title">
-<a href="/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2218063511"><span style="">이진혁 4집 쇼케이스 무대컷</span></a>
-<a href="/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2218063511#2218063511_comment" class="replyNum">2</a> </td>
-<td class="time">
-10.27 </td>
-<td class="m_no">59</td>]]></content>
+        <content type="html"><![CDATA[302308]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[케이팝 남자아이돌 빌보드 200 차트 순위 (211027) (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2218056450</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2218056450"/>
         <updated>2021-10-27T21:21:51.143Z</updated>
-        <content type="html"><![CDATA[<td class="no">
-302307 </td>
-<td class="cate"><span style="color:#fb8cc5">스퀘어</span></td> <td class="title">
-<a href="/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2218056450"><span style="">케이팝 남자아이돌 빌보드 200 차트 순위 (211027)</span></a>
-<a href="/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2218056450#2218056450_comment" class="replyNum">10</a> </td>
-<td class="time">
-10.27 </td>
-<td class="m_no">940</td>]]></content>
+        <content type="html"><![CDATA[302307]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[7곡 꽉꽉 채운 원위 키아 믹스테잎 'Unarmed4' (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2218046988</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2218046988"/>
         <updated>2021-10-27T21:21:51.144Z</updated>
-        <content type="html"><![CDATA[<td class="no">
-302306 </td>
-<td class="cate"><span style="color:#fb8cc5">스퀘어</span></td> <td class="title">
-<a href="/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2218046988"><span style="">7곡 꽉꽉 채운 원위 키아 믹스테잎 'Unarmed4'</span></a>
-</td>
-<td class="time">
-10.27 </td>
-<td class="m_no">37</td>]]></content>
+        <content type="html"><![CDATA[302306]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[엔하이픈 정원 멤트❤ (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2218028456</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2218028456"/>
         <updated>2021-10-27T21:21:51.159Z</updated>
-        <content type="html"><![CDATA[<td class="no">
-302305 </td>
-<td class="cate"><span style="color:#fb8cc5">스퀘어</span></td> <td class="title">
-<a href="/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2218028456"><span style="">엔하이픈 정원 멤트❤</span></a>
-<i class="fas fa-images"></i> <a href="/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2218028456#2218028456_comment" class="replyNum">7</a> </td>
-<td class="time">
-10.27 </td>
-<td class="m_no">86</td>]]></content>
+        <content type="html"><![CDATA[302305]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[남우현(NAM WOO HYUN) ‘냉정과 열정 사이’ Dance Practice Video (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2217916580</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2217916580"/>
         <updated>2021-10-27T21:21:51.160Z</updated>
-        <content type="html"><![CDATA[<td class="no">
-302304 </td>
-<td class="cate"><span style="color:#fb8cc5">스퀘어</span></td> <td class="title">
-<a href="/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2217916580"><span style="">남우현(NAM WOO HYUN) ‘냉정과 열정 사이’ Dance Practice Video</span></a>
-<a href="/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2217916580#2217916580_comment" class="replyNum">1</a> </td>
-<td class="time">
-10.27 </td>
-<td class="m_no">78</td>]]></content>
+        <content type="html"><![CDATA[302304]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[엔하이픈 성훈 멤트🖤 (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2217916579</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2217916579"/>
         <updated>2021-10-27T21:21:51.160Z</updated>
-        <content type="html"><![CDATA[<td class="no">
-302303 </td>
-<td class="cate"><span style="color:#fb8cc5">스퀘어</span></td> <td class="title">
-<a href="/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2217916579"><span style="">엔하이픈 성훈 멤트🖤</span></a>
-<i class="fas fa-images"></i> <a href="/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2217916579#2217916579_comment" class="replyNum">8</a> </td>
-<td class="time">
-10.27 </td>
-<td class="m_no">122</td>]]></content>
+        <content type="html"><![CDATA[302303]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[엔하이픈 Tamed-Dashed 안무영상 (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2217909853</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2217909853"/>
         <updated>2021-10-27T21:21:51.161Z</updated>
-        <content type="html"><![CDATA[<td class="no">
-302302 </td>
-<td class="cate"><span style="color:#fb8cc5">스퀘어</span></td> <td class="title">
-<a href="/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2217909853"><span style="">엔하이픈 Tamed-Dashed 안무영상</span></a>
-<a href="/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2217909853#2217909853_comment" class="replyNum">5</a> </td>
-<td class="time">
-10.27 </td>
-<td class="m_no">79</td>]]></content>
+        <content type="html"><![CDATA[302302]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[JUST B 'TICK TOCK' Official MV (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2217846827</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2217846827"/>
         <updated>2021-10-27T21:21:51.162Z</updated>
-        <content type="html"><![CDATA[<td class="no">
-302301 </td>
-<td class="cate"><span style="color:#fb8cc5">스퀘어</span></td> <td class="title">
-<a href="/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2217846827"><span style="">JUST B 'TICK TOCK' Official MV</span></a>
-</td>
-<td class="time">
-10.27 </td>
-<td class="m_no">35</td>]]></content>
+        <content type="html"><![CDATA[302301]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[도라이비 우주로!] 우주왕비 도라이비(妃)의 '우주로' 그 여정의 시작 (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2217817137</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2217817137"/>
         <updated>2021-10-27T21:21:51.163Z</updated>
-        <content type="html"><![CDATA[<td class="no">
-302300 </td>
-<td class="cate"><span style="color:#fb8cc5">스퀘어</span></td> <td class="title">
-<a href="/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2217817137"><span style="">[도라이비 우주로!] 우주왕비 도라이비(妃)의 '우주로' 그 여정의 시작</span></a>
-</td>
-<td class="time">
-10.27 </td>
-<td class="m_no">27</td>]]></content>
+        <content type="html"><![CDATA[302300]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[네이버포스트] 엔하이픈 컴백쇼 비하인드 포토 (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2217788393</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2217788393"/>
         <updated>2021-10-27T21:21:51.166Z</updated>
-        <content type="html"><![CDATA[<td class="no">
-302299 </td>
-<td class="cate"><span style="color:#fb8cc5">스퀘어</span></td> <td class="title">
-<a href="/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2217788393"><span style="">[네이버포스트] 엔하이픈 컴백쇼 비하인드 포토</span></a>
-<i class="fas fa-images"></i> <a href="/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2217788393#2217788393_comment" class="replyNum">4</a> </td>
-<td class="time">
-10.27 </td>
-<td class="m_no">106</td>]]></content>
+        <content type="html"><![CDATA[302299]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아스트로 MJ Digital Single <Happy Virus> Concept Photo① (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2217744971</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2217744971"/>
         <updated>2021-10-27T21:21:51.167Z</updated>
-        <content type="html"><![CDATA[<td class="no">
-302298 </td>
-<td class="cate"><span style="color:#fb8cc5">스퀘어</span></td> <td class="title">
-<a href="/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2217744971"><span style="">아스트로 MJ Digital Single &lt;Happy Virus&gt; Concept Photo①</span></a>
-<i class="fas fa-images"></i> <a href="/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2217744971#2217744971_comment" class="replyNum">2</a> </td>
-<td class="time">
-10.27 </td>
-<td class="m_no">101</td>]]></content>
+        <content type="html"><![CDATA[302298]]></content>
     </entry>
 </feed>
