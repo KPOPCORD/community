@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-10-26T23:22:38.004Z</updated>
+    <updated>2021-10-27T01:08:41.595Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 신곡나온 에픽하이 근황.jpg]]></title>
+        <id>https://ppt21.com/spoent/63910?category=2</id>
+        <link href="https://ppt21.com/spoent/63910?category=2"/>
+        <updated>2021-10-27T01:08:40.750Z</updated>
+        <content type="html"><![CDATA[너]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 어린 시절 외모 콤플렉스였던 배우.jpg]]></title>
+        <id>https://ppt21.com/spoent/63909?category=2</id>
+        <link href="https://ppt21.com/spoent/63909?category=2"/>
+        <updated>2021-10-27T01:08:40.757Z</updated>
+        <content type="html"><![CDATA[명탐정코난]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예]  진정한 희극인의 길을 가고있는 미주]]></title>
+        <id>https://ppt21.com/spoent/63906?category=2</id>
+        <link href="https://ppt21.com/spoent/63906?category=2"/>
+        <updated>2021-10-27T01:08:40.757Z</updated>
+        <content type="html"><![CDATA[강가딘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [듄] 북미 오프닝 성적 등]]></title>
         <id>https://ppt21.com/spoent/63904?category=2</id>
@@ -116,26 +137,5 @@
         <link href="https://ppt21.com/spoent/63870?category=2"/>
         <updated>2021-10-24T15:22:40.182Z</updated>
         <content type="html"><![CDATA[TWICE쯔위]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [에스파] 인기가요 1위 앵콜 직캠 (+무대 영상 & 엔딩요정)]]></title>
-        <id>https://ppt21.com/spoent/63869?category=2</id>
-        <link href="https://ppt21.com/spoent/63869?category=2"/>
-        <updated>2021-10-24T14:20:00.838Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 김수현 작가의 역대 드라마 집필 리스트.TXT]]></title>
-        <id>https://ppt21.com/spoent/63867?category=2</id>
-        <link href="https://ppt21.com/spoent/63867?category=2"/>
-        <updated>2021-10-24T14:20:00.839Z</updated>
-        <content type="html"><![CDATA[비타에듀]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 벤 샤피로의 오징어게임(기생충) 감상평.JPG]]></title>
-        <id>https://ppt21.com/spoent/63864?category=2</id>
-        <link href="https://ppt21.com/spoent/63864?category=2"/>
-        <updated>2021-10-24T11:18:40.185Z</updated>
-        <content type="html"><![CDATA[핑크솔져]]></content>
     </entry>
 </feed>
