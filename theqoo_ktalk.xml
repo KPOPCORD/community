@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2021-10-27T23:23:28.192Z</updated>
+    <updated>2021-10-28T01:09:38.794Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[투바투 연준 키스더라디오 인스타]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2218360758</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2218360758"/>
+        <updated>2021-10-28T01:09:38.074Z</updated>
+        <content type="html"><![CDATA[302317]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Billlie(빌리) Our first fan song, [ FLOWERLD ]]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2218246595</id>
@@ -137,12 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2217744971"/>
         <updated>2021-10-27T21:21:51.167Z</updated>
         <content type="html"><![CDATA[302298]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아무도 못 알아본다면서요… 역시 슈스는 다르다 🤷‍♂️ | 사생활 남우현편 #05]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2217699657</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2217699657"/>
-        <updated>2021-10-27T23:23:27.515Z</updated>
-        <content type="html"><![CDATA[302297]]></content>
     </entry>
 </feed>

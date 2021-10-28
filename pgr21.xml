@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-10-27T23:23:28.190Z</updated>
+    <updated>2021-10-28T01:09:38.795Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [단독] 소녀시대 태연, 기획부동산 사기 피해..10억원대 손실]]></title>
+        <id>https://ppt21.com/spoent/63932?category=2</id>
+        <link href="https://ppt21.com/spoent/63932?category=2"/>
+        <updated>2021-10-28T01:09:28.466Z</updated>
+        <content type="html"><![CDATA[실버벨]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 어느 걸그룹 방송사고.swf]]></title>
         <id>https://ppt21.com/spoent/63928?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/63891?category=2"/>
         <updated>2021-10-26T06:26:41.941Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 넷플릭스 TV Show 랭킹 근황...]]></title>
-        <id>https://ppt21.com/spoent/63890?category=2</id>
-        <link href="https://ppt21.com/spoent/63890?category=2"/>
-        <updated>2021-10-26T04:29:27.846Z</updated>
-        <content type="html"><![CDATA[우주전쟁]]></content>
     </entry>
 </feed>
