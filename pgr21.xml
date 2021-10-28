@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-10-28T21:19:39.815Z</updated>
+    <updated>2021-10-28T22:21:43.419Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 잘 봐 아나운서 싸움이다 I 스트릿 아나운서 파이터 예고]]></title>
+        <id>https://ppt21.com/spoent/63961?category=2</id>
+        <link href="https://ppt21.com/spoent/63961?category=2"/>
+        <updated>2021-10-28T22:21:33.093Z</updated>
+        <content type="html"><![CDATA[강가딘]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 이달소 츄와 가비가 함께추는 혜이마마]]></title>
+        <id>https://ppt21.com/spoent/63960?category=2</id>
+        <link href="https://ppt21.com/spoent/63960?category=2"/>
+        <updated>2021-10-28T22:21:33.094Z</updated>
+        <content type="html"><![CDATA[강가딘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [로켓펀치] 쥬리 근황]]></title>
         <id>https://ppt21.com/spoent/63957?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/63914?category=2"/>
         <updated>2021-10-27T04:29:18.688Z</updated>
         <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 지옥  공식예고편]]></title>
-        <id>https://ppt21.com/spoent/63911?category=2</id>
-        <link href="https://ppt21.com/spoent/63911?category=2"/>
-        <updated>2021-10-27T02:33:09.533Z</updated>
-        <content type="html"><![CDATA[어강됴리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 신곡나온 에픽하이 근황.jpg]]></title>
-        <id>https://ppt21.com/spoent/63910?category=2</id>
-        <link href="https://ppt21.com/spoent/63910?category=2"/>
-        <updated>2021-10-27T01:08:40.750Z</updated>
-        <content type="html"><![CDATA[너]]></content>
     </entry>
 </feed>
