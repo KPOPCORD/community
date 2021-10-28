@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-28T22:21:43.423Z</updated>
+    <updated>2021-10-28T23:22:44.060Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[연예] 잘 봐 아나운서 싸움이다 I 스트릿 아나운서 파이터 예고 (Pgr21 ─ 연예)]]></title>
@@ -138,6 +138,13 @@
         <content type="html"><![CDATA[아롱이다롱이]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[투바투 태현 키스더라디오 인스타 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2219664996</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2219664996"/>
+        <updated>2021-10-28T23:22:43.319Z</updated>
+        <content type="html"><![CDATA[302337]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[박우진 멤트 너는 내게 빠진다~! 윙가르디움 레비오짹~~🐦🪄💛🤎 (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2219543246</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2219543246"/>
@@ -269,12 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2219070753"/>
         <updated>2021-10-28T10:25:22.824Z</updated>
         <content type="html"><![CDATA[302318]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방탄 인더숲 시즌2 EP.3 썸네일 - 화양연화, 함께하는 식탁 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2219062055</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2219062055"/>
-        <updated>2021-10-28T10:25:22.825Z</updated>
-        <content type="html"><![CDATA[302317]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2021-10-28T22:21:43.425Z</updated>
+    <updated>2021-10-28T23:22:43.971Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[투바투 태현 키스더라디오 인스타]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2219664996</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2219664996"/>
+        <updated>2021-10-28T23:22:43.319Z</updated>
+        <content type="html"><![CDATA[302337]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박우진 멤트 너는 내게 빠진다~! 윙가르디움 레비오짹~~🐦🪄💛🤎]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2219543246</id>
@@ -137,12 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2219070753"/>
         <updated>2021-10-28T10:25:22.824Z</updated>
         <content type="html"><![CDATA[302318]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방탄 인더숲 시즌2 EP.3 썸네일 - 화양연화, 함께하는 식탁]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2219062055</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2219062055"/>
-        <updated>2021-10-28T10:25:22.825Z</updated>
-        <content type="html"><![CDATA[302317]]></content>
     </entry>
 </feed>
