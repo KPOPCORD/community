@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-10-28T06:27:05.508Z</updated>
+    <updated>2021-10-28T07:21:48.848Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 그 코인에 탑승한 전효성.JPG]]></title>
+        <id>https://ppt21.com/spoent/63946?category=2</id>
+        <link href="https://ppt21.com/spoent/63946?category=2"/>
+        <updated>2021-10-28T07:21:39.150Z</updated>
+        <content type="html"><![CDATA[AKbizs]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 데이 브레이크 & 유키카 - 속이궁금해]]></title>
         <id>https://ppt21.com/spoent/63942?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/63904?category=2"/>
         <updated>2021-10-26T15:23:52.354Z</updated>
         <content type="html"><![CDATA[빼사스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] SNL 주현영 인턴기자 근황]]></title>
-        <id>https://ppt21.com/spoent/63902?category=2</id>
-        <link href="https://ppt21.com/spoent/63902?category=2"/>
-        <updated>2021-10-26T14:23:01.354Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
