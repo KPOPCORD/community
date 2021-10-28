@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-10-28T01:09:38.795Z</updated>
+    <updated>2021-10-28T02:33:36.900Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 원빈 지난 달 화보]]></title>
+        <id>https://ppt21.com/spoent/63935?category=2</id>
+        <link href="https://ppt21.com/spoent/63935?category=2"/>
+        <updated>2021-10-28T02:33:25.734Z</updated>
+        <content type="html"><![CDATA[너]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 유재석, 후배 연예인 머슴 취급 논란]]></title>
+        <id>https://ppt21.com/spoent/63933?category=2</id>
+        <link href="https://ppt21.com/spoent/63933?category=2"/>
+        <updated>2021-10-28T02:33:25.734Z</updated>
+        <content type="html"><![CDATA[너]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [단독] 소녀시대 태연, 기획부동산 사기 피해..10억원대 손실]]></title>
         <id>https://ppt21.com/spoent/63932?category=2</id>
@@ -122,20 +136,6 @@
         <id>https://ppt21.com/spoent/63898?category=2</id>
         <link href="https://ppt21.com/spoent/63898?category=2"/>
         <updated>2021-10-26T12:35:14.266Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 볼빨간사춘기 '나비효과' & '너는 내 세상이었어' M/V]]></title>
-        <id>https://ppt21.com/spoent/63895?category=2</id>
-        <link href="https://ppt21.com/spoent/63895?category=2"/>
-        <updated>2021-10-26T09:22:53.279Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [아이유] 신곡 발표 기념 딸기 쿡방]]></title>
-        <id>https://ppt21.com/spoent/63891?category=2</id>
-        <link href="https://ppt21.com/spoent/63891?category=2"/>
-        <updated>2021-10-26T06:26:41.941Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
