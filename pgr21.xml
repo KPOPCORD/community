@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-10-28T03:23:59.830Z</updated>
+    <updated>2021-10-28T04:29:26.294Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 데이 브레이크 & 유키카 - 속이궁금해]]></title>
+        <id>https://ppt21.com/spoent/63942?category=2</id>
+        <link href="https://ppt21.com/spoent/63942?category=2"/>
+        <updated>2021-10-28T04:29:14.037Z</updated>
+        <content type="html"><![CDATA[어강됴리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 오또맘 수영복.jpg]]></title>
+        <id>https://ppt21.com/spoent/63940?category=2</id>
+        <link href="https://ppt21.com/spoent/63940?category=2"/>
+        <updated>2021-10-28T04:29:14.047Z</updated>
+        <content type="html"><![CDATA[AKbizs]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 백예린 - Antifreeze]]></title>
+        <id>https://ppt21.com/spoent/63938?category=2</id>
+        <link href="https://ppt21.com/spoent/63938?category=2"/>
+        <updated>2021-10-28T04:29:14.047Z</updated>
+        <content type="html"><![CDATA[Old Moon]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 원빈 지난 달 화보]]></title>
         <id>https://ppt21.com/spoent/63935?category=2</id>
@@ -115,27 +136,6 @@
         <id>https://ppt21.com/spoent/63902?category=2</id>
         <link href="https://ppt21.com/spoent/63902?category=2"/>
         <updated>2021-10-26T14:23:01.354Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 걸스플래닛999' 김수연, 미스틱스토리 첫 걸그룹 빌리(Billlie)로 데뷔 예정]]></title>
-        <id>https://ppt21.com/spoent/63901?category=2</id>
-        <link href="https://ppt21.com/spoent/63901?category=2"/>
-        <updated>2021-10-26T13:26:43.766Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 미스틱 걸그룹(빌리) 멤버 소개 및 이것저것 여담 (사진주의)]]></title>
-        <id>https://ppt21.com/spoent/63899?category=2</id>
-        <link href="https://ppt21.com/spoent/63899?category=2"/>
-        <updated>2021-10-26T13:26:43.768Z</updated>
-        <content type="html"><![CDATA[breathe]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] '마이 네임' 작가&감독&배우 코멘터리 영상]]></title>
-        <id>https://ppt21.com/spoent/63898?category=2</id>
-        <link href="https://ppt21.com/spoent/63898?category=2"/>
-        <updated>2021-10-26T12:35:14.266Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
