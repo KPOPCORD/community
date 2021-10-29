@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-10-29T02:33:26.983Z</updated>
+    <updated>2021-10-29T03:24:04.040Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 셀럽파이브X매직스트로베리사운드 - 잘 먹고 잘 사는 법 MV]]></title>
+        <id>https://ppt21.com/spoent/63967?category=2</id>
+        <link href="https://ppt21.com/spoent/63967?category=2"/>
+        <updated>2021-10-29T03:23:52.093Z</updated>
+        <content type="html"><![CDATA[VictoryFood]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 남초 커뮤니티에서 화제성 0인 프로그램]]></title>
         <id>https://ppt21.com/spoent/63965?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/63922?category=2"/>
         <updated>2021-10-27T10:25:17.723Z</updated>
         <content type="html"><![CDATA[BTS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [트와이스] 쯔위 로피시엘 화보 촬영 비하인드 영상]]></title>
-        <id>https://ppt21.com/spoent/63920?category=2</id>
-        <link href="https://ppt21.com/spoent/63920?category=2"/>
-        <updated>2021-10-27T07:21:15.660Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
