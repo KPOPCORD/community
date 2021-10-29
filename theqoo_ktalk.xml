@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2021-10-29T03:24:04.023Z</updated>
+    <updated>2021-10-29T04:29:34.315Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[SEVENTEEN (세븐틴) 'Rock with you' Official MV (Choreography Version)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2219936291</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2219936291"/>
+        <updated>2021-10-29T04:29:33.670Z</updated>
+        <content type="html"><![CDATA[302341]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전소미 XOXO 첫앨범 하라메]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2219886167</id>
@@ -137,12 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2219385118"/>
         <updated>2021-10-28T14:22:27.584Z</updated>
         <content type="html"><![CDATA[302322]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[씨아이엑스 현석 트위터 업뎃❤️]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2219291882</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2219291882"/>
-        <updated>2021-10-28T13:27:49.721Z</updated>
-        <content type="html"><![CDATA[302321]]></content>
     </entry>
 </feed>
