@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-10-29T06:27:23.766Z</updated>
+    <updated>2021-10-29T07:21:58.196Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 오징어게임 '시른데'좌 근황올림픽]]></title>
+        <id>https://ppt21.com/spoent/63969?category=2</id>
+        <link href="https://ppt21.com/spoent/63969?category=2"/>
+        <updated>2021-10-29T07:21:47.289Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 셀럽파이브X매직스트로베리사운드 - 잘 먹고 잘 사는 법 MV]]></title>
         <id>https://ppt21.com/spoent/63967?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/63923?category=2"/>
         <updated>2021-10-27T11:19:06.122Z</updated>
         <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 순간, 식빵이라고 말할 뻔한 여자 연예인]]></title>
-        <id>https://ppt21.com/spoent/63922?category=2</id>
-        <link href="https://ppt21.com/spoent/63922?category=2"/>
-        <updated>2021-10-27T10:25:17.723Z</updated>
-        <content type="html"><![CDATA[BTS]]></content>
     </entry>
 </feed>
