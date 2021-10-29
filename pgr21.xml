@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-10-29T15:24:44.168Z</updated>
+    <updated>2021-10-29T16:34:29.519Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 쇼미더머니 10 팀 매칭.mp4]]></title>
+        <id>https://ppt21.com/spoent/63977?category=2</id>
+        <link href="https://ppt21.com/spoent/63977?category=2"/>
+        <updated>2021-10-29T16:34:18.484Z</updated>
+        <content type="html"><![CDATA[insane]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 다비치 강민경 인스타그램]]></title>
+        <id>https://ppt21.com/spoent/63976?category=2</id>
+        <link href="https://ppt21.com/spoent/63976?category=2"/>
+        <updated>2021-10-29T16:34:18.485Z</updated>
+        <content type="html"><![CDATA[TWICE쯔위]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 에일리 '가르치지마' M/V + 오랜만의 음방 무대]]></title>
         <id>https://ppt21.com/spoent/63972?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/63935?category=2"/>
         <updated>2021-10-28T02:33:25.734Z</updated>
         <content type="html"><![CDATA[너]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 유재석, 후배 연예인 머슴 취급 논란]]></title>
-        <id>https://ppt21.com/spoent/63933?category=2</id>
-        <link href="https://ppt21.com/spoent/63933?category=2"/>
-        <updated>2021-10-28T02:33:25.734Z</updated>
-        <content type="html"><![CDATA[너]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [단독] 소녀시대 태연, 기획부동산 사기 피해..10억원대 손실]]></title>
-        <id>https://ppt21.com/spoent/63932?category=2</id>
-        <link href="https://ppt21.com/spoent/63932?category=2"/>
-        <updated>2021-10-28T01:09:28.466Z</updated>
-        <content type="html"><![CDATA[실버벨]]></content>
     </entry>
 </feed>
