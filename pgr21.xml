@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-10-29T01:08:02.043Z</updated>
+    <updated>2021-10-29T02:33:26.983Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 남초 커뮤니티에서 화제성 0인 프로그램]]></title>
+        <id>https://ppt21.com/spoent/63965?category=2</id>
+        <link href="https://ppt21.com/spoent/63965?category=2"/>
+        <updated>2021-10-29T02:33:16.540Z</updated>
+        <content type="html"><![CDATA[너]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 초아 결혼]]></title>
         <id>https://ppt21.com/spoent/63962?category=2</id>
@@ -129,13 +136,6 @@
         <id>https://ppt21.com/spoent/63920?category=2</id>
         <link href="https://ppt21.com/spoent/63920?category=2"/>
         <updated>2021-10-27T07:21:15.660Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [에스파] 갑자기(?) 더쇼 1위 / 인기가요 페이스캠]]></title>
-        <id>https://ppt21.com/spoent/63919?category=2</id>
-        <link href="https://ppt21.com/spoent/63919?category=2"/>
-        <updated>2021-10-27T07:21:15.662Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
