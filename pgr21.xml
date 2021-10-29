@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-10-29T08:27:17.864Z</updated>
+    <updated>2021-10-29T09:21:59.206Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 전소미 'XOXO' M/V]]></title>
+        <id>https://ppt21.com/spoent/63971?category=2</id>
+        <link href="https://ppt21.com/spoent/63971?category=2"/>
+        <updated>2021-10-29T09:21:45.206Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 안소희의 아이돌 댄스 커버]]></title>
+        <id>https://ppt21.com/spoent/63970?category=2</id>
+        <link href="https://ppt21.com/spoent/63970?category=2"/>
+        <updated>2021-10-29T09:21:45.207Z</updated>
+        <content type="html"><![CDATA[Leeka]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 오징어게임 '시른데'좌 근황올림픽]]></title>
         <id>https://ppt21.com/spoent/63969?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/63928?category=2"/>
         <updated>2021-10-27T13:27:26.807Z</updated>
         <content type="html"><![CDATA[TWICE쯔위]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 위키피디아 분석기사 "오징어게임 역대 최고 히트작"]]></title>
-        <id>https://ppt21.com/spoent/63924?category=2</id>
-        <link href="https://ppt21.com/spoent/63924?category=2"/>
-        <updated>2021-10-27T12:35:30.480Z</updated>
-        <content type="html"><![CDATA[핑크솔져]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] tvN 신작 월화 드라마에 출연하는 하승진]]></title>
-        <id>https://ppt21.com/spoent/63923?category=2</id>
-        <link href="https://ppt21.com/spoent/63923?category=2"/>
-        <updated>2021-10-27T11:19:06.122Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
     </entry>
 </feed>
