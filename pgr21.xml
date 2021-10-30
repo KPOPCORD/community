@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-10-30T07:21:08.941Z</updated>
+    <updated>2021-10-30T08:26:34.631Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 라잇썸 할로윈 퍼포먼스(Feat.해리포터,월리를찾아라, (G)I-DLE)]]></title>
+        <id>https://ppt21.com/spoent/63985?category=2</id>
+        <link href="https://ppt21.com/spoent/63985?category=2"/>
+        <updated>2021-10-30T08:25:44.669Z</updated>
+        <content type="html"><![CDATA[초원을달리다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 제니 ♡ 지단 럽스타그램 발각]]></title>
         <id>https://ppt21.com/spoent/63982?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/63946?category=2"/>
         <updated>2021-10-28T07:21:39.150Z</updated>
         <content type="html"><![CDATA[AKbizs]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 데이 브레이크 & 유키카 - 속이궁금해]]></title>
-        <id>https://ppt21.com/spoent/63942?category=2</id>
-        <link href="https://ppt21.com/spoent/63942?category=2"/>
-        <updated>2021-10-28T04:29:14.037Z</updated>
-        <content type="html"><![CDATA[어강됴리]]></content>
     </entry>
 </feed>
