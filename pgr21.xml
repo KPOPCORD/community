@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-10-30T04:29:25.832Z</updated>
+    <updated>2021-10-30T05:19:58.843Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 제니 ♡ 지단 럽스타그램 발각]]></title>
+        <id>https://ppt21.com/spoent/63982?category=2</id>
+        <link href="https://ppt21.com/spoent/63982?category=2"/>
+        <updated>2021-10-30T05:19:43.206Z</updated>
+        <content type="html"><![CDATA[아지매]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [데뷔 카운트 다운] "Billlie(빌리)" 트레일러 영상]]></title>
         <id>https://ppt21.com/spoent/63981?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/63942?category=2"/>
         <updated>2021-10-28T04:29:14.037Z</updated>
         <content type="html"><![CDATA[어강됴리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 오또맘 수영복.jpg]]></title>
-        <id>https://ppt21.com/spoent/63940?category=2</id>
-        <link href="https://ppt21.com/spoent/63940?category=2"/>
-        <updated>2021-10-28T04:29:14.047Z</updated>
-        <content type="html"><![CDATA[AKbizs]]></content>
     </entry>
 </feed>
