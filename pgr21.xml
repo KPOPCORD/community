@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-10-31T14:20:09.523Z</updated>
+    <updated>2021-10-31T15:23:12.829Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] Lonely night 원키]]></title>
+        <id>https://ppt21.com/spoent/64014?category=2</id>
+        <link href="https://ppt21.com/spoent/64014?category=2"/>
+        <updated>2021-10-31T15:23:02.808Z</updated>
+        <content type="html"><![CDATA[나스닥]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 2021년 10월 다섯째주 D-차트 : 아이유 1위! 세븐틴은 3위로 진입]]></title>
         <id>https://ppt21.com/spoent/64012?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/63967?category=2"/>
         <updated>2021-10-29T03:23:52.093Z</updated>
         <content type="html"><![CDATA[VictoryFood]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 남초 커뮤니티에서 화제성 0인 프로그램]]></title>
-        <id>https://ppt21.com/spoent/63965?category=2</id>
-        <link href="https://ppt21.com/spoent/63965?category=2"/>
-        <updated>2021-10-29T02:33:16.540Z</updated>
-        <content type="html"><![CDATA[너]]></content>
     </entry>
 </feed>
