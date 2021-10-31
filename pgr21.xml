@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-10-31T17:24:44.445Z</updated>
+    <updated>2021-10-31T18:25:44.007Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 복면가왕 나온 유키카]]></title>
+        <id>https://ppt21.com/spoent/64016?category=2</id>
+        <link href="https://ppt21.com/spoent/64016?category=2"/>
+        <updated>2021-10-31T18:25:32.472Z</updated>
+        <content type="html"><![CDATA[어강됴리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 런닝맨에 윤은혜 섭외하겠다는 제석]]></title>
         <id>https://ppt21.com/spoent/64015?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/63970?category=2"/>
         <updated>2021-10-29T09:21:45.207Z</updated>
         <content type="html"><![CDATA[Leeka]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 오징어게임 '시른데'좌 근황올림픽]]></title>
-        <id>https://ppt21.com/spoent/63969?category=2</id>
-        <link href="https://ppt21.com/spoent/63969?category=2"/>
-        <updated>2021-10-29T07:21:47.289Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
