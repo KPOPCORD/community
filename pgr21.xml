@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-10-31T11:18:59.217Z</updated>
+    <updated>2021-10-31T12:34:08.580Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 2021년 10월 다섯째주 D-차트 : 아이유 1위! 세븐틴은 3위로 진입]]></title>
+        <id>https://ppt21.com/spoent/64012?category=2</id>
+        <link href="https://ppt21.com/spoent/64012?category=2"/>
+        <updated>2021-10-31T12:33:40.050Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 알렉 볼드윈 총기 사건 최신 업데이트]]></title>
         <id>https://ppt21.com/spoent/64011?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/63965?category=2"/>
         <updated>2021-10-29T02:33:16.540Z</updated>
         <content type="html"><![CDATA[너]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 초아 결혼]]></title>
-        <id>https://ppt21.com/spoent/63962?category=2</id>
-        <link href="https://ppt21.com/spoent/63962?category=2"/>
-        <updated>2021-10-29T01:07:50.560Z</updated>
-        <content type="html"><![CDATA[스위치 메이커]]></content>
     </entry>
 </feed>
