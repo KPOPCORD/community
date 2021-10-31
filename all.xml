@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-31T13:25:22.120Z</updated>
+    <updated>2021-10-31T14:20:09.525Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[연예] 2021년 10월 다섯째주 D-차트 : 아이유 1위! 세븐틴은 3위로 진입 (Pgr21 ─ 연예)]]></title>
@@ -138,6 +138,27 @@
         <content type="html"><![CDATA[너]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Billlie(빌리) Photographic memories #4 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2223073815</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2223073815"/>
+        <updated>2021-10-31T14:20:08.259Z</updated>
+        <content type="html"><![CDATA[302345]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GHOST9 (고스트나인) '밤샜다 (Up All Night)' (할로윈 ver.) (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2223066452</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2223066452"/>
+        <updated>2021-10-31T14:20:08.268Z</updated>
+        <content type="html"><![CDATA[302344]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ENHYPEN (엔하이픈) 'Upper Side Dreamin’' Dance Performance Video (Halloween Edition 'Ghost Busters') (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2223025309</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2223025309"/>
+        <updated>2021-10-31T14:20:08.269Z</updated>
+        <content type="html"><![CDATA[302343]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[스키즈 리노 인스타 업뎃 🎃 (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2222962298</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2222962298"/>
@@ -255,26 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2222654460"/>
         <updated>2021-10-31T09:21:51.508Z</updated>
         <content type="html"><![CDATA[302326]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[씨아이엑스 승훈 트위터 인스타그램 업뎃💛 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2222653783</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2222653783"/>
-        <updated>2021-10-31T09:21:51.509Z</updated>
-        <content type="html"><![CDATA[302325]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BLITZERS(블리처스) '실수 좀 할게' HALLOWEEN VER (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2222645217</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2222645217"/>
-        <updated>2021-10-31T09:21:51.510Z</updated>
-        <content type="html"><![CDATA[302324]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아스트로 문빈&산하 | 'bad guy' Choreography by MOON BIN (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2222635807</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2222635807"/>
-        <updated>2021-10-31T09:21:51.511Z</updated>
-        <content type="html"><![CDATA[302323]]></content>
     </entry>
 </feed>
