@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-01T08:27:05.784Z</updated>
+    <updated>2021-11-01T09:23:20.737Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 러블리즈 재계약 없이 베이비소울만 울림에 잔류]]></title>
+        <id>https://ppt21.com/spoent/64028?category=2</id>
+        <link href="https://ppt21.com/spoent/64028?category=2"/>
+        <updated>2021-11-01T09:23:02.797Z</updated>
+        <content type="html"><![CDATA[EpicSide]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 유재석 인지도.jpg]]></title>
         <id>https://ppt21.com/spoent/64025?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/63977?category=2"/>
         <updated>2021-10-29T16:34:18.484Z</updated>
         <content type="html"><![CDATA[insane]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 다비치 강민경 인스타그램]]></title>
-        <id>https://ppt21.com/spoent/63976?category=2</id>
-        <link href="https://ppt21.com/spoent/63976?category=2"/>
-        <updated>2021-10-29T16:34:18.485Z</updated>
-        <content type="html"><![CDATA[TWICE쯔위]]></content>
     </entry>
 </feed>

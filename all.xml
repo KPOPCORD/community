@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-01T08:27:05.781Z</updated>
+    <updated>2021-11-01T09:23:20.756Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] 러블리즈 재계약 없이 베이비소울만 울림에 잔류 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/64028?category=2</id>
+        <link href="https://ppt21.com/spoent/64028?category=2"/>
+        <updated>2021-11-01T09:23:02.797Z</updated>
+        <content type="html"><![CDATA[EpicSide]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 유재석 인지도.jpg (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/64025?category=2</id>
@@ -131,11 +138,25 @@
         <content type="html"><![CDATA[insane]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[연예] 다비치 강민경 인스타그램 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/63976?category=2</id>
-        <link href="https://ppt21.com/spoent/63976?category=2"/>
-        <updated>2021-10-29T16:34:18.485Z</updated>
-        <content type="html"><![CDATA[TWICE쯔위]]></content>
+        <title type="html"><![CDATA[【임창정 M/V】 17집 타이틀 '별거 없던 그 하루로' Official | IM CHANG JUNG | 17th ALBUM | Music Video (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2224074415</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2224074415"/>
+        <updated>2021-11-01T09:23:19.978Z</updated>
+        <content type="html"><![CDATA[302366]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[씨아이엑스 BX 이병곤 트위터 업뎃💙 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2224050315</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2224050315"/>
+        <updated>2021-11-01T09:23:19.978Z</updated>
+        <content type="html"><![CDATA[302365]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[더보이즈 트위터 단체사진 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2224020562</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2224020562"/>
+        <updated>2021-11-01T09:23:19.979Z</updated>
+        <content type="html"><![CDATA[302364]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[투바투 태현짹🐿 (더쿠 ─ 케이돌토크)]]></title>
@@ -255,26 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2223424798"/>
         <updated>2021-11-01T01:13:07.461Z</updated>
         <content type="html"><![CDATA[302347]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔하이픈 제이크 멤트😘 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2223304890</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2223304890"/>
-        <updated>2021-10-31T17:24:43.752Z</updated>
-        <content type="html"><![CDATA[302346]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔하이픈 성훈 멤트 🎃👻 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2223260051</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2223260051"/>
-        <updated>2021-10-31T16:33:19.004Z</updated>
-        <content type="html"><![CDATA[302345]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스키즈 승민 인스타그램🐶🍒 #뱀파이어 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2223161678</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2223161678"/>
-        <updated>2021-10-31T15:23:12.123Z</updated>
-        <content type="html"><![CDATA[302344]]></content>
     </entry>
 </feed>
