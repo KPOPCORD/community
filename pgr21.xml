@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-01T15:25:22.184Z</updated>
+    <updated>2021-11-01T17:28:19.696Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 피의 게임이 시작되었습니다(스포있음)]]></title>
+        <id>https://ppt21.com/spoent/64044?category=2</id>
+        <link href="https://ppt21.com/spoent/64044?category=2"/>
+        <updated>2021-11-01T17:28:05.569Z</updated>
+        <content type="html"><![CDATA[건전한닉네임4]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 러블리즈 해체에 대해 언급한 그 남자]]></title>
+        <id>https://ppt21.com/spoent/64043?category=2</id>
+        <link href="https://ppt21.com/spoent/64043?category=2"/>
+        <updated>2021-11-01T17:28:05.573Z</updated>
+        <content type="html"><![CDATA[TWICE쯔위]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 2AM '가까이 있어서 몰랐어' + '잘 가라니' M/V (7년만의 신곡)]]></title>
+        <id>https://ppt21.com/spoent/64042?category=2</id>
+        <link href="https://ppt21.com/spoent/64042?category=2"/>
+        <updated>2021-11-01T17:28:05.573Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 블랙핑크 제니에게 필리핀 사기꾼이 청혼하는 광고]]></title>
         <id>https://ppt21.com/spoent/64040?category=2</id>
@@ -116,26 +137,5 @@
         <link href="https://ppt21.com/spoent/64009?category=2"/>
         <updated>2021-10-31T10:24:48.650Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 폭탄섹시의 길을 착실히 걸어가고 있는 아린]]></title>
-        <id>https://ppt21.com/spoent/64005?category=2</id>
-        <link href="https://ppt21.com/spoent/64005?category=2"/>
-        <updated>2021-10-31T06:26:35.456Z</updated>
-        <content type="html"><![CDATA[묻고 더블로 가!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [놀토] 다음주에 화제의 그녀들이 옵니다.]]></title>
-        <id>https://ppt21.com/spoent/63994?category=2</id>
-        <link href="https://ppt21.com/spoent/63994?category=2"/>
-        <updated>2021-10-30T14:20:03.632Z</updated>
-        <content type="html"><![CDATA[아르타니스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [러블리즈] 많이들 놀래켰다는 오늘자 미주의 보컬 실력]]></title>
-        <id>https://ppt21.com/spoent/63991?category=2</id>
-        <link href="https://ppt21.com/spoent/63991?category=2"/>
-        <updated>2021-10-30T12:34:59.077Z</updated>
-        <content type="html"><![CDATA[나의 연인]]></content>
     </entry>
 </feed>
