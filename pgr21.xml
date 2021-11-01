@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-10-31T23:23:14.300Z</updated>
+    <updated>2021-11-01T01:13:08.092Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 김선호 완벽한 부활!!]]></title>
+        <id>https://ppt21.com/spoent/64017?category=2</id>
+        <link href="https://ppt21.com/spoent/64017?category=2"/>
+        <updated>2021-11-01T01:12:56.409Z</updated>
+        <content type="html"><![CDATA[wlsak]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 복면가왕 나온 유키카]]></title>
         <id>https://ppt21.com/spoent/64016?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/63971?category=2"/>
         <updated>2021-10-29T09:21:45.206Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 안소희의 아이돌 댄스 커버]]></title>
-        <id>https://ppt21.com/spoent/63970?category=2</id>
-        <link href="https://ppt21.com/spoent/63970?category=2"/>
-        <updated>2021-10-29T09:21:45.207Z</updated>
-        <content type="html"><![CDATA[Leeka]]></content>
     </entry>
 </feed>

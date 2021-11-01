@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-31T23:23:14.303Z</updated>
+    <updated>2021-11-01T01:13:08.094Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] 김선호 완벽한 부활!! (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/64017?category=2</id>
+        <link href="https://ppt21.com/spoent/64017?category=2"/>
+        <updated>2021-11-01T01:12:56.409Z</updated>
+        <content type="html"><![CDATA[wlsak]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 복면가왕 나온 유키카 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/64016?category=2</id>
@@ -131,11 +138,11 @@
         <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[연예] 안소희의 아이돌 댄스 커버 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/63970?category=2</id>
-        <link href="https://ppt21.com/spoent/63970?category=2"/>
-        <updated>2021-10-29T09:21:45.207Z</updated>
-        <content type="html"><![CDATA[Leeka]]></content>
+        <title type="html"><![CDATA[최예나 인스타 업뎃 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2223424798</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2223424798"/>
+        <updated>2021-11-01T01:13:07.461Z</updated>
+        <content type="html"><![CDATA[302350]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[엔하이픈 제이크 멤트😘 (더쿠 ─ 케이돌토크)]]></title>
@@ -269,12 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2222911442"/>
         <updated>2021-10-31T13:25:21.317Z</updated>
         <content type="html"><![CDATA[302331]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Teaser 🎥] 강혜원 2022 Season's Greetings [수필집] (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2222860909</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2222860909"/>
-        <updated>2021-10-31T12:34:07.833Z</updated>
-        <content type="html"><![CDATA[302330]]></content>
     </entry>
 </feed>
