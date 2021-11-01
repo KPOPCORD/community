@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-01T04:29:49.323Z</updated>
+    <updated>2021-11-01T05:20:57.955Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[연예] [트와이스] 정규 3집 "Formula of Love: O+T=<3" 앨범 프리뷰 + 콘셉트 포토 #1]]></title>
+        <title type="html"><![CDATA[[연예] 유재석 인지도.jpg]]></title>
+        <id>https://ppt21.com/spoent/64025?category=2</id>
+        <link href="https://ppt21.com/spoent/64025?category=2"/>
+        <updated>2021-11-01T05:20:46.305Z</updated>
+        <content type="html"><![CDATA[너]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] [트와이스] "Formula of Love: O+T=<3" 앨범 프리뷰 + 콘셉트 포토 #1]]></title>
         <id>https://ppt21.com/spoent/64024?category=2</id>
         <link href="https://ppt21.com/spoent/64024?category=2"/>
         <updated>2021-11-01T04:29:38.031Z</updated>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/63976?category=2"/>
         <updated>2021-10-29T16:34:18.485Z</updated>
         <content type="html"><![CDATA[TWICE쯔위]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 에일리 '가르치지마' M/V + 오랜만의 음방 무대]]></title>
-        <id>https://ppt21.com/spoent/63972?category=2</id>
-        <link href="https://ppt21.com/spoent/63972?category=2"/>
-        <updated>2021-10-29T10:25:10.354Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
