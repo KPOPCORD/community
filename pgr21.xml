@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-01T09:23:20.737Z</updated>
+    <updated>2021-11-01T10:25:26.247Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [에스파] 2022 시즌 그리팅 콘셉트 트레일러 + 다양한 영상]]></title>
+        <id>https://ppt21.com/spoent/64030?category=2</id>
+        <link href="https://ppt21.com/spoent/64030?category=2"/>
+        <updated>2021-11-01T10:25:16.606Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 러블리즈 재계약 없이 베이비소울만 울림에 잔류]]></title>
         <id>https://ppt21.com/spoent/64028?category=2</id>
@@ -129,13 +136,6 @@
         <id>https://ppt21.com/spoent/63978?category=2</id>
         <link href="https://ppt21.com/spoent/63978?category=2"/>
         <updated>2021-10-30T01:07:33.604Z</updated>
-        <content type="html"><![CDATA[insane]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 쇼미더머니 10 팀 매칭.mp4]]></title>
-        <id>https://ppt21.com/spoent/63977?category=2</id>
-        <link href="https://ppt21.com/spoent/63977?category=2"/>
-        <updated>2021-10-29T16:34:18.484Z</updated>
         <content type="html"><![CDATA[insane]]></content>
     </entry>
 </feed>
