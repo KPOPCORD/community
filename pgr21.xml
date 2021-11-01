@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-01T12:36:25.059Z</updated>
+    <updated>2021-11-01T13:28:19.311Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 모르는데 우리곁에 항상 있던 분들]]></title>
+        <id>https://ppt21.com/spoent/64036?category=2</id>
+        <link href="https://ppt21.com/spoent/64036?category=2"/>
+        <updated>2021-11-01T13:28:06.888Z</updated>
+        <content type="html"><![CDATA[나스닥]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 임창정 정규 17집 별거 없던 그 하루로 뮤비+ 나는 트로트가 싫어요]]></title>
         <id>https://ppt21.com/spoent/64035?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/63988?category=2"/>
         <updated>2021-10-30T11:18:27.360Z</updated>
         <content type="html"><![CDATA[피잘모모]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 라잇썸 할로윈 퍼포먼스(Feat.해리포터,월리를찾아라, (G)I-DLE)]]></title>
-        <id>https://ppt21.com/spoent/63985?category=2</id>
-        <link href="https://ppt21.com/spoent/63985?category=2"/>
-        <updated>2021-10-30T08:25:44.669Z</updated>
-        <content type="html"><![CDATA[초원을달리다]]></content>
     </entry>
 </feed>
