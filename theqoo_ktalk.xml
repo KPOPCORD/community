@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2021-11-02T01:14:15.316Z</updated>
+    <updated>2021-11-02T02:35:37.528Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[(투바투)'아머드 사우루스' 주제곡 '투모로우바이투게더'가 부른다]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2224976583</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2224976583"/>
+        <updated>2021-11-02T02:35:36.658Z</updated>
+        <content type="html"><![CDATA[302308]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[선곡 때문에 기대되는 '내일은 국민가수' 5회 데쓰매치 예고]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2224923505</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2224923505"/>
+        <updated>2021-11-02T02:35:36.667Z</updated>
+        <content type="html"><![CDATA[302307]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엔하이픈 희승 멤트🤎]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2224902351</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2224902351"/>
+        <updated>2021-11-02T02:35:36.668Z</updated>
+        <content type="html"><![CDATA[302306]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[에스파, 美 대규모 추수감사절 축제 참석..K팝 걸그룹 최초 공연[공식]]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2224874382</id>
@@ -123,26 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2224310505"/>
         <updated>2021-11-01T12:36:24.214Z</updated>
         <content type="html"><![CDATA[302289]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김우석 공트 업뎃]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2224270799</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2224270799"/>
-        <updated>2021-11-01T12:36:24.216Z</updated>
-        <content type="html"><![CDATA[302288]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1102 theK(원더케이) 'MR은 거들뿐' 빅스 레오 라이브 예고!]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2224270756</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2224270756"/>
-        <updated>2021-11-01T12:36:24.217Z</updated>
-        <content type="html"><![CDATA[302287]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AB6IX X G마켓 해피 빼빼로데이🎂🍫]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2224225429</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2224225429"/>
-        <updated>2021-11-01T11:19:05.345Z</updated>
-        <content type="html"><![CDATA[302286]]></content>
     </entry>
 </feed>
