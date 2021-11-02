@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2021-11-02T09:22:48.981Z</updated>
+    <updated>2021-11-02T10:25:19.565Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[방탄 네이버 포스트 - 시즌그리팅]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2225598535</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2225598535"/>
+        <updated>2021-11-02T10:25:18.917Z</updated>
+        <content type="html"><![CDATA[302270]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[방탄 알엠 트윗 업뎃 - 가을입니다 🍃🍂🍁]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2225561282</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2225561282"/>
+        <updated>2021-11-02T10:25:18.917Z</updated>
+        <content type="html"><![CDATA[302269]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[투바투 수빈 위버스 포스트: 할로윈~]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2225541261</id>
@@ -130,19 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2224923505"/>
         <updated>2021-11-02T02:35:36.667Z</updated>
         <content type="html"><![CDATA[302251]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔하이픈 희승 멤트🤎]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2224902351</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2224902351"/>
-        <updated>2021-11-02T02:35:36.668Z</updated>
-        <content type="html"><![CDATA[302250]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[투바투 태현 트윗 (너프건 사용법)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2224818031</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2224818031"/>
-        <updated>2021-11-01T23:23:40.765Z</updated>
-        <content type="html"><![CDATA[302249]]></content>
     </entry>
 </feed>
