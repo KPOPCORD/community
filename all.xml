@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-02T17:27:19.777Z</updated>
+    <updated>2021-11-02T18:26:33.259Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] [러블리즈] 럽갤에 방문하신 2기형 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/64073?category=2</id>
+        <link href="https://ppt21.com/spoent/64073?category=2"/>
+        <updated>2021-11-02T18:26:21.078Z</updated>
+        <content type="html"><![CDATA[나의 연인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [아이브] 스타쉽 뉴걸그룹 아이브 첫번째 멤버 공개.yujin (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/64071?category=2</id>
@@ -129,13 +136,6 @@
         <link href="https://ppt21.com/spoent/64036?category=2"/>
         <updated>2021-11-01T13:28:06.888Z</updated>
         <content type="html"><![CDATA[나스닥]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 임창정 정규 17집 별거 없던 그 하루로 뮤비+ 나는 트로트가 싫어요 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/64035?category=2</id>
-        <link href="https://ppt21.com/spoent/64035?category=2"/>
-        <updated>2021-11-01T12:36:13.713Z</updated>
-        <content type="html"><![CDATA[v.Serum]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[씨아이엑스 현석 트위터 업뎃❤️ (더쿠 ─ 케이돌토크)]]></title>
