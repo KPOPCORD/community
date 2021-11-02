@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-02T08:27:14.544Z</updated>
+    <updated>2021-11-02T09:22:48.974Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 점점 커지는 구멍 오우야..]]></title>
+        <id>https://ppt21.com/spoent/64063?category=2</id>
+        <link href="https://ppt21.com/spoent/64063?category=2"/>
+        <updated>2021-11-02T09:22:22.596Z</updated>
+        <content type="html"><![CDATA[파랑파랑]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 중소 망한 아이돌 고증할 JTBC 새 드라마]]></title>
         <id>https://ppt21.com/spoent/64062?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64030?category=2"/>
         <updated>2021-11-01T10:25:16.606Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 러블리즈 재계약 없이 베이비소울만 울림에 잔류]]></title>
-        <id>https://ppt21.com/spoent/64028?category=2</id>
-        <link href="https://ppt21.com/spoent/64028?category=2"/>
-        <updated>2021-11-01T09:23:02.797Z</updated>
-        <content type="html"><![CDATA[EpicSide]]></content>
     </entry>
 </feed>
