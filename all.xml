@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-01T23:23:41.634Z</updated>
+    <updated>2021-11-02T01:14:15.309Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] ??: 후배들이 저를 빨리 넘어서길 바랍니다... (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/64049?category=2</id>
+        <link href="https://ppt21.com/spoent/64049?category=2"/>
+        <updated>2021-11-02T01:13:51.129Z</updated>
+        <content type="html"><![CDATA[우주전쟁]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 러블리즈 해체발표 후 배텐 생녹방 온 지애 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/64045?category=2</id>
@@ -131,11 +138,11 @@
         <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[연예] 알렉 볼드윈 총기 사건 최신 업데이트 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/64011?category=2</id>
-        <link href="https://ppt21.com/spoent/64011?category=2"/>
-        <updated>2021-10-31T11:18:49.308Z</updated>
-        <content type="html"><![CDATA[김유라]]></content>
+        <title type="html"><![CDATA[에스파, 美 대규모 추수감사절 축제 참석..K팝 걸그룹 최초 공연[공식] (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2224874382</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2224874382"/>
+        <updated>2021-11-02T01:14:14.488Z</updated>
+        <content type="html"><![CDATA[302305]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[투바투 태현 트윗 (너프건 사용법) (더쿠 ─ 케이돌토크)]]></title>
@@ -269,12 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2224225429"/>
         <updated>2021-11-01T11:19:05.345Z</updated>
         <content type="html"><![CDATA[302286]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방탄 제이홉 트윗/위버스 업뎃 😯😳🧐 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2224220723</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2224220723"/>
-        <updated>2021-11-01T11:19:05.347Z</updated>
-        <content type="html"><![CDATA[302285]]></content>
     </entry>
 </feed>

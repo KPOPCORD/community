@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2021-11-01T23:23:41.630Z</updated>
+    <updated>2021-11-02T01:14:15.316Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[에스파, 美 대규모 추수감사절 축제 참석..K팝 걸그룹 최초 공연[공식]]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2224874382</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2224874382"/>
+        <updated>2021-11-02T01:14:14.488Z</updated>
+        <content type="html"><![CDATA[302305]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[투바투 태현 트윗 (너프건 사용법)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2224818031</id>
@@ -137,12 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2224225429"/>
         <updated>2021-11-01T11:19:05.345Z</updated>
         <content type="html"><![CDATA[302286]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방탄 제이홉 트윗/위버스 업뎃 😯😳🧐]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2224220723</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2224220723"/>
-        <updated>2021-11-01T11:19:05.347Z</updated>
-        <content type="html"><![CDATA[302285]]></content>
     </entry>
 </feed>
