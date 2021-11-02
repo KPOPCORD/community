@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-02T02:35:37.464Z</updated>
+    <updated>2021-11-02T03:23:54.401Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[연예] ??: 후배들이 저를 빨리 넘어서길 바랍니다... (Pgr21 ─ 연예)]]></title>
@@ -138,6 +138,27 @@
         <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[조승연(우즈) 사워캔디챌린지🍭 with 레드벨벳 웬디 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2225050272</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2225050272"/>
+        <updated>2021-11-02T03:23:53.726Z</updated>
+        <content type="html"><![CDATA[302311]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[방탄 2022 시즌 그리팅 프리뷰컷 #2 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2225037781</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2225037781"/>
+        <updated>2021-11-02T03:23:53.727Z</updated>
+        <content type="html"><![CDATA[302310]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[투바투 '아머드 사우르스' 제작발표회 주제곡&인터뷰cut (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2225012179</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2225012179"/>
+        <updated>2021-11-02T03:23:53.727Z</updated>
+        <content type="html"><![CDATA[302309]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[(투바투)'아머드 사우루스' 주제곡 '투모로우바이투게더'가 부른다 (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2224976583</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2224976583"/>
@@ -255,26 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2224347777"/>
         <updated>2021-11-01T12:36:24.209Z</updated>
         <content type="html"><![CDATA[302292]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[데이식스 유닛 자컨 [DAY6 (Even of Day)의 가을방학] Ep.2 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2224325811</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2224325811"/>
-        <updated>2021-11-01T12:36:24.211Z</updated>
-        <content type="html"><![CDATA[302291]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아스트로 문빈&산하 | 'bad guy' Choreography by MOON BIN (Fix Ver.) (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2224316474</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2224316474"/>
-        <updated>2021-11-01T12:36:24.212Z</updated>
-        <content type="html"><![CDATA[302290]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[투바투 'TALK X TODAY : Season4' EP.10 “잘 놀다 갑니다!” (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2224310505</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2224310505"/>
-        <updated>2021-11-01T12:36:24.214Z</updated>
-        <content type="html"><![CDATA[302289]]></content>
     </entry>
 </feed>
