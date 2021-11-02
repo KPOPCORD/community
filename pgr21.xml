@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-02T13:27:27.484Z</updated>
+    <updated>2021-11-02T14:21:36.482Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [아이브] 스타쉽 뉴걸그룹 아이브 첫번째 멤버 공개.yujin]]></title>
+        <id>https://ppt21.com/spoent/64071?category=2</id>
+        <link href="https://ppt21.com/spoent/64071?category=2"/>
+        <updated>2021-11-02T14:21:18.022Z</updated>
+        <content type="html"><![CDATA[VictoryFood]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 멤버 5명이 동반입대하는 아이돌]]></title>
+        <id>https://ppt21.com/spoent/64070?category=2</id>
+        <link href="https://ppt21.com/spoent/64070?category=2"/>
+        <updated>2021-11-02T14:21:18.024Z</updated>
+        <content type="html"><![CDATA[껌정]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 노래 따위 끊은지 오래였던 버거집 사장님의 킬링보이스]]></title>
         <id>https://ppt21.com/spoent/64064?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/64035?category=2"/>
         <updated>2021-11-01T12:36:13.713Z</updated>
         <content type="html"><![CDATA[v.Serum]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [러블리즈] 타팬은 떼창하고 팬덤은 응원법 하는 170909 아츄.ytb]]></title>
-        <id>https://ppt21.com/spoent/64032?category=2</id>
-        <link href="https://ppt21.com/spoent/64032?category=2"/>
-        <updated>2021-11-01T12:36:13.723Z</updated>
-        <content type="html"><![CDATA[VictoryFood]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 오징어게임 수학샘, 200킬비명녀, 130년 유리장인 인터뷰]]></title>
-        <id>https://ppt21.com/spoent/64031?category=2</id>
-        <link href="https://ppt21.com/spoent/64031?category=2"/>
-        <updated>2021-11-01T11:18:56.335Z</updated>
-        <content type="html"><![CDATA[물맛이좋아요]]></content>
     </entry>
 </feed>
