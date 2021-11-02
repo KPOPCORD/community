@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-02T11:19:39.275Z</updated>
+    <updated>2021-11-02T12:35:25.189Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 노래 따위 끊은지 오래였던 버거집 사장님의 킬링보이스]]></title>
+        <id>https://ppt21.com/spoent/64064?category=2</id>
+        <link href="https://ppt21.com/spoent/64064?category=2"/>
+        <updated>2021-11-02T12:35:14.616Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 점점 커지는 구멍 오우야..]]></title>
         <id>https://ppt21.com/spoent/64063?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64031?category=2"/>
         <updated>2021-11-01T11:18:56.335Z</updated>
         <content type="html"><![CDATA[물맛이좋아요]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [에스파] 2022 시즌 그리팅 콘셉트 트레일러 + 다양한 영상]]></title>
-        <id>https://ppt21.com/spoent/64030?category=2</id>
-        <link href="https://ppt21.com/spoent/64030?category=2"/>
-        <updated>2021-11-01T10:25:16.606Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
