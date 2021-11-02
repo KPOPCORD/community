@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-02T06:27:04.062Z</updated>
+    <updated>2021-11-02T07:21:42.521Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 강다니엘, DC 갤러리 폐쇄 요청 패소]]></title>
+        <id>https://ppt21.com/spoent/64061?category=2</id>
+        <link href="https://ppt21.com/spoent/64061?category=2"/>
+        <updated>2021-11-02T07:21:27.599Z</updated>
+        <content type="html"><![CDATA[너]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 마미손 염따 저격.youtube]]></title>
         <id>https://ppt21.com/spoent/64060?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64025?category=2"/>
         <updated>2021-11-01T05:20:46.305Z</updated>
         <content type="html"><![CDATA[너]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [트와이스] "Formula of Love: O+T=<3" 앨범 프리뷰 + 콘셉트 포토 #1]]></title>
-        <id>https://ppt21.com/spoent/64024?category=2</id>
-        <link href="https://ppt21.com/spoent/64024?category=2"/>
-        <updated>2021-11-01T04:29:38.031Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
