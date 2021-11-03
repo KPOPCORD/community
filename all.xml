@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-03T05:20:24.872Z</updated>
+    <updated>2021-11-03T06:26:54.731Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[연예] [트와이스] "Formula of Love: O+T=<3" 콘셉트 포토 #3 (Pgr21 ─ 연예)]]></title>
@@ -138,6 +138,27 @@
         <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[엔하이픈 정원 멤트 😃 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2226720931</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2226720931"/>
+        <updated>2021-11-03T06:26:54.027Z</updated>
+        <content type="html"><![CDATA[302304]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[빅톤, 데뷔 5주년 기념 팬미팅 ‘스윗 트래블’ 개최 [공식입장] (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2226711302</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2226711302"/>
+        <updated>2021-11-03T06:26:54.031Z</updated>
+        <content type="html"><![CDATA[302303]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[방탄소년단 진, '지리산' OST 7일 공개…특별 MV도 준비 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2226659955</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2226659955"/>
+        <updated>2021-11-03T06:26:54.032Z</updated>
+        <content type="html"><![CDATA[302302]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ㅅㅂ...소미 존멋존예 (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2226627248</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2226627248"/>
@@ -255,26 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2225981352"/>
         <updated>2021-11-02T15:24:05.314Z</updated>
         <content type="html"><![CDATA[302285]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[투바투 일본오리지널 GReeeeN 곡 'Ito' 선공개 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2225976694</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2225976694"/>
-        <updated>2021-11-02T15:24:05.352Z</updated>
-        <content type="html"><![CDATA[302284]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[씨아이엑스 승훈 트위터 인스타그램 업뎃💛 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2225972673</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2225972673"/>
-        <updated>2021-11-02T14:21:35.789Z</updated>
-        <content type="html"><![CDATA[302283]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021년 남자아이돌그룹 멜론 일간 이용자수 순위 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2225970172</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2225970172"/>
-        <updated>2021-11-02T14:21:35.789Z</updated>
-        <content type="html"><![CDATA[302282]]></content>
     </entry>
 </feed>
