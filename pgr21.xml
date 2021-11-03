@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-03T11:19:23.677Z</updated>
+    <updated>2021-11-03T12:35:26.652Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [블랙핑크] 제26차 UN 기후변화협약 당사국총회(COP26) 블핑이들 연설]]></title>
+        <id>https://ppt21.com/spoent/64098?category=2</id>
+        <link href="https://ppt21.com/spoent/64098?category=2"/>
+        <updated>2021-11-03T12:35:16.028Z</updated>
+        <content type="html"><![CDATA[헤인즈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 라붐 'Kiss Kiss' M/V (+쇼케이스 무대 영상)]]></title>
         <id>https://ppt21.com/spoent/64095?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64063?category=2"/>
         <updated>2021-11-02T09:22:22.596Z</updated>
         <content type="html"><![CDATA[파랑파랑]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 중소 망한 아이돌 고증할 JTBC 새 드라마]]></title>
-        <id>https://ppt21.com/spoent/64062?category=2</id>
-        <link href="https://ppt21.com/spoent/64062?category=2"/>
-        <updated>2021-11-02T08:26:53.062Z</updated>
-        <content type="html"><![CDATA[Anti-MAGE]]></content>
     </entry>
 </feed>
