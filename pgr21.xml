@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-03T04:29:52.002Z</updated>
+    <updated>2021-11-03T05:20:24.868Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [트와이스] "Formula of Love: O+T=<3" 콘셉트 포토 #3]]></title>
+        <id>https://ppt21.com/spoent/64086?category=2</id>
+        <link href="https://ppt21.com/spoent/64086?category=2"/>
+        <updated>2021-11-03T05:20:14.080Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 섹스어필을 강요당한 전효성]]></title>
+        <id>https://ppt21.com/spoent/64085?category=2</id>
+        <link href="https://ppt21.com/spoent/64085?category=2"/>
+        <updated>2021-11-03T05:20:14.081Z</updated>
+        <content type="html"><![CDATA[AKbizs]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 방탄소년단 시즌그리팅 구매에 성공한 13살 팬]]></title>
+        <id>https://ppt21.com/spoent/64082?category=2</id>
+        <link href="https://ppt21.com/spoent/64082?category=2"/>
+        <updated>2021-11-03T05:20:14.082Z</updated>
+        <content type="html"><![CDATA[로즈마리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] Billlie's 1st EP [the Billage of perception : chapter one] - 미스틱은 대체 뭘 만들고 있는걸까?]]></title>
+        <id>https://ppt21.com/spoent/64081?category=2</id>
+        <link href="https://ppt21.com/spoent/64081?category=2"/>
+        <updated>2021-11-03T05:20:14.083Z</updated>
+        <content type="html"><![CDATA[BTS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [단독] 워너원 재결합 긍정적 타진…"멤버들끼리 연락"]]></title>
         <id>https://ppt21.com/spoent/64078?category=2</id>
@@ -109,33 +137,5 @@
         <link href="https://ppt21.com/spoent/64054?category=2"/>
         <updated>2021-11-02T04:29:41.437Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 스타쉽 6인조 걸그룹 아이브 론칭]]></title>
-        <id>https://ppt21.com/spoent/64053?category=2</id>
-        <link href="https://ppt21.com/spoent/64053?category=2"/>
-        <updated>2021-11-02T04:29:41.437Z</updated>
-        <content type="html"><![CDATA[빼사스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] ??: 후배들이 저를 빨리 넘어서길 바랍니다...]]></title>
-        <id>https://ppt21.com/spoent/64049?category=2</id>
-        <link href="https://ppt21.com/spoent/64049?category=2"/>
-        <updated>2021-11-02T01:13:51.129Z</updated>
-        <content type="html"><![CDATA[우주전쟁]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 러블리즈 해체발표 후 배텐 생녹방 온 지애]]></title>
-        <id>https://ppt21.com/spoent/64045?category=2</id>
-        <link href="https://ppt21.com/spoent/64045?category=2"/>
-        <updated>2021-11-01T23:23:25.043Z</updated>
-        <content type="html"><![CDATA[강가딘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 피의 게임이 시작되었습니다(스포있음)]]></title>
-        <id>https://ppt21.com/spoent/64044?category=2</id>
-        <link href="https://ppt21.com/spoent/64044?category=2"/>
-        <updated>2021-11-01T17:28:05.569Z</updated>
-        <content type="html"><![CDATA[건전한닉네임4]]></content>
     </entry>
 </feed>
