@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-03T06:26:54.725Z</updated>
+    <updated>2021-11-03T07:22:36.872Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 엠스플 아나운서들도 똘끼가 만만찮군요...]]></title>
+        <id>https://ppt21.com/spoent/64092?category=2</id>
+        <link href="https://ppt21.com/spoent/64092?category=2"/>
+        <updated>2021-11-03T07:22:26.683Z</updated>
+        <content type="html"><![CDATA[강가딘]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] [에스파] 오징어게임 코인 탑승]]></title>
+        <id>https://ppt21.com/spoent/64091?category=2</id>
+        <link href="https://ppt21.com/spoent/64091?category=2"/>
+        <updated>2021-11-03T07:22:26.683Z</updated>
+        <content type="html"><![CDATA[바스테나]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] [러블리즈] 해체관련 기사가 있네요.]]></title>
+        <id>https://ppt21.com/spoent/64089?category=2</id>
+        <link href="https://ppt21.com/spoent/64089?category=2"/>
+        <updated>2021-11-03T07:22:26.683Z</updated>
+        <content type="html"><![CDATA[Dalssi]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [트와이스] "Formula of Love: O+T=<3" 콘셉트 포토 #3]]></title>
         <id>https://ppt21.com/spoent/64086?category=2</id>
@@ -116,26 +137,5 @@
         <link href="https://ppt21.com/spoent/64060?category=2"/>
         <updated>2021-11-02T06:26:52.913Z</updated>
         <content type="html"><![CDATA[아지매]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 저번주 복면가왕에 등장한 의외에 인물.JPG]]></title>
-        <id>https://ppt21.com/spoent/64059?category=2</id>
-        <link href="https://ppt21.com/spoent/64059?category=2"/>
-        <updated>2021-11-02T06:26:52.916Z</updated>
-        <content type="html"><![CDATA[Anti-MAGE]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 데뷔 7년차 걸그룹의 흔한 라이브 무대]]></title>
-        <id>https://ppt21.com/spoent/64058?category=2</id>
-        <link href="https://ppt21.com/spoent/64058?category=2"/>
-        <updated>2021-11-02T06:26:52.916Z</updated>
-        <content type="html"><![CDATA[귀여운호랑이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [트와이스] "Formula of Love: O+T=<3" 콘셉트 포토 #2]]></title>
-        <id>https://ppt21.com/spoent/64054?category=2</id>
-        <link href="https://ppt21.com/spoent/64054?category=2"/>
-        <updated>2021-11-02T04:29:41.437Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
