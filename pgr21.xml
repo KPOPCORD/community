@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-03T07:22:36.872Z</updated>
+    <updated>2021-11-03T08:26:55.265Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 티모시 샬라메의 차기작 라인업.jpg]]></title>
+        <id>https://ppt21.com/spoent/64093?category=2</id>
+        <link href="https://ppt21.com/spoent/64093?category=2"/>
+        <updated>2021-11-03T08:26:44.872Z</updated>
+        <content type="html"><![CDATA[핑크솔져]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 엠스플 아나운서들도 똘끼가 만만찮군요...]]></title>
         <id>https://ppt21.com/spoent/64092?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64061?category=2"/>
         <updated>2021-11-02T07:21:27.599Z</updated>
         <content type="html"><![CDATA[너]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 마미손 염따 저격.youtube]]></title>
-        <id>https://ppt21.com/spoent/64060?category=2</id>
-        <link href="https://ppt21.com/spoent/64060?category=2"/>
-        <updated>2021-11-02T06:26:52.913Z</updated>
-        <content type="html"><![CDATA[아지매]]></content>
     </entry>
 </feed>
