@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-02T23:23:12.814Z</updated>
+    <updated>2021-11-03T01:09:21.730Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] '프듀' 조작 안준영 PD, 4일 출소…진상위 "평생 속죄하길"]]></title>
+        <id>https://ppt21.com/spoent/64076?category=2</id>
+        <link href="https://ppt21.com/spoent/64076?category=2"/>
+        <updated>2021-11-03T01:09:09.949Z</updated>
+        <content type="html"><![CDATA[TWICE쯔위]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] [이달의 소녀] 성향이 극과 극인 츄와 올리비아 혜의 캐미 모음]]></title>
+        <id>https://ppt21.com/spoent/64075?category=2</id>
+        <link href="https://ppt21.com/spoent/64075?category=2"/>
+        <updated>2021-11-03T01:09:09.949Z</updated>
+        <content type="html"><![CDATA[강가딘]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] [러블리즈] 꼰지애, "감이 영어로 뭐게요"]]></title>
+        <id>https://ppt21.com/spoent/64074?category=2</id>
+        <link href="https://ppt21.com/spoent/64074?category=2"/>
+        <updated>2021-11-03T01:09:09.950Z</updated>
+        <content type="html"><![CDATA[강가딘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [러블리즈] 럽갤에 방문하신 2기형]]></title>
         <id>https://ppt21.com/spoent/64073?category=2</id>
@@ -116,26 +137,5 @@
         <link href="https://ppt21.com/spoent/64043?category=2"/>
         <updated>2021-11-01T17:28:05.573Z</updated>
         <content type="html"><![CDATA[TWICE쯔위]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 2AM '가까이 있어서 몰랐어' + '잘 가라니' M/V (7년만의 신곡)]]></title>
-        <id>https://ppt21.com/spoent/64042?category=2</id>
-        <link href="https://ppt21.com/spoent/64042?category=2"/>
-        <updated>2021-11-01T17:28:05.573Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 블랙핑크 제니에게 필리핀 사기꾼이 청혼하는 광고]]></title>
-        <id>https://ppt21.com/spoent/64040?category=2</id>
-        <link href="https://ppt21.com/spoent/64040?category=2"/>
-        <updated>2021-11-01T14:22:28.192Z</updated>
-        <content type="html"><![CDATA[及時雨]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 모르는데 우리곁에 항상 있던 분들]]></title>
-        <id>https://ppt21.com/spoent/64036?category=2</id>
-        <link href="https://ppt21.com/spoent/64036?category=2"/>
-        <updated>2021-11-01T13:28:06.888Z</updated>
-        <content type="html"><![CDATA[나스닥]]></content>
     </entry>
 </feed>
