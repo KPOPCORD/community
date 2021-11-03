@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-03T08:26:55.265Z</updated>
+    <updated>2021-11-03T10:25:39.267Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 라붐 'Kiss Kiss' M/V (+쇼케이스 무대 영상)]]></title>
+        <id>https://ppt21.com/spoent/64095?category=2</id>
+        <link href="https://ppt21.com/spoent/64095?category=2"/>
+        <updated>2021-11-03T10:25:26.666Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 티모시 샬라메의 차기작 라인업.jpg]]></title>
         <id>https://ppt21.com/spoent/64093?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64062?category=2"/>
         <updated>2021-11-02T08:26:53.062Z</updated>
         <content type="html"><![CDATA[Anti-MAGE]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 강다니엘, DC 갤러리 폐쇄 요청 패소]]></title>
-        <id>https://ppt21.com/spoent/64061?category=2</id>
-        <link href="https://ppt21.com/spoent/64061?category=2"/>
-        <updated>2021-11-02T07:21:27.599Z</updated>
-        <content type="html"><![CDATA[너]]></content>
     </entry>
 </feed>
