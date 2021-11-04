@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2021-11-03T23:21:47.265Z</updated>
+    <updated>2021-11-04T01:10:22.859Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[‘스타쉽 新 걸그룹’ 아이브, 안유진 이어 두 번째 멤버 가을 공개]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2227546886</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2227546886"/>
+        <updated>2021-11-04T01:10:22.137Z</updated>
+        <content type="html"><![CDATA[302325]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['4세대 걸그룹의 저력' ITZY·에버글로우, 2021 AAA 참석[공식]]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2227543999</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2227543999"/>
+        <updated>2021-11-04T01:10:22.144Z</updated>
+        <content type="html"><![CDATA[302324]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[방탄 알엠 위버스 포스트 업뎃]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2227474697</id>
@@ -130,19 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2227045779"/>
         <updated>2021-11-03T12:35:25.960Z</updated>
         <content type="html"><![CDATA[302306]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[씨아이엑스 용희 트위터 업뎃💚]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2227036192</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2227036192"/>
-        <updated>2021-11-03T11:19:22.891Z</updated>
-        <content type="html"><![CDATA[302305]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔하이픈 희승 위버스✌🏻]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2227018231</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2227018231"/>
-        <updated>2021-11-03T11:19:22.891Z</updated>
-        <content type="html"><![CDATA[302304]]></content>
     </entry>
 </feed>
