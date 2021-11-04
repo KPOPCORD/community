@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-04T13:27:47.352Z</updated>
+    <updated>2021-11-04T14:21:03.602Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 1세대 아이돌의 좋아했던 삼속곡(후후속곡)]]></title>
+        <id>https://ppt21.com/spoent/64125?category=2</id>
+        <link href="https://ppt21.com/spoent/64125?category=2"/>
+        <updated>2021-11-04T14:20:53.067Z</updated>
+        <content type="html"><![CDATA[style]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 스타쉽 신인걸그룹 IVE 아이브 세번째 멤버 "원영" 프로필 공개]]></title>
+        <id>https://ppt21.com/spoent/64124?category=2</id>
+        <link href="https://ppt21.com/spoent/64124?category=2"/>
+        <updated>2021-11-04T14:20:53.067Z</updated>
+        <content type="html"><![CDATA[아롱이다롱이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 아이유의 팔레트에 출연한 데뷔동기 2AM]]></title>
         <id>https://ppt21.com/spoent/64122?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/64091?category=2"/>
         <updated>2021-11-03T07:22:26.683Z</updated>
         <content type="html"><![CDATA[바스테나]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [러블리즈] 해체관련 기사가 있네요.]]></title>
-        <id>https://ppt21.com/spoent/64089?category=2</id>
-        <link href="https://ppt21.com/spoent/64089?category=2"/>
-        <updated>2021-11-03T07:22:26.683Z</updated>
-        <content type="html"><![CDATA[Dalssi]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [트와이스] "Formula of Love: O+T=<3" 콘셉트 포토 #3]]></title>
-        <id>https://ppt21.com/spoent/64086?category=2</id>
-        <link href="https://ppt21.com/spoent/64086?category=2"/>
-        <updated>2021-11-03T05:20:14.080Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
