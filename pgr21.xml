@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-04T04:29:42.747Z</updated>
+    <updated>2021-11-04T05:20:39.284Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 음원 사재기 공식 인증 1호 가수 영탁]]></title>
+        <id>https://ppt21.com/spoent/64112?category=2</id>
+        <link href="https://ppt21.com/spoent/64112?category=2"/>
+        <updated>2021-11-04T05:20:29.057Z</updated>
+        <content type="html"><![CDATA[이제그만]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 벌써 10년전 드라마]]></title>
         <id>https://ppt21.com/spoent/64104?category=2</id>
@@ -129,13 +136,6 @@
         <id>https://ppt21.com/spoent/64075?category=2</id>
         <link href="https://ppt21.com/spoent/64075?category=2"/>
         <updated>2021-11-03T01:09:09.949Z</updated>
-        <content type="html"><![CDATA[강가딘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [러블리즈] 꼰지애, "감이 영어로 뭐게요"]]></title>
-        <id>https://ppt21.com/spoent/64074?category=2</id>
-        <link href="https://ppt21.com/spoent/64074?category=2"/>
-        <updated>2021-11-03T01:09:09.950Z</updated>
         <content type="html"><![CDATA[강가딘]]></content>
     </entry>
 </feed>
