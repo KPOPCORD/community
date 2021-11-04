@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-04T09:23:00.637Z</updated>
+    <updated>2021-11-04T10:25:30.380Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 쥬얼리출신 이지현 안타까운 근황]]></title>
+        <id>https://ppt21.com/spoent/64121?category=2</id>
+        <link href="https://ppt21.com/spoent/64121?category=2"/>
+        <updated>2021-11-04T10:25:17.453Z</updated>
+        <content type="html"><![CDATA[아롱이다롱이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 주류와 속옷 광고를 모두 찍은 섹시아이돌]]></title>
+        <id>https://ppt21.com/spoent/64119?category=2</id>
+        <link href="https://ppt21.com/spoent/64119?category=2"/>
+        <updated>2021-11-04T10:25:17.454Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 성캐가 중계 스트릿 아나운서 파이터-1편(항마력 주의)]]></title>
+        <id>https://ppt21.com/spoent/64118?category=2</id>
+        <link href="https://ppt21.com/spoent/64118?category=2"/>
+        <updated>2021-11-04T10:25:17.459Z</updated>
+        <content type="html"><![CDATA[강가딘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [트와이스] "Formula of Love: O+T=<3" 콘셉트 포토 #4]]></title>
         <id>https://ppt21.com/spoent/64115?category=2</id>
@@ -116,26 +137,5 @@
         <link href="https://ppt21.com/spoent/64085?category=2"/>
         <updated>2021-11-03T05:20:14.081Z</updated>
         <content type="html"><![CDATA[AKbizs]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 방탄소년단 시즌그리팅 구매에 성공한 13살 팬]]></title>
-        <id>https://ppt21.com/spoent/64082?category=2</id>
-        <link href="https://ppt21.com/spoent/64082?category=2"/>
-        <updated>2021-11-03T05:20:14.082Z</updated>
-        <content type="html"><![CDATA[로즈마리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] Billlie's 1st EP [the Billage of perception : chapter one] - 미스틱은 대체 뭘 만들고 있는걸까?]]></title>
-        <id>https://ppt21.com/spoent/64081?category=2</id>
-        <link href="https://ppt21.com/spoent/64081?category=2"/>
-        <updated>2021-11-03T05:20:14.083Z</updated>
-        <content type="html"><![CDATA[BTS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [단독] 워너원 재결합 긍정적 타진…"멤버들끼리 연락"]]></title>
-        <id>https://ppt21.com/spoent/64078?category=2</id>
-        <link href="https://ppt21.com/spoent/64078?category=2"/>
-        <updated>2021-11-03T03:23:43.844Z</updated>
-        <content type="html"><![CDATA[트리플에스]]></content>
     </entry>
 </feed>
