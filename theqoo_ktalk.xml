@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2021-11-04T06:27:22.822Z</updated>
+    <updated>2021-11-04T07:21:36.832Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[200명 업계관계자가 뽑은 2021 올해의 가수/ 올해의 노래 /파워피플 설문조사 결과]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2227994352</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2227994352"/>
+        <updated>2021-11-04T07:21:36.138Z</updated>
+        <content type="html"><![CDATA[302336]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[더보이즈 선우 위더보]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2227944608</id>
@@ -137,12 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2227330651"/>
         <updated>2021-11-03T15:24:21.151Z</updated>
         <content type="html"><![CDATA[302317]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소리지ㅣㅣㅣㅣ르지 말고 박수쳐는 실수가 아니었음]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2227329523</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2227329523"/>
-        <updated>2021-11-03T15:24:21.160Z</updated>
-        <content type="html"><![CDATA[302316]]></content>
     </entry>
 </feed>

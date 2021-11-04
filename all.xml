@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-04T06:27:22.829Z</updated>
+    <updated>2021-11-04T07:21:36.836Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[연예] [트와이스] "Formula of Love: O+T=<3" 콘셉트 포토 #4 (Pgr21 ─ 연예)]]></title>
@@ -19,7 +19,7 @@
         <content type="html"><![CDATA[강가딘]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[연예] 음원 사재기 공식 인증 1호 가수 영탁 (Pgr21 ─ 연예)]]></title>
+        <title type="html"><![CDATA[[연예] 음원 사재기 공식 인증 1호 가수 영탁, 혐의 인정 후 사과 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/64112?category=2</id>
         <link href="https://ppt21.com/spoent/64112?category=2"/>
         <updated>2021-11-04T05:20:29.057Z</updated>
@@ -136,6 +136,13 @@
         <link href="https://ppt21.com/spoent/64078?category=2"/>
         <updated>2021-11-03T03:23:43.844Z</updated>
         <content type="html"><![CDATA[트리플에스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[200명 업계관계자가 뽑은 2021 올해의 가수/ 올해의 노래 /파워피플 설문조사 결과 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2227994352</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2227994352"/>
+        <updated>2021-11-04T07:21:36.138Z</updated>
+        <content type="html"><![CDATA[302336]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[더보이즈 선우 위더보 (더쿠 ─ 케이돌토크)]]></title>
@@ -269,12 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2227330651"/>
         <updated>2021-11-03T15:24:21.151Z</updated>
         <content type="html"><![CDATA[302317]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소리지ㅣㅣㅣㅣ르지 말고 박수쳐는 실수가 아니었음 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2227329523</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2227329523"/>
-        <updated>2021-11-03T15:24:21.160Z</updated>
-        <content type="html"><![CDATA[302316]]></content>
     </entry>
 </feed>
