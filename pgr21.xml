@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-05T04:30:20.589Z</updated>
+    <updated>2021-11-05T05:20:33.223Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [트와이스] "Formula of Love: O+T=<3" 콘셉트 포토 #5]]></title>
+        <id>https://ppt21.com/spoent/64133?category=2</id>
+        <link href="https://ppt21.com/spoent/64133?category=2"/>
+        <updated>2021-11-05T05:20:15.935Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 오징어게임 출연 배우들 인스타 팔로워 증가 추이.jpg]]></title>
         <id>https://ppt21.com/spoent/64131?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64095?category=2"/>
         <updated>2021-11-03T10:25:26.666Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 티모시 샬라메의 차기작 라인업.jpg]]></title>
-        <id>https://ppt21.com/spoent/64093?category=2</id>
-        <link href="https://ppt21.com/spoent/64093?category=2"/>
-        <updated>2021-11-03T08:26:44.872Z</updated>
-        <content type="html"><![CDATA[핑크솔져]]></content>
     </entry>
 </feed>
