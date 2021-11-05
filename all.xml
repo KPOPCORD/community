@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-05T12:35:28.310Z</updated>
+    <updated>2021-11-05T13:26:58.949Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[연예] SM 리마스터링 프로젝트 -  H.O.T. '전사의 후예 (폭력시대)' MV (Pgr21 ─ 연예)]]></title>
@@ -138,6 +138,27 @@
         <content type="html"><![CDATA[강가딘]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[트레저 WEB DRAMA '남고괴담' TEASER (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2229685089</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2229685089"/>
+        <updated>2021-11-05T13:26:58.334Z</updated>
+        <content type="html"><![CDATA[302381]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박지훈 윙하인드 윙토끼🐰와 윙규어😼의 조화로운 만남 | 'Serious' M/V 비하인드 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2229682934</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2229682934"/>
+        <updated>2021-11-05T13:26:58.338Z</updated>
+        <content type="html"><![CDATA[302380]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이대휘 AB6IX 멤버스트윗 업 (feat. 휘일남) (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2229654756</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2229654756"/>
+        <updated>2021-11-05T13:26:58.338Z</updated>
+        <content type="html"><![CDATA[302379]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[올해 멜론 일간 피크 이용자수 top10 (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2229554671</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2229554671"/>
@@ -255,26 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2229337630"/>
         <updated>2021-11-05T08:26:45.018Z</updated>
         <content type="html"><![CDATA[302362]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔하이픈 제이크 멤트❤ (feat. 희승 정원) (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2229336847</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2229336847"/>
-        <updated>2021-11-05T08:26:45.022Z</updated>
-        <content type="html"><![CDATA[302361]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔하이픈 제이 멤트🖤 (feat. 정원) (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2229280176</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2229280176"/>
-        <updated>2021-11-05T07:21:43.453Z</updated>
-        <content type="html"><![CDATA[302360]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴종현 드라마 <너의 밤이 되어줄게> 하이라이트 짤들 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2229247747</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2229247747"/>
-        <updated>2021-11-05T07:21:43.481Z</updated>
-        <content type="html"><![CDATA[302359]]></content>
     </entry>
 </feed>
