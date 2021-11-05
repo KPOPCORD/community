@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-05T07:21:44.156Z</updated>
+    <updated>2021-11-05T08:26:45.680Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [단독] 영탁도 '음원 사재기' 알고 있었다..단체 카톡방 대화 보니]]></title>
+        <id>https://ppt21.com/spoent/64137?category=2</id>
+        <link href="https://ppt21.com/spoent/64137?category=2"/>
+        <updated>2021-11-05T08:26:34.025Z</updated>
+        <content type="html"><![CDATA[Bronx Bombers]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 장원영 X 키르시 화보(짤주의)]]></title>
+        <id>https://ppt21.com/spoent/64136?category=2</id>
+        <link href="https://ppt21.com/spoent/64136?category=2"/>
+        <updated>2021-11-05T08:26:34.026Z</updated>
+        <content type="html"><![CDATA[판을흔들어라]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [트와이스] "Formula of Love: O+T=<3" 콘셉트 포토 #5]]></title>
         <id>https://ppt21.com/spoent/64133?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/64099?category=2"/>
         <updated>2021-11-03T14:20:48.478Z</updated>
         <content type="html"><![CDATA[VictoryFood]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [블랙핑크] 제26차 UN 기후변화협약 당사국총회(COP26) 블핑이들 연설]]></title>
-        <id>https://ppt21.com/spoent/64098?category=2</id>
-        <link href="https://ppt21.com/spoent/64098?category=2"/>
-        <updated>2021-11-03T12:35:16.028Z</updated>
-        <content type="html"><![CDATA[헤인즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 라붐 'Kiss Kiss' M/V (+쇼케이스 무대 영상)]]></title>
-        <id>https://ppt21.com/spoent/64095?category=2</id>
-        <link href="https://ppt21.com/spoent/64095?category=2"/>
-        <updated>2021-11-03T10:25:26.666Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
