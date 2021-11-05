@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-05T09:22:37.010Z</updated>
+    <updated>2021-11-05T10:25:26.936Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [스포츠?] 오늘 준플레이오프 시구자 (+시구 영상)]]></title>
+        <id>https://ppt21.com/spoent/64138?category=2</id>
+        <link href="https://ppt21.com/spoent/64138?category=2"/>
+        <updated>2021-11-05T10:25:12.929Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [단독] 영탁도 '음원 사재기' 알고 있었다..단체 카톡방 대화 보니]]></title>
         <id>https://ppt21.com/spoent/64137?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64100?category=2"/>
         <updated>2021-11-03T14:20:48.476Z</updated>
         <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [빌리] 작곡 이민수, 작사 김이나, 뮤직비디오 황수아, 프로듀서 조영철]]></title>
-        <id>https://ppt21.com/spoent/64099?category=2</id>
-        <link href="https://ppt21.com/spoent/64099?category=2"/>
-        <updated>2021-11-03T14:20:48.478Z</updated>
-        <content type="html"><![CDATA[VictoryFood]]></content>
     </entry>
 </feed>
