@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-06T11:18:50.910Z</updated>
+    <updated>2021-11-06T12:34:02.516Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] [64151관련]재능러에게 함부로 덤비면 안 되는 이유 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/64157?category=2</id>
+        <link href="https://ppt21.com/spoent/64157?category=2"/>
+        <updated>2021-11-06T12:33:52.656Z</updated>
+        <content type="html"><![CDATA[김연아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 피의 게임 2회가 선공개되었습니다. (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/64156?category=2</id>
@@ -131,11 +138,11 @@
         <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[연예] 쥬얼리출신 이지현 안타까운 근황 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/64121?category=2</id>
-        <link href="https://ppt21.com/spoent/64121?category=2"/>
-        <updated>2021-11-04T10:25:17.453Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
+        <title type="html"><![CDATA[211106 불후의 명곡 [남우현 - 다시 와주라] (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2230586057</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2230586057"/>
+        <updated>2021-11-06T12:34:01.592Z</updated>
+        <content type="html"><![CDATA[302374]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이진혁 인스타그램(feat. 수트핏) (더쿠 ─ 케이돌토크)]]></title>
@@ -269,12 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2229685089"/>
         <updated>2021-11-05T13:26:58.334Z</updated>
         <content type="html"><![CDATA[302355]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박지훈 윙하인드 윙토끼🐰와 윙규어😼의 조화로운 만남 | 'Serious' M/V 비하인드 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2229682934</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2229682934"/>
-        <updated>2021-11-05T13:26:58.338Z</updated>
-        <content type="html"><![CDATA[302354]]></content>
     </entry>
 </feed>

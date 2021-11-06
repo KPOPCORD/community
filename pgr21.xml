@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-06T11:18:50.903Z</updated>
+    <updated>2021-11-06T12:34:02.511Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [64151관련]재능러에게 함부로 덤비면 안 되는 이유]]></title>
+        <id>https://ppt21.com/spoent/64157?category=2</id>
+        <link href="https://ppt21.com/spoent/64157?category=2"/>
+        <updated>2021-11-06T12:33:52.656Z</updated>
+        <content type="html"><![CDATA[김연아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 피의 게임 2회가 선공개되었습니다.]]></title>
         <id>https://ppt21.com/spoent/64156?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64122?category=2"/>
         <updated>2021-11-04T12:35:31.878Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 쥬얼리출신 이지현 안타까운 근황]]></title>
-        <id>https://ppt21.com/spoent/64121?category=2</id>
-        <link href="https://ppt21.com/spoent/64121?category=2"/>
-        <updated>2021-11-04T10:25:17.453Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
     </entry>
 </feed>
