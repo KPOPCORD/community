@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-06T09:22:28.103Z</updated>
+    <updated>2021-11-06T10:24:53.017Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 최근예능에서 사주를 본 핫펠트(예은).jpg]]></title>
+        <id>https://ppt21.com/spoent/64154?category=2</id>
+        <link href="https://ppt21.com/spoent/64154?category=2"/>
+        <updated>2021-11-06T10:24:38.315Z</updated>
+        <content type="html"><![CDATA[TWICE쯔위]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 미스틱 스토리 첫 아이돌그룹 <Billlie> 빌리 데뷔 곡 'RING X RING 티저 공개]]></title>
         <id>https://ppt21.com/spoent/64153?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64118?category=2"/>
         <updated>2021-11-04T10:25:17.459Z</updated>
         <content type="html"><![CDATA[강가딘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [트와이스] "Formula of Love: O+T=<3" 콘셉트 포토 #4]]></title>
-        <id>https://ppt21.com/spoent/64115?category=2</id>
-        <link href="https://ppt21.com/spoent/64115?category=2"/>
-        <updated>2021-11-04T06:27:11.180Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
