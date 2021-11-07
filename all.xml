@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-07T15:23:06.962Z</updated>
+    <updated>2021-11-07T16:34:58.126Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[연예] [브레이브 걸스] 쁘걸 근황 (Pgr21 ─ 연예)]]></title>
@@ -138,6 +138,20 @@
         <content type="html"><![CDATA[도롱롱롱롱롱이]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[엔하이픈 정원 위버스❤ (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2232137330</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2232137330"/>
+        <updated>2021-11-07T16:34:57.397Z</updated>
+        <content type="html"><![CDATA[302391]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[투바투 티저 컷 모음 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2232104465</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2232104465"/>
+        <updated>2021-11-07T16:34:57.402Z</updated>
+        <content type="html"><![CDATA[302390]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[몬스타엑스 MONSTA X Mini Album 'No Limit' MOOD SAMPLER (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2232073152</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2232073152"/>
@@ -262,19 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2231526224"/>
         <updated>2021-11-07T08:26:03.062Z</updated>
         <content type="html"><![CDATA[302372]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔하이픈 제이 위버스❣ (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2231264926</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2231264926"/>
-        <updated>2021-11-07T03:23:46.944Z</updated>
-        <content type="html"><![CDATA[302371]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장르물 좋아하면 구경이랑 해피니스 봐라 강추다 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2231202008</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2231202008"/>
-        <updated>2021-11-07T02:36:12.319Z</updated>
-        <content type="html"><![CDATA[302370]]></content>
     </entry>
 </feed>
