@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-07T09:22:14.969Z</updated>
+    <updated>2021-11-07T10:25:04.596Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 스타쉽 신인걸그룹 IVE 아이브 일본인멤버 <레이> 의 학교 사진]]></title>
+        <id>https://ppt21.com/spoent/64172?category=2</id>
+        <link href="https://ppt21.com/spoent/64172?category=2"/>
+        <updated>2021-11-07T10:24:51.789Z</updated>
+        <content type="html"><![CDATA[아롱이다롱이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 아이브 신인걸그룹 IVE 아이브 멤버 <리즈> 의 새로 뜬 움짤.gif]]></title>
         <id>https://ppt21.com/spoent/64167?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64136?category=2"/>
         <updated>2021-11-05T08:26:34.026Z</updated>
         <content type="html"><![CDATA[판을흔들어라]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [트와이스] "Formula of Love: O+T=<3" 콘셉트 포토 #5]]></title>
-        <id>https://ppt21.com/spoent/64133?category=2</id>
-        <link href="https://ppt21.com/spoent/64133?category=2"/>
-        <updated>2021-11-05T05:20:15.935Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
