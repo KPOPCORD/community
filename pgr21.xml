@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-07T13:25:33.648Z</updated>
+    <updated>2021-11-07T14:20:12.059Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 스타쉽 신인걸그룹 IVE 아이브 마지막 멤버 프로필 공개]]></title>
+        <id>https://ppt21.com/spoent/64176?category=2</id>
+        <link href="https://ppt21.com/spoent/64176?category=2"/>
+        <updated>2021-11-07T14:20:02.130Z</updated>
+        <content type="html"><![CDATA[아롱이다롱이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 2021년 11월 첫째주 D-차트 : 아이유 2주 연속 1위, NCT 127은 3위 진입]]></title>
+        <id>https://ppt21.com/spoent/64175?category=2</id>
+        <link href="https://ppt21.com/spoent/64175?category=2"/>
+        <updated>2021-11-07T14:20:02.130Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 남희석 조상의 초상화.jpg]]></title>
         <id>https://ppt21.com/spoent/64173?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/64140?category=2"/>
         <updated>2021-11-05T12:34:57.878Z</updated>
         <content type="html"><![CDATA[TWICE쯔위]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [스포츠?] 오늘 준플레이오프 시구자 (+시구 영상)]]></title>
-        <id>https://ppt21.com/spoent/64138?category=2</id>
-        <link href="https://ppt21.com/spoent/64138?category=2"/>
-        <updated>2021-11-05T10:25:12.929Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [단독] 영탁도 '음원 사재기' 알고 있었다..단체 카톡방 대화 보니]]></title>
-        <id>https://ppt21.com/spoent/64137?category=2</id>
-        <link href="https://ppt21.com/spoent/64137?category=2"/>
-        <updated>2021-11-05T08:26:34.025Z</updated>
-        <content type="html"><![CDATA[Bronx Bombers]]></content>
     </entry>
 </feed>
