@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-07T04:29:09.730Z</updated>
+    <updated>2021-11-07T05:20:00.960Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 다르게 보는 예능촬영현장]]></title>
+        <id>https://ppt21.com/spoent/64166?category=2</id>
+        <link href="https://ppt21.com/spoent/64166?category=2"/>
+        <updated>2021-11-07T05:19:49.268Z</updated>
+        <content type="html"><![CDATA[너]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [트와이스] 6년전 사진과 지금 (데이터주의)]]></title>
         <id>https://ppt21.com/spoent/64162?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64131?category=2"/>
         <updated>2021-11-05T04:30:08.722Z</updated>
         <content type="html"><![CDATA[오우거]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 넷플릭스 오리지널 드라마 <사냥개들> 출연진 공식 확정]]></title>
-        <id>https://ppt21.com/spoent/64130?category=2</id>
-        <link href="https://ppt21.com/spoent/64130?category=2"/>
-        <updated>2021-11-05T03:23:50.979Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
     </entry>
 </feed>
