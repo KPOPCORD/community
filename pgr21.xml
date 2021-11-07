@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-07T21:19:17.312Z</updated>
+    <updated>2021-11-07T22:22:04.957Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 07년도 데뷔 걸그룹 3팀의 데뷔곡과 그해 활동곡]]></title>
+        <id>https://ppt21.com/spoent/64181?category=2</id>
+        <link href="https://ppt21.com/spoent/64181?category=2"/>
+        <updated>2021-11-07T22:21:54.214Z</updated>
+        <content type="html"><![CDATA[한국화약주식회사]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [브레이브 걸스] 쁘걸 근황]]></title>
         <id>https://ppt21.com/spoent/64178?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64145?category=2"/>
         <updated>2021-11-05T18:27:52.732Z</updated>
         <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 뒤늦은 풍류대장 6화 부분 리뷰]]></title>
-        <id>https://ppt21.com/spoent/64143?category=2</id>
-        <link href="https://ppt21.com/spoent/64143?category=2"/>
-        <updated>2021-11-05T15:24:07.214Z</updated>
-        <content type="html"><![CDATA[도롱롱롱롱롱이]]></content>
     </entry>
 </feed>
