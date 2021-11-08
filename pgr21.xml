@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-08T21:20:04.022Z</updated>
+    <updated>2021-11-08T22:22:40.497Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] "썩씨딩 유, 파더!"...]]></title>
+        <id>https://ppt21.com/spoent/64204?category=2</id>
+        <link href="https://ppt21.com/spoent/64204?category=2"/>
+        <updated>2021-11-08T22:22:30.251Z</updated>
+        <content type="html"><![CDATA[우주전쟁]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [놀뭐] 진짜 숨막히게 어색하신 정준하와 러블리즈 미주 (스압)]]></title>
         <id>https://ppt21.com/spoent/64203?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64175?category=2"/>
         <updated>2021-11-07T14:20:02.130Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 남희석 조상님 초상화.jpg]]></title>
-        <id>https://ppt21.com/spoent/64173?category=2</id>
-        <link href="https://ppt21.com/spoent/64173?category=2"/>
-        <updated>2021-11-07T12:34:08.694Z</updated>
-        <content type="html"><![CDATA[너]]></content>
     </entry>
 </feed>
