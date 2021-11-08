@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-08T05:21:21.765Z</updated>
+    <updated>2021-11-08T06:28:36.952Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 넷플릭스 아케인 배치1 (1,2,3화) 보고왔습니다]]></title>
+        <id>https://ppt21.com/spoent/64190?category=2</id>
+        <link href="https://ppt21.com/spoent/64190?category=2"/>
+        <updated>2021-11-08T06:28:27.226Z</updated>
+        <content type="html"><![CDATA[협곡떠난아빠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 지옥 파이널 예고편]]></title>
         <id>https://ppt21.com/spoent/64188?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64156?category=2"/>
         <updated>2021-11-06T11:18:38.031Z</updated>
         <content type="html"><![CDATA[달리와]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [아이유] 2AM 노래 부르려고 가사 보다보니 이노래... 쓰레기네?]]></title>
-        <id>https://ppt21.com/spoent/64155?category=2</id>
-        <link href="https://ppt21.com/spoent/64155?category=2"/>
-        <updated>2021-11-06T11:18:38.031Z</updated>
-        <content type="html"><![CDATA[VictoryFood]]></content>
     </entry>
 </feed>
