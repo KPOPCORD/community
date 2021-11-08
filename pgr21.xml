@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-08T15:24:37.315Z</updated>
+    <updated>2021-11-08T16:35:58.063Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [놀뭐] 진짜 숨막히게 어색하신 정준하와 러블리즈 미주 (스압)]]></title>
+        <id>https://ppt21.com/spoent/64203?category=2</id>
+        <link href="https://ppt21.com/spoent/64203?category=2"/>
+        <updated>2021-11-08T16:35:42.238Z</updated>
+        <content type="html"><![CDATA[나의 연인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [트와이스] MOMO-made "처음 그 자리에 (이보람)" Cover]]></title>
         <id>https://ppt21.com/spoent/64202?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64173?category=2"/>
         <updated>2021-11-07T12:34:08.694Z</updated>
         <content type="html"><![CDATA[너]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 스타쉽 신인걸그룹 IVE 아이브 일본인멤버 <레이> 의 학교 사진]]></title>
-        <id>https://ppt21.com/spoent/64172?category=2</id>
-        <link href="https://ppt21.com/spoent/64172?category=2"/>
-        <updated>2021-11-07T10:24:51.789Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
     </entry>
 </feed>
