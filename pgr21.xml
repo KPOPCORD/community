@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-07T23:23:21.080Z</updated>
+    <updated>2021-11-08T01:10:33.204Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 이마가 정말 넓은 외국 배우]]></title>
+        <id>https://ppt21.com/spoent/64182?category=2</id>
+        <link href="https://ppt21.com/spoent/64182?category=2"/>
+        <updated>2021-11-08T01:10:22.304Z</updated>
+        <content type="html"><![CDATA[너]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 07년도 데뷔 걸그룹 3팀의 데뷔곡과 그해 활동곡]]></title>
         <id>https://ppt21.com/spoent/64181?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64146?category=2"/>
         <updated>2021-11-06T01:07:37.729Z</updated>
         <content type="html"><![CDATA[실버벨]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 스타쉽 신인걸그룹 IVE 아이브 네번째 멤버 "리즈" 프로필 공개]]></title>
-        <id>https://ppt21.com/spoent/64145?category=2</id>
-        <link href="https://ppt21.com/spoent/64145?category=2"/>
-        <updated>2021-11-05T18:27:52.732Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
     </entry>
 </feed>
