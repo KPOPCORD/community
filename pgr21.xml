@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-08T11:19:08.990Z</updated>
+    <updated>2021-11-08T12:35:37.910Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 강호동, 김준현, 이특 그리고 쥬리]]></title>
+        <id>https://ppt21.com/spoent/64196?category=2</id>
+        <link href="https://ppt21.com/spoent/64196?category=2"/>
+        <updated>2021-11-08T12:35:27.000Z</updated>
+        <content type="html"><![CDATA[어강됴리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 에스파 윈터, 일베 논란?]]></title>
+        <id>https://ppt21.com/spoent/64195?category=2</id>
+        <link href="https://ppt21.com/spoent/64195?category=2"/>
+        <updated>2021-11-08T12:35:27.002Z</updated>
+        <content type="html"><![CDATA[실제상황입니다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 위키미키 11/18일 미니 5집 컴백]]></title>
         <id>https://ppt21.com/spoent/64192?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/64162?category=2"/>
         <updated>2021-11-06T16:32:54.845Z</updated>
         <content type="html"><![CDATA[그10번]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 내년이면 30주년 되는 영화]]></title>
-        <id>https://ppt21.com/spoent/64160?category=2</id>
-        <link href="https://ppt21.com/spoent/64160?category=2"/>
-        <updated>2021-11-06T15:23:08.354Z</updated>
-        <content type="html"><![CDATA[Croove]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 스타쉽 신인걸그룹 IVE 아이브 다섯번째 멤버 "레이" 프로필 공개 (+정보추가)]]></title>
-        <id>https://ppt21.com/spoent/64159?category=2</id>
-        <link href="https://ppt21.com/spoent/64159?category=2"/>
-        <updated>2021-11-06T14:19:56.468Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
     </entry>
 </feed>
