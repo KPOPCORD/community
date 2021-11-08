@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-08T14:21:02.965Z</updated>
+    <updated>2021-11-08T15:24:37.315Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [트와이스] MOMO-made "처음 그 자리에 (이보람)" Cover]]></title>
+        <id>https://ppt21.com/spoent/64202?category=2</id>
+        <link href="https://ppt21.com/spoent/64202?category=2"/>
+        <updated>2021-11-08T15:24:26.848Z</updated>
+        <content type="html"><![CDATA[TWICE쯔위]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 미스틱 스토리 첫 아이돌그룹 Billlie 빌리 데뷔 앨범 하이라이트 메들리]]></title>
+        <id>https://ppt21.com/spoent/64201?category=2</id>
+        <link href="https://ppt21.com/spoent/64201?category=2"/>
+        <updated>2021-11-08T15:24:26.849Z</updated>
+        <content type="html"><![CDATA[아롱이다롱이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [오피셜] 스타쉽 신인걸그룹 IVE 아이브 데뷔일 발표]]></title>
         <id>https://ppt21.com/spoent/64198?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/64172?category=2"/>
         <updated>2021-11-07T10:24:51.789Z</updated>
         <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 아이브 신인걸그룹 IVE 아이브 멤버 <리즈> 의 새로 뜬 움짤.gif]]></title>
-        <id>https://ppt21.com/spoent/64167?category=2</id>
-        <link href="https://ppt21.com/spoent/64167?category=2"/>
-        <updated>2021-11-07T07:21:03.974Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 다르게 보는 예능촬영현장]]></title>
-        <id>https://ppt21.com/spoent/64166?category=2</id>
-        <link href="https://ppt21.com/spoent/64166?category=2"/>
-        <updated>2021-11-07T05:19:49.268Z</updated>
-        <content type="html"><![CDATA[너]]></content>
     </entry>
 </feed>
