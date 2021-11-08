@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-08T03:24:41.972Z</updated>
+    <updated>2021-11-08T04:30:53.606Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 마리텔 진경PD가 MBC때려친 이유]]></title>
+        <id>https://ppt21.com/spoent/64187?category=2</id>
+        <link href="https://ppt21.com/spoent/64187?category=2"/>
+        <updated>2021-11-08T04:30:26.086Z</updated>
+        <content type="html"><![CDATA[AKbizs]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 지옥 파이널 예고편]]></title>
+        <id>https://ppt21.com/spoent/64186?category=2</id>
+        <link href="https://ppt21.com/spoent/64186?category=2"/>
+        <updated>2021-11-08T04:30:26.092Z</updated>
+        <content type="html"><![CDATA[어강됴리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 이시언 “크리스마스에 결혼할까요” 12월 24일 서지승과 결혼]]></title>
+        <id>https://ppt21.com/spoent/64185?category=2</id>
+        <link href="https://ppt21.com/spoent/64185?category=2"/>
+        <updated>2021-11-08T04:30:26.095Z</updated>
+        <content type="html"><![CDATA[트리플에스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 이마가 정말 넓은 외국 배우]]></title>
         <id>https://ppt21.com/spoent/64182?category=2</id>
@@ -116,26 +137,5 @@
         <link href="https://ppt21.com/spoent/64154?category=2"/>
         <updated>2021-11-06T10:24:38.315Z</updated>
         <content type="html"><![CDATA[TWICE쯔위]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 미스틱 스토리 첫 아이돌그룹 <Billlie> 빌리 데뷔 곡 'RING X RING 티저 공개]]></title>
-        <id>https://ppt21.com/spoent/64153?category=2</id>
-        <link href="https://ppt21.com/spoent/64153?category=2"/>
-        <updated>2021-11-06T08:25:34.092Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 졌지만 잘싸운 한선화.gfy]]></title>
-        <id>https://ppt21.com/spoent/64151?category=2</id>
-        <link href="https://ppt21.com/spoent/64151?category=2"/>
-        <updated>2021-11-06T06:26:26.422Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 음원 사재기에 대한 영탁 입장문.don`t know]]></title>
-        <id>https://ppt21.com/spoent/64146?category=2</id>
-        <link href="https://ppt21.com/spoent/64146?category=2"/>
-        <updated>2021-11-06T01:07:37.729Z</updated>
-        <content type="html"><![CDATA[실버벨]]></content>
     </entry>
 </feed>
