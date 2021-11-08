@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-08T13:27:59.398Z</updated>
+    <updated>2021-11-08T14:21:02.965Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [오피셜] 스타쉽 신인걸그룹 IVE 아이브 데뷔일 발표]]></title>
+        <id>https://ppt21.com/spoent/64198?category=2</id>
+        <link href="https://ppt21.com/spoent/64198?category=2"/>
+        <updated>2021-11-08T14:20:52.619Z</updated>
+        <content type="html"><![CDATA[아롱이다롱이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 강호동, 김준현, 이특 그리고 쥬리]]></title>
         <id>https://ppt21.com/spoent/64196?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64166?category=2"/>
         <updated>2021-11-07T05:19:49.268Z</updated>
         <content type="html"><![CDATA[너]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [트와이스] 6년전 사진과 지금 (데이터주의)]]></title>
-        <id>https://ppt21.com/spoent/64162?category=2</id>
-        <link href="https://ppt21.com/spoent/64162?category=2"/>
-        <updated>2021-11-06T16:32:54.845Z</updated>
-        <content type="html"><![CDATA[그10번]]></content>
     </entry>
 </feed>
