@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-09T01:10:46.223Z</updated>
+    <updated>2021-11-09T02:34:35.859Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 김태호가 표절한거 아니냐는 말이 나오는 프로그램.jpg]]></title>
+        <id>https://ppt21.com/spoent/64207?category=2</id>
+        <link href="https://ppt21.com/spoent/64207?category=2"/>
+        <updated>2021-11-09T02:34:25.062Z</updated>
+        <content type="html"><![CDATA[insane]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 김태호 넷플릭스 예능, 먹보와 털보 예고편]]></title>
         <id>https://ppt21.com/spoent/64206?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64181?category=2"/>
         <updated>2021-11-07T22:21:54.214Z</updated>
         <content type="html"><![CDATA[한국화약주식회사]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [브레이브 걸스] 쁘걸 근황]]></title>
-        <id>https://ppt21.com/spoent/64178?category=2</id>
-        <link href="https://ppt21.com/spoent/64178?category=2"/>
-        <updated>2021-11-07T15:22:55.476Z</updated>
-        <content type="html"><![CDATA[Croove]]></content>
     </entry>
 </feed>
