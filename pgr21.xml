@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-09T14:21:32.784Z</updated>
+    <updated>2021-11-09T15:24:13.676Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 다음 중 프리미어리그 역대 최고의 센터백을 고르시오.JPG]]></title>
+        <id>https://ppt21.com/spoent/64227?category=2</id>
+        <link href="https://ppt21.com/spoent/64227?category=2"/>
+        <updated>2021-11-09T15:24:02.643Z</updated>
+        <content type="html"><![CDATA[김치찌개]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 배텐에서도 영원히 고통받는 홍진호]]></title>
+        <id>https://ppt21.com/spoent/64225?category=2</id>
+        <link href="https://ppt21.com/spoent/64225?category=2"/>
+        <updated>2021-11-09T15:24:02.648Z</updated>
+        <content type="html"><![CDATA[강가딘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 성캐가 중계 스트릿 아나운서 파이터-2편(항마력 주의)]]></title>
         <id>https://ppt21.com/spoent/64223?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/64201?category=2"/>
         <updated>2021-11-08T15:24:26.849Z</updated>
         <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [오피셜] 스타쉽 신인걸그룹 IVE 아이브 데뷔일 발표]]></title>
-        <id>https://ppt21.com/spoent/64198?category=2</id>
-        <link href="https://ppt21.com/spoent/64198?category=2"/>
-        <updated>2021-11-08T14:20:52.619Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 강호동, 김준현, 이특 그리고 쥬리]]></title>
-        <id>https://ppt21.com/spoent/64196?category=2</id>
-        <link href="https://ppt21.com/spoent/64196?category=2"/>
-        <updated>2021-11-08T12:35:27.000Z</updated>
-        <content type="html"><![CDATA[어강됴리]]></content>
     </entry>
 </feed>
