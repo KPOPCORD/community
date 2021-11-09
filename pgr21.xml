@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-09T06:27:42.702Z</updated>
+    <updated>2021-11-09T07:22:26.811Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 런닝맨 멤버들 유튜브 구독자 수]]></title>
+        <id>https://ppt21.com/spoent/64212?category=2</id>
+        <link href="https://ppt21.com/spoent/64212?category=2"/>
+        <updated>2021-11-09T07:22:16.630Z</updated>
+        <content type="html"><![CDATA[니시노 나나세]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [트와이스] 정규 3집 "Scientist" 뮤비 티저1.swf]]></title>
         <id>https://ppt21.com/spoent/64210?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64187?category=2"/>
         <updated>2021-11-08T04:30:26.086Z</updated>
         <content type="html"><![CDATA[AKbizs]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 지옥 파이널 예고편]]></title>
-        <id>https://ppt21.com/spoent/64186?category=2</id>
-        <link href="https://ppt21.com/spoent/64186?category=2"/>
-        <updated>2021-11-08T04:30:26.092Z</updated>
-        <content type="html"><![CDATA[삭제됨]]></content>
     </entry>
 </feed>
