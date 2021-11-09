@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-09T08:27:42.050Z</updated>
+    <updated>2021-11-09T09:23:08.458Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 버블 앱 구독 유지율]]></title>
+        <id>https://ppt21.com/spoent/64215?category=2</id>
+        <link href="https://ppt21.com/spoent/64215?category=2"/>
+        <updated>2021-11-09T09:22:58.360Z</updated>
+        <content type="html"><![CDATA[Leeka]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 김종국 최측근들도 모르는다는 것]]></title>
         <id>https://ppt21.com/spoent/64214?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64190?category=2"/>
         <updated>2021-11-08T06:28:27.226Z</updated>
         <content type="html"><![CDATA[협곡떠난아빠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 지옥 파이널 예고편]]></title>
-        <id>https://ppt21.com/spoent/64188?category=2</id>
-        <link href="https://ppt21.com/spoent/64188?category=2"/>
-        <updated>2021-11-08T05:21:09.863Z</updated>
-        <content type="html"><![CDATA[어강됴리]]></content>
     </entry>
 </feed>
