@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-09T03:24:18.477Z</updated>
+    <updated>2021-11-09T04:29:58.273Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 이경규 딸 이예림 12월 결혼예정.jpg]]></title>
+        <id>https://ppt21.com/spoent/64209?category=2</id>
+        <link href="https://ppt21.com/spoent/64209?category=2"/>
+        <updated>2021-11-09T04:29:47.489Z</updated>
+        <content type="html"><![CDATA[캬라]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 골때리는그녀들 나왔으면 다 씹어먹었을꺼라는 여자안무가.MP4]]></title>
+        <id>https://ppt21.com/spoent/64208?category=2</id>
+        <link href="https://ppt21.com/spoent/64208?category=2"/>
+        <updated>2021-11-09T04:29:47.490Z</updated>
+        <content type="html"><![CDATA[insane]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 김태호가 표절한거 아니냐는 말이 나오는 프로그램.jpg]]></title>
         <id>https://ppt21.com/spoent/64207?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/64185?category=2"/>
         <updated>2021-11-08T04:30:26.095Z</updated>
         <content type="html"><![CDATA[트리플에스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 이마가 정말 넓은 외국 배우]]></title>
-        <id>https://ppt21.com/spoent/64182?category=2</id>
-        <link href="https://ppt21.com/spoent/64182?category=2"/>
-        <updated>2021-11-08T01:10:22.304Z</updated>
-        <content type="html"><![CDATA[너]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 07년도 데뷔 걸그룹 3팀의 데뷔곡과 그해 활동곡]]></title>
-        <id>https://ppt21.com/spoent/64181?category=2</id>
-        <link href="https://ppt21.com/spoent/64181?category=2"/>
-        <updated>2021-11-07T22:21:54.214Z</updated>
-        <content type="html"><![CDATA[한국화약주식회사]]></content>
     </entry>
 </feed>
