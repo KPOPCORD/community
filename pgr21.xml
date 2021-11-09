@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-09T12:36:30.541Z</updated>
+    <updated>2021-11-09T13:28:32.722Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 인피니트 성종의 울림엔터 저격성 인스타 스토리]]></title>
+        <id>https://ppt21.com/spoent/64221?category=2</id>
+        <link href="https://ppt21.com/spoent/64221?category=2"/>
+        <updated>2021-11-09T13:28:21.231Z</updated>
+        <content type="html"><![CDATA[나의 연인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 태연 땅투기 설을 반박하는 기사가 나왔네요]]></title>
+        <id>https://ppt21.com/spoent/64220?category=2</id>
+        <link href="https://ppt21.com/spoent/64220?category=2"/>
+        <updated>2021-11-09T13:28:21.232Z</updated>
+        <content type="html"><![CDATA[착한글만쓰기]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 17대1로 싸웠던 17집 가수의 킬링보이스]]></title>
         <id>https://ppt21.com/spoent/64217?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/64195?category=2"/>
         <updated>2021-11-08T12:35:27.002Z</updated>
         <content type="html"><![CDATA[실제상황입니다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 위키미키 11/18일 미니 5집 컴백]]></title>
-        <id>https://ppt21.com/spoent/64192?category=2</id>
-        <link href="https://ppt21.com/spoent/64192?category=2"/>
-        <updated>2021-11-08T07:21:48.251Z</updated>
-        <content type="html"><![CDATA[Leeka]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [트와이스] "Formula of Love: O+T=<3" 하이라이트 메들리]]></title>
-        <id>https://ppt21.com/spoent/64191?category=2</id>
-        <link href="https://ppt21.com/spoent/64191?category=2"/>
-        <updated>2021-11-08T07:21:48.258Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
