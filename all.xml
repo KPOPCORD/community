@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-09T05:20:46.899Z</updated>
+    <updated>2021-11-09T06:27:42.706Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[연예] [트와이스] 정규 3집 "Scientist" 뮤비 티저1.swf (Pgr21 ─ 연예)]]></title>
@@ -138,6 +138,13 @@
         <content type="html"><![CDATA[삭제됨]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[MD PRE-ORDER] SBS 드라마 <#너의밤이되어줄게> 공식 MD 예약판매 안내🌕 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2233854331</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2233854331"/>
+        <updated>2021-11-09T06:27:41.843Z</updated>
+        <content type="html"><![CDATA[302436]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[티아라 [Track. 1] 'ALL KILL' Concept Photo (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2233754663</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2233754663"/>
@@ -269,12 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2233202167"/>
         <updated>2021-11-08T14:21:02.303Z</updated>
         <content type="html"><![CDATA[302417]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CIX 씨아이엑스 배진영 인스타그램 업뎃💜 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2233179935</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2233179935"/>
-        <updated>2021-11-08T14:21:02.304Z</updated>
-        <content type="html"><![CDATA[302416]]></content>
     </entry>
 </feed>
