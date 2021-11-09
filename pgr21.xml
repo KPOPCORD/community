@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-09T04:29:58.273Z</updated>
+    <updated>2021-11-09T05:20:46.895Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [트와이스] 정규 3집 "Scientist" 뮤비 티저1.swf]]></title>
+        <id>https://ppt21.com/spoent/64210?category=2</id>
+        <link href="https://ppt21.com/spoent/64210?category=2"/>
+        <updated>2021-11-09T05:20:33.913Z</updated>
+        <content type="html"><![CDATA[발적화]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 이경규 딸 이예림 12월 결혼예정.jpg]]></title>
         <id>https://ppt21.com/spoent/64209?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64186?category=2"/>
         <updated>2021-11-08T04:30:26.092Z</updated>
         <content type="html"><![CDATA[삭제됨]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 이시언 “크리스마스에 결혼할까요” 12월 24일 서지승과 결혼]]></title>
-        <id>https://ppt21.com/spoent/64185?category=2</id>
-        <link href="https://ppt21.com/spoent/64185?category=2"/>
-        <updated>2021-11-08T04:30:26.095Z</updated>
-        <content type="html"><![CDATA[트리플에스]]></content>
     </entry>
 </feed>

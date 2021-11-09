@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-09T04:29:58.278Z</updated>
+    <updated>2021-11-09T05:20:46.899Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] [트와이스] 정규 3집 "Scientist" 뮤비 티저1.swf (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/64210?category=2</id>
+        <link href="https://ppt21.com/spoent/64210?category=2"/>
+        <updated>2021-11-09T05:20:33.913Z</updated>
+        <content type="html"><![CDATA[발적화]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 이경규 딸 이예림 12월 결혼예정.jpg (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/64209?category=2</id>
@@ -131,11 +138,11 @@
         <content type="html"><![CDATA[삭제됨]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[연예] 이시언 “크리스마스에 결혼할까요” 12월 24일 서지승과 결혼 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/64185?category=2</id>
-        <link href="https://ppt21.com/spoent/64185?category=2"/>
-        <updated>2021-11-08T04:30:26.095Z</updated>
-        <content type="html"><![CDATA[트리플에스]]></content>
+        <title type="html"><![CDATA[티아라 [Track. 1] 'ALL KILL' Concept Photo (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2233754663</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2233754663"/>
+        <updated>2021-11-09T05:20:46.111Z</updated>
+        <content type="html"><![CDATA[302435]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[스키즈 승민 인스타그램🐶🍒 (더쿠 ─ 케이돌토크)]]></title>
@@ -269,12 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2233179935"/>
         <updated>2021-11-08T14:21:02.304Z</updated>
         <content type="html"><![CDATA[302416]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[걸스플래닛999 케플러 팬덤명 공모 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2233174713</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2233174713"/>
-        <updated>2021-11-08T14:21:02.306Z</updated>
-        <content type="html"><![CDATA[302415]]></content>
     </entry>
 </feed>
