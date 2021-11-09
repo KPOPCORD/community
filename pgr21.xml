@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-09T10:25:27.169Z</updated>
+    <updated>2021-11-09T11:19:15.315Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 17대1로 싸웠던 17집 가수의 킬링보이스]]></title>
+        <id>https://ppt21.com/spoent/64217?category=2</id>
+        <link href="https://ppt21.com/spoent/64217?category=2"/>
+        <updated>2021-11-09T11:19:04.246Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 버블 앱 구독 유지율]]></title>
         <id>https://ppt21.com/spoent/64215?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64191?category=2"/>
         <updated>2021-11-08T07:21:48.258Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 넷플릭스 아케인 배치1 (1,2,3화) 보고왔습니다]]></title>
-        <id>https://ppt21.com/spoent/64190?category=2</id>
-        <link href="https://ppt21.com/spoent/64190?category=2"/>
-        <updated>2021-11-08T06:28:27.226Z</updated>
-        <content type="html"><![CDATA[협곡떠난아빠]]></content>
     </entry>
 </feed>
