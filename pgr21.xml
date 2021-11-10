@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-10T07:22:21.167Z</updated>
+    <updated>2021-11-10T08:27:32.666Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 이 영화를 보고나면, 성소재림 클레멘타인이 살인의추억 밀양 급 명작으로 보인다는 전설의 영화.jpg]]></title>
+        <id>https://ppt21.com/spoent/64237?category=2</id>
+        <link href="https://ppt21.com/spoent/64237?category=2"/>
+        <updated>2021-11-10T08:27:18.918Z</updated>
+        <content type="html"><![CDATA[insane]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 드라마보다 더 드라마 같던 드라마]]></title>
         <id>https://ppt21.com/spoent/64236?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64205?category=2"/>
         <updated>2021-11-09T01:10:35.019Z</updated>
         <content type="html"><![CDATA[Zelazny]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] "썩씨딩 유, 파더!"...]]></title>
-        <id>https://ppt21.com/spoent/64204?category=2</id>
-        <link href="https://ppt21.com/spoent/64204?category=2"/>
-        <updated>2021-11-08T22:22:30.251Z</updated>
-        <content type="html"><![CDATA[우주전쟁]]></content>
     </entry>
 </feed>
