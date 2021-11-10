@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-10T14:21:10.149Z</updated>
+    <updated>2021-11-10T15:24:24.295Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] NiziU Chopstick MV]]></title>
+        <id>https://ppt21.com/spoent/64252?category=2</id>
+        <link href="https://ppt21.com/spoent/64252?category=2"/>
+        <updated>2021-11-10T15:24:14.545Z</updated>
+        <content type="html"><![CDATA[어강됴리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 김아름 - 여름, 끝 데모버전 (여자친구 2집 겨울, 끝)]]></title>
         <id>https://ppt21.com/spoent/64250?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64209?category=2"/>
         <updated>2021-11-09T04:29:47.489Z</updated>
         <content type="html"><![CDATA[캬라]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 골때리는그녀들 나왔으면 다 씹어먹었을꺼라는 여자안무가.MP4]]></title>
-        <id>https://ppt21.com/spoent/64208?category=2</id>
-        <link href="https://ppt21.com/spoent/64208?category=2"/>
-        <updated>2021-11-09T04:29:47.490Z</updated>
-        <content type="html"><![CDATA[insane]]></content>
     </entry>
 </feed>
