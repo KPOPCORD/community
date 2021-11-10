@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-10T04:30:07.117Z</updated>
+    <updated>2021-11-10T05:18:52.407Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [트와이스] "SCIENTIST" M/V Teaser #2]]></title>
+        <id>https://ppt21.com/spoent/64235?category=2</id>
+        <link href="https://ppt21.com/spoent/64235?category=2"/>
+        <updated>2021-11-10T05:18:42.288Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] [단독]러블리즈 미주, 안테나行 유력..역시 '유재석 애제자']]></title>
+        <id>https://ppt21.com/spoent/64233?category=2</id>
+        <link href="https://ppt21.com/spoent/64233?category=2"/>
+        <updated>2021-11-10T05:18:42.289Z</updated>
+        <content type="html"><![CDATA[나의 연인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 아빠.. 저 보컬 학원 끊어주세요.jpg]]></title>
         <id>https://ppt21.com/spoent/64230?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/64203?category=2"/>
         <updated>2021-11-08T16:35:42.238Z</updated>
         <content type="html"><![CDATA[나의 연인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [트와이스] MOMO-made "처음 그 자리에 (이보람)" Cover]]></title>
-        <id>https://ppt21.com/spoent/64202?category=2</id>
-        <link href="https://ppt21.com/spoent/64202?category=2"/>
-        <updated>2021-11-08T15:24:26.848Z</updated>
-        <content type="html"><![CDATA[TWICE쯔위]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 미스틱 스토리 첫 아이돌그룹 Billlie 빌리 데뷔 앨범 하이라이트 메들리]]></title>
-        <id>https://ppt21.com/spoent/64201?category=2</id>
-        <link href="https://ppt21.com/spoent/64201?category=2"/>
-        <updated>2021-11-08T15:24:26.849Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
     </entry>
 </feed>
