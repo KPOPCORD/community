@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2021-11-10T02:35:08.993Z</updated>
+    <updated>2021-11-10T03:24:03.150Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 샤이니 SM ARTIST SEASON’S GREETINGS Teaser]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2234977167</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2234977167"/>
+        <updated>2021-11-10T03:24:02.393Z</updated>
+        <content type="html"><![CDATA[302470]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뉴이스트 NU'EST CONCERT <THE BLACK> 개최 안내]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2234905186</id>
@@ -137,12 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2234283564"/>
         <updated>2021-11-09T12:36:29.873Z</updated>
         <content type="html"><![CDATA[302451]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[결혼식장에서 연하 남편이 부르면 레전드 🍃 │ 김재환 KIMJAEHWAN '누나 (NUNA)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2234256590</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2234256590"/>
-        <updated>2021-11-09T11:19:14.584Z</updated>
-        <content type="html"><![CDATA[302450]]></content>
     </entry>
 </feed>
