@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-09T23:23:43.136Z</updated>
+    <updated>2021-11-10T01:10:27.912Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 아빠.. 저 보컬 학원 끊어주세요.jpg]]></title>
+        <id>https://ppt21.com/spoent/64230?category=2</id>
+        <link href="https://ppt21.com/spoent/64230?category=2"/>
+        <updated>2021-11-10T01:10:16.728Z</updated>
+        <content type="html"><![CDATA[너]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 배텐에서도 영원히 고통받는 홍진호]]></title>
         <id>https://ppt21.com/spoent/64225?category=2</id>
@@ -129,13 +136,6 @@
         <id>https://ppt21.com/spoent/64201?category=2</id>
         <link href="https://ppt21.com/spoent/64201?category=2"/>
         <updated>2021-11-08T15:24:26.849Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [오피셜] 스타쉽 신인걸그룹 IVE 아이브 데뷔일 발표]]></title>
-        <id>https://ppt21.com/spoent/64198?category=2</id>
-        <link href="https://ppt21.com/spoent/64198?category=2"/>
-        <updated>2021-11-09T16:36:11.386Z</updated>
         <content type="html"><![CDATA[아롱이다롱이]]></content>
     </entry>
 </feed>
