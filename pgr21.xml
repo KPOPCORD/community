@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-10T22:23:00.751Z</updated>
+    <updated>2021-11-10T23:23:05.480Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 권력다툼이 극심한 넷플릭스 왕국...]]></title>
+        <id>https://ppt21.com/spoent/64255?category=2</id>
+        <link href="https://ppt21.com/spoent/64255?category=2"/>
+        <updated>2021-11-10T23:22:55.288Z</updated>
+        <content type="html"><![CDATA[우주전쟁]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 골때녀에서 어마무시한 공격력을 보여주는  FC원더우먼]]></title>
         <id>https://ppt21.com/spoent/64254?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64212?category=2"/>
         <updated>2021-11-09T07:22:16.630Z</updated>
         <content type="html"><![CDATA[니시노 나나세]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [트와이스] 정규 3집 "Scientist" 뮤비 티저1.swf]]></title>
-        <id>https://ppt21.com/spoent/64210?category=2</id>
-        <link href="https://ppt21.com/spoent/64210?category=2"/>
-        <updated>2021-11-09T05:20:33.913Z</updated>
-        <content type="html"><![CDATA[발적화]]></content>
     </entry>
 </feed>
