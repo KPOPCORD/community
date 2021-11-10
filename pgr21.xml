@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-10T09:23:20.569Z</updated>
+    <updated>2021-11-10T10:25:33.293Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 코로나 확진’ 임창정 백신 미접종… 연예계 비상(종합)]]></title>
+        <id>https://ppt21.com/spoent/64245?category=2</id>
+        <link href="https://ppt21.com/spoent/64245?category=2"/>
+        <updated>2021-11-10T10:25:22.658Z</updated>
+        <content type="html"><![CDATA[덴드로븀]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 미스틱스토리의 신인 걸그룹 Billlie의 데뷔곡 'RING X RING' M/V]]></title>
         <id>https://ppt21.com/spoent/64244?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64207?category=2"/>
         <updated>2021-11-09T02:34:25.062Z</updated>
         <content type="html"><![CDATA[insane]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 김태호 넷플릭스 예능, 먹보와 털보 예고편]]></title>
-        <id>https://ppt21.com/spoent/64206?category=2</id>
-        <link href="https://ppt21.com/spoent/64206?category=2"/>
-        <updated>2021-11-09T01:10:35.018Z</updated>
-        <content type="html"><![CDATA[어강됴리]]></content>
     </entry>
 </feed>
