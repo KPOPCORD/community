@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-10T08:27:32.666Z</updated>
+    <updated>2021-11-10T09:23:20.569Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 미스틱스토리의 신인 걸그룹 Billlie의 데뷔곡 'RING X RING' M/V]]></title>
+        <id>https://ppt21.com/spoent/64244?category=2</id>
+        <link href="https://ppt21.com/spoent/64244?category=2"/>
+        <updated>2021-11-10T09:23:08.781Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 이 영화를 보고나면, 성소재림 클레멘타인이 살인의추억 밀양 급 명작으로 보인다는 전설의 영화.jpg]]></title>
         <id>https://ppt21.com/spoent/64237?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64206?category=2"/>
         <updated>2021-11-09T01:10:35.018Z</updated>
         <content type="html"><![CDATA[어강됴리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 위키미키가 역대 걸그룹 중에 최고인 퍼포먼스]]></title>
-        <id>https://ppt21.com/spoent/64205?category=2</id>
-        <link href="https://ppt21.com/spoent/64205?category=2"/>
-        <updated>2021-11-09T01:10:35.019Z</updated>
-        <content type="html"><![CDATA[Zelazny]]></content>
     </entry>
 </feed>
