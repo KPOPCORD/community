@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-10T16:34:56.449Z</updated>
+    <updated>2021-11-10T17:20:17.623Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] 골때녀에서 어마무시한 공격력을 보여주는  FC원더우먼 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/64254?category=2</id>
+        <link href="https://ppt21.com/spoent/64254?category=2"/>
+        <updated>2021-11-10T17:20:06.080Z</updated>
+        <content type="html"><![CDATA[강가딘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] NiziU Chopstick MV (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/64252?category=2</id>
@@ -129,13 +136,6 @@
         <link href="https://ppt21.com/spoent/64210?category=2"/>
         <updated>2021-11-09T05:20:33.913Z</updated>
         <content type="html"><![CDATA[발적화]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 이경규 딸 이예림 12월 결혼예정.jpg (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/64209?category=2</id>
-        <link href="https://ppt21.com/spoent/64209?category=2"/>
-        <updated>2021-11-09T04:29:47.489Z</updated>
-        <content type="html"><![CDATA[캬라]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[엔하이픈 선우 멤트🧚🏻‍♂️ (더쿠 ─ 케이돌토크)]]></title>
