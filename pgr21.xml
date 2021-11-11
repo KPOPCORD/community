@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-11T03:24:23.311Z</updated>
+    <updated>2021-11-11T04:30:00.762Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 잠재적 성범죄자를 지도자로 모신 황소윤]]></title>
+        <id>https://ppt21.com/spoent/64260?category=2</id>
+        <link href="https://ppt21.com/spoent/64260?category=2"/>
+        <updated>2021-11-11T04:29:48.826Z</updated>
+        <content type="html"><![CDATA[착한글만쓰기]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [브레이브걸스] 팬클럽 '1기' 모집 + 엘칸토 최근 광고 영상]]></title>
         <id>https://ppt21.com/spoent/64259?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64221?category=2"/>
         <updated>2021-11-09T13:28:21.231Z</updated>
         <content type="html"><![CDATA[나의 연인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 태연 땅투기 설을 반박하는 기사가 나왔네요]]></title>
-        <id>https://ppt21.com/spoent/64220?category=2</id>
-        <link href="https://ppt21.com/spoent/64220?category=2"/>
-        <updated>2021-11-09T13:28:21.232Z</updated>
-        <content type="html"><![CDATA[착한글만쓰기]]></content>
     </entry>
 </feed>

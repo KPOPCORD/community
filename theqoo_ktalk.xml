@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2021-11-11T03:24:23.305Z</updated>
+    <updated>2021-11-11T04:30:00.757Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[#2021MAMA] LEE HYORI X MAMA]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2236278015</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2236278015"/>
+        <updated>2021-11-11T04:30:00.066Z</updated>
+        <content type="html"><![CDATA[302504]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[국민가수 선공개] 이솔로몬의 〈오래전 그날〉]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2236272276</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2236272276"/>
+        <updated>2021-11-11T04:30:00.067Z</updated>
+        <content type="html"><![CDATA[302503]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[브레이브걸스 공식 팬클럽 1기 성비, 연령비.jpg (현재 가입중)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2236252889</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2236252889"/>
+        <updated>2021-11-11T04:30:00.070Z</updated>
+        <content type="html"><![CDATA[302502]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마마무 화사 2번째 싱글 'Guilty Pleasure' 앨범 사양!]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2236234740</id>
@@ -13,7 +34,7 @@
         <content type="html"><![CDATA[302501]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[투바투 2022 시즌그리팅 사양]]></title>
+        <title type="html"><![CDATA[투바투 2022 시즌그리팅 팩샷]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2236223252</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2236223252"/>
         <updated>2021-11-11T03:24:22.631Z</updated>
@@ -123,26 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2235665832"/>
         <updated>2021-11-10T13:27:32.442Z</updated>
         <content type="html"><![CDATA[302485]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#강민] 빈이형 : 강민아 나 : 네?? 시점 #베리베리 #빈이형이 #찍어줬어요]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2235649456</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2235649456"/>
-        <updated>2021-11-10T12:36:01.267Z</updated>
-        <content type="html"><![CDATA[302484]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방탄소년단 이번주 오리콘 위클리 차트인 앨범, 영상물 목록]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2235634689</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2235634689"/>
-        <updated>2021-11-10T12:36:01.268Z</updated>
-        <content type="html"><![CDATA[302483]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🐶비글미 폭발하는 영재의 화보 촬영 브이로그 YOUNG JAE V-LOG]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2235565356</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2235565356"/>
-        <updated>2021-11-10T12:36:01.269Z</updated>
-        <content type="html"><![CDATA[302482]]></content>
     </entry>
 </feed>
