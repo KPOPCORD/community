@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2021-11-11T02:35:10.765Z</updated>
+    <updated>2021-11-11T03:24:23.305Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[마마무 화사 2번째 싱글 'Guilty Pleasure' 앨범 사양!]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2236234740</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2236234740"/>
+        <updated>2021-11-11T03:24:22.631Z</updated>
+        <content type="html"><![CDATA[302501]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[투바투 2022 시즌그리팅 사양]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2236223252</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2236223252"/>
+        <updated>2021-11-11T03:24:22.631Z</updated>
+        <content type="html"><![CDATA[302500]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[투바투 '2022 SEASON'S GREETINGS' Preview Cuts #1]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2236215500</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2236215500"/>
+        <updated>2021-11-11T03:24:22.631Z</updated>
+        <content type="html"><![CDATA[302499]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[고구마돌 혜성씨 미국 출국하나봐]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2236177067</id>
@@ -123,26 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2235565356"/>
         <updated>2021-11-10T12:36:01.269Z</updated>
         <content type="html"><![CDATA[302482]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔하이픈 컴백 DILEMMA LIVE @ Locker Room Photo Sketch 📸]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2235542859</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2235542859"/>
-        <updated>2021-11-10T11:19:07.441Z</updated>
-        <content type="html"><![CDATA[302481]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[아이돌 갭차이 TOP4] ATEEZ (에이티즈) 산, TO1 (티오원), 2am 조권, 청하 (CHUNG HA)｜Stone Music+]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2235542300</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2235542300"/>
-        <updated>2021-11-10T11:19:07.442Z</updated>
-        <content type="html"><![CDATA[302480]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[도라이비 우주로!] 도라이비(妃)는 과연 어떻게 도라이별(星)로 돌아갈 수 있을 것인가?!]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2235537776</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2235537776"/>
-        <updated>2021-11-10T11:19:07.445Z</updated>
-        <content type="html"><![CDATA[302479]]></content>
     </entry>
 </feed>

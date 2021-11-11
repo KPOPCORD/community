@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-11T02:35:10.757Z</updated>
+    <updated>2021-11-11T03:24:23.311Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [브레이브걸스] 팬클럽 '1기' 모집 + 엘칸토 최근 광고 영상]]></title>
+        <id>https://ppt21.com/spoent/64259?category=2</id>
+        <link href="https://ppt21.com/spoent/64259?category=2"/>
+        <updated>2021-11-11T03:24:05.101Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] SBS 에서말하는 골때녀에대한 불편]]></title>
+        <id>https://ppt21.com/spoent/64258?category=2</id>
+        <link href="https://ppt21.com/spoent/64258?category=2"/>
+        <updated>2021-11-11T03:24:05.101Z</updated>
+        <content type="html"><![CDATA[AKbizs]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [정보] 아이유 2022 시즌 그리팅 예약 판매 개시]]></title>
         <id>https://ppt21.com/spoent/64257?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/64220?category=2"/>
         <updated>2021-11-09T13:28:21.232Z</updated>
         <content type="html"><![CDATA[착한글만쓰기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 17대1로 싸웠던 17집 가수의 킬링보이스]]></title>
-        <id>https://ppt21.com/spoent/64217?category=2</id>
-        <link href="https://ppt21.com/spoent/64217?category=2"/>
-        <updated>2021-11-09T11:19:04.246Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 버블 앱 구독 유지율]]></title>
-        <id>https://ppt21.com/spoent/64215?category=2</id>
-        <link href="https://ppt21.com/spoent/64215?category=2"/>
-        <updated>2021-11-09T09:22:58.360Z</updated>
-        <content type="html"><![CDATA[Leeka]]></content>
     </entry>
 </feed>
