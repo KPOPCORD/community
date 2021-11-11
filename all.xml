@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-11T21:19:46.828Z</updated>
+    <updated>2021-11-11T22:23:02.163Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] 인도네시아에서 열리는 케이팝 어워드 라인업 수준 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/64273?category=2</id>
+        <link href="https://ppt21.com/spoent/64273?category=2"/>
+        <updated>2021-11-11T22:22:49.672Z</updated>
+        <content type="html"><![CDATA[발적화]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 세계 최초 로이더 의심받는 발라드 가수 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/64268?category=2</id>
@@ -129,13 +136,6 @@
         <link href="https://ppt21.com/spoent/64236?category=2"/>
         <updated>2021-11-10T07:22:01.234Z</updated>
         <content type="html"><![CDATA[니시노 나나세]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [트와이스] "SCIENTIST" M/V Teaser #2 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/64235?category=2</id>
-        <link href="https://ppt21.com/spoent/64235?category=2"/>
-        <updated>2021-11-10T05:18:42.288Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[방탄 알엠 위버스 업뎃 1, 2 (더쿠 ─ 케이돌토크)]]></title>
