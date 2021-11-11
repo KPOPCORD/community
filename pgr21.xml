@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-11T11:19:20.371Z</updated>
+    <updated>2021-11-11T12:35:49.323Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 세계 최초 로이더 의심받는 발라드 가수]]></title>
+        <id>https://ppt21.com/spoent/64268?category=2</id>
+        <link href="https://ppt21.com/spoent/64268?category=2"/>
+        <updated>2021-11-11T12:35:19.609Z</updated>
+        <content type="html"><![CDATA[먹설턴트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 2021년 10월 여자가수 음반판매량(가온기준)]]></title>
         <id>https://ppt21.com/spoent/64266?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64235?category=2"/>
         <updated>2021-11-10T05:18:42.288Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [단독]러블리즈 미주, 안테나行 유력..역시 '유재석 애제자']]></title>
-        <id>https://ppt21.com/spoent/64233?category=2</id>
-        <link href="https://ppt21.com/spoent/64233?category=2"/>
-        <updated>2021-11-10T05:18:42.289Z</updated>
-        <content type="html"><![CDATA[나의 연인]]></content>
     </entry>
 </feed>
