@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-11T01:11:33.606Z</updated>
+    <updated>2021-11-11T02:35:10.757Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [정보] 아이유 2022 시즌 그리팅 예약 판매 개시]]></title>
+        <id>https://ppt21.com/spoent/64257?category=2</id>
+        <link href="https://ppt21.com/spoent/64257?category=2"/>
+        <updated>2021-11-11T02:34:50.919Z</updated>
+        <content type="html"><![CDATA[BTS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 사제지간의 아름다운 러브스토리.tvN]]></title>
         <id>https://ppt21.com/spoent/64256?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64215?category=2"/>
         <updated>2021-11-09T09:22:58.360Z</updated>
         <content type="html"><![CDATA[Leeka]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 김종국 최측근들도 모르는다는 것]]></title>
-        <id>https://ppt21.com/spoent/64214?category=2</id>
-        <link href="https://ppt21.com/spoent/64214?category=2"/>
-        <updated>2021-11-09T08:27:23.721Z</updated>
-        <content type="html"><![CDATA[너]]></content>
     </entry>
 </feed>

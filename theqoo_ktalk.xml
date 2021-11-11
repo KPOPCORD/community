@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2021-11-11T01:11:33.475Z</updated>
+    <updated>2021-11-11T02:35:10.765Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[고구마돌 혜성씨 미국 출국하나봐]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2236177067</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2236177067"/>
+        <updated>2021-11-11T02:35:09.998Z</updated>
+        <content type="html"><![CDATA[302498]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가온 10월 음반차트 TOP10]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2236168797</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2236168797"/>
+        <updated>2021-11-11T02:35:09.999Z</updated>
+        <content type="html"><![CDATA[302497]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[조이뉴스24] 업계종사자 200명이 뽑은 올해의 신인·신선했던 노래·내년 기대주 1위]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2236139268</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2236139268"/>
+        <updated>2021-11-11T02:35:10.008Z</updated>
+        <content type="html"><![CDATA[302496]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엔하이픈 선우 멤트🧚🏻‍♂️]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2235947484</id>
@@ -123,26 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2235537776"/>
         <updated>2021-11-10T11:19:07.445Z</updated>
         <content type="html"><![CDATA[302479]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스트레이키즈 슼케어리 나잇 #1｜[SKZ CODE(스키즈 코드)] Ep.08]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2235525751</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2235525751"/>
-        <updated>2021-11-10T11:19:07.445Z</updated>
-        <content type="html"><![CDATA[302478]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방탄 네이버 포스트 - UN 비하인드]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2235474926</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2235474926"/>
-        <updated>2021-11-10T10:25:32.495Z</updated>
-        <content type="html"><![CDATA[302477]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SF9 에스에프나인 재윤 공식 트위터 업🐦🐦]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2235460274</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2235460274"/>
-        <updated>2021-11-10T10:25:32.497Z</updated>
-        <content type="html"><![CDATA[302476]]></content>
     </entry>
 </feed>
