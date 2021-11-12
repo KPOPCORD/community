@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-12T17:27:04.296Z</updated>
+    <updated>2021-11-12T18:26:52.183Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 내년이면 데뷔 20주년 이라는 이쁜누나.MP4]]></title>
+        <id>https://ppt21.com/spoent/64293?category=2</id>
+        <link href="https://ppt21.com/spoent/64293?category=2"/>
+        <updated>2021-11-12T18:26:39.740Z</updated>
+        <content type="html"><![CDATA[insane]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 머리 짧게 자르고 나온게 신의 한수.jpg]]></title>
         <id>https://ppt21.com/spoent/64292?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64263?category=2"/>
         <updated>2021-11-11T06:27:26.640Z</updated>
         <content type="html"><![CDATA[우주전쟁]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 오징어게임, 유튜브 조회수 170억뷰 기록]]></title>
-        <id>https://ppt21.com/spoent/64262?category=2</id>
-        <link href="https://ppt21.com/spoent/64262?category=2"/>
-        <updated>2021-11-11T05:20:55.450Z</updated>
-        <content type="html"><![CDATA[핑크솔져]]></content>
     </entry>
 </feed>
