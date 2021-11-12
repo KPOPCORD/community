@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2021-11-12T05:21:02.419Z</updated>
+    <updated>2021-11-12T06:29:08.649Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[왓챠 남녀 아이돌 10인 듀엣대전 <더블 트러블> 방청 신청]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2237533948</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2237533948"/>
+        <updated>2021-11-12T06:29:07.841Z</updated>
+        <content type="html"><![CDATA[302539]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고스트나인, 첫 콘셉트 포토 공개…펜싱 슈트로 발산한 카리스마]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2237510251</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2237510251"/>
+        <updated>2021-11-12T06:29:07.843Z</updated>
+        <content type="html"><![CDATA[302538]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[위버스 슈가 댓글]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2237460877</id>
@@ -130,19 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2236848253"/>
         <updated>2021-11-11T13:26:12.292Z</updated>
         <content type="html"><![CDATA[302520]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[EN-O'CLOCK] 엔하이픈 자컨 EPISODE 15 엔깅이들의 첫 요리! 🍳 과연 그 결과는 ?]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2236815453</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2236815453"/>
-        <updated>2021-11-11T13:26:12.292Z</updated>
-        <content type="html"><![CDATA[302519]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더보이즈 주연 에릭 저스트비 틱톡의 틱톡]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2236806954</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2236806954"/>
-        <updated>2021-11-11T12:35:48.467Z</updated>
-        <content type="html"><![CDATA[302518]]></content>
     </entry>
 </feed>
