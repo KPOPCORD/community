@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-12T12:35:32.677Z</updated>
+    <updated>2021-11-12T13:27:34.482Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 김동현 필살기 모음]]></title>
+        <id>https://ppt21.com/spoent/64286?category=2</id>
+        <link href="https://ppt21.com/spoent/64286?category=2"/>
+        <updated>2021-11-12T13:27:07.268Z</updated>
+        <content type="html"><![CDATA[집으로돌아가야해]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 타케우치 미유 근황]]></title>
         <id>https://ppt21.com/spoent/64285?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64256?category=2"/>
         <updated>2021-11-11T01:11:22.611Z</updated>
         <content type="html"><![CDATA[AKbizs]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 권력다툼이 극심한 넷플릭스 왕국...]]></title>
-        <id>https://ppt21.com/spoent/64255?category=2</id>
-        <link href="https://ppt21.com/spoent/64255?category=2"/>
-        <updated>2021-11-10T23:22:55.288Z</updated>
-        <content type="html"><![CDATA[우주전쟁]]></content>
     </entry>
 </feed>
