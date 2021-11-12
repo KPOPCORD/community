@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-12T04:30:11.758Z</updated>
+    <updated>2021-11-12T05:21:02.430Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [트와이스] "SCIENTIST" M/V]]></title>
+        <id>https://ppt21.com/spoent/64277?category=2</id>
+        <link href="https://ppt21.com/spoent/64277?category=2"/>
+        <updated>2021-11-12T05:20:52.158Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 성캐가 중계 고스톱 벌칙 폐병원체험 라이브 풀버전]]></title>
         <id>https://ppt21.com/spoent/64274?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64244?category=2"/>
         <updated>2021-11-10T09:23:08.781Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 이 영화를 보고나면, 성소재림 클레멘타인이 살인의추억 밀양 급 명작으로 보인다는 전설의 영화.jpg]]></title>
-        <id>https://ppt21.com/spoent/64237?category=2</id>
-        <link href="https://ppt21.com/spoent/64237?category=2"/>
-        <updated>2021-11-10T08:27:18.918Z</updated>
-        <content type="html"><![CDATA[insane]]></content>
     </entry>
 </feed>
