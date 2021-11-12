@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-12T14:21:19.846Z</updated>
+    <updated>2021-11-12T15:24:23.091Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 스타쉽 신인걸그룹 '아이브(IVE)'의 프로모션 영상이 공개되었습니다.]]></title>
+        <id>https://ppt21.com/spoent/64291?category=2</id>
+        <link href="https://ppt21.com/spoent/64291?category=2"/>
+        <updated>2021-11-12T15:24:11.589Z</updated>
+        <content type="html"><![CDATA[위르겐클롭]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [트와이스] 예상밖의(?) 정규 3집 첫 예능 출연 컨텐츠]]></title>
         <id>https://ppt21.com/spoent/64290?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64260?category=2"/>
         <updated>2021-11-11T04:29:48.826Z</updated>
         <content type="html"><![CDATA[착한글만쓰기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [브레이브걸스] 팬클럽 '1기' 모집 + 엘칸토 최근 광고 영상]]></title>
-        <id>https://ppt21.com/spoent/64259?category=2</id>
-        <link href="https://ppt21.com/spoent/64259?category=2"/>
-        <updated>2021-11-11T03:24:05.101Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
