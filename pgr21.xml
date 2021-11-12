@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-12T07:22:12.598Z</updated>
+    <updated>2021-11-12T08:27:26.442Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 연예기사에 악플은 왜 여전히 달리고있을까?]]></title>
+        <id>https://ppt21.com/spoent/64278?category=2</id>
+        <link href="https://ppt21.com/spoent/64278?category=2"/>
+        <updated>2021-11-12T08:27:12.814Z</updated>
+        <content type="html"><![CDATA[너]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [트와이스] "SCIENTIST" M/V]]></title>
         <id>https://ppt21.com/spoent/64277?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64245?category=2"/>
         <updated>2021-11-10T10:25:22.658Z</updated>
         <content type="html"><![CDATA[덴드로븀]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 미스틱스토리의 신인 걸그룹 Billlie의 데뷔곡 'RING X RING' M/V (+쇼케이스 영상)]]></title>
-        <id>https://ppt21.com/spoent/64244?category=2</id>
-        <link href="https://ppt21.com/spoent/64244?category=2"/>
-        <updated>2021-11-10T09:23:08.781Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
