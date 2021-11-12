@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-12T11:19:28.987Z</updated>
+    <updated>2021-11-12T12:35:32.677Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 타케우치 미유 근황]]></title>
+        <id>https://ppt21.com/spoent/64285?category=2</id>
+        <link href="https://ppt21.com/spoent/64285?category=2"/>
+        <updated>2021-11-12T12:35:21.413Z</updated>
+        <content type="html"><![CDATA[어강됴리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [로켓펀치] 제가 그냥 좋아해요]]></title>
         <id>https://ppt21.com/spoent/64284?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64255?category=2"/>
         <updated>2021-11-10T23:22:55.288Z</updated>
         <content type="html"><![CDATA[우주전쟁]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 골때녀에서 어마무시한 공격력을 보여주는  FC원더우먼]]></title>
-        <id>https://ppt21.com/spoent/64254?category=2</id>
-        <link href="https://ppt21.com/spoent/64254?category=2"/>
-        <updated>2021-11-10T17:20:06.080Z</updated>
-        <content type="html"><![CDATA[강가딘]]></content>
     </entry>
 </feed>
