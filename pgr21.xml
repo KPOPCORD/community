@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-12T13:27:34.482Z</updated>
+    <updated>2021-11-12T14:21:19.846Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [트와이스] 예상밖의(?) 정규 3집 첫 예능 출연 컨텐츠]]></title>
+        <id>https://ppt21.com/spoent/64290?category=2</id>
+        <link href="https://ppt21.com/spoent/64290?category=2"/>
+        <updated>2021-11-12T14:21:09.247Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 악뮤의 인스타콘서트 영상]]></title>
+        <id>https://ppt21.com/spoent/64289?category=2</id>
+        <link href="https://ppt21.com/spoent/64289?category=2"/>
+        <updated>2021-11-12T14:21:09.249Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 웨이브 오리지널 예능 "탱키박스"]]></title>
+        <id>https://ppt21.com/spoent/64288?category=2</id>
+        <link href="https://ppt21.com/spoent/64288?category=2"/>
+        <updated>2021-11-12T14:21:09.252Z</updated>
+        <content type="html"><![CDATA[강가딘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 김동현 필살기 모음]]></title>
         <id>https://ppt21.com/spoent/64286?category=2</id>
@@ -116,26 +137,5 @@
         <link href="https://ppt21.com/spoent/64259?category=2"/>
         <updated>2021-11-11T03:24:05.101Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] SBS 에서말하는 골때녀에대한 불편]]></title>
-        <id>https://ppt21.com/spoent/64258?category=2</id>
-        <link href="https://ppt21.com/spoent/64258?category=2"/>
-        <updated>2021-11-11T03:24:05.101Z</updated>
-        <content type="html"><![CDATA[AKbizs]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [정보] 아이유 2022 시즌 그리팅 예약 판매 개시]]></title>
-        <id>https://ppt21.com/spoent/64257?category=2</id>
-        <link href="https://ppt21.com/spoent/64257?category=2"/>
-        <updated>2021-11-11T02:34:50.919Z</updated>
-        <content type="html"><![CDATA[BTS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 사제지간의 아름다운 러브스토리.tvN]]></title>
-        <id>https://ppt21.com/spoent/64256?category=2</id>
-        <link href="https://ppt21.com/spoent/64256?category=2"/>
-        <updated>2021-11-11T01:11:22.611Z</updated>
-        <content type="html"><![CDATA[AKbizs]]></content>
     </entry>
 </feed>
