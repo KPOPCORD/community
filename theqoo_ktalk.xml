@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2021-11-11T23:23:21.435Z</updated>
+    <updated>2021-11-12T01:11:51.510Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[하이브, 신규 레이블 ADOR 설립…민희진 CBO 대표이사 선임 [공식]]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2237201331</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2237201331"/>
+        <updated>2021-11-12T01:11:50.861Z</updated>
+        <content type="html"><![CDATA[302530]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[슈퍼주니어 신동, 코로나19 확진]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2237187975</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2237187975"/>
+        <updated>2021-11-12T01:11:50.861Z</updated>
+        <content type="html"><![CDATA[302529]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[CyworldBGM2021] "강다니엘x챈슬러 - Fly"teaser]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2237177209</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2237177209"/>
+        <updated>2021-11-12T01:11:50.862Z</updated>
+        <content type="html"><![CDATA[302528]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[방탄 알엠 위버스 업뎃 1, 2]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2237020873</id>
@@ -123,26 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2236581836"/>
         <updated>2021-11-11T09:23:04.152Z</updated>
         <content type="html"><![CDATA[302511]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아돌라에이전트 해외지부 #대휘 요원‍🕵️‍♂️]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2236526107</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2236526107"/>
-        <updated>2021-11-11T08:27:17.475Z</updated>
-        <content type="html"><![CDATA[302510]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[방탄밤] 굉장히 신중했던 아침 메뉴🍲 고르기!🤔 과연 진이 선택한 메뉴는⁉️ #다양했던아침메뉴🥄 #EATJin😋]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2236523209</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2236523209"/>
-        <updated>2021-11-11T08:27:17.483Z</updated>
-        <content type="html"><![CDATA[302509]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빼빼로데이 SPECIAL GIFT💝 골차에게 고백 받은 SSUL 그 뒷이야기🍫ㅣ골든차일드(Golden Child)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2236515511</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2236515511"/>
-        <updated>2021-11-11T08:27:17.486Z</updated>
-        <content type="html"><![CDATA[302508]]></content>
     </entry>
 </feed>
