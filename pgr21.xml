@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-13T04:29:54.908Z</updated>
+    <updated>2021-11-13T05:20:00.849Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [트와이스] MTV Fresh Out 무대영상 + 응원법 가이드]]></title>
+        <id>https://ppt21.com/spoent/64301?category=2</id>
+        <link href="https://ppt21.com/spoent/64301?category=2"/>
+        <updated>2021-11-13T05:19:49.235Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 러블리즈 7주년 기념 생방송이 된 배텐 쿵짝쿵짝해]]></title>
         <id>https://ppt21.com/spoent/64299?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64274?category=2"/>
         <updated>2021-11-11T23:23:07.913Z</updated>
         <content type="html"><![CDATA[강가딘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 인도네시아에서 열리는 케이팝 어워드 라인업 수준]]></title>
-        <id>https://ppt21.com/spoent/64273?category=2</id>
-        <link href="https://ppt21.com/spoent/64273?category=2"/>
-        <updated>2021-11-11T22:22:49.672Z</updated>
-        <content type="html"><![CDATA[발적화]]></content>
     </entry>
 </feed>
