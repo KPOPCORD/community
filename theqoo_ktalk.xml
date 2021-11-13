@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2021-11-13T03:24:23.769Z</updated>
+    <updated>2021-11-13T04:29:54.905Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[빌리(Billlie) RING X RING 안무연습영상 (파자마버전)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2238563681</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2238563681"/>
+        <updated>2021-11-13T04:29:54.185Z</updated>
+        <content type="html"><![CDATA[302529]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[투바투 [T-MI] ‘케.수.수.케’ 케이팝 하면 수빈 #수빈 하면 케이팝! 댄스 맛보기로 새 코너 미리 보자🕺]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2238556042</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2238556042"/>
+        <updated>2021-11-13T04:29:54.186Z</updated>
+        <content type="html"><![CDATA[302528]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[원어스 월하미인 수트댄스 영상]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2238518754</id>
@@ -130,19 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2237988747"/>
         <updated>2021-11-12T13:27:33.728Z</updated>
         <content type="html"><![CDATA[302510]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[투바투 재팬 공트 (엠스테)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2237978192</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2237978192"/>
-        <updated>2021-11-12T13:27:33.730Z</updated>
-        <content type="html"><![CDATA[302509]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ENFP 서럽게 하는 법 : 재밌는 일에 나 안 껴줄 때 🥺 [이게될까? - 멜론 스테이션 EP14]]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2237903645</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2237903645"/>
-        <updated>2021-11-12T12:35:31.933Z</updated>
-        <content type="html"><![CDATA[302508]]></content>
     </entry>
 </feed>
