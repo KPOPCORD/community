@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-13T15:23:16.070Z</updated>
+    <updated>2021-11-13T16:33:57.054Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [우주소녀] '부디' Covered by 설아]]></title>
+        <id>https://ppt21.com/spoent/64306?category=2</id>
+        <link href="https://ppt21.com/spoent/64306?category=2"/>
+        <updated>2021-11-13T16:33:42.829Z</updated>
+        <content type="html"><![CDATA[스텔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 이 시대 최고의 댄스가수 투 탑 합동무대]]></title>
         <id>https://ppt21.com/spoent/64305?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64281?category=2"/>
         <updated>2021-11-12T10:25:08.000Z</updated>
         <content type="html"><![CDATA[인증됨]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 연예기사에 악플은 왜 여전히 달리고있을까?]]></title>
-        <id>https://ppt21.com/spoent/64278?category=2</id>
-        <link href="https://ppt21.com/spoent/64278?category=2"/>
-        <updated>2021-11-12T08:27:12.814Z</updated>
-        <content type="html"><![CDATA[너]]></content>
     </entry>
 </feed>
