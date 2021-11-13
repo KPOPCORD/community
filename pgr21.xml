@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-13T11:18:48.076Z</updated>
+    <updated>2021-11-13T12:34:09.878Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 이 시대 최고의 댄스가수 투 탑 합동무대]]></title>
+        <id>https://ppt21.com/spoent/64305?category=2</id>
+        <link href="https://ppt21.com/spoent/64305?category=2"/>
+        <updated>2021-11-13T12:34:00.646Z</updated>
+        <content type="html"><![CDATA[style]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [트와이스] 음악중심 컴백무대 영상 (+개인직캠)]]></title>
         <id>https://ppt21.com/spoent/64303?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64278?category=2"/>
         <updated>2021-11-12T08:27:12.814Z</updated>
         <content type="html"><![CDATA[너]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [트와이스] "SCIENTIST" M/V]]></title>
-        <id>https://ppt21.com/spoent/64277?category=2</id>
-        <link href="https://ppt21.com/spoent/64277?category=2"/>
-        <updated>2021-11-12T05:20:52.158Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
