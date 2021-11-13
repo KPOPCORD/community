@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-13T14:20:20.337Z</updated>
+    <updated>2021-11-13T15:23:15.963Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[연예] 이 시대 최고의 댄스가수 투 탑 합동무대 (Pgr21 ─ 연예)]]></title>
@@ -138,6 +138,27 @@
         <content type="html"><![CDATA[너]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[📣] 펜타곤 진호 전역 기념 YouTube LIVE 편성표 안내 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2239262487</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2239262487"/>
+        <updated>2021-11-13T15:23:15.293Z</updated>
+        <content type="html"><![CDATA[302528]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[11월14일 오후 6시 비투비 임현식 육성재 전역라이브 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2239258287</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2239258287"/>
+        <updated>2021-11-13T15:23:15.295Z</updated>
+        <content type="html"><![CDATA[302527]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[투바투 ‘Frost’ Special Performance Video (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2239253861</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2239253861"/>
+        <updated>2021-11-13T15:23:15.297Z</updated>
+        <content type="html"><![CDATA[302526]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[Artist Of The Month] ITZY RYUJIN(류진) Spotlight | November 2021 (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2239183061</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2239183061"/>
@@ -255,26 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2238821011"/>
         <updated>2021-11-13T09:22:34.920Z</updated>
         <content type="html"><![CDATA[302509]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방탄 제이홉 트윗 업뎃 HOPE.jpg (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2238815774</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2238815774"/>
-        <updated>2021-11-13T09:22:34.927Z</updated>
-        <content type="html"><![CDATA[302508]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[방탄밤] Can't Say No to Ice Cream - BTS (방탄소년단) (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2238810426</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2238810426"/>
-        <updated>2021-11-13T09:22:34.927Z</updated>
-        <content type="html"><![CDATA[302507]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[D-1 완전체가 된 비투비, 그리고 멜로디에게 전하고 싶은 말 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2238685946</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2238685946"/>
-        <updated>2021-11-13T07:21:55.492Z</updated>
-        <content type="html"><![CDATA[302506]]></content>
     </entry>
 </feed>
