@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-14T13:25:53.636Z</updated>
+    <updated>2021-11-14T14:20:44.600Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] 다음주 커버 뭐하니+ 할 노래 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/64319?category=2</id>
+        <link href="https://ppt21.com/spoent/64319?category=2"/>
+        <updated>2021-11-14T14:20:33.599Z</updated>
+        <content type="html"><![CDATA[강가딘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [트와이스] 인기가요 컴백무대 영상 (+개인직캠) (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/64318?category=2</id>
@@ -129,13 +136,6 @@
         <link href="https://ppt21.com/spoent/64291?category=2"/>
         <updated>2021-11-12T15:24:11.589Z</updated>
         <content type="html"><![CDATA[위르겐클롭]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [트와이스] 예상밖의(?) 정규 3집 첫 예능 출연 컨텐츠 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/64290?category=2</id>
-        <link href="https://ppt21.com/spoent/64290?category=2"/>
-        <updated>2021-11-12T14:21:09.247Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[씨아이엑스 현석 트위터 업뎃❤️ (더쿠 ─ 케이돌토크)]]></title>
