@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-14T15:23:43.037Z</updated>
+    <updated>2021-11-14T16:34:14.039Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 2021년 11월 둘째주 D-차트 : 아이유 3주 연속 1위! 더보이즈 2위-전소미 9위]]></title>
+        <id>https://ppt21.com/spoent/64322?category=2</id>
+        <link href="https://ppt21.com/spoent/64322?category=2"/>
+        <updated>2021-11-14T16:34:01.721Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 뻔뻔해도 이렇게까지인줄은 상상도 못했던 여초.theqoo]]></title>
         <id>https://ppt21.com/spoent/64320?category=2</id>
@@ -129,13 +136,6 @@
         <id>https://ppt21.com/spoent/64293?category=2</id>
         <link href="https://ppt21.com/spoent/64293?category=2"/>
         <updated>2021-11-12T18:26:39.740Z</updated>
-        <content type="html"><![CDATA[insane]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 머리 짧게 자르고 나온게 신의 한수.jpg]]></title>
-        <id>https://ppt21.com/spoent/64292?category=2</id>
-        <link href="https://ppt21.com/spoent/64292?category=2"/>
-        <updated>2021-11-12T17:26:54.585Z</updated>
         <content type="html"><![CDATA[insane]]></content>
     </entry>
 </feed>
