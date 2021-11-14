@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-14T14:20:44.544Z</updated>
+    <updated>2021-11-14T15:23:43.037Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 뻔뻔해도 이렇게까지인줄은 상상도 못했던 여초.theqoo]]></title>
+        <id>https://ppt21.com/spoent/64320?category=2</id>
+        <link href="https://ppt21.com/spoent/64320?category=2"/>
+        <updated>2021-11-14T15:23:29.615Z</updated>
+        <content type="html"><![CDATA[신클라크]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 다음주 커버 뭐하니+ 할 노래]]></title>
         <id>https://ppt21.com/spoent/64319?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64292?category=2"/>
         <updated>2021-11-12T17:26:54.585Z</updated>
         <content type="html"><![CDATA[insane]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 스타쉽 신인걸그룹 '아이브(IVE)'의 프로모션 영상이 공개되었습니다.]]></title>
-        <id>https://ppt21.com/spoent/64291?category=2</id>
-        <link href="https://ppt21.com/spoent/64291?category=2"/>
-        <updated>2021-11-12T15:24:11.589Z</updated>
-        <content type="html"><![CDATA[위르겐클롭]]></content>
     </entry>
 </feed>
