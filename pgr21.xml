@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-14T01:13:10.845Z</updated>
+    <updated>2021-11-14T02:35:32.286Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 임창정과 태연이 함께 부르는 소주한잔]]></title>
+        <id>https://ppt21.com/spoent/64307?category=2</id>
+        <link href="https://ppt21.com/spoent/64307?category=2"/>
+        <updated>2021-11-14T02:35:19.026Z</updated>
+        <content type="html"><![CDATA[강가딘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [우주소녀] '부디' Covered by 설아]]></title>
         <id>https://ppt21.com/spoent/64306?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64282?category=2"/>
         <updated>2021-11-12T10:25:08.000Z</updated>
         <content type="html"><![CDATA[발적화]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 누나가 왜 여기서 나와?]]></title>
-        <id>https://ppt21.com/spoent/64281?category=2</id>
-        <link href="https://ppt21.com/spoent/64281?category=2"/>
-        <updated>2021-11-12T10:25:08.000Z</updated>
-        <content type="html"><![CDATA[인증됨]]></content>
     </entry>
 </feed>
