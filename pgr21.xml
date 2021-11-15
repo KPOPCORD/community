@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-15T07:22:11.417Z</updated>
+    <updated>2021-11-15T08:27:42.986Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 얼굴 천재 김민주 화보]]></title>
+        <id>https://ppt21.com/spoent/64334?category=2</id>
+        <link href="https://ppt21.com/spoent/64334?category=2"/>
+        <updated>2021-11-15T08:27:31.521Z</updated>
+        <content type="html"><![CDATA[BTS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 썩토지수 좀 나쁘면 어때?...]]></title>
         <id>https://ppt21.com/spoent/64333?category=2</id>
@@ -129,13 +136,6 @@
         <id>https://ppt21.com/spoent/64303?category=2</id>
         <link href="https://ppt21.com/spoent/64303?category=2"/>
         <updated>2021-11-13T09:22:25.488Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [트와이스] MTV Fresh Out 무대영상 + 응원법 가이드]]></title>
-        <id>https://ppt21.com/spoent/64301?category=2</id>
-        <link href="https://ppt21.com/spoent/64301?category=2"/>
-        <updated>2021-11-13T05:19:49.235Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2021-11-15T07:22:11.472Z</updated>
+    <updated>2021-11-15T08:27:42.983Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[투바투 VOGUE 12월호]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2241168793</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2241168793"/>
+        <updated>2021-11-15T08:27:42.221Z</updated>
+        <content type="html"><![CDATA[302467]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AB6IX 2022 SEASON'S GREETINGS PRE-ORDER : 2021.11.22 18:00 (KST) ~]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2241051363</id>
@@ -137,12 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2240603554"/>
         <updated>2021-11-15T01:10:22.739Z</updated>
         <content type="html"><![CDATA[302448]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘2021 MAMA’ 워너원-스우파 크루 참여 확정(공식)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2240600862</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2240600862"/>
-        <updated>2021-11-15T01:10:22.740Z</updated>
-        <content type="html"><![CDATA[302447]]></content>
     </entry>
 </feed>
