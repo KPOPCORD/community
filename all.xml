@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-15T06:27:56.700Z</updated>
+    <updated>2021-11-15T07:22:11.420Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] 썩토지수 좀 나쁘면 어때?... (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/64333?category=2</id>
+        <link href="https://ppt21.com/spoent/64333?category=2"/>
+        <updated>2021-11-15T07:22:01.049Z</updated>
+        <content type="html"><![CDATA[우주전쟁]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [트와이스] "SCIENTIST" 안무 영상 + 사나에게 이상형이란 말을 들었을 때 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/64332?category=2</id>
@@ -129,13 +136,6 @@
         <link href="https://ppt21.com/spoent/64301?category=2"/>
         <updated>2021-11-13T05:19:49.235Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 러블리즈 7주년 기념 생방송이 된 배텐 쿵짝쿵짝해 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/64299?category=2</id>
-        <link href="https://ppt21.com/spoent/64299?category=2"/>
-        <updated>2021-11-13T04:29:44.705Z</updated>
-        <content type="html"><![CDATA[강가딘]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AB6IX 2022 SEASON'S GREETINGS PRE-ORDER : 2021.11.22 18:00 (KST) ~ (더쿠 ─ 케이돌토크)]]></title>
