@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2021-11-14T23:23:05.916Z</updated>
+    <updated>2021-11-15T01:10:23.422Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[워너원, 해체 후 2년만 결성..'2021 MAMA' 참석[공식]]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2240604385</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2240604385"/>
+        <updated>2021-11-15T01:10:22.738Z</updated>
+        <content type="html"><![CDATA[302564]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오마이걸 효정·스테이씨 시은·SF9 인성, '꿈꾸라' 스페셜 DJ 출격]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2240603554</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2240603554"/>
+        <updated>2021-11-15T01:10:22.739Z</updated>
+        <content type="html"><![CDATA[302563]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘2021 MAMA’ 워너원-스우파 크루 참여 확정(공식)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2240600862</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2240600862"/>
+        <updated>2021-11-15T01:10:22.740Z</updated>
+        <content type="html"><![CDATA[302562]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엔하이픈 정원 멤트🥰 (제이크 생축🎂)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2240596043</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2240596043"/>
+        <updated>2021-11-15T01:10:22.742Z</updated>
+        <content type="html"><![CDATA[302561]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엔하이픈 니키 멤트😘☺️(제이크 생축🎂)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2240551287</id>
@@ -116,33 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2240084008"/>
         <updated>2021-11-14T11:19:34.719Z</updated>
         <content type="html"><![CDATA[302545]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[투바투 태현 위버스 모먼트]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2240081017</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2240081017"/>
-        <updated>2021-11-14T11:19:34.719Z</updated>
-        <content type="html"><![CDATA[302544]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강아지 들튀한 방탄 뷔]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2240008073</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2240008073"/>
-        <updated>2021-11-14T10:25:15.501Z</updated>
-        <content type="html"><![CDATA[302543]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[투바투 'Frost' Special Performance Video (Full Shot ver.)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2240002515</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2240002515"/>
-        <updated>2021-11-14T10:25:15.502Z</updated>
-        <content type="html"><![CDATA[302542]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방탄 진 위버스 업뎃]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2239986869</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2239986869"/>
-        <updated>2021-11-14T10:25:15.504Z</updated>
-        <content type="html"><![CDATA[302541]]></content>
     </entry>
 </feed>
