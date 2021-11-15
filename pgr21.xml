@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-15T04:31:16.059Z</updated>
+    <updated>2021-11-15T05:21:06.714Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [트와이스] 4번째 월드투어 'III' 발표]]></title>
+        <id>https://ppt21.com/spoent/64330?category=2</id>
+        <link href="https://ppt21.com/spoent/64330?category=2"/>
+        <updated>2021-11-15T05:20:53.554Z</updated>
+        <content type="html"><![CDATA[발적화]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 블랙핑크 지수의 첫 주연작 설강화, 실질적인 티져]]></title>
         <id>https://ppt21.com/spoent/64329?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64298?category=2"/>
         <updated>2021-11-13T04:29:44.711Z</updated>
         <content type="html"><![CDATA[아줌마너무좋아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [에스파] 킹 받는 세비지]]></title>
-        <id>https://ppt21.com/spoent/64297?category=2</id>
-        <link href="https://ppt21.com/spoent/64297?category=2"/>
-        <updated>2021-11-13T02:35:07.441Z</updated>
-        <content type="html"><![CDATA[바스테나]]></content>
     </entry>
 </feed>
