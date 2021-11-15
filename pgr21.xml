@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-15T05:21:06.714Z</updated>
+    <updated>2021-11-15T06:27:56.696Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [트와이스] "SCIENTIST" 안무 영상 + 사나에게 이상형이란 말을 들었을 때]]></title>
+        <id>https://ppt21.com/spoent/64332?category=2</id>
+        <link href="https://ppt21.com/spoent/64332?category=2"/>
+        <updated>2021-11-15T06:27:45.968Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [트와이스] 4번째 월드투어 'III' 발표]]></title>
         <id>https://ppt21.com/spoent/64330?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64299?category=2"/>
         <updated>2021-11-13T04:29:44.705Z</updated>
         <content type="html"><![CDATA[강가딘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 어제 쇼미 재밌게 보셨나요? 취향저격한 역대급 곡이 나왔습니다]]></title>
-        <id>https://ppt21.com/spoent/64298?category=2</id>
-        <link href="https://ppt21.com/spoent/64298?category=2"/>
-        <updated>2021-11-13T04:29:44.711Z</updated>
-        <content type="html"><![CDATA[아줌마너무좋아]]></content>
     </entry>
 </feed>
