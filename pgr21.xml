@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-16T14:21:31.568Z</updated>
+    <updated>2021-11-16T15:24:56.843Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 스타쉽 신인 걸그룹 아이브 SHOW WHAT I HAVE - IVE REI]]></title>
+        <id>https://ppt21.com/spoent/64365?category=2</id>
+        <link href="https://ppt21.com/spoent/64365?category=2"/>
+        <updated>2021-11-16T15:24:43.775Z</updated>
+        <content type="html"><![CDATA[아롱이다롱이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 드디어 뮤직비디오 풀버전이 올라온 Plastic Love]]></title>
         <id>https://ppt21.com/spoent/64361?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64333?category=2"/>
         <updated>2021-11-15T07:22:01.049Z</updated>
         <content type="html"><![CDATA[우주전쟁]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [트와이스] "SCIENTIST" 안무 영상 + 사나에게 이상형이란 말을 들었을 때]]></title>
-        <id>https://ppt21.com/spoent/64332?category=2</id>
-        <link href="https://ppt21.com/spoent/64332?category=2"/>
-        <updated>2021-11-15T06:27:45.968Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
