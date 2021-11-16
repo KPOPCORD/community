@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-16T13:27:18.109Z</updated>
+    <updated>2021-11-16T14:21:31.568Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 드디어 뮤직비디오 풀버전이 올라온 Plastic Love]]></title>
+        <id>https://ppt21.com/spoent/64361?category=2</id>
+        <link href="https://ppt21.com/spoent/64361?category=2"/>
+        <updated>2021-11-16T14:21:15.156Z</updated>
+        <content type="html"><![CDATA[비타에듀]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 오징어 게임 출연자 만난 썰 푸는 엘 패닝.jpg]]></title>
         <id>https://ppt21.com/spoent/64360?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64332?category=2"/>
         <updated>2021-11-15T06:27:45.968Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [트와이스] 4번째 월드투어 'III' 발표]]></title>
-        <id>https://ppt21.com/spoent/64330?category=2</id>
-        <link href="https://ppt21.com/spoent/64330?category=2"/>
-        <updated>2021-11-15T05:20:53.554Z</updated>
-        <content type="html"><![CDATA[발적화]]></content>
     </entry>
 </feed>
