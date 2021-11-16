@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-16T12:35:53.562Z</updated>
+    <updated>2021-11-16T13:27:18.109Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 오징어 게임 출연자 만난 썰 푸는 엘 패닝.jpg]]></title>
+        <id>https://ppt21.com/spoent/64360?category=2</id>
+        <link href="https://ppt21.com/spoent/64360?category=2"/>
+        <updated>2021-11-16T13:27:08.634Z</updated>
+        <content type="html"><![CDATA[핑크솔져]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [트와이스] 새로 공개된 닌텐도 광고 + 콘서트 예매 일정 공개]]></title>
         <id>https://ppt21.com/spoent/64359?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64330?category=2"/>
         <updated>2021-11-15T05:20:53.554Z</updated>
         <content type="html"><![CDATA[발적화]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 블랙핑크 지수의 첫 주연작 설강화, 실질적인 티져]]></title>
-        <id>https://ppt21.com/spoent/64329?category=2</id>
-        <link href="https://ppt21.com/spoent/64329?category=2"/>
-        <updated>2021-11-15T03:24:21.339Z</updated>
-        <content type="html"><![CDATA[어강됴리]]></content>
     </entry>
 </feed>

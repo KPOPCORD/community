@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-16T12:35:53.479Z</updated>
+    <updated>2021-11-16T13:27:18.113Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] 오징어 게임 출연자 만난 썰 푸는 엘 패닝.jpg (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/64360?category=2</id>
+        <link href="https://ppt21.com/spoent/64360?category=2"/>
+        <updated>2021-11-16T13:27:08.634Z</updated>
+        <content type="html"><![CDATA[핑크솔져]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [트와이스] 새로 공개된 닌텐도 광고 + 콘서트 예매 일정 공개 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/64359?category=2</id>
@@ -131,11 +138,11 @@
         <content type="html"><![CDATA[발적화]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[연예] 블랙핑크 지수의 첫 주연작 설강화, 실질적인 티져 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/64329?category=2</id>
-        <link href="https://ppt21.com/spoent/64329?category=2"/>
-        <updated>2021-11-15T03:24:21.339Z</updated>
-        <content type="html"><![CDATA[어강됴리]]></content>
+        <title type="html"><![CDATA[투바투 [#오늘의TXT] 211116 🎤아이돌Live 콘서트❤️‍🔥MIC ON 5! 즐거웠어요! #TXT_Magic #Anti_Romantic #LOSER_LOVER #0X1LOVESONG @ 아이돌Live 콘서트 #MIC_ON5 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2242849380</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2242849380"/>
+        <updated>2021-11-16T13:27:17.442Z</updated>
+        <content type="html"><![CDATA[302504]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[충격적인 아스트로 차은우 문빈 중학교 졸업사진 (더쿠 ─ 케이돌토크)]]></title>
@@ -269,12 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2242554692"/>
         <updated>2021-11-16T09:23:08.958Z</updated>
         <content type="html"><![CDATA[302485]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤하-별의 조각 M/V (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2242554491</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2242554491"/>
-        <updated>2021-11-16T09:23:08.959Z</updated>
-        <content type="html"><![CDATA[302484]]></content>
     </entry>
 </feed>

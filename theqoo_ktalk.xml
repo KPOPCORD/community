@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2021-11-16T12:35:53.475Z</updated>
+    <updated>2021-11-16T13:27:18.112Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[투바투 [#오늘의TXT] 211116 🎤아이돌Live 콘서트❤️‍🔥MIC ON 5! 즐거웠어요! #TXT_Magic #Anti_Romantic #LOSER_LOVER #0X1LOVESONG @ 아이돌Live 콘서트 #MIC_ON5]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2242849380</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2242849380"/>
+        <updated>2021-11-16T13:27:17.442Z</updated>
+        <content type="html"><![CDATA[302504]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[충격적인 아스트로 차은우 문빈 중학교 졸업사진]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2242781944</id>
@@ -137,12 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2242554692"/>
         <updated>2021-11-16T09:23:08.958Z</updated>
         <content type="html"><![CDATA[302485]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤하-별의 조각 M/V]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2242554491</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2242554491"/>
-        <updated>2021-11-16T09:23:08.959Z</updated>
-        <content type="html"><![CDATA[302484]]></content>
     </entry>
 </feed>
