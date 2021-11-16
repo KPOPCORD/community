@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-16T03:23:53.851Z</updated>
+    <updated>2021-11-16T04:29:57.410Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [트와이스] 안무영상 무빙버전 + MTV 비하인드 영상]]></title>
+        <id>https://ppt21.com/spoent/64348?category=2</id>
+        <link href="https://ppt21.com/spoent/64348?category=2"/>
+        <updated>2021-11-16T04:29:47.535Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] MBC, 30일 아델 특집콘서트 '원 데이 위드 아델' 방송]]></title>
         <id>https://ppt21.com/spoent/64346?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64313?category=2"/>
         <updated>2021-11-14T07:21:08.133Z</updated>
         <content type="html"><![CDATA[VictoryFood]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [트와이스] 아이돌 인간극장 + 1theK 더 부스]]></title>
-        <id>https://ppt21.com/spoent/64308?category=2</id>
-        <link href="https://ppt21.com/spoent/64308?category=2"/>
-        <updated>2021-11-14T04:29:32.715Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
