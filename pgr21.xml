@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-17T11:20:19.384Z</updated>
+    <updated>2021-11-17T12:35:37.392Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] TVN 골프예능 '골밴저스'에 출연중인 손나은 동생 손새은프로]]></title>
+        <id>https://ppt21.com/spoent/64377?category=2</id>
+        <link href="https://ppt21.com/spoent/64377?category=2"/>
+        <updated>2021-11-17T12:35:27.755Z</updated>
+        <content type="html"><![CDATA[강가딘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 여자아이돌들의 2022학년도 수능 응원 영상]]></title>
         <id>https://ppt21.com/spoent/64376?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64341?category=2"/>
         <updated>2021-11-15T15:24:16.895Z</updated>
         <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 딩코 프리스타일 킬링벌스 정상수편]]></title>
-        <id>https://ppt21.com/spoent/64339?category=2</id>
-        <link href="https://ppt21.com/spoent/64339?category=2"/>
-        <updated>2021-11-15T12:36:13.083Z</updated>
-        <content type="html"><![CDATA[ioi(아이오아이)]]></content>
     </entry>
 </feed>
