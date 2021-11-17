@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-17T05:20:41.944Z</updated>
+    <updated>2021-11-17T06:27:25.396Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 마약혐의 한서희,필로폰 투약 징역 1년 6월 법정구속]]></title>
+        <id>https://ppt21.com/spoent/64372?category=2</id>
+        <link href="https://ppt21.com/spoent/64372?category=2"/>
+        <updated>2021-11-17T06:27:14.737Z</updated>
+        <content type="html"><![CDATA[TWICE쯔위]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 이미주 안테나와 계약]]></title>
         <id>https://ppt21.com/spoent/64369?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64338?category=2"/>
         <updated>2021-11-15T12:36:13.083Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 얼굴 천재 김민주 화보]]></title>
-        <id>https://ppt21.com/spoent/64334?category=2</id>
-        <link href="https://ppt21.com/spoent/64334?category=2"/>
-        <updated>2021-11-15T08:27:31.521Z</updated>
-        <content type="html"><![CDATA[BTS]]></content>
     </entry>
 </feed>
