@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-17T10:25:49.113Z</updated>
+    <updated>2021-11-17T11:20:19.384Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 여자아이돌들의 2022학년도 수능 응원 영상]]></title>
+        <id>https://ppt21.com/spoent/64376?category=2</id>
+        <link href="https://ppt21.com/spoent/64376?category=2"/>
+        <updated>2021-11-17T11:20:09.358Z</updated>
+        <content type="html"><![CDATA[VictoryFood]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 마약혐의 한서희,필로폰 투약 징역 1년 6월 법정구속]]></title>
         <id>https://ppt21.com/spoent/64372?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64339?category=2"/>
         <updated>2021-11-15T12:36:13.083Z</updated>
         <content type="html"><![CDATA[ioi(아이오아이)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [트와이스] 나연/사나/쯔위 페이스캠 + 1theK 아이돌등판]]></title>
-        <id>https://ppt21.com/spoent/64338?category=2</id>
-        <link href="https://ppt21.com/spoent/64338?category=2"/>
-        <updated>2021-11-15T12:36:13.083Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
