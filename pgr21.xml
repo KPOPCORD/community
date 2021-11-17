@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-17T16:31:40.399Z</updated>
+    <updated>2021-11-17T17:25:41.181Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 스타쉽 신인 걸그룹 아이브 SHOW WHAT I HAVE - IVE LEESEO]]></title>
+        <id>https://ppt21.com/spoent/64381?category=2</id>
+        <link href="https://ppt21.com/spoent/64381?category=2"/>
+        <updated>2021-11-17T17:25:30.575Z</updated>
+        <content type="html"><![CDATA[아롱이다롱이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 중간이 없는 넷플릭스 지옥 관객평점...]]></title>
         <id>https://ppt21.com/spoent/64378?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64348?category=2"/>
         <updated>2021-11-16T04:29:47.535Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] MBC, 30일 아델 특집콘서트 '원 데이 위드 아델' 방송]]></title>
-        <id>https://ppt21.com/spoent/64346?category=2</id>
-        <link href="https://ppt21.com/spoent/64346?category=2"/>
-        <updated>2021-11-16T02:35:03.118Z</updated>
-        <content type="html"><![CDATA[이제그만]]></content>
     </entry>
 </feed>
