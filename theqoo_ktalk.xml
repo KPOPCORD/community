@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2021-11-18T06:26:46.428Z</updated>
+    <updated>2021-11-18T07:19:34.653Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[속보] '상습 대마' 정일훈, 항소심서 징역 2년 구형]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2244770609</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2244770609"/>
+        <updated>2021-11-18T07:19:33.948Z</updated>
+        <content type="html"><![CDATA[302574]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독] 원더걸스 선예, '엄마는 아이돌'로 복귀..세 딸 엄마의 아이돌 재도전]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2244740126</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2244740126"/>
+        <updated>2021-11-18T07:19:33.949Z</updated>
+        <content type="html"><![CDATA[302573]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['컴백' 위키미키 "신곡 안무 '케라라케' 라치카 참여…눈에 띈다"]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2244724833</id>
@@ -130,19 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2243998311"/>
         <updated>2021-11-17T13:27:40.417Z</updated>
         <content type="html"><![CDATA[302555]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아스트로 문빈 인스타 업뎃]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2243950498</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2243950498"/>
-        <updated>2021-11-17T12:35:36.724Z</updated>
-        <content type="html"><![CDATA[302554]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[슼케어리 나잇 #2｜ [SKZ CODE(스키즈 코드)] Ep.09]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2243891900</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2243891900"/>
-        <updated>2021-11-17T12:35:36.725Z</updated>
-        <content type="html"><![CDATA[302553]]></content>
     </entry>
 </feed>
