@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-18T04:29:54.699Z</updated>
+    <updated>2021-11-18T05:20:38.296Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] HKT 접수한 나코, 본점 센터 히토미]]></title>
+        <id>https://ppt21.com/spoent/64387?category=2</id>
+        <link href="https://ppt21.com/spoent/64387?category=2"/>
+        <updated>2021-11-18T05:20:28.824Z</updated>
+        <content type="html"><![CDATA[어강됴리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 톰홀랜드는 토트넘과 손흥민팬]]></title>
+        <id>https://ppt21.com/spoent/64386?category=2</id>
+        <link href="https://ppt21.com/spoent/64386?category=2"/>
+        <updated>2021-11-18T05:20:28.824Z</updated>
+        <content type="html"><![CDATA[대체공휴일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] "예상치 못한 오해 방지"…엑소 백현, 입대 후 '월 1회' 유튜브 중단]]></title>
+        <id>https://ppt21.com/spoent/64385?category=2</id>
+        <link href="https://ppt21.com/spoent/64385?category=2"/>
+        <updated>2021-11-18T05:20:28.824Z</updated>
+        <content type="html"><![CDATA[Leeka]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 고소영 영화를 뮤비에 사용한 일본 록밴드]]></title>
         <id>https://ppt21.com/spoent/64384?category=2</id>
@@ -116,26 +137,5 @@
         <link href="https://ppt21.com/spoent/64355?category=2"/>
         <updated>2021-11-16T10:25:45.131Z</updated>
         <content type="html"><![CDATA[껌정]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 배우 박신양의 충격적인 근황.JPG]]></title>
-        <id>https://ppt21.com/spoent/64354?category=2</id>
-        <link href="https://ppt21.com/spoent/64354?category=2"/>
-        <updated>2021-11-16T10:25:45.135Z</updated>
-        <content type="html"><![CDATA[insane]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [버가부] bugAboo M/V + DEBUT SHOWCASE]]></title>
-        <id>https://ppt21.com/spoent/64351?category=2</id>
-        <link href="https://ppt21.com/spoent/64351?category=2"/>
-        <updated>2021-11-16T07:21:28.051Z</updated>
-        <content type="html"><![CDATA[아이셔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 러블리즈 마지막 회식을 거부한 남자]]></title>
-        <id>https://ppt21.com/spoent/64350?category=2</id>
-        <link href="https://ppt21.com/spoent/64350?category=2"/>
-        <updated>2021-11-16T07:21:28.053Z</updated>
-        <content type="html"><![CDATA[강가딘]]></content>
     </entry>
 </feed>
