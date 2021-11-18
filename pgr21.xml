@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-18T16:35:06.407Z</updated>
+    <updated>2021-11-18T17:24:19.447Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예]  [JYPn] Finesse Cover | QUALIFYING | HASE Choreography  릴리]]></title>
+        <id>https://ppt21.com/spoent/64398?category=2</id>
+        <link href="https://ppt21.com/spoent/64398?category=2"/>
+        <updated>2021-11-18T17:24:09.512Z</updated>
+        <content type="html"><![CDATA[TWICE쯔위]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 스타쉽 신인 걸그룹 아이브 SHOW WHAT I HAVE - IVE LIZ]]></title>
         <id>https://ppt21.com/spoent/64396?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64361?category=2"/>
         <updated>2021-11-16T14:21:15.156Z</updated>
         <content type="html"><![CDATA[비타에듀]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 오징어 게임 출연자 만난 썰 푸는 엘 패닝.jpg]]></title>
-        <id>https://ppt21.com/spoent/64360?category=2</id>
-        <link href="https://ppt21.com/spoent/64360?category=2"/>
-        <updated>2021-11-16T13:27:08.634Z</updated>
-        <content type="html"><![CDATA[핑크솔져]]></content>
     </entry>
 </feed>
