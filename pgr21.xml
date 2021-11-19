@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-19T02:36:26.403Z</updated>
+    <updated>2021-11-19T03:23:46.917Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [단독]김수연, '미스틱 걸그룹' 빌리 합류.. 다음주 활동 시작]]></title>
+        <id>https://ppt21.com/spoent/64404?category=2</id>
+        <link href="https://ppt21.com/spoent/64404?category=2"/>
+        <updated>2021-11-19T03:23:37.472Z</updated>
+        <content type="html"><![CDATA[명탐정코난]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] ITZY 유나 최근 근황 사진.jpg]]></title>
+        <id>https://ppt21.com/spoent/64403?category=2</id>
+        <link href="https://ppt21.com/spoent/64403?category=2"/>
+        <updated>2021-11-19T03:23:37.473Z</updated>
+        <content type="html"><![CDATA[Anti-MAGE]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예]  [JYPn] Finesse Cover | QUALIFYING | HASE Choreography  릴리]]></title>
         <id>https://ppt21.com/spoent/64398?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/64369?category=2"/>
         <updated>2021-11-17T02:34:56.307Z</updated>
         <content type="html"><![CDATA[류수정]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 스타쉽 신인 걸그룹 아이브 SHOW WHAT I HAVE - IVE REI]]></title>
-        <id>https://ppt21.com/spoent/64365?category=2</id>
-        <link href="https://ppt21.com/spoent/64365?category=2"/>
-        <updated>2021-11-16T15:24:43.775Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 드디어 뮤직비디오 풀버전이 올라온 Plastic Love]]></title>
-        <id>https://ppt21.com/spoent/64361?category=2</id>
-        <link href="https://ppt21.com/spoent/64361?category=2"/>
-        <updated>2021-11-16T14:21:15.156Z</updated>
-        <content type="html"><![CDATA[비타에듀]]></content>
     </entry>
 </feed>
