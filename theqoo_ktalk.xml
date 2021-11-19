@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2021-11-19T06:27:36.307Z</updated>
+    <updated>2021-11-19T07:22:14.214Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[👻고스트나인👻 이강성 공트 셀카 업뎃]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2246028874</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2246028874"/>
+        <updated>2021-11-19T07:22:13.490Z</updated>
+        <content type="html"><![CDATA[302621]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엔하이픈 팬미팅 [EN-CONNECT : COMPANION] 포토]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2245925526</id>
@@ -137,12 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2245349137"/>
         <updated>2021-11-18T15:26:20.712Z</updated>
         <content type="html"><![CDATA[302602]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마마무 화사 2nd Single Album [Guilty Pleasure] Lyrics Poster]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2245339139</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2245339139"/>
-        <updated>2021-11-18T15:26:20.714Z</updated>
-        <content type="html"><![CDATA[302601]]></content>
     </entry>
 </feed>

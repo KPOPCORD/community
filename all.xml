@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-19T06:27:36.300Z</updated>
+    <updated>2021-11-19T07:22:14.118Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[연예] [단독]김수연, '미스틱 걸그룹' 빌리 합류.. 다음주 활동 시작 (Pgr21 ─ 연예)]]></title>
@@ -138,6 +138,13 @@
         <content type="html"><![CDATA[류수정]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[👻고스트나인👻 이강성 공트 셀카 업뎃 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2246028874</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2246028874"/>
+        <updated>2021-11-19T07:22:13.490Z</updated>
+        <content type="html"><![CDATA[302621]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[엔하이픈 팬미팅 [EN-CONNECT : COMPANION] 포토 (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2245925526</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2245925526"/>
@@ -269,12 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2245349137"/>
         <updated>2021-11-18T15:26:20.712Z</updated>
         <content type="html"><![CDATA[302602]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마마무 화사 2nd Single Album [Guilty Pleasure] Lyrics Poster (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2245339139</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2245339139"/>
-        <updated>2021-11-18T15:26:20.714Z</updated>
-        <content type="html"><![CDATA[302601]]></content>
     </entry>
 </feed>
