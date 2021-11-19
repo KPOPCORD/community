@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-19T13:27:32.821Z</updated>
+    <updated>2021-11-19T14:21:11.683Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [있지] 아빠 나 귤 먹고 싶어 까아아죠]]></title>
+        <id>https://ppt21.com/spoent/64415?category=2</id>
+        <link href="https://ppt21.com/spoent/64415?category=2"/>
+        <updated>2021-11-19T14:20:56.454Z</updated>
+        <content type="html"><![CDATA[VictoryFood]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 스타쉽 신인 걸그룹 IVE 아이브 SHOW WHAT I HAVE - IVE GAEUL]]></title>
+        <id>https://ppt21.com/spoent/64414?category=2</id>
+        <link href="https://ppt21.com/spoent/64414?category=2"/>
+        <updated>2021-11-19T14:20:56.458Z</updated>
+        <content type="html"><![CDATA[아롱이다롱이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 한국인이 좋아하는 연예인 4년째 유재석 1위.gisa]]></title>
+        <id>https://ppt21.com/spoent/64412?category=2</id>
+        <link href="https://ppt21.com/spoent/64412?category=2"/>
+        <updated>2021-11-19T14:20:56.467Z</updated>
+        <content type="html"><![CDATA[VictoryFood]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 여러면에서 뻔하지 않았던 '지옥' (스포 있습니다.)]]></title>
         <id>https://ppt21.com/spoent/64411?category=2</id>
@@ -116,26 +137,5 @@
         <link href="https://ppt21.com/spoent/64385?category=2"/>
         <updated>2021-11-18T05:20:28.824Z</updated>
         <content type="html"><![CDATA[Leeka]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 고소영 영화를 뮤비에 사용한 일본 록밴드]]></title>
-        <id>https://ppt21.com/spoent/64384?category=2</id>
-        <link href="https://ppt21.com/spoent/64384?category=2"/>
-        <updated>2021-11-18T03:23:42.717Z</updated>
-        <content type="html"><![CDATA[부리뿌리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 러블리즈 유지애, YG케이플러스와 전속 계약]]></title>
-        <id>https://ppt21.com/spoent/64382?category=2</id>
-        <link href="https://ppt21.com/spoent/64382?category=2"/>
-        <updated>2021-11-18T01:10:55.472Z</updated>
-        <content type="html"><![CDATA[리노]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 스타쉽 신인 걸그룹 아이브 SHOW WHAT I HAVE - IVE LEESEO]]></title>
-        <id>https://ppt21.com/spoent/64381?category=2</id>
-        <link href="https://ppt21.com/spoent/64381?category=2"/>
-        <updated>2021-11-17T17:25:30.575Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
     </entry>
 </feed>
