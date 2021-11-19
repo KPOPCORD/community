@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-19T10:25:50.026Z</updated>
+    <updated>2021-11-19T11:20:56.086Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [트와이스] 터키즈 + 자켓촬영 비하인드 + 뮤비 리액션]]></title>
+        <id>https://ppt21.com/spoent/64409?category=2</id>
+        <link href="https://ppt21.com/spoent/64409?category=2"/>
+        <updated>2021-11-19T11:20:45.898Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 임창정씨가 인스타그램에 사과문을 올렸네요]]></title>
         <id>https://ppt21.com/spoent/64408?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64377?category=2"/>
         <updated>2021-11-17T12:35:27.755Z</updated>
         <content type="html"><![CDATA[강가딘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 여자아이돌들의 2022학년도 수능 응원 영상]]></title>
-        <id>https://ppt21.com/spoent/64376?category=2</id>
-        <link href="https://ppt21.com/spoent/64376?category=2"/>
-        <updated>2021-11-17T11:20:09.358Z</updated>
-        <content type="html"><![CDATA[VictoryFood]]></content>
     </entry>
 </feed>
