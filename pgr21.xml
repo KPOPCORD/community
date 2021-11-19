@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-19T14:21:11.683Z</updated>
+    <updated>2021-11-19T15:26:04.097Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 2021년 홍백가합전 출전 명단]]></title>
+        <id>https://ppt21.com/spoent/64416?category=2</id>
+        <link href="https://ppt21.com/spoent/64416?category=2"/>
+        <updated>2021-11-19T15:25:38.215Z</updated>
+        <content type="html"><![CDATA[묘이 미나]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [있지] 아빠 나 귤 먹고 싶어 까아아죠]]></title>
         <id>https://ppt21.com/spoent/64415?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64386?category=2"/>
         <updated>2021-11-18T05:20:28.824Z</updated>
         <content type="html"><![CDATA[대체공휴일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] "예상치 못한 오해 방지"…엑소 백현, 입대 후 '월 1회' 유튜브 중단]]></title>
-        <id>https://ppt21.com/spoent/64385?category=2</id>
-        <link href="https://ppt21.com/spoent/64385?category=2"/>
-        <updated>2021-11-18T05:20:28.824Z</updated>
-        <content type="html"><![CDATA[Leeka]]></content>
     </entry>
 </feed>
