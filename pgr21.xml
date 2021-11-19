@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-19T09:23:07.162Z</updated>
+    <updated>2021-11-19T10:25:50.026Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 임창정씨가 인스타그램에 사과문을 올렸네요]]></title>
+        <id>https://ppt21.com/spoent/64408?category=2</id>
+        <link href="https://ppt21.com/spoent/64408?category=2"/>
+        <updated>2021-11-19T10:25:40.062Z</updated>
+        <content type="html"><![CDATA[아롱이다롱이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 오늘 첫 방송되는 예능!!]]></title>
         <id>https://ppt21.com/spoent/64407?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64376?category=2"/>
         <updated>2021-11-17T11:20:09.358Z</updated>
         <content type="html"><![CDATA[VictoryFood]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 마약혐의 한서희,필로폰 투약 징역 1년 6월 법정구속]]></title>
-        <id>https://ppt21.com/spoent/64372?category=2</id>
-        <link href="https://ppt21.com/spoent/64372?category=2"/>
-        <updated>2021-11-17T06:27:14.737Z</updated>
-        <content type="html"><![CDATA[TWICE쯔위]]></content>
     </entry>
 </feed>
