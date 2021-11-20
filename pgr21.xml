@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-20T11:20:33.864Z</updated>
+    <updated>2021-11-20T12:34:43.111Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [트와이스] 뮤직뱅크 1위 앵콜 + 음악중심 직캠 + 고2들을 만난 트와이스]]></title>
+        <id>https://ppt21.com/spoent/64426?category=2</id>
+        <link href="https://ppt21.com/spoent/64426?category=2"/>
+        <updated>2021-11-20T12:34:20.936Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 이번 쇼미중 마음에 들었던 두 무대]]></title>
         <id>https://ppt21.com/spoent/64424?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64398?category=2"/>
         <updated>2021-11-18T17:24:09.512Z</updated>
         <content type="html"><![CDATA[TWICE쯔위]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 스타쉽 신인 걸그룹 아이브 SHOW WHAT I HAVE - IVE LIZ]]></title>
-        <id>https://ppt21.com/spoent/64396?category=2</id>
-        <link href="https://ppt21.com/spoent/64396?category=2"/>
-        <updated>2021-11-18T15:25:58.786Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
     </entry>
 </feed>
