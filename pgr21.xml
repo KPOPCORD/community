@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-20T02:37:02.591Z</updated>
+    <updated>2021-11-20T03:23:34.788Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 서울대 학사, 한양대 석사, 한예종 연기 전문사, 뉴욕 유학까지 다녀왔다는 누나.jpg]]></title>
+        <id>https://ppt21.com/spoent/64418?category=2</id>
+        <link href="https://ppt21.com/spoent/64418?category=2"/>
+        <updated>2021-11-20T03:23:24.880Z</updated>
+        <content type="html"><![CDATA[insane]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [니쥬] 1st Album「Need U」 MV]]></title>
         <id>https://ppt21.com/spoent/64417?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64389?category=2"/>
         <updated>2021-11-18T09:23:08.830Z</updated>
         <content type="html"><![CDATA[카미트리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] HKT 접수한 나코, 본점 센터 히토미]]></title>
-        <id>https://ppt21.com/spoent/64387?category=2</id>
-        <link href="https://ppt21.com/spoent/64387?category=2"/>
-        <updated>2021-11-18T05:20:28.824Z</updated>
-        <content type="html"><![CDATA[어강됴리]]></content>
     </entry>
 </feed>
