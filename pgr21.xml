@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-20T13:25:46.440Z</updated>
+    <updated>2021-11-20T14:20:37.957Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 쇳소리유가 부르는 아이유의 팔레트.MP4]]></title>
+        <id>https://ppt21.com/spoent/64429?category=2</id>
+        <link href="https://ppt21.com/spoent/64429?category=2"/>
+        <updated>2021-11-20T14:20:25.469Z</updated>
+        <content type="html"><![CDATA[insane]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 김종국 약물 로이더 논란 결국 꼬리내린 그렉듀셋 "김종국에 사과"]]></title>
         <id>https://ppt21.com/spoent/64428?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64407?category=2"/>
         <updated>2021-11-19T09:22:56.521Z</updated>
         <content type="html"><![CDATA[물맛이좋아요]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [단독]김수연, '미스틱 걸그룹' 빌리 합류.. 다음주 활동 시작]]></title>
-        <id>https://ppt21.com/spoent/64404?category=2</id>
-        <link href="https://ppt21.com/spoent/64404?category=2"/>
-        <updated>2021-11-19T03:23:37.472Z</updated>
-        <content type="html"><![CDATA[명탐정코난]]></content>
     </entry>
 </feed>
