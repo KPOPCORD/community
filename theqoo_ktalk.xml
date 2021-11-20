@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2021-11-20T07:21:24.824Z</updated>
+    <updated>2021-11-20T08:26:35.357Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[더보이즈 선우 위더보]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2247167706</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2247167706"/>
+        <updated>2021-11-20T08:26:34.604Z</updated>
+        <content type="html"><![CDATA[302646]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[데뷔 12일차 신인 여돌 입소문난 입덕짤 모음 (약간의 영업글)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2247110129</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2247110129"/>
+        <updated>2021-11-20T08:26:34.605Z</updated>
+        <content type="html"><![CDATA[302645]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[방탄 트윗( 리조만남)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2247077540</id>
@@ -130,19 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2246230267"/>
         <updated>2021-11-19T10:25:49.350Z</updated>
         <content type="html"><![CDATA[302627]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[K-Choreo 8K] 위키미키 직캠 'Siesta' (Weki Meki Choreography)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2246204496</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2246204496"/>
-        <updated>2021-11-19T10:25:49.351Z</updated>
-        <content type="html"><![CDATA[302626]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[슈퍼셀러] 더~~~~ 서프라이즈한 야유회 특별편2🔶 (feat. 개그맨 최성민) | 하이라이트 Highlight | [스페셜]]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2246188737</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2246188737"/>
-        <updated>2021-11-19T09:23:06.403Z</updated>
-        <content type="html"><![CDATA[302625]]></content>
     </entry>
 </feed>

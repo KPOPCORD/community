@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-20T07:21:24.816Z</updated>
+    <updated>2021-11-20T08:26:35.354Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 최근에 유행한다는 돼지룩. MP4]]></title>
+        <id>https://ppt21.com/spoent/64423?category=2</id>
+        <link href="https://ppt21.com/spoent/64423?category=2"/>
+        <updated>2021-11-20T08:26:24.982Z</updated>
+        <content type="html"><![CDATA[insane]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 에픽하이&윤하 - 비 오는 날 듣기 좋은 노래 + Love Love Love]]></title>
+        <id>https://ppt21.com/spoent/64422?category=2</id>
+        <link href="https://ppt21.com/spoent/64422?category=2"/>
+        <updated>2021-11-20T08:26:24.982Z</updated>
+        <content type="html"><![CDATA[Ahri]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 다음달에 결혼한다는 이대은 트루디 웨딩사진.JPG]]></title>
         <id>https://ppt21.com/spoent/64421?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/64392?category=2"/>
         <updated>2021-11-18T10:25:08.034Z</updated>
         <content type="html"><![CDATA[문별]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 이번주 넷플릭스 신작 기대작.jpg]]></title>
-        <id>https://ppt21.com/spoent/64391?category=2</id>
-        <link href="https://ppt21.com/spoent/64391?category=2"/>
-        <updated>2021-11-18T10:25:08.053Z</updated>
-        <content type="html"><![CDATA[핑크솔져]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 위키미키 Siesta  MV 공개되었습니다.]]></title>
-        <id>https://ppt21.com/spoent/64390?category=2</id>
-        <link href="https://ppt21.com/spoent/64390?category=2"/>
-        <updated>2021-11-18T10:25:08.053Z</updated>
-        <content type="html"><![CDATA[껌정]]></content>
     </entry>
 </feed>

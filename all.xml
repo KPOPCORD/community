@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-20T07:21:24.820Z</updated>
+    <updated>2021-11-20T08:26:35.434Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] 최근에 유행한다는 돼지룩. MP4 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/64423?category=2</id>
+        <link href="https://ppt21.com/spoent/64423?category=2"/>
+        <updated>2021-11-20T08:26:24.982Z</updated>
+        <content type="html"><![CDATA[insane]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 에픽하이&윤하 - 비 오는 날 듣기 좋은 노래 + Love Love Love (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/64422?category=2</id>
+        <link href="https://ppt21.com/spoent/64422?category=2"/>
+        <updated>2021-11-20T08:26:24.982Z</updated>
+        <content type="html"><![CDATA[Ahri]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 다음달에 결혼한다는 이대은 트루디 웨딩사진.JPG (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/64421?category=2</id>
@@ -124,18 +138,18 @@
         <content type="html"><![CDATA[문별]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[연예] 이번주 넷플릭스 신작 기대작.jpg (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/64391?category=2</id>
-        <link href="https://ppt21.com/spoent/64391?category=2"/>
-        <updated>2021-11-18T10:25:08.053Z</updated>
-        <content type="html"><![CDATA[핑크솔져]]></content>
+        <title type="html"><![CDATA[더보이즈 선우 위더보 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2247167706</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2247167706"/>
+        <updated>2021-11-20T08:26:34.604Z</updated>
+        <content type="html"><![CDATA[302646]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[연예] 위키미키 Siesta  MV 공개되었습니다. (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/64390?category=2</id>
-        <link href="https://ppt21.com/spoent/64390?category=2"/>
-        <updated>2021-11-18T10:25:08.053Z</updated>
-        <content type="html"><![CDATA[껌정]]></content>
+        <title type="html"><![CDATA[데뷔 12일차 신인 여돌 입소문난 입덕짤 모음 (약간의 영업글) (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2247110129</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2247110129"/>
+        <updated>2021-11-20T08:26:34.605Z</updated>
+        <content type="html"><![CDATA[302645]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[방탄 트윗( 리조만남) (더쿠 ─ 케이돌토크)]]></title>
@@ -262,19 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2246230267"/>
         <updated>2021-11-19T10:25:49.350Z</updated>
         <content type="html"><![CDATA[302627]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[K-Choreo 8K] 위키미키 직캠 'Siesta' (Weki Meki Choreography) (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2246204496</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2246204496"/>
-        <updated>2021-11-19T10:25:49.351Z</updated>
-        <content type="html"><![CDATA[302626]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[슈퍼셀러] 더~~~~ 서프라이즈한 야유회 특별편2🔶 (feat. 개그맨 최성민) | 하이라이트 Highlight | [스페셜] (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2246188737</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2246188737"/>
-        <updated>2021-11-19T09:23:06.403Z</updated>
-        <content type="html"><![CDATA[302625]]></content>
     </entry>
 </feed>
