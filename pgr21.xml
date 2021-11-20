@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-20T16:34:13.162Z</updated>
+    <updated>2021-11-20T17:26:18.414Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 2021년 11월 20일 넷플릭스 TV Shows 순위]]></title>
+        <id>https://ppt21.com/spoent/64436?category=2</id>
+        <link href="https://ppt21.com/spoent/64436?category=2"/>
+        <updated>2021-11-20T17:25:59.665Z</updated>
+        <content type="html"><![CDATA[현혹]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 스타쉽 신인 걸그룹 IVE 아이브 SHOW WHAT I HAVE - IVE WONYOUNG]]></title>
         <id>https://ppt21.com/spoent/64431?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64409?category=2"/>
         <updated>2021-11-19T11:20:45.898Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 임창정씨가 인스타그램에 사과문을 올렸네요]]></title>
-        <id>https://ppt21.com/spoent/64408?category=2</id>
-        <link href="https://ppt21.com/spoent/64408?category=2"/>
-        <updated>2021-11-19T10:25:40.062Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
     </entry>
 </feed>
