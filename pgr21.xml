@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-20T14:20:37.957Z</updated>
+    <updated>2021-11-20T15:23:15.111Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 스타쉽 신인 걸그룹 IVE 아이브 SHOW WHAT I HAVE - IVE WONYOUNG]]></title>
+        <id>https://ppt21.com/spoent/64431?category=2</id>
+        <link href="https://ppt21.com/spoent/64431?category=2"/>
+        <updated>2021-11-20T15:23:03.465Z</updated>
+        <content type="html"><![CDATA[아롱이다롱이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 쇳소리유가 부르는 아이유의 팔레트.MP4]]></title>
         <id>https://ppt21.com/spoent/64429?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64408?category=2"/>
         <updated>2021-11-19T10:25:40.062Z</updated>
         <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 오늘 첫 방송되는 예능!!]]></title>
-        <id>https://ppt21.com/spoent/64407?category=2</id>
-        <link href="https://ppt21.com/spoent/64407?category=2"/>
-        <updated>2021-11-19T09:22:56.521Z</updated>
-        <content type="html"><![CDATA[물맛이좋아요]]></content>
     </entry>
 </feed>
