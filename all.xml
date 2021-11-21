@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-21T09:22:26.808Z</updated>
+    <updated>2021-11-21T10:25:09.950Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] [ITZY] 류진의 [Artist Of The Month] (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/64455?category=2</id>
+        <link href="https://ppt21.com/spoent/64455?category=2"/>
+        <updated>2021-11-21T10:24:51.973Z</updated>
+        <content type="html"><![CDATA[배고픈유학생]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [트와이스] 뮤뱅, 인가 무대 (정장버전) (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/64453?category=2</id>
@@ -131,11 +138,25 @@
         <content type="html"><![CDATA[묘이 미나]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[연예] [있지] 아빠 나 귤 먹고 싶어 까아아죠 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/64415?category=2</id>
-        <link href="https://ppt21.com/spoent/64415?category=2"/>
-        <updated>2021-11-19T14:20:56.454Z</updated>
-        <content type="html"><![CDATA[VictoryFood]]></content>
+        <title type="html"><![CDATA[[🎥] 박우진 개인 자컨 MADE BY JJACK (메이드바이짹) - EP.10 클라이밍, 취미 만들어 봤짹! (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2248322605</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2248322605"/>
+        <updated>2021-11-21T10:25:09.100Z</updated>
+        <content type="html"><![CDATA[302664]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WOODZ(조승연) 공트업 - 211121 타임아웃 셀카 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2248308754</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2248308754"/>
+        <updated>2021-11-21T10:25:09.108Z</updated>
+        <content type="html"><![CDATA[302663]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엔하이픈 정원 위버스 ♥️ (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2248306580</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2248306580"/>
+        <updated>2021-11-21T10:25:09.110Z</updated>
+        <content type="html"><![CDATA[302662]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뉴이스트의 콘서트 드레스코드 정하기 (더쿠 ─ 케이돌토크)]]></title>
@@ -255,26 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2247327884"/>
         <updated>2021-11-20T11:20:33.119Z</updated>
         <content type="html"><![CDATA[302645]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스키즈 리노 인스타 업뎃 👍🌝 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2247327805</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2247327805"/>
-        <updated>2021-11-20T11:20:33.121Z</updated>
-        <content type="html"><![CDATA[302644]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[CIX-tory] STORY.88 데이즈드 11월 화보 촬영 비하인드 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2247325857</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2247325857"/>
-        <updated>2021-11-20T11:20:33.125Z</updated>
-        <content type="html"><![CDATA[302643]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[투바투 휴닝카이 위버스(엠씨셀카) (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2247301313</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2247301313"/>
-        <updated>2021-11-20T11:20:33.142Z</updated>
-        <content type="html"><![CDATA[302642]]></content>
     </entry>
 </feed>
