@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2021-11-21T05:19:56.882Z</updated>
+    <updated>2021-11-21T06:26:48.018Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[👻고스트나인👻 이진우.mp4 공트 업뎃(비율주의)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2248082072</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2248082072"/>
+        <updated>2021-11-21T06:26:47.332Z</updated>
+        <content type="html"><![CDATA[302666]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[장원영 인스타업뎃]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2248033812</id>
@@ -137,12 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2247186736"/>
         <updated>2021-11-20T09:22:37.111Z</updated>
         <content type="html"><![CDATA[302647]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소 4K] 위키미키 직캠 'Siesta' (Weki Meki FanCam)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2247181655</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2247181655"/>
-        <updated>2021-11-20T09:22:37.112Z</updated>
-        <content type="html"><![CDATA[302646]]></content>
     </entry>
 </feed>
