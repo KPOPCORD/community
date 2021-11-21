@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2021-11-21T15:23:18.838Z</updated>
+    <updated>2021-11-21T16:35:32.413Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Xdinary Heroes Performance Video : 주연 (베이스)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2248751894</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2248751894"/>
+        <updated>2021-11-21T16:35:31.670Z</updated>
+        <content type="html"><![CDATA[302679]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kep1er : Connecting …]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2248735268</id>
@@ -137,12 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2248269162"/>
         <updated>2021-11-21T09:22:26.024Z</updated>
         <content type="html"><![CDATA[302660]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[안방1열 직캠4K] 위키미키 'Siesta' 풀캠 (Weki Meki Full Cam)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2248197402</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2248197402"/>
-        <updated>2021-11-21T08:26:29.756Z</updated>
-        <content type="html"><![CDATA[302659]]></content>
     </entry>
 </feed>
