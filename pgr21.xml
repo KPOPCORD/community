@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-21T07:21:57.663Z</updated>
+    <updated>2021-11-21T08:26:30.520Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[연예] 제트썬, 갑질 의혹 해명 “속옷 빨래·헤어 합의…강요 없었다]]></title>
-        <id>https://ppt21.com/spoent/64447?category=2</id>
-        <link href="https://ppt21.com/spoent/64447?category=2"/>
-        <updated>2021-11-21T07:21:31.241Z</updated>
-        <content type="html"><![CDATA[아니스트]]></content>
+        <title type="html"><![CDATA[[연예] 전세계 최초 예능프로그램에서 약물논란 입장표명하는 가수.mp4]]></title>
+        <id>https://ppt21.com/spoent/64451?category=2</id>
+        <link href="https://ppt21.com/spoent/64451?category=2"/>
+        <updated>2021-11-21T08:26:20.164Z</updated>
+        <content type="html"><![CDATA[insane]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] [오마이걸] EBS+캠페인 최적화 아이돌 근황]]></title>
+        <id>https://ppt21.com/spoent/64449?category=2</id>
+        <link href="https://ppt21.com/spoent/64449?category=2"/>
+        <updated>2021-11-21T08:26:20.164Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 최예나 근황]]></title>
@@ -46,13 +53,6 @@
         <link href="https://ppt21.com/spoent/64429?category=2"/>
         <updated>2021-11-20T14:20:25.469Z</updated>
         <content type="html"><![CDATA[insane]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 김종국 약물 로이더 논란 결국 꼬리내린 그렉듀셋 "김종국에 사과"]]></title>
-        <id>https://ppt21.com/spoent/64428?category=2</id>
-        <link href="https://ppt21.com/spoent/64428?category=2"/>
-        <updated>2021-11-20T13:25:18.911Z</updated>
-        <content type="html"><![CDATA[아니스트]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 커버 뭐하니+ 아이유 -팔래트]]></title>
