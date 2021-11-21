@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-21T19:17:45.257Z</updated>
+    <updated>2021-11-21T20:23:13.777Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 넷플릭스 <지옥> 월드랭킹 및 각 국가별 순위 정리]]></title>
+        <id>https://ppt21.com/spoent/64465?category=2</id>
+        <link href="https://ppt21.com/spoent/64465?category=2"/>
+        <updated>2021-11-21T20:23:03.390Z</updated>
+        <content type="html"><![CDATA[아롱이다롱이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 한국에서 200만장 이상 판매된 음반들.TXT]]></title>
         <id>https://ppt21.com/spoent/64462?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64424?category=2"/>
         <updated>2021-11-20T09:22:28.081Z</updated>
         <content type="html"><![CDATA[벌점받는사람바보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 최근에 유행한다는 돼지룩. MP4]]></title>
-        <id>https://ppt21.com/spoent/64423?category=2</id>
-        <link href="https://ppt21.com/spoent/64423?category=2"/>
-        <updated>2021-11-20T08:26:24.982Z</updated>
-        <content type="html"><![CDATA[insane]]></content>
     </entry>
 </feed>
