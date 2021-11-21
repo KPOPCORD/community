@@ -2,14 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2021-11-21T03:23:34.885Z</updated>
+    <updated>2021-11-21T04:30:16.410Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
     <entry>
-        <title type="html"><![CDATA[골든디스크 디지털 음원 부문 집계현황]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2247911570</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2247911570"/>
-        <updated>2021-11-21T02:36:00.336Z</updated>
+        <title type="html"><![CDATA[투바투 태현 위버스 모먼트]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2247999599</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2247999599"/>
+        <updated>2021-11-21T04:30:15.666Z</updated>
+        <content type="html"><![CDATA[302665]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[투바투 자체예능 투두 EP.59 썸네일]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2247961803</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2247961803"/>
+        <updated>2021-11-21T04:30:15.670Z</updated>
+        <content type="html"><![CDATA[302664]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[📽] #TikTok 웃음꽃 활짝🌼위키미키 유정&도연,임나영,우주소녀 연정 시에스타 챌린지]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2247955178</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2247955178"/>
+        <updated>2021-11-21T04:30:15.672Z</updated>
         <content type="html"><![CDATA[302663]]></content>
     </entry>
     <entry>
@@ -130,19 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2247167706"/>
         <updated>2021-11-20T08:26:34.604Z</updated>
         <content type="html"><![CDATA[302646]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[데뷔 12일차 신인 여돌 입소문난 입덕짤 모음 (약간의 영업글)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2247110129</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2247110129"/>
-        <updated>2021-11-20T08:26:34.605Z</updated>
-        <content type="html"><![CDATA[302645]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방탄 트윗( 리조만남)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2247077540</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2247077540"/>
-        <updated>2021-11-20T07:21:24.088Z</updated>
-        <content type="html"><![CDATA[302644]]></content>
     </entry>
 </feed>
