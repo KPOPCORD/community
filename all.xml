@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-22T01:12:30.251Z</updated>
+    <updated>2021-11-22T02:36:34.677Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[연예] 츤데레를 어떻게 알아요? (Pgr21 ─ 연예)]]></title>
@@ -138,6 +138,20 @@
         <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA['야생돌' 김기중 등 3명 코로나19 확진..."촬영 중단" (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2249066547</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2249066547"/>
+        <updated>2021-11-22T02:36:33.991Z</updated>
+        <content type="html"><![CDATA[302680]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[투바투『GQ JAPAN』 2022년 1,2월호 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2249012376</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2249012376"/>
+        <updated>2021-11-22T02:36:33.994Z</updated>
+        <content type="html"><![CDATA[302679]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[트와이스 빌보드 200 3위 데뷔 (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2248990436</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2248990436"/>
@@ -262,19 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2248472945"/>
         <updated>2021-11-21T15:23:18.121Z</updated>
         <content type="html"><![CDATA[302661]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[투바투 범규 트윗🧸❣️(with🐰🦊) (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2248470259</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2248470259"/>
-        <updated>2021-11-21T15:23:18.122Z</updated>
-        <content type="html"><![CDATA[302660]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[😎강다니엘 인스타 업뎃😎 너나경 막촬 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2248414721</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2248414721"/>
-        <updated>2021-11-21T15:23:18.123Z</updated>
-        <content type="html"><![CDATA[302659]]></content>
     </entry>
 </feed>

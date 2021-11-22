@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2021-11-22T01:12:30.248Z</updated>
+    <updated>2021-11-22T02:36:34.680Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['야생돌' 김기중 등 3명 코로나19 확진..."촬영 중단"]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2249066547</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2249066547"/>
+        <updated>2021-11-22T02:36:33.991Z</updated>
+        <content type="html"><![CDATA[302680]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[투바투『GQ JAPAN』 2022년 1,2월호]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2249012376</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2249012376"/>
+        <updated>2021-11-22T02:36:33.994Z</updated>
+        <content type="html"><![CDATA[302679]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[트와이스 빌보드 200 3위 데뷔]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2248990436</id>
@@ -130,19 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2248472945"/>
         <updated>2021-11-21T15:23:18.121Z</updated>
         <content type="html"><![CDATA[302661]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[투바투 범규 트윗🧸❣️(with🐰🦊)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2248470259</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2248470259"/>
-        <updated>2021-11-21T15:23:18.122Z</updated>
-        <content type="html"><![CDATA[302660]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[😎강다니엘 인스타 업뎃😎 너나경 막촬]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2248414721</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2248414721"/>
-        <updated>2021-11-21T15:23:18.123Z</updated>
-        <content type="html"><![CDATA[302659]]></content>
     </entry>
 </feed>
