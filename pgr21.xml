@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-22T14:22:01.008Z</updated>
+    <updated>2021-11-22T15:24:52.258Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 정동원 초동 10만장 돌파]]></title>
+        <id>https://ppt21.com/spoent/64492?category=2</id>
+        <link href="https://ppt21.com/spoent/64492?category=2"/>
+        <updated>2021-11-22T15:24:40.444Z</updated>
+        <content type="html"><![CDATA[VictoryFood]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 아이브 IVE THE 1st SINGLE ALBUM <ELEVEN> CONCEPT PHOTO 유진 / 가을]]></title>
         <id>https://ppt21.com/spoent/64491?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64443?category=2"/>
         <updated>2021-11-21T02:35:50.247Z</updated>
         <content type="html"><![CDATA[강가딘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 유아인이 동 나이대 연기 원탑일까요?...]]></title>
-        <id>https://ppt21.com/spoent/64440?category=2</id>
-        <link href="https://ppt21.com/spoent/64440?category=2"/>
-        <updated>2021-11-20T23:22:10.097Z</updated>
-        <content type="html"><![CDATA[우주전쟁]]></content>
     </entry>
 </feed>

@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-22T14:22:01.012Z</updated>
+    <updated>2021-11-22T15:24:52.263Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] 정동원 초동 10만장 돌파 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/64492?category=2</id>
+        <link href="https://ppt21.com/spoent/64492?category=2"/>
+        <updated>2021-11-22T15:24:40.444Z</updated>
+        <content type="html"><![CDATA[VictoryFood]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 아이브 IVE THE 1st SINGLE ALBUM <ELEVEN> CONCEPT PHOTO 유진 / 가을 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/64491?category=2</id>
@@ -131,11 +138,25 @@
         <content type="html"><![CDATA[강가딘]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[연예] 유아인이 동 나이대 연기 원탑일까요?... (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/64440?category=2</id>
-        <link href="https://ppt21.com/spoent/64440?category=2"/>
-        <updated>2021-11-20T23:22:10.097Z</updated>
-        <content type="html"><![CDATA[우주전쟁]]></content>
+        <title type="html"><![CDATA[Stray Kids(스트레이 키즈) Holiday Special Single <Christmas EveL> TEASER IMAGES (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2250037732</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2250037732"/>
+        <updated>2021-11-22T15:24:51.511Z</updated>
+        <content type="html"><![CDATA[302709]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[💫MINO💫] VISUAL FILM #1 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2250035125</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2250035125"/>
+        <updated>2021-11-22T15:24:51.512Z</updated>
+        <content type="html"><![CDATA[302708]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엔하이픈 1주년 기념 "엔절" 스케줄러 💙 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2249998735</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2249998735"/>
+        <updated>2021-11-22T15:24:51.515Z</updated>
+        <content type="html"><![CDATA[302707]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[IVE 1st single Album concept photo #1 유진,가을 (더쿠 ─ 케이돌토크)]]></title>
@@ -255,26 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2249570735"/>
         <updated>2021-11-22T09:23:38.714Z</updated>
         <content type="html"><![CDATA[302690]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[드림캐쳐 2022 시즌그리팅 CELESTIAL / SWEET DREAM 버전 2종 사양 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2249442407</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2249442407"/>
-        <updated>2021-11-22T07:22:03.747Z</updated>
-        <content type="html"><![CDATA[302689]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방탄 정국짹 focus on army💜 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2249428196</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2249428196"/>
-        <updated>2021-11-22T07:22:03.750Z</updated>
-        <content type="html"><![CDATA[302688]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방탄 제이홉짹 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2249416232</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2249416232"/>
-        <updated>2021-11-22T07:22:03.750Z</updated>
-        <content type="html"><![CDATA[302687]]></content>
     </entry>
 </feed>
