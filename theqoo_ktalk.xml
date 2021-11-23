@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2021-11-23T06:28:26.906Z</updated>
+    <updated>2021-11-23T07:22:51.916Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[BTS (방탄소년단) 'Butter' @ 2021 American Music Awards]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2250689605</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2250689605"/>
+        <updated>2021-11-23T07:22:51.165Z</updated>
+        <content type="html"><![CDATA[302720]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GHOST9 (고스트나인) NOW : Who we are facing - Highlight Medley]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2250650066</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2250650066"/>
+        <updated>2021-11-23T07:22:51.166Z</updated>
+        <content type="html"><![CDATA[302719]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독] '술꾼도시여자들' 시즌2 제작 확정]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2250601524</id>
@@ -130,19 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2249791214"/>
         <updated>2021-11-22T12:36:44.868Z</updated>
         <content type="html"><![CDATA[302701]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[요즘 주니노래 빠져서 하루종일 이거만 듣는중]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2249783767</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2249783767"/>
-        <updated>2021-11-22T12:36:44.868Z</updated>
-        <content type="html"><![CDATA[302700]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자이언트펭TV(ENG) 실패하면 5분 뒤 너는 지옥에 간다아아... (5minutes Dancing Bomb 💣 feat. 위키미키 Weki Meki)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2249768848</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2249768848"/>
-        <updated>2021-11-22T12:36:44.872Z</updated>
-        <content type="html"><![CDATA[302699]]></content>
     </entry>
 </feed>
