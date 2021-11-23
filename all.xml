@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-23T02:35:45.172Z</updated>
+    <updated>2021-11-23T03:24:08.038Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[연예] BTS에 숟가락 얹은 Coldplay (feat. AMA live) (Pgr21 ─ 연예)]]></title>
@@ -138,6 +138,13 @@
         <content type="html"><![CDATA[배고픈유학생]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[엔하이픈 정원 멤트 🏖 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2250393125</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2250393125"/>
+        <updated>2021-11-23T03:24:07.370Z</updated>
+        <content type="html"><![CDATA[302713]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[단독] 러블리즈 류수정, 플렉스엠 손 잡고 제2막 연다 (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2250258990</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2250258990"/>
@@ -269,12 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2249635329"/>
         <updated>2021-11-22T10:27:35.334Z</updated>
         <content type="html"><![CDATA[302694]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 멜론뮤직어워드 1차 라인업 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2249617205</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2249617205"/>
-        <updated>2021-11-22T10:27:35.337Z</updated>
-        <content type="html"><![CDATA[302693]]></content>
     </entry>
 </feed>
