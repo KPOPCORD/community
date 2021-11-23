@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-23T01:10:44.432Z</updated>
+    <updated>2021-11-23T02:35:45.169Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] BTS에 숟가락 얹은 Coldplay (feat. AMA live)]]></title>
+        <id>https://ppt21.com/spoent/64505?category=2</id>
+        <link href="https://ppt21.com/spoent/64505?category=2"/>
+        <updated>2021-11-23T02:35:33.927Z</updated>
+        <content type="html"><![CDATA[Cafe_Seokguram]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 박신혜 최태준 결혼]]></title>
+        <id>https://ppt21.com/spoent/64502?category=2</id>
+        <link href="https://ppt21.com/spoent/64502?category=2"/>
+        <updated>2021-11-23T02:35:33.929Z</updated>
+        <content type="html"><![CDATA[대체공휴일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 에픽하이의 또다른 연금송]]></title>
         <id>https://ppt21.com/spoent/64500?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/64455?category=2"/>
         <updated>2021-11-21T10:24:51.973Z</updated>
         <content type="html"><![CDATA[배고픈유학생]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [트와이스] 뮤뱅, 인가 무대 (정장버전)]]></title>
-        <id>https://ppt21.com/spoent/64453?category=2</id>
-        <link href="https://ppt21.com/spoent/64453?category=2"/>
-        <updated>2021-11-21T09:22:15.633Z</updated>
-        <content type="html"><![CDATA[그10번]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [브레이브 걸스] 쁘림마라 페스티벌]]></title>
-        <id>https://ppt21.com/spoent/64452?category=2</id>
-        <link href="https://ppt21.com/spoent/64452?category=2"/>
-        <updated>2021-11-21T09:22:15.633Z</updated>
-        <content type="html"><![CDATA[Croove]]></content>
     </entry>
 </feed>
