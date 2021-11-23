@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-23T03:24:08.038Z</updated>
+    <updated>2021-11-23T04:30:17.142Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] [단독]러블리즈 서지수, 미스틱스토리 전속계약..연기자 전향 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/64506?category=2</id>
+        <link href="https://ppt21.com/spoent/64506?category=2"/>
+        <updated>2021-11-23T04:30:07.335Z</updated>
+        <content type="html"><![CDATA[나의 연인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] BTS에 숟가락 얹은 Coldplay (feat. AMA live) (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/64505?category=2</id>
@@ -131,11 +138,11 @@
         <content type="html"><![CDATA[렌야]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[연예] [ITZY] 류진의 [Artist Of The Month] (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/64455?category=2</id>
-        <link href="https://ppt21.com/spoent/64455?category=2"/>
-        <updated>2021-11-21T10:24:51.973Z</updated>
-        <content type="html"><![CDATA[배고픈유학생]]></content>
+        <title type="html"><![CDATA[Vernon - BANDS BOY (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2250496591</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2250496591"/>
+        <updated>2021-11-23T04:30:16.406Z</updated>
+        <content type="html"><![CDATA[302714]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[엔하이픈 정원 멤트 🏖 (더쿠 ─ 케이돌토크)]]></title>
@@ -269,12 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2249642485"/>
         <updated>2021-11-22T10:27:35.333Z</updated>
         <content type="html"><![CDATA[302695]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[투바투 휴닝카이 트윗 (연주니즈🖤 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2249635329</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2249635329"/>
-        <updated>2021-11-22T10:27:35.334Z</updated>
-        <content type="html"><![CDATA[302694]]></content>
     </entry>
 </feed>
