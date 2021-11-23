@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-23T21:20:28.874Z</updated>
+    <updated>2021-11-23T22:22:51.797Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 넷플릭스 시청시간 공개 (tv shows 부문), <지옥> 전체 1위]]></title>
+        <id>https://ppt21.com/spoent/64525?category=2</id>
+        <link href="https://ppt21.com/spoent/64525?category=2"/>
+        <updated>2021-11-23T22:22:40.411Z</updated>
+        <content type="html"><![CDATA[아롱이다롱이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 넷플릭스 <지옥> 4일차도 월드랭킹 1위 유지(feat.한국 드라마 4편)]]></title>
         <id>https://ppt21.com/spoent/64524?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64467?category=2"/>
         <updated>2021-11-22T01:12:10.847Z</updated>
         <content type="html"><![CDATA[이호철]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 넷플릭스 <지옥> 월드랭킹 및 각 국가별 순위 정리]]></title>
-        <id>https://ppt21.com/spoent/64465?category=2</id>
-        <link href="https://ppt21.com/spoent/64465?category=2"/>
-        <updated>2021-11-21T20:23:03.390Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
     </entry>
 </feed>
