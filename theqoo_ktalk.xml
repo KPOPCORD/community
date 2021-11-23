@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2021-11-23T07:22:51.916Z</updated>
+    <updated>2021-11-23T08:27:44.267Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[황민현 겔랑 화보 촬영 현장]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2250747342</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2250747342"/>
+        <updated>2021-11-23T08:27:43.400Z</updated>
+        <content type="html"><![CDATA[302722]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[투바투 휴닝카이 위버스 모먼트]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2250703230</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2250703230"/>
+        <updated>2021-11-23T08:27:43.405Z</updated>
+        <content type="html"><![CDATA[302721]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BTS (방탄소년단) 'Butter' @ 2021 American Music Awards]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2250689605</id>
@@ -130,19 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2249872287"/>
         <updated>2021-11-22T13:29:55.630Z</updated>
         <content type="html"><![CDATA[302703]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[투바투 TO DO X TOMORROW X TOGETHER - EP.59]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2249820802</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2249820802"/>
-        <updated>2021-11-22T12:36:44.866Z</updated>
-        <content type="html"><![CDATA[302702]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MAMA 스페셜 콘텐츠 안내 영상]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2249791214</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2249791214"/>
-        <updated>2021-11-22T12:36:44.868Z</updated>
-        <content type="html"><![CDATA[302701]]></content>
     </entry>
 </feed>

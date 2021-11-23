@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-23T07:22:51.913Z</updated>
+    <updated>2021-11-23T08:27:44.271Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] 우주소녀 보나 드라마 촬영장에 간 블랙핑크 지수.jpg (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/64510?category=2</id>
+        <link href="https://ppt21.com/spoent/64510?category=2"/>
+        <updated>2021-11-23T08:27:34.921Z</updated>
+        <content type="html"><![CDATA[길가메시]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 러블리즈 서지수, 미스틱스토리 전속계약..연기자 전향 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/64506?category=2</id>
@@ -131,11 +138,18 @@
         <content type="html"><![CDATA[삭제됨]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[연예] 유아인의 연기력이 뛰어날 수 밖에 없는 이유.jpg (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/64457?category=2</id>
-        <link href="https://ppt21.com/spoent/64457?category=2"/>
-        <updated>2021-11-21T15:23:08.228Z</updated>
-        <content type="html"><![CDATA[렌야]]></content>
+        <title type="html"><![CDATA[황민현 겔랑 화보 촬영 현장 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2250747342</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2250747342"/>
+        <updated>2021-11-23T08:27:43.400Z</updated>
+        <content type="html"><![CDATA[302722]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[투바투 휴닝카이 위버스 모먼트 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2250703230</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2250703230"/>
+        <updated>2021-11-23T08:27:43.405Z</updated>
+        <content type="html"><![CDATA[302721]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[BTS (방탄소년단) 'Butter' @ 2021 American Music Awards (더쿠 ─ 케이돌토크)]]></title>
@@ -262,19 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2249872287"/>
         <updated>2021-11-22T13:29:55.630Z</updated>
         <content type="html"><![CDATA[302703]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[투바투 TO DO X TOMORROW X TOGETHER - EP.59 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2249820802</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2249820802"/>
-        <updated>2021-11-22T12:36:44.866Z</updated>
-        <content type="html"><![CDATA[302702]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MAMA 스페셜 콘텐츠 안내 영상 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2249791214</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2249791214"/>
-        <updated>2021-11-22T12:36:44.868Z</updated>
-        <content type="html"><![CDATA[302701]]></content>
     </entry>
 </feed>

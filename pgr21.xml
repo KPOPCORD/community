@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-23T07:22:51.910Z</updated>
+    <updated>2021-11-23T08:27:44.270Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 우주소녀 보나 드라마 촬영장에 간 블랙핑크 지수.jpg]]></title>
+        <id>https://ppt21.com/spoent/64510?category=2</id>
+        <link href="https://ppt21.com/spoent/64510?category=2"/>
+        <updated>2021-11-23T08:27:34.921Z</updated>
+        <content type="html"><![CDATA[길가메시]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 러블리즈 서지수, 미스틱스토리 전속계약..연기자 전향]]></title>
         <id>https://ppt21.com/spoent/64506?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64458?category=2"/>
         <updated>2021-11-21T15:23:08.223Z</updated>
         <content type="html"><![CDATA[삭제됨]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 유아인의 연기력이 뛰어날 수 밖에 없는 이유.jpg]]></title>
-        <id>https://ppt21.com/spoent/64457?category=2</id>
-        <link href="https://ppt21.com/spoent/64457?category=2"/>
-        <updated>2021-11-21T15:23:08.228Z</updated>
-        <content type="html"><![CDATA[렌야]]></content>
     </entry>
 </feed>
