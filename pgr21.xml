@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-23T13:27:42.675Z</updated>
+    <updated>2021-11-23T14:21:26.951Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 이번주 킬링보이스의 주인공은 바로...]]></title>
+        <id>https://ppt21.com/spoent/64520?category=2</id>
+        <link href="https://ppt21.com/spoent/64520?category=2"/>
+        <updated>2021-11-23T14:21:17.002Z</updated>
+        <content type="html"><![CDATA[insane]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [런닝맨] 이광수님 나갔다고 멤버들에게 신나게 돌려지는 1人]]></title>
         <id>https://ppt21.com/spoent/64513?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64460?category=2"/>
         <updated>2021-11-21T15:23:08.219Z</updated>
         <content type="html"><![CDATA[insane]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 2021년 11월 셋째주 D-차트 : 아이유 4주 1위! 트와이스는 3위 진입]]></title>
-        <id>https://ppt21.com/spoent/64459?category=2</id>
-        <link href="https://ppt21.com/spoent/64459?category=2"/>
-        <updated>2021-11-21T15:23:08.222Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
