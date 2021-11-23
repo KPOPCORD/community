@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-23T09:23:20.233Z</updated>
+    <updated>2021-11-23T10:25:50.715Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [런닝맨] 이광수님 나갔다고 멤버들에게 신나게 돌려지는 1人]]></title>
+        <id>https://ppt21.com/spoent/64513?category=2</id>
+        <link href="https://ppt21.com/spoent/64513?category=2"/>
+        <updated>2021-11-23T10:25:37.674Z</updated>
+        <content type="html"><![CDATA[A1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 우주소녀 보나 드라마 촬영장에 간 블랙핑크 지수.jpg]]></title>
         <id>https://ppt21.com/spoent/64510?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64459?category=2"/>
         <updated>2021-11-21T15:23:08.222Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [64355]번님 글이 떠올라서 윤하님 라이브 - 슈카님 방에서(이거 홍보로 잘리는거 아니죠..?ㅠ)]]></title>
-        <id>https://ppt21.com/spoent/64458?category=2</id>
-        <link href="https://ppt21.com/spoent/64458?category=2"/>
-        <updated>2021-11-21T15:23:08.223Z</updated>
-        <content type="html"><![CDATA[삭제됨]]></content>
     </entry>
 </feed>
