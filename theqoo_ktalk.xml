@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2021-11-23T22:22:51.800Z</updated>
+    <updated>2021-11-23T23:23:54.450Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뉴종현 인스타그램 업뎃💙 드라마 막촬🐢]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2251503796</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2251503796"/>
+        <updated>2021-11-23T23:23:53.786Z</updated>
+        <content type="html"><![CDATA[302754]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엔하이픈 켈리 클락슨 쇼 'Tamed-Dashed']]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2251498138</id>
@@ -137,12 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2251187914"/>
         <updated>2021-11-23T14:21:26.196Z</updated>
         <content type="html"><![CDATA[302735]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IVE THE 1st SINGLE ALBUM <ELEVEN> CONCEPT PHOTO 'WONYOUNG']]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2251177103</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2251177103"/>
-        <updated>2021-11-23T14:21:26.196Z</updated>
-        <content type="html"><![CDATA[302734]]></content>
     </entry>
 </feed>
