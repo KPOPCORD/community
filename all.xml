@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-24T03:24:04.015Z</updated>
+    <updated>2021-11-24T04:30:19.714Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] "그래미, BTS 퇴짜"…방탄소년단 본상 후보 불발" (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/64532?category=2</id>
+        <link href="https://ppt21.com/spoent/64532?category=2"/>
+        <updated>2021-11-24T04:30:10.126Z</updated>
+        <content type="html"><![CDATA[너]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 싱어게인2 합격자가 공개되었습니다. (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/64531?category=2</id>
+        <link href="https://ppt21.com/spoent/64531?category=2"/>
+        <updated>2021-11-24T04:30:10.138Z</updated>
+        <content type="html"><![CDATA[RefRain]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [런닝맨] 개발모임 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/64530?category=2</id>
@@ -124,18 +138,32 @@
         <content type="html"><![CDATA[Croove]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[연예] [트와이스] 지효, 미나, 채영 인기가요 페이스캠 + M/V 비하인드 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/64488?category=2</id>
-        <link href="https://ppt21.com/spoent/64488?category=2"/>
-        <updated>2021-11-22T14:21:42.587Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
+        <title type="html"><![CDATA[[📢] 2021-22 김재환 콘서트 [歡迎 : 환영] in SEOUL 오픈 안내 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2251751543</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2251751543"/>
+        <updated>2021-11-24T04:30:18.988Z</updated>
+        <content type="html"><![CDATA[302764]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[연예] 에이핑크 박초롱 학폭 관련 반박 기사 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/64481?category=2</id>
-        <link href="https://ppt21.com/spoent/64481?category=2"/>
-        <updated>2021-11-22T07:21:55.462Z</updated>
-        <content type="html"><![CDATA[스위치 메이커]]></content>
+        <title type="html"><![CDATA[단독] 워너원, 오늘(24일) 완전체 회동…MAMA 본격 준비 돌입 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2251740739</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2251740739"/>
+        <updated>2021-11-24T04:30:18.990Z</updated>
+        <content type="html"><![CDATA[302763]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[뮤지광 Official MV] Starlight - 뮤지광 임직원 일동 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2251721463</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2251721463"/>
+        <updated>2021-11-24T04:30:18.991Z</updated>
+        <content type="html"><![CDATA[302762]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NEW BEGINNING / 케플러 X 데이즈드 티징필름. 다섯 번째는 휴닝바히에. (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2251715322</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2251715322"/>
+        <updated>2021-11-24T04:30:18.992Z</updated>
+        <content type="html"><![CDATA[302761]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[군인들이 뽑은 동계근무 같이 서보고 싶은 스타 (더쿠 ─ 케이돌토크)]]></title>
@@ -248,33 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2251266042"/>
         <updated>2021-11-23T15:25:12.330Z</updated>
         <content type="html"><![CDATA[302745]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[케플러 Concept Photo 1: Connect 0 2021.12.14(TUE) 6PM(KST) (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2251262337</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2251262337"/>
-        <updated>2021-11-23T15:25:12.330Z</updated>
-        <content type="html"><![CDATA[302744]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stray Kids(스트레이 키즈) Holiday Special Single <Christmas EveL> TEASER IMAGES #한 #필릭스 #승민 #아이엔 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2251261440</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2251261440"/>
-        <updated>2021-11-23T15:25:12.330Z</updated>
-        <content type="html"><![CDATA[302743]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021년 유튜브 국내에서 가장 많이 검색된 걸그룹 TOP40 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2251234857</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2251234857"/>
-        <updated>2021-11-23T15:25:12.333Z</updated>
-        <content type="html"><![CDATA[302742]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[투바투 수빈 트윗(with 연준 범규 태현 휴닝) (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2251233490</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2251233490"/>
-        <updated>2021-11-23T15:25:12.336Z</updated>
-        <content type="html"><![CDATA[302741]]></content>
     </entry>
 </feed>

@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-24T03:24:04.023Z</updated>
+    <updated>2021-11-24T04:30:19.711Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] "그래미, BTS 퇴짜"…방탄소년단 본상 후보 불발"]]></title>
+        <id>https://ppt21.com/spoent/64532?category=2</id>
+        <link href="https://ppt21.com/spoent/64532?category=2"/>
+        <updated>2021-11-24T04:30:10.126Z</updated>
+        <content type="html"><![CDATA[너]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 싱어게인2 합격자가 공개되었습니다.]]></title>
+        <id>https://ppt21.com/spoent/64531?category=2</id>
+        <link href="https://ppt21.com/spoent/64531?category=2"/>
+        <updated>2021-11-24T04:30:10.138Z</updated>
+        <content type="html"><![CDATA[RefRain]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [런닝맨] 개발모임]]></title>
         <id>https://ppt21.com/spoent/64530?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/64489?category=2"/>
         <updated>2021-11-22T14:21:42.587Z</updated>
         <content type="html"><![CDATA[Croove]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [트와이스] 지효, 미나, 채영 인기가요 페이스캠 + M/V 비하인드]]></title>
-        <id>https://ppt21.com/spoent/64488?category=2</id>
-        <link href="https://ppt21.com/spoent/64488?category=2"/>
-        <updated>2021-11-22T14:21:42.587Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 에이핑크 박초롱 학폭 관련 반박 기사]]></title>
-        <id>https://ppt21.com/spoent/64481?category=2</id>
-        <link href="https://ppt21.com/spoent/64481?category=2"/>
-        <updated>2021-11-22T07:21:55.462Z</updated>
-        <content type="html"><![CDATA[스위치 메이커]]></content>
     </entry>
 </feed>
