@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-24T16:35:26.006Z</updated>
+    <updated>2021-11-24T17:27:55.931Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[연예] 대낮에 LA 도로 점거하는 한국의 청년들 (Pgr21 ─ 연예)]]></title>
@@ -138,6 +138,13 @@
         <content type="html"><![CDATA[별빛정원]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[위키미키 레코딩 메이킹 필름 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2252553707</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2252553707"/>
+        <updated>2021-11-24T17:27:55.240Z</updated>
+        <content type="html"><![CDATA[302791]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[온앤오프(ONF) 6TH MINI ALBUM [Goosebumps] ♾SPACETIME:PHOTOⅢ (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2252487679</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2252487679"/>
@@ -269,12 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2252147270"/>
         <updated>2021-11-24T10:25:32.970Z</updated>
         <content type="html"><![CDATA[302772]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[지수연/엘리/장준/전웅] 위키미키 - Siesta 🌿 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2252139252</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2252139252"/>
-        <updated>2021-11-24T10:25:32.973Z</updated>
-        <content type="html"><![CDATA[302771]]></content>
     </entry>
 </feed>
