@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-24T14:21:32.592Z</updated>
+    <updated>2021-11-24T15:25:08.142Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 대낮에 LA 도로 점거하는 한국의 청년들]]></title>
+        <id>https://ppt21.com/spoent/64553?category=2</id>
+        <link href="https://ppt21.com/spoent/64553?category=2"/>
+        <updated>2021-11-24T15:24:56.714Z</updated>
+        <content type="html"><![CDATA[style]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 아이브 IVE THE 1st SINGLE ALBUM <ELEVEN> CONCEPT PHOTO  리즈 / 이서]]></title>
         <id>https://ppt21.com/spoent/64552?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64528?category=2"/>
         <updated>2021-11-24T02:36:24.921Z</updated>
         <content type="html"><![CDATA[별빛정원]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 넷플릭스 시청시간 공개 (tv shows 부문), <지옥> 전체 1위]]></title>
-        <id>https://ppt21.com/spoent/64525?category=2</id>
-        <link href="https://ppt21.com/spoent/64525?category=2"/>
-        <updated>2021-11-23T22:22:40.411Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
     </entry>
 </feed>
