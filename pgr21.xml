@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-24T04:30:19.711Z</updated>
+    <updated>2021-11-24T05:21:45.890Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[연예] "그래미, BTS 퇴짜"…방탄소년단 본상 후보 불발"]]></title>
+        <title type="html"><![CDATA[[연예] 3대운동 700kg 든다는 귀여운 2000년생.jpg]]></title>
+        <id>https://ppt21.com/spoent/64533?category=2</id>
+        <link href="https://ppt21.com/spoent/64533?category=2"/>
+        <updated>2021-11-24T05:21:36.436Z</updated>
+        <content type="html"><![CDATA[insane]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] "BTS, 그래미 2년 연속 '베스트 팝 그룹~"]]></title>
         <id>https://ppt21.com/spoent/64532?category=2</id>
         <link href="https://ppt21.com/spoent/64532?category=2"/>
         <updated>2021-11-24T04:30:10.126Z</updated>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64491?category=2"/>
         <updated>2021-11-22T14:21:42.587Z</updated>
         <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [꼬꼬무] 1991년 모가디슈 탈출 강신성 대사편]]></title>
-        <id>https://ppt21.com/spoent/64489?category=2</id>
-        <link href="https://ppt21.com/spoent/64489?category=2"/>
-        <updated>2021-11-22T14:21:42.587Z</updated>
-        <content type="html"><![CDATA[Croove]]></content>
     </entry>
 </feed>
