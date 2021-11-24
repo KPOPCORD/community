@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2021-11-24T01:10:48.898Z</updated>
+    <updated>2021-11-24T02:36:35.933Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[군인들이 뽑은 동계근무 같이 서보고 싶은 스타]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2251641132</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2251641132"/>
+        <updated>2021-11-24T02:36:35.226Z</updated>
+        <content type="html"><![CDATA[302760]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독] 더보이즈, 12월6일 새 싱글 발표…초고속 신곡]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2251625185</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2251625185"/>
+        <updated>2021-11-24T02:36:35.226Z</updated>
+        <content type="html"><![CDATA[302759]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[트라이비, 25일 윈터송 'Santa For You' 발매..팬들 위한 크리스마스 선물]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2251602953</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2251602953"/>
+        <updated>2021-11-24T02:36:35.227Z</updated>
+        <content type="html"><![CDATA[302758]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아이브 심의 결과]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2251582965</id>
@@ -123,26 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2251233490"/>
         <updated>2021-11-23T15:25:12.336Z</updated>
         <content type="html"><![CDATA[302741]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021년 유튜브 국내에서 가장 많이 검색된 보이그룹 TOP40]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2251233109</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2251233109"/>
-        <updated>2021-11-23T15:25:12.340Z</updated>
-        <content type="html"><![CDATA[302740]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔하이픈 엔절맞이 2021 ENniversary Photo #1 FAMILY ❤]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2251222374</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2251222374"/>
-        <updated>2021-11-23T15:25:12.341Z</updated>
-        <content type="html"><![CDATA[302739]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CIX 씨아이엑스 승훈 인스타그램 업뎃💛]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2251201193</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2251201193"/>
-        <updated>2021-11-23T14:21:26.186Z</updated>
-        <content type="html"><![CDATA[302738]]></content>
     </entry>
 </feed>
