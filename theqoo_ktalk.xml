@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2021-11-24T12:36:05.446Z</updated>
+    <updated>2021-11-24T13:27:35.039Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[19살 때 윤하 vs 34살 현재의 윤하]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2252355297</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2252355297"/>
+        <updated>2021-11-24T13:27:34.363Z</updated>
+        <content type="html"><![CDATA[302784]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021 GQ MEN OF THE YEAR 시상식 #투바투 수상 cut]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2252353210</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2252353210"/>
+        <updated>2021-11-24T13:27:34.369Z</updated>
+        <content type="html"><![CDATA[302783]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아스트로 문빈 트위터 업뎃]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2252287080</id>
@@ -130,19 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2251985337"/>
         <updated>2021-11-24T08:27:07.567Z</updated>
         <content type="html"><![CDATA[302765]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쇼챔피언 짹 ❤️MC 딴콩민❤️]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2251981365</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2251981365"/>
-        <updated>2021-11-24T08:27:07.567Z</updated>
-        <content type="html"><![CDATA[302764]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스우파 막방 단체사진]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2251885969</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2251885969"/>
-        <updated>2021-11-24T07:21:56.375Z</updated>
-        <content type="html"><![CDATA[302763]]></content>
     </entry>
 </feed>

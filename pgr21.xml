@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-24T12:36:05.450Z</updated>
+    <updated>2021-11-24T13:27:35.033Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [아이브] 장원영 본인피셜 내 키는 173cm]]></title>
+        <id>https://ppt21.com/spoent/64550?category=2</id>
+        <link href="https://ppt21.com/spoent/64550?category=2"/>
+        <updated>2021-11-24T13:27:25.367Z</updated>
+        <content type="html"><![CDATA[VictoryFood]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 고등학생 박화요비 - LIE 라이브]]></title>
+        <id>https://ppt21.com/spoent/64549?category=2</id>
+        <link href="https://ppt21.com/spoent/64549?category=2"/>
+        <updated>2021-11-24T13:27:25.367Z</updated>
+        <content type="html"><![CDATA[핑크솔져]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 팬한테 좌지우지 당하고 싶지 않던 시크한 가수]]></title>
         <id>https://ppt21.com/spoent/64548?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/64522?category=2"/>
         <updated>2021-11-23T15:24:42.166Z</updated>
         <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 이번주 킬링보이스의 주인공은 바로...]]></title>
-        <id>https://ppt21.com/spoent/64520?category=2</id>
-        <link href="https://ppt21.com/spoent/64520?category=2"/>
-        <updated>2021-11-23T14:21:17.002Z</updated>
-        <content type="html"><![CDATA[insane]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [런닝맨] 이광수님 나갔다고 멤버들에게 신나게 돌려지는 1人]]></title>
-        <id>https://ppt21.com/spoent/64513?category=2</id>
-        <link href="https://ppt21.com/spoent/64513?category=2"/>
-        <updated>2021-11-23T10:25:37.674Z</updated>
-        <content type="html"><![CDATA[A1]]></content>
     </entry>
 </feed>

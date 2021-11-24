@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-24T12:36:05.443Z</updated>
+    <updated>2021-11-24T13:27:35.036Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] [아이브] 장원영 본인피셜 내 키는 173cm (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/64550?category=2</id>
+        <link href="https://ppt21.com/spoent/64550?category=2"/>
+        <updated>2021-11-24T13:27:25.367Z</updated>
+        <content type="html"><![CDATA[VictoryFood]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 고등학생 박화요비 - LIE 라이브 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/64549?category=2</id>
+        <link href="https://ppt21.com/spoent/64549?category=2"/>
+        <updated>2021-11-24T13:27:25.367Z</updated>
+        <content type="html"><![CDATA[핑크솔져]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 팬한테 좌지우지 당하고 싶지 않던 시크한 가수 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/64548?category=2</id>
@@ -124,18 +138,18 @@
         <content type="html"><![CDATA[아롱이다롱이]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[연예] 이번주 킬링보이스의 주인공은 바로... (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/64520?category=2</id>
-        <link href="https://ppt21.com/spoent/64520?category=2"/>
-        <updated>2021-11-23T14:21:17.002Z</updated>
-        <content type="html"><![CDATA[insane]]></content>
+        <title type="html"><![CDATA[19살 때 윤하 vs 34살 현재의 윤하 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2252355297</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2252355297"/>
+        <updated>2021-11-24T13:27:34.363Z</updated>
+        <content type="html"><![CDATA[302784]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[연예] [런닝맨] 이광수님 나갔다고 멤버들에게 신나게 돌려지는 1人 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/64513?category=2</id>
-        <link href="https://ppt21.com/spoent/64513?category=2"/>
-        <updated>2021-11-23T10:25:37.674Z</updated>
-        <content type="html"><![CDATA[A1]]></content>
+        <title type="html"><![CDATA[2021 GQ MEN OF THE YEAR 시상식 #투바투 수상 cut (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2252353210</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2252353210"/>
+        <updated>2021-11-24T13:27:34.369Z</updated>
+        <content type="html"><![CDATA[302783]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아스트로 문빈 트위터 업뎃 (더쿠 ─ 케이돌토크)]]></title>
@@ -262,19 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2251985337"/>
         <updated>2021-11-24T08:27:07.567Z</updated>
         <content type="html"><![CDATA[302765]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쇼챔피언 짹 ❤️MC 딴콩민❤️ (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2251981365</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2251981365"/>
-        <updated>2021-11-24T08:27:07.567Z</updated>
-        <content type="html"><![CDATA[302764]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스우파 막방 단체사진 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2251885969</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2251885969"/>
-        <updated>2021-11-24T07:21:56.375Z</updated>
-        <content type="html"><![CDATA[302763]]></content>
     </entry>
 </feed>
