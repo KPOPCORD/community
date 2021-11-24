@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-24T02:36:35.905Z</updated>
+    <updated>2021-11-24T03:24:04.023Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [런닝맨] 개발모임]]></title>
+        <id>https://ppt21.com/spoent/64530?category=2</id>
+        <link href="https://ppt21.com/spoent/64530?category=2"/>
+        <updated>2021-11-24T03:23:54.063Z</updated>
+        <content type="html"><![CDATA[A1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 온앤오프(ONF) 12월3일 발매예정 미니앨범 6집 트랙리스트]]></title>
         <id>https://ppt21.com/spoent/64528?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64481?category=2"/>
         <updated>2021-11-22T07:21:55.462Z</updated>
         <content type="html"><![CDATA[스위치 메이커]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [속보] BTS, 아시아 가수 최초 'AMA' 대상]]></title>
-        <id>https://ppt21.com/spoent/64472?category=2</id>
-        <link href="https://ppt21.com/spoent/64472?category=2"/>
-        <updated>2021-11-22T04:30:23.910Z</updated>
-        <content type="html"><![CDATA[인증됨]]></content>
     </entry>
 </feed>
