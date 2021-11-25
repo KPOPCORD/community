@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-24T23:24:08.244Z</updated>
+    <updated>2021-11-25T01:12:50.740Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] Ed Sheeran - Shivers (feat. Jessi, SUNMI) (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/64556?category=2</id>
+        <link href="https://ppt21.com/spoent/64556?category=2"/>
+        <updated>2021-11-25T01:12:39.743Z</updated>
+        <content type="html"><![CDATA[어강됴리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 이 형님들 아직도 활동하고 계셨네요... (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/64555?category=2</id>
+        <link href="https://ppt21.com/spoent/64555?category=2"/>
+        <updated>2021-11-25T01:12:39.744Z</updated>
+        <content type="html"><![CDATA[우주전쟁]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 24일자 넷플릭스 월드랭킹 top10 정리 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/64554?category=2</id>
@@ -124,18 +138,18 @@
         <content type="html"><![CDATA[너]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[연예] 싱어게인2 합격자가 공개되었습니다. (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/64531?category=2</id>
-        <link href="https://ppt21.com/spoent/64531?category=2"/>
-        <updated>2021-11-24T04:30:10.138Z</updated>
-        <content type="html"><![CDATA[RefRain]]></content>
+        <title type="html"><![CDATA[[단독] 방탄소년단 뷔, 최우식 주연 '그해 우리는' OST 가창 '찐친 의리' (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2252642728</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2252642728"/>
+        <updated>2021-11-25T01:12:49.974Z</updated>
+        <content type="html"><![CDATA[302792]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[연예] [런닝맨] 개발모임 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/64530?category=2</id>
-        <link href="https://ppt21.com/spoent/64530?category=2"/>
-        <updated>2021-11-24T03:23:54.063Z</updated>
-        <content type="html"><![CDATA[A1]]></content>
+        <title type="html"><![CDATA['2021 MAMA' 에스파→투모로우바이투게더까지..글로벌 대세 아티스트 총출동 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2252640902</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2252640902"/>
+        <updated>2021-11-25T01:12:49.975Z</updated>
+        <content type="html"><![CDATA[302791]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[위키미키 레코딩 메이킹 필름 (더쿠 ─ 케이돌토크)]]></title>
@@ -262,19 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2252151859"/>
         <updated>2021-11-24T10:25:32.956Z</updated>
         <content type="html"><![CDATA[302773]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블랙핑크 리사, 코로나19 확진..."멤버들은 결과 대기 중" (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2252151603</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2252151603"/>
-        <updated>2021-11-24T10:25:32.969Z</updated>
-        <content type="html"><![CDATA[302772]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이기사보면 바뀌는 거리두기 자세히나옴 빠르면 다음주 적용 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2252147270</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2252147270"/>
-        <updated>2021-11-24T10:25:32.970Z</updated>
-        <content type="html"><![CDATA[302771]]></content>
     </entry>
 </feed>

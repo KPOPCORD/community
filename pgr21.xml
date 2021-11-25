@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-24T23:24:08.238Z</updated>
+    <updated>2021-11-25T01:12:50.645Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] Ed Sheeran - Shivers (feat. Jessi, SUNMI)]]></title>
+        <id>https://ppt21.com/spoent/64556?category=2</id>
+        <link href="https://ppt21.com/spoent/64556?category=2"/>
+        <updated>2021-11-25T01:12:39.743Z</updated>
+        <content type="html"><![CDATA[어강됴리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 이 형님들 아직도 활동하고 계셨네요...]]></title>
+        <id>https://ppt21.com/spoent/64555?category=2</id>
+        <link href="https://ppt21.com/spoent/64555?category=2"/>
+        <updated>2021-11-25T01:12:39.744Z</updated>
+        <content type="html"><![CDATA[우주전쟁]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 24일자 넷플릭스 월드랭킹 top10 정리]]></title>
         <id>https://ppt21.com/spoent/64554?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/64532?category=2"/>
         <updated>2021-11-24T04:30:10.126Z</updated>
         <content type="html"><![CDATA[너]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 싱어게인2 합격자가 공개되었습니다.]]></title>
-        <id>https://ppt21.com/spoent/64531?category=2</id>
-        <link href="https://ppt21.com/spoent/64531?category=2"/>
-        <updated>2021-11-24T04:30:10.138Z</updated>
-        <content type="html"><![CDATA[RefRain]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [런닝맨] 개발모임]]></title>
-        <id>https://ppt21.com/spoent/64530?category=2</id>
-        <link href="https://ppt21.com/spoent/64530?category=2"/>
-        <updated>2021-11-24T03:23:54.063Z</updated>
-        <content type="html"><![CDATA[A1]]></content>
     </entry>
 </feed>

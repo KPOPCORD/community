@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2021-11-24T23:24:08.241Z</updated>
+    <updated>2021-11-25T01:12:50.649Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독] 방탄소년단 뷔, 최우식 주연 '그해 우리는' OST 가창 '찐친 의리']]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2252642728</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2252642728"/>
+        <updated>2021-11-25T01:12:49.974Z</updated>
+        <content type="html"><![CDATA[302792]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['2021 MAMA' 에스파→투모로우바이투게더까지..글로벌 대세 아티스트 총출동]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2252640902</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2252640902"/>
+        <updated>2021-11-25T01:12:49.975Z</updated>
+        <content type="html"><![CDATA[302791]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[위키미키 레코딩 메이킹 필름]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2252553707</id>
@@ -130,19 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2252151859"/>
         <updated>2021-11-24T10:25:32.956Z</updated>
         <content type="html"><![CDATA[302773]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블랙핑크 리사, 코로나19 확진..."멤버들은 결과 대기 중"]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2252151603</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2252151603"/>
-        <updated>2021-11-24T10:25:32.969Z</updated>
-        <content type="html"><![CDATA[302772]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이기사보면 바뀌는 거리두기 자세히나옴 빠르면 다음주 적용]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2252147270</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2252147270"/>
-        <updated>2021-11-24T10:25:32.970Z</updated>
-        <content type="html"><![CDATA[302771]]></content>
     </entry>
 </feed>
