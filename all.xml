@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-25T04:30:25.244Z</updated>
+    <updated>2021-11-25T05:21:24.831Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[연예] 키 170cm 몸무게 46kg 이라는 ITZY 유나 (Pgr21 ─ 연예)]]></title>
@@ -138,6 +138,20 @@
         <content type="html"><![CDATA[Leeka]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[투바투 범규 트윗 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2252937172</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2252937172"/>
+        <updated>2021-11-25T05:21:24.160Z</updated>
+        <content type="html"><![CDATA[302796]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[더 블랙 스커트x웬디 12월 1일 신곡 공항로 티저 이미지 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2252905773</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2252905773"/>
+        <updated>2021-11-25T05:21:24.162Z</updated>
+        <content type="html"><![CDATA[302795]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[투바투 연준 틱톡 (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2252862753</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2252862753"/>
@@ -262,19 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2252355297"/>
         <updated>2021-11-24T13:27:34.363Z</updated>
         <content type="html"><![CDATA[302777]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 GQ MEN OF THE YEAR 시상식 #투바투 수상 cut (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2252353210</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2252353210"/>
-        <updated>2021-11-24T13:27:34.369Z</updated>
-        <content type="html"><![CDATA[302776]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아스트로 문빈 트위터 업뎃 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2252287080</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2252287080"/>
-        <updated>2021-11-24T12:36:04.770Z</updated>
-        <content type="html"><![CDATA[302775]]></content>
     </entry>
 </feed>
