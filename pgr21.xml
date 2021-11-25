@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-25T21:19:57.303Z</updated>
+    <updated>2021-11-25T22:22:51.214Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 25일자 넷플릭스 월드랭킹 top10 정리]]></title>
+        <id>https://ppt21.com/spoent/64575?category=2</id>
+        <link href="https://ppt21.com/spoent/64575?category=2"/>
+        <updated>2021-11-25T22:22:40.485Z</updated>
+        <content type="html"><![CDATA[아롱이다롱이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [JYPN] Survivor Cover | QUALIFYING (릴리 해원)]]></title>
         <id>https://ppt21.com/spoent/64572?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64547?category=2"/>
         <updated>2021-11-24T11:18:54.666Z</updated>
         <content type="html"><![CDATA[집으로돌아가야해]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [트와이스] 2022 시즌 그리팅 티저 + M/V 비하인드 #2]]></title>
-        <id>https://ppt21.com/spoent/64546?category=2</id>
-        <link href="https://ppt21.com/spoent/64546?category=2"/>
-        <updated>2021-11-24T10:25:23.696Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
