@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2021-11-25T11:19:37.814Z</updated>
+    <updated>2021-11-25T12:36:19.820Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[EN-O'CLOCK] 엔하이픈 EPISODE 17 엔하-마블 의 결과는? 🎲]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2253379559</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2253379559"/>
+        <updated>2021-11-25T12:36:18.993Z</updated>
+        <content type="html"><![CDATA[302809]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[씨아이엑스 승훈 트위터 업뎃💛 (영상 편집)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2253353730</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2253353730"/>
+        <updated>2021-11-25T12:36:18.995Z</updated>
+        <content type="html"><![CDATA[302808]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뉴이스트 황민현 Why don't we - 8 letters 커버]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2253313012</id>
@@ -130,19 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2252737933"/>
         <updated>2021-11-25T02:36:32.117Z</updated>
         <content type="html"><![CDATA[302790]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독] 방탄소년단 뷔, 최우식 주연 '그해 우리는' OST 가창 '찐친 의리']]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2252642728</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2252642728"/>
-        <updated>2021-11-25T01:12:49.974Z</updated>
-        <content type="html"><![CDATA[302789]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['2021 MAMA' 에스파→투모로우바이투게더까지..글로벌 대세 아티스트 총출동]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2252640902</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2252640902"/>
-        <updated>2021-11-25T01:12:49.975Z</updated>
-        <content type="html"><![CDATA[302788]]></content>
     </entry>
 </feed>
