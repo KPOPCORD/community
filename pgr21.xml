@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-25T14:21:53.289Z</updated>
+    <updated>2021-11-25T15:25:07.522Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [JYPN] Survivor Cover | QUALIFYING (릴리 해원)]]></title>
+        <id>https://ppt21.com/spoent/64572?category=2</id>
+        <link href="https://ppt21.com/spoent/64572?category=2"/>
+        <updated>2021-11-25T15:24:51.329Z</updated>
+        <content type="html"><![CDATA[TWICE쯔위]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 음악중심 야외무대 레전드들]]></title>
+        <id>https://ppt21.com/spoent/64571?category=2</id>
+        <link href="https://ppt21.com/spoent/64571?category=2"/>
+        <updated>2021-11-25T15:24:51.329Z</updated>
+        <content type="html"><![CDATA[한국화약주식회사]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 아이브 IVE THE 1st SINGLE ALBUM <ELEVEN> CONCEPT PHOTO 단체사진]]></title>
+        <id>https://ppt21.com/spoent/64570?category=2</id>
+        <link href="https://ppt21.com/spoent/64570?category=2"/>
+        <updated>2021-11-25T15:24:51.329Z</updated>
+        <content type="html"><![CDATA[아롱이다롱이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] Tokopedia 인도네시아 케이팝 어워드 걸그룹 무대 모음]]></title>
+        <id>https://ppt21.com/spoent/64569?category=2</id>
+        <link href="https://ppt21.com/spoent/64569?category=2"/>
+        <updated>2021-11-25T15:24:51.329Z</updated>
+        <content type="html"><![CDATA[발적화]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 일반인 가요제 무대 레전드]]></title>
         <id>https://ppt21.com/spoent/64567?category=2</id>
@@ -109,33 +137,5 @@
         <link href="https://ppt21.com/spoent/64546?category=2"/>
         <updated>2021-11-24T10:25:23.696Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 동양인이 밥 먹을 때 젓가락만 쓴다고 생각하는 것은 인종차별이야]]></title>
-        <id>https://ppt21.com/spoent/64545?category=2</id>
-        <link href="https://ppt21.com/spoent/64545?category=2"/>
-        <updated>2021-11-24T10:25:23.696Z</updated>
-        <content type="html"><![CDATA[너]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [슈카월드] 나작슈를 돌려줘요 (feat. 윤하)]]></title>
-        <id>https://ppt21.com/spoent/64544?category=2</id>
-        <link href="https://ppt21.com/spoent/64544?category=2"/>
-        <updated>2021-11-24T10:25:23.698Z</updated>
-        <content type="html"><![CDATA[A1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 타로점 결과 연애운이 죽었다는 배성재]]></title>
-        <id>https://ppt21.com/spoent/64542?category=2</id>
-        <link href="https://ppt21.com/spoent/64542?category=2"/>
-        <updated>2021-11-24T09:23:30.273Z</updated>
-        <content type="html"><![CDATA[강가딘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [공식] 넷플릭스 tv 누적 시청시간 Top100 (feat.오징어게임의 위엄)]]></title>
-        <id>https://ppt21.com/spoent/64537?category=2</id>
-        <link href="https://ppt21.com/spoent/64537?category=2"/>
-        <updated>2021-11-24T06:27:36.194Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
     </entry>
 </feed>
