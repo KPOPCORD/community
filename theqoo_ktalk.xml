@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2021-11-25T10:25:39.076Z</updated>
+    <updated>2021-11-25T11:19:37.814Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뉴이스트 황민현 Why don't we - 8 letters 커버]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2253313012</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2253313012"/>
+        <updated>2021-11-25T11:19:37.035Z</updated>
+        <content type="html"><![CDATA[302807]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엔하이픈 정원 위버스 포스트 ✌]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2253310775</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2253310775"/>
+        <updated>2021-11-25T11:19:37.037Z</updated>
+        <content type="html"><![CDATA[302806]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[벨망진창 벨벨랜드] Episode.34 쉽지 않네... 고전 예능 게임은 게임일 뿐이야!]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2253307216</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2253307216"/>
+        <updated>2021-11-25T11:19:37.038Z</updated>
+        <content type="html"><![CDATA[302805]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박우진 멤트업 에비뉴 빨리 만나고싶당! 🐦🌸🌺🌼]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2253245302</id>
@@ -123,26 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2252640902"/>
         <updated>2021-11-25T01:12:49.975Z</updated>
         <content type="html"><![CDATA[302788]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[위키미키 레코딩 메이킹 필름]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2252553707</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2252553707"/>
-        <updated>2021-11-24T17:27:55.240Z</updated>
-        <content type="html"><![CDATA[302787]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[온앤오프(ONF) 6TH MINI ALBUM [Goosebumps] ♾SPACETIME:PHOTOⅢ]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2252487679</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2252487679"/>
-        <updated>2021-11-24T15:25:07.327Z</updated>
-        <content type="html"><![CDATA[302786]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stray Kids(스트레이 키즈) <Christmas EveL> UNVEIL : TRACK “24 to 25”]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2252473129</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2252473129"/>
-        <updated>2021-11-24T15:25:07.329Z</updated>
-        <content type="html"><![CDATA[302785]]></content>
     </entry>
 </feed>

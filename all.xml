@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-25T10:25:39.080Z</updated>
+    <updated>2021-11-25T11:19:37.830Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[연예] 자, 한 달 후면 공개다... (Pgr21 ─ 연예)]]></title>
@@ -138,6 +138,27 @@
         <content type="html"><![CDATA[아롱이다롱이]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[뉴이스트 황민현 Why don't we - 8 letters 커버 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2253313012</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2253313012"/>
+        <updated>2021-11-25T11:19:37.035Z</updated>
+        <content type="html"><![CDATA[302807]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엔하이픈 정원 위버스 포스트 ✌ (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2253310775</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2253310775"/>
+        <updated>2021-11-25T11:19:37.037Z</updated>
+        <content type="html"><![CDATA[302806]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[벨망진창 벨벨랜드] Episode.34 쉽지 않네... 고전 예능 게임은 게임일 뿐이야! (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2253307216</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2253307216"/>
+        <updated>2021-11-25T11:19:37.038Z</updated>
+        <content type="html"><![CDATA[302805]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[박우진 멤트업 에비뉴 빨리 만나고싶당! 🐦🌸🌺🌼 (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2253245302</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2253245302"/>
@@ -255,26 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2252640902"/>
         <updated>2021-11-25T01:12:49.975Z</updated>
         <content type="html"><![CDATA[302788]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[위키미키 레코딩 메이킹 필름 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2252553707</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2252553707"/>
-        <updated>2021-11-24T17:27:55.240Z</updated>
-        <content type="html"><![CDATA[302787]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[온앤오프(ONF) 6TH MINI ALBUM [Goosebumps] ♾SPACETIME:PHOTOⅢ (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2252487679</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2252487679"/>
-        <updated>2021-11-24T15:25:07.327Z</updated>
-        <content type="html"><![CDATA[302786]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stray Kids(스트레이 키즈) <Christmas EveL> UNVEIL : TRACK “24 to 25” (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2252473129</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2252473129"/>
-        <updated>2021-11-24T15:25:07.329Z</updated>
-        <content type="html"><![CDATA[302785]]></content>
     </entry>
 </feed>
