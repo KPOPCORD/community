@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-25T12:36:19.806Z</updated>
+    <updated>2021-11-25T13:27:53.010Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 일반인 가요제 무대 레전드]]></title>
+        <id>https://ppt21.com/spoent/64567?category=2</id>
+        <link href="https://ppt21.com/spoent/64567?category=2"/>
+        <updated>2021-11-25T13:27:42.488Z</updated>
+        <content type="html"><![CDATA[나스닥]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 자, 한 달 후면 공개다...]]></title>
         <id>https://ppt21.com/spoent/64563?category=2</id>
@@ -129,13 +136,6 @@
         <id>https://ppt21.com/spoent/64537?category=2</id>
         <link href="https://ppt21.com/spoent/64537?category=2"/>
         <updated>2021-11-24T06:27:36.194Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 넷플릭스 오리지널 한국 컨텐츠 공개예정일]]></title>
-        <id>https://ppt21.com/spoent/64536?category=2</id>
-        <link href="https://ppt21.com/spoent/64536?category=2"/>
-        <updated>2021-11-24T06:27:36.196Z</updated>
         <content type="html"><![CDATA[아롱이다롱이]]></content>
     </entry>
 </feed>

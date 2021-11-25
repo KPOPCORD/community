@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-25T12:36:19.817Z</updated>
+    <updated>2021-11-25T13:27:53.014Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] 일반인 가요제 무대 레전드 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/64567?category=2</id>
+        <link href="https://ppt21.com/spoent/64567?category=2"/>
+        <updated>2021-11-25T13:27:42.488Z</updated>
+        <content type="html"><![CDATA[나스닥]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 자, 한 달 후면 공개다... (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/64563?category=2</id>
@@ -131,11 +138,18 @@
         <content type="html"><![CDATA[아롱이다롱이]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[연예] 넷플릭스 오리지널 한국 컨텐츠 공개예정일 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/64536?category=2</id>
-        <link href="https://ppt21.com/spoent/64536?category=2"/>
-        <updated>2021-11-24T06:27:36.196Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
+        <title type="html"><![CDATA[더보이즈 현재 위더보 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2253463396</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2253463396"/>
+        <updated>2021-11-25T13:27:52.270Z</updated>
+        <content type="html"><![CDATA[302811]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[투바투 태현 트윗 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2253440254</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2253440254"/>
+        <updated>2021-11-25T13:27:52.272Z</updated>
+        <content type="html"><![CDATA[302810]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[EN-O'CLOCK] 엔하이픈 EPISODE 17 엔하-마블 의 결과는? 🎲 (더쿠 ─ 케이돌토크)]]></title>
@@ -262,19 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2252822152"/>
         <updated>2021-11-25T03:25:15.460Z</updated>
         <content type="html"><![CDATA[302792]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[투바투 GQ JAPAN 2022 1•2월호 화보 <GQ MEN OF THE YEAR 2021> 팝 아이콘 상 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2252773858</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2252773858"/>
-        <updated>2021-11-25T02:36:32.116Z</updated>
-        <content type="html"><![CDATA[302791]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VOGUE 12월호 미리보기 투바투 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2252737933</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2252737933"/>
-        <updated>2021-11-25T02:36:32.117Z</updated>
-        <content type="html"><![CDATA[302790]]></content>
     </entry>
 </feed>

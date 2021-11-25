@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2021-11-25T12:36:19.820Z</updated>
+    <updated>2021-11-25T13:27:53.013Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[더보이즈 현재 위더보]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2253463396</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2253463396"/>
+        <updated>2021-11-25T13:27:52.270Z</updated>
+        <content type="html"><![CDATA[302811]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[투바투 태현 트윗]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2253440254</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2253440254"/>
+        <updated>2021-11-25T13:27:52.272Z</updated>
+        <content type="html"><![CDATA[302810]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[EN-O'CLOCK] 엔하이픈 EPISODE 17 엔하-마블 의 결과는? 🎲]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2253379559</id>
@@ -130,19 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2252822152"/>
         <updated>2021-11-25T03:25:15.460Z</updated>
         <content type="html"><![CDATA[302792]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[투바투 GQ JAPAN 2022 1•2월호 화보 <GQ MEN OF THE YEAR 2021> 팝 아이콘 상]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2252773858</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2252773858"/>
-        <updated>2021-11-25T02:36:32.116Z</updated>
-        <content type="html"><![CDATA[302791]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VOGUE 12월호 미리보기 투바투]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2252737933</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2252737933"/>
-        <updated>2021-11-25T02:36:32.117Z</updated>
-        <content type="html"><![CDATA[302790]]></content>
     </entry>
 </feed>
