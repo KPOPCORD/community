@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-26T03:24:14.847Z</updated>
+    <updated>2021-11-26T04:30:26.834Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[연예] 고요의 바다 티저 (Pgr21 ─ 연예)]]></title>
@@ -138,6 +138,13 @@
         <content type="html"><![CDATA[길갈]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[2022 빅톤 SEASON'S GREETINGS [After The HAPPY VICTON DAY] TEASER (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2254028259</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2254028259"/>
+        <updated>2021-11-26T04:30:26.098Z</updated>
+        <content type="html"><![CDATA[302813]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[VOGUE 투모로우바이투게더(TXT)가 지금 빠져 있는 세계 (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2253961513</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2253961513"/>
@@ -269,12 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2253531066"/>
         <updated>2021-11-25T14:21:52.455Z</updated>
         <content type="html"><![CDATA[302794]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IVE THE 1st SINGLE ALBUM <ELEVEN> CONCEPT PHOTO #4 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2253515741</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2253515741"/>
-        <updated>2021-11-25T14:21:52.455Z</updated>
-        <content type="html"><![CDATA[302793]]></content>
     </entry>
 </feed>
