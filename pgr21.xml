@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-26T13:27:46.334Z</updated>
+    <updated>2021-11-26T14:21:10.095Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 제42회 청룡영화상 결과 (최우수작품상 '모가디슈')]]></title>
+        <id>https://ppt21.com/spoent/64590?category=2</id>
+        <link href="https://ppt21.com/spoent/64590?category=2"/>
+        <updated>2021-11-26T14:21:00.352Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 청룡영화상 시상자 선정에 항의하는 류승완 감독.gfy]]></title>
+        <id>https://ppt21.com/spoent/64589?category=2</id>
+        <link href="https://ppt21.com/spoent/64589?category=2"/>
+        <updated>2021-11-26T14:21:00.352Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [아이유] 드디어 중단발로 자른 아이유.insta + 꿈빛파티시엘 챌린지]]></title>
         <id>https://ppt21.com/spoent/64585?category=2</id>
@@ -122,20 +136,6 @@
         <id>https://ppt21.com/spoent/64554?category=2</id>
         <link href="https://ppt21.com/spoent/64554?category=2"/>
         <updated>2021-11-24T21:19:29.082Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 대낮에 LA 도로 점거하는 한국의 청년들]]></title>
-        <id>https://ppt21.com/spoent/64553?category=2</id>
-        <link href="https://ppt21.com/spoent/64553?category=2"/>
-        <updated>2021-11-24T15:24:56.714Z</updated>
-        <content type="html"><![CDATA[style]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 아이브 IVE THE 1st SINGLE ALBUM <ELEVEN> CONCEPT PHOTO  리즈 / 이서]]></title>
-        <id>https://ppt21.com/spoent/64552?category=2</id>
-        <link href="https://ppt21.com/spoent/64552?category=2"/>
-        <updated>2021-11-24T14:21:17.207Z</updated>
         <content type="html"><![CDATA[아롱이다롱이]]></content>
     </entry>
 </feed>
