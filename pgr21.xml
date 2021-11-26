@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-26T08:27:18.042Z</updated>
+    <updated>2021-11-26T09:25:19.003Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [아이유] 드디어 중단발로 자른 아이유.insta]]></title>
+        <id>https://ppt21.com/spoent/64585?category=2</id>
+        <link href="https://ppt21.com/spoent/64585?category=2"/>
+        <updated>2021-11-26T09:25:07.141Z</updated>
+        <content type="html"><![CDATA[VictoryFood]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 자우림 정규11집 타이틀곡 'STAY WITH ME' M/V]]></title>
+        <id>https://ppt21.com/spoent/64584?category=2</id>
+        <link href="https://ppt21.com/spoent/64584?category=2"/>
+        <updated>2021-11-26T09:25:07.141Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] OTT 작품, 청룡영화상 최초 노미네이트 "경계 넘어 더 넓은 곳으로"]]></title>
         <id>https://ppt21.com/spoent/64583?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/64552?category=2"/>
         <updated>2021-11-24T14:21:17.207Z</updated>
         <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [에이핑크] 창립한지 10년도 넘었는데 처음 해보는게 너무 많은 회사]]></title>
-        <id>https://ppt21.com/spoent/64551?category=2</id>
-        <link href="https://ppt21.com/spoent/64551?category=2"/>
-        <updated>2021-11-24T14:21:17.208Z</updated>
-        <content type="html"><![CDATA[무적LG오지환]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [아이브] 장원영 본인피셜 내 키는 173cm]]></title>
-        <id>https://ppt21.com/spoent/64550?category=2</id>
-        <link href="https://ppt21.com/spoent/64550?category=2"/>
-        <updated>2021-11-24T13:27:25.367Z</updated>
-        <content type="html"><![CDATA[VictoryFood]]></content>
     </entry>
 </feed>

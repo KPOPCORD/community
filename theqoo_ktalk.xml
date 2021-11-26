@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2021-11-26T08:27:18.059Z</updated>
+    <updated>2021-11-26T09:25:19.006Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[Teaser] 양요섭 - 첫눈(First snow) | 조영수 리메이크 프로젝트 Part.1]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2254349171</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2254349171"/>
+        <updated>2021-11-26T09:25:18.176Z</updated>
+        <content type="html"><![CDATA[302825]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[방탄 지민 위버스 글에 제이홉 댓글 ㅋㅋ]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2254332048</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2254332048"/>
+        <updated>2021-11-26T09:25:18.177Z</updated>
+        <content type="html"><![CDATA[302824]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[방탄 지민 위버스 업뎃 3 (+ 알엠 모먼트에 댓글)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2254300725</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2254300725"/>
+        <updated>2021-11-26T09:25:18.178Z</updated>
+        <content type="html"><![CDATA[302823]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[방탄밤] 다시 한번! 방탄소년단에게 찾아온 그래미 어워드 수상 재도전의 기회! 🧈💛🎉 노미네이션 발표의 순간을 방탄이들 모두가 함께했습니다 🥂 #아미여러분들덕분이에요]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2254264468</id>
@@ -123,26 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2253766627"/>
         <updated>2021-11-25T23:23:11.758Z</updated>
         <content type="html"><![CDATA[302806]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에이티즈 우영 트위터 업데이트! 호랑이 커버🐯]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2253650883</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2253650883"/>
-        <updated>2021-11-25T16:35:43.789Z</updated>
-        <content type="html"><![CDATA[302805]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stray Kids(스트레이 키즈) Holiday Special Single <Christmas EveL> TEASER IMAGE]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2253607786</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2253607786"/>
-        <updated>2021-11-25T15:25:06.799Z</updated>
-        <content type="html"><![CDATA[302804]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이브 'ELEVEN' 작곡진 참여곡 찾아봄]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2253606570</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2253606570"/>
-        <updated>2021-11-25T15:25:06.801Z</updated>
-        <content type="html"><![CDATA[302803]]></content>
     </entry>
 </feed>
