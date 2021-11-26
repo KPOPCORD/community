@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2021-11-26T09:25:19.006Z</updated>
+    <updated>2021-11-26T10:26:03.807Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[아이유 유튜브 700만 구독자 달성 기념 🎉'꿈빛 파티시엘' 라이브 클립]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2254391827</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2254391827"/>
+        <updated>2021-11-26T10:26:02.916Z</updated>
+        <content type="html"><![CDATA[302826]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Teaser] 양요섭 - 첫눈(First snow) | 조영수 리메이크 프로젝트 Part.1]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2254349171</id>
@@ -137,12 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2253767919"/>
         <updated>2021-11-25T23:23:11.757Z</updated>
         <content type="html"><![CDATA[302807]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴이스트, 오늘(26일) 오프라인 콘서트 '더 블랙' 포문]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2253766627</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2253766627"/>
-        <updated>2021-11-25T23:23:11.758Z</updated>
-        <content type="html"><![CDATA[302806]]></content>
     </entry>
 </feed>
