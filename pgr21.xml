@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-26T20:23:53.114Z</updated>
+    <updated>2021-11-26T21:21:00.642Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 26일자 넷플릭스 월드랭킹 top10 정리]]></title>
+        <id>https://ppt21.com/spoent/64594?category=2</id>
+        <link href="https://ppt21.com/spoent/64594?category=2"/>
+        <updated>2021-11-26T21:20:50.182Z</updated>
+        <content type="html"><![CDATA[아롱이다롱이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 제42회 청룡영화상 결과 (최우수작품상 '모가디슈')]]></title>
         <id>https://ppt21.com/spoent/64590?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64555?category=2"/>
         <updated>2021-11-25T01:12:39.744Z</updated>
         <content type="html"><![CDATA[우주전쟁]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 24일자 넷플릭스 월드랭킹 top10 정리]]></title>
-        <id>https://ppt21.com/spoent/64554?category=2</id>
-        <link href="https://ppt21.com/spoent/64554?category=2"/>
-        <updated>2021-11-24T21:19:29.082Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
     </entry>
 </feed>
