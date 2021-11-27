@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2021-11-27T06:27:21.681Z</updated>
+    <updated>2021-11-27T07:21:16.311Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[투바투 휴닝카이 트윗(1000DayWithTXT)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2255159461</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2255159461"/>
+        <updated>2021-11-27T07:21:15.539Z</updated>
+        <content type="html"><![CDATA[302848]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[위키미키 엘리&루시, 아스트로 문빈&윤산하 시에스타 챌린지]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2255106289</id>
@@ -137,12 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2254445484"/>
         <updated>2021-11-26T11:19:52.174Z</updated>
         <content type="html"><![CDATA[302829]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박우진 인스타🐦💕 (일본데뷔~~! 열심히해보쟈~~!)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2254445410</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2254445410"/>
-        <updated>2021-11-26T11:19:52.177Z</updated>
-        <content type="html"><![CDATA[302828]]></content>
     </entry>
 </feed>
