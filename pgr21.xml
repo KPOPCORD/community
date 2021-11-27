@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-27T10:24:44.121Z</updated>
+    <updated>2021-11-27T11:18:55.124Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 포춘 "한국 문화는 어떻게 세계적인 문화강국이 되었는가"]]></title>
+        <id>https://ppt21.com/spoent/64604?category=2</id>
+        <link href="https://ppt21.com/spoent/64604?category=2"/>
+        <updated>2021-11-27T11:18:44.524Z</updated>
+        <content type="html"><![CDATA[핑크솔져]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [쇼미더머니]  비오가 모든 논란을 잠재우며 우승하는 방법]]></title>
         <id>https://ppt21.com/spoent/64599?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64567?category=2"/>
         <updated>2021-11-25T13:27:42.488Z</updated>
         <content type="html"><![CDATA[나스닥]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 자, 한 달 후면 공개다...]]></title>
-        <id>https://ppt21.com/spoent/64563?category=2</id>
-        <link href="https://ppt21.com/spoent/64563?category=2"/>
-        <updated>2021-11-25T06:27:53.071Z</updated>
-        <content type="html"><![CDATA[우주전쟁]]></content>
     </entry>
 </feed>
