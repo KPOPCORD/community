@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-27T22:11:50.569Z</updated>
+    <updated>2021-11-27T23:45:20.732Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] 놀면 뭐하니+ 하면서 노래실력 뽐내는 미주 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/64612?category=2</id>
+        <link href="https://ppt21.com/spoent/64612?category=2"/>
+        <updated>2021-11-27T23:45:09.198Z</updated>
+        <content type="html"><![CDATA[강가딘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 윤하가 말해주는 오르트구름 노래 설명.ytb (feat.슈카) (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/64611?category=2</id>
@@ -129,13 +136,6 @@
         <link href="https://ppt21.com/spoent/64575?category=2"/>
         <updated>2021-11-25T22:22:40.485Z</updated>
         <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [JYPN] Survivor Cover | QUALIFYING (릴리 해원) (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/64572?category=2</id>
-        <link href="https://ppt21.com/spoent/64572?category=2"/>
-        <updated>2021-11-25T15:24:51.329Z</updated>
-        <content type="html"><![CDATA[TWICE쯔위]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[WOODZ(우즈 조승연) ON THE K V Dium Stage Behind film (더쿠 ─ 케이돌토크)]]></title>

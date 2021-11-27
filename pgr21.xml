@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-27T22:12:20.623Z</updated>
+    <updated>2021-11-27T23:45:20.749Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 놀면 뭐하니+ 하면서 노래실력 뽐내는 미주]]></title>
+        <id>https://ppt21.com/spoent/64612?category=2</id>
+        <link href="https://ppt21.com/spoent/64612?category=2"/>
+        <updated>2021-11-27T23:45:09.198Z</updated>
+        <content type="html"><![CDATA[강가딘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 윤하가 말해주는 오르트구름 노래 설명.ytb (feat.슈카)]]></title>
         <id>https://ppt21.com/spoent/64611?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64575?category=2"/>
         <updated>2021-11-27T22:11:37.178Z</updated>
         <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [JYPN] Survivor Cover | QUALIFYING (릴리 해원)]]></title>
-        <id>https://ppt21.com/spoent/64572?category=2</id>
-        <link href="https://ppt21.com/spoent/64572?category=2"/>
-        <updated>2021-11-27T22:11:37.189Z</updated>
-        <content type="html"><![CDATA[TWICE쯔위]]></content>
     </entry>
 </feed>
