@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-27T15:24:00.190Z</updated>
+    <updated>2021-11-27T16:34:11.730Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 개그콘서트의 부활을 꿈꾸는 KBS의 새 개그프로]]></title>
+        <id>https://ppt21.com/spoent/64608?category=2</id>
+        <link href="https://ppt21.com/spoent/64608?category=2"/>
+        <updated>2021-11-27T16:34:01.594Z</updated>
+        <content type="html"><![CDATA[빼사스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 피의게임 5회 선공개가 내일로 연기되었습니다.]]></title>
         <id>https://ppt21.com/spoent/64606?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64570?category=2"/>
         <updated>2021-11-25T15:24:51.329Z</updated>
         <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] Tokopedia 인도네시아 케이팝 어워드 걸그룹 무대 모음]]></title>
-        <id>https://ppt21.com/spoent/64569?category=2</id>
-        <link href="https://ppt21.com/spoent/64569?category=2"/>
-        <updated>2021-11-25T15:24:51.329Z</updated>
-        <content type="html"><![CDATA[발적화]]></content>
     </entry>
 </feed>
