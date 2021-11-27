@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-27T11:18:55.124Z</updated>
+    <updated>2021-11-27T12:34:48.429Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[연예] 포춘 "한국 문화는 어떻게 세계적인 문화강국이 되었는가"]]></title>
+        <title type="html"><![CDATA[[연예] 피의게임 5회 선공개가 내일로 연기되었습니다.]]></title>
+        <id>https://ppt21.com/spoent/64606?category=2</id>
+        <link href="https://ppt21.com/spoent/64606?category=2"/>
+        <updated>2021-11-27T12:34:37.879Z</updated>
+        <content type="html"><![CDATA[달리와]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 포춘 "한국은 어떻게 세계적인 문화강국이 되었는가"]]></title>
         <id>https://ppt21.com/spoent/64604?category=2</id>
         <link href="https://ppt21.com/spoent/64604?category=2"/>
         <updated>2021-11-27T11:18:44.524Z</updated>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64569?category=2"/>
         <updated>2021-11-25T15:24:51.329Z</updated>
         <content type="html"><![CDATA[발적화]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 일반인 가요제 무대 레전드]]></title>
-        <id>https://ppt21.com/spoent/64567?category=2</id>
-        <link href="https://ppt21.com/spoent/64567?category=2"/>
-        <updated>2021-11-25T13:27:42.488Z</updated>
-        <content type="html"><![CDATA[나스닥]]></content>
     </entry>
 </feed>
