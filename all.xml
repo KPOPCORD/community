@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-27T20:23:12.386Z</updated>
+    <updated>2021-11-27T22:11:50.569Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] 윤하가 말해주는 오르트구름 노래 설명.ytb (feat.슈카) (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/64611?category=2</id>
+        <link href="https://ppt21.com/spoent/64611?category=2"/>
+        <updated>2021-11-27T22:11:37.142Z</updated>
+        <content type="html"><![CDATA[VictoryFood]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 27일자 넷플릭스 월드랭킹 top10 정리 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/64610?category=2</id>
+        <link href="https://ppt21.com/spoent/64610?category=2"/>
+        <updated>2021-11-27T22:11:37.145Z</updated>
+        <content type="html"><![CDATA[아롱이다롱이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 개그콘서트의 부활을 꿈꾸는 KBS의 새 개그프로 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/64608?category=2</id>
@@ -122,20 +136,6 @@
         <link href="https://ppt21.com/spoent/64572?category=2"/>
         <updated>2021-11-25T15:24:51.329Z</updated>
         <content type="html"><![CDATA[TWICE쯔위]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 음악중심 야외무대 레전드들 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/64571?category=2</id>
-        <link href="https://ppt21.com/spoent/64571?category=2"/>
-        <updated>2021-11-25T15:24:51.329Z</updated>
-        <content type="html"><![CDATA[한국화약주식회사]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 아이브 IVE THE 1st SINGLE ALBUM <ELEVEN> CONCEPT PHOTO 단체사진 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/64570?category=2</id>
-        <link href="https://ppt21.com/spoent/64570?category=2"/>
-        <updated>2021-11-25T15:24:51.329Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[WOODZ(우즈 조승연) ON THE K V Dium Stage Behind film (더쿠 ─ 케이돌토크)]]></title>
