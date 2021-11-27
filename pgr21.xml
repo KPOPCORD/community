@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-27T03:23:43.124Z</updated>
+    <updated>2021-11-27T04:30:09.243Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 마블 페이즈4 신규 출연진의 희망.jpg]]></title>
+        <id>https://ppt21.com/spoent/64596?category=2</id>
+        <link href="https://ppt21.com/spoent/64596?category=2"/>
+        <updated>2021-11-27T04:29:59.735Z</updated>
+        <content type="html"><![CDATA[하우스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] [트와이스] 크라임씬 시즌2 티저외 사진, 움짤 (데이터주의)]]></title>
+        <id>https://ppt21.com/spoent/64595?category=2</id>
+        <link href="https://ppt21.com/spoent/64595?category=2"/>
+        <updated>2021-11-27T04:29:59.736Z</updated>
+        <content type="html"><![CDATA[그10번]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 26일자 넷플릭스 월드랭킹 top10 정리]]></title>
         <id>https://ppt21.com/spoent/64594?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/64557?category=2"/>
         <updated>2021-11-25T02:36:23.542Z</updated>
         <content type="html"><![CDATA[insane]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] Ed Sheeran - Shivers (feat. Jessi, SUNMI)]]></title>
-        <id>https://ppt21.com/spoent/64556?category=2</id>
-        <link href="https://ppt21.com/spoent/64556?category=2"/>
-        <updated>2021-11-25T01:12:39.743Z</updated>
-        <content type="html"><![CDATA[어강됴리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 이 형님들 아직도 활동하고 계셨네요...]]></title>
-        <id>https://ppt21.com/spoent/64555?category=2</id>
-        <link href="https://ppt21.com/spoent/64555?category=2"/>
-        <updated>2021-11-25T01:12:39.744Z</updated>
-        <content type="html"><![CDATA[우주전쟁]]></content>
     </entry>
 </feed>
