@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2021-11-28T04:31:17.168Z</updated>
+    <updated>2021-11-28T05:20:10.690Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뉴이스트 콘서트 211127 BLACK JR(뉴종현) focus 4k full]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2256086945</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2256086945"/>
+        <updated>2021-11-28T05:20:09.945Z</updated>
+        <content type="html"><![CDATA[302875]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[실시간 방탄 정국 의상]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2256053339</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2256053339"/>
+        <updated>2021-11-28T05:20:09.946Z</updated>
+        <content type="html"><![CDATA[302874]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[방탄 알엠의 LA 콘서트 첫인사 "BTS is officially BACK!!!!"]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2256040066</id>
@@ -130,19 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2255420932"/>
         <updated>2021-11-27T12:34:47.616Z</updated>
         <content type="html"><![CDATA[302856]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[투바투 연준 트윗 (데뷔 1000일)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2255419857</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2255419857"/>
-        <updated>2021-11-27T12:34:47.617Z</updated>
-        <content type="html"><![CDATA[302855]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[CIX VLOG] 배배🐱의 일상 로그]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2255365472</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2255365472"/>
-        <updated>2021-11-27T11:18:54.328Z</updated>
-        <content type="html"><![CDATA[302854]]></content>
     </entry>
 </feed>
