@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-27T23:45:20.732Z</updated>
+    <updated>2021-11-28T01:12:31.344Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] 쇼미더머니 세미파이널 불협화음 (Feat.악동뮤지션) (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/64613?category=2</id>
+        <link href="https://ppt21.com/spoent/64613?category=2"/>
+        <updated>2021-11-28T01:12:20.705Z</updated>
+        <content type="html"><![CDATA[핑크솔져]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 놀면 뭐하니+ 하면서 노래실력 뽐내는 미주 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/64612?category=2</id>
@@ -131,11 +138,18 @@
         <content type="html"><![CDATA[어강됴리]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[연예] 25일자 넷플릭스 월드랭킹 top10 정리 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/64575?category=2</id>
-        <link href="https://ppt21.com/spoent/64575?category=2"/>
-        <updated>2021-11-25T22:22:40.485Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
+        <title type="html"><![CDATA[[단독] 아이브 안유진, '전참시' 뜬다…스튜디오 출연 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2255894422</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2255894422"/>
+        <updated>2021-11-28T01:12:30.586Z</updated>
+        <content type="html"><![CDATA[302867]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뉴이스트 콘서트 뉴종현 개인솔로곡 Doom Doom 직캠(4K) (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2255854211</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2255854211"/>
+        <updated>2021-11-28T01:12:30.595Z</updated>
+        <content type="html"><![CDATA[302866]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[WOODZ(우즈 조승연) ON THE K V Dium Stage Behind film (더쿠 ─ 케이돌토크)]]></title>
@@ -262,19 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2255204840"/>
         <updated>2021-11-27T08:27:00.573Z</updated>
         <content type="html"><![CDATA[302848]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[씨제스에서 남자 아이돌 키우는듯? (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2255200244</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2255200244"/>
-        <updated>2021-11-27T08:27:00.574Z</updated>
-        <content type="html"><![CDATA[302847]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[투바투 휴닝카이 트윗(1000DaysWithTXT) (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2255159461</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2255159461"/>
-        <updated>2021-11-27T07:21:15.539Z</updated>
-        <content type="html"><![CDATA[302846]]></content>
     </entry>
 </feed>
