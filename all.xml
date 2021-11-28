@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-28T01:12:31.344Z</updated>
+    <updated>2021-11-28T02:36:20.709Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[연예] 쇼미더머니 세미파이널 불협화음 (Feat.악동뮤지션) (Pgr21 ─ 연예)]]></title>
@@ -138,6 +138,20 @@
         <content type="html"><![CDATA[어강됴리]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[뉴이스트 콘서트 211127 Dress JR(뉴종현) focus 4k full (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2255933120</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2255933120"/>
+        <updated>2021-11-28T02:36:19.937Z</updated>
+        <content type="html"><![CDATA[302869]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뉴이스트 콘서트 뉴종현 Different 직캠(4K) (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2255897170</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2255897170"/>
+        <updated>2021-11-28T02:36:19.938Z</updated>
+        <content type="html"><![CDATA[302868]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[단독] 아이브 안유진, '전참시' 뜬다…스튜디오 출연 (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2255894422</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2255894422"/>
@@ -262,19 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2255226298"/>
         <updated>2021-11-27T08:27:00.570Z</updated>
         <content type="html"><![CDATA[302850]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[보그 코리아 인스타 투바투 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2255225909</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2255225909"/>
-        <updated>2021-11-27T08:27:00.572Z</updated>
-        <content type="html"><![CDATA[302849]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가온차트뮤직어워즈 음원상 후보 떴음 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2255204840</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2255204840"/>
-        <updated>2021-11-27T08:27:00.573Z</updated>
-        <content type="html"><![CDATA[302848]]></content>
     </entry>
 </feed>
