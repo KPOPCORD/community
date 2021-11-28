@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-28T09:22:33.284Z</updated>
+    <updated>2021-11-28T10:25:36.441Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 방탄소년단 근황.MP4]]></title>
+        <id>https://ppt21.com/spoent/64627?category=2</id>
+        <link href="https://ppt21.com/spoent/64627?category=2"/>
+        <updated>2021-11-28T10:25:24.997Z</updated>
+        <content type="html"><![CDATA[insane]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 2021년 걸그룹 음원 성적 정리]]></title>
         <id>https://ppt21.com/spoent/64619?category=2</id>
@@ -129,13 +136,6 @@
         <id>https://ppt21.com/spoent/64590?category=2</id>
         <link href="https://ppt21.com/spoent/64590?category=2"/>
         <updated>2021-11-27T22:11:37.169Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 청룡영화상 시상자 선정에 항의하는 류승완 감독.gfy]]></title>
-        <id>https://ppt21.com/spoent/64589?category=2</id>
-        <link href="https://ppt21.com/spoent/64589?category=2"/>
-        <updated>2021-11-27T22:11:37.170Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
