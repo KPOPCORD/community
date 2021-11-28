@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-28T13:25:58.214Z</updated>
+    <updated>2021-11-28T14:20:35.080Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [아이브] IVE 'ELEVEN' M/V Teaser]]></title>
+        <id>https://ppt21.com/spoent/64632?category=2</id>
+        <link href="https://ppt21.com/spoent/64632?category=2"/>
+        <updated>2021-11-28T14:20:19.859Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 이제 남자도 Next Level을 부를 수 있습니다.]]></title>
+        <id>https://ppt21.com/spoent/64631?category=2</id>
+        <link href="https://ppt21.com/spoent/64631?category=2"/>
+        <updated>2021-11-28T14:20:19.870Z</updated>
+        <content type="html"><![CDATA[StayAway]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 2021년 11월 넷째주 D-차트 : 몬스타엑스 1위! 윤하는 16위 진입]]></title>
         <id>https://ppt21.com/spoent/64629?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/64596?category=2"/>
         <updated>2021-11-27T22:11:37.165Z</updated>
         <content type="html"><![CDATA[하우스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [트와이스] TTT 크라임씬 시즌2 티저외 사진, 움짤 (데이터주의)]]></title>
-        <id>https://ppt21.com/spoent/64595?category=2</id>
-        <link href="https://ppt21.com/spoent/64595?category=2"/>
-        <updated>2021-11-27T22:11:37.166Z</updated>
-        <content type="html"><![CDATA[그10번]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 26일자 넷플릭스 월드랭킹 top10 정리]]></title>
-        <id>https://ppt21.com/spoent/64594?category=2</id>
-        <link href="https://ppt21.com/spoent/64594?category=2"/>
-        <updated>2021-11-27T22:11:37.167Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
     </entry>
 </feed>
