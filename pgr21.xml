@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-29T12:36:54.454Z</updated>
+    <updated>2021-11-29T13:28:35.682Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 기획사별 2022년 K-시즌그리팅 가격,구성,컨셉 총망라]]></title>
+        <id>https://ppt21.com/spoent/64657?category=2</id>
+        <link href="https://ppt21.com/spoent/64657?category=2"/>
+        <updated>2021-11-29T13:28:19.148Z</updated>
+        <content type="html"><![CDATA[VictoryFood]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [트와이스] "SCIENTIST" M/V 비하인드 EP.03 + MTV Fresh Out 4K 버전]]></title>
         <id>https://ppt21.com/spoent/64656?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64616?category=2"/>
         <updated>2021-11-28T04:31:07.576Z</updated>
         <content type="html"><![CDATA[insane]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 나이 40에 올해 전성기를 맞이한 배우]]></title>
-        <id>https://ppt21.com/spoent/64615?category=2</id>
-        <link href="https://ppt21.com/spoent/64615?category=2"/>
-        <updated>2021-11-28T04:31:07.576Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
