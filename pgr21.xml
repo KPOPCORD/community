@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-28T23:23:04.979Z</updated>
+    <updated>2021-11-29T01:11:12.004Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 힙합소속사 <그랜드라인> 에서 걸그룹 론칭]]></title>
+        <id>https://ppt21.com/spoent/64640?category=2</id>
+        <link href="https://ppt21.com/spoent/64640?category=2"/>
+        <updated>2021-11-29T01:11:01.171Z</updated>
+        <content type="html"><![CDATA[아롱이다롱이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 28일자 넷플릭스 월드랭킹 top10 정리]]></title>
         <id>https://ppt21.com/spoent/64638?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64604?category=2"/>
         <updated>2021-11-27T22:11:37.162Z</updated>
         <content type="html"><![CDATA[핑크솔져]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [쇼미더머니]  비오가 모든 논란을 잠재우며 우승하는 방법]]></title>
-        <id>https://ppt21.com/spoent/64599?category=2</id>
-        <link href="https://ppt21.com/spoent/64599?category=2"/>
-        <updated>2021-11-27T22:11:37.163Z</updated>
-        <content type="html"><![CDATA[물맛이좋아요]]></content>
     </entry>
 </feed>
