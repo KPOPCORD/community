@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-29T14:21:32.669Z</updated>
+    <updated>2021-11-29T15:24:44.744Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [HKT48] 야부키 나코 단독 센터곡 MV]]></title>
+        <id>https://ppt21.com/spoent/64661?category=2</id>
+        <link href="https://ppt21.com/spoent/64661?category=2"/>
+        <updated>2021-11-29T15:24:33.923Z</updated>
+        <content type="html"><![CDATA[묘이 미나]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 뜬금없이 MBC의 희망이 된 드라마.jpg]]></title>
+        <id>https://ppt21.com/spoent/64660?category=2</id>
+        <link href="https://ppt21.com/spoent/64660?category=2"/>
+        <updated>2021-11-29T15:24:33.923Z</updated>
+        <content type="html"><![CDATA[Bar Sur]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] MBC 방과후 설렘 보셨습니까?]]></title>
         <id>https://ppt21.com/spoent/64658?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/64619?category=2"/>
         <updated>2021-11-28T05:20:00.912Z</updated>
         <content type="html"><![CDATA[Bronx Bombers]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 2주 밀린 풍류대장 7화를 보고]]></title>
-        <id>https://ppt21.com/spoent/64618?category=2</id>
-        <link href="https://ppt21.com/spoent/64618?category=2"/>
-        <updated>2021-11-28T05:20:00.912Z</updated>
-        <content type="html"><![CDATA[도롱롱롱롱롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 유지애, "정예인 때문에 배텐 못 비워!]]></title>
-        <id>https://ppt21.com/spoent/64617?category=2</id>
-        <link href="https://ppt21.com/spoent/64617?category=2"/>
-        <updated>2021-11-28T05:20:00.913Z</updated>
-        <content type="html"><![CDATA[강가딘]]></content>
     </entry>
 </feed>
