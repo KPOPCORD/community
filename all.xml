@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-29T05:21:35.634Z</updated>
+    <updated>2021-11-29T06:27:54.065Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[연예] 식스센스 철민피디와 미주의 코맨터리 (Pgr21 ─ 연예)]]></title>
@@ -138,6 +138,27 @@
         <content type="html"><![CDATA[달리와]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[유니버스 세계관맵 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2257272525</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2257272525"/>
+        <updated>2021-11-29T06:27:53.389Z</updated>
+        <content type="html"><![CDATA[302924]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정세운 2022 시즌그리팅 <세운랜드> 티저 영상 🎡 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2257267779</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2257267779"/>
+        <updated>2021-11-29T06:27:53.390Z</updated>
+        <content type="html"><![CDATA[302923]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[강다니엘 유니버스 팬사인회 셀카업뎃🧡 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2257249671</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2257249671"/>
+        <updated>2021-11-29T06:27:53.390Z</updated>
+        <content type="html"><![CDATA[302922]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[오미크론 확산에 日, 다시 외국인 신규 입국 금지.... 30일 자정부터 (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2257183589</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2257183589"/>
@@ -255,26 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2257013846"/>
         <updated>2021-11-29T02:36:31.754Z</updated>
         <content type="html"><![CDATA[302905]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[공식] 인터파크 보이그룹, TRENDZ 그룹명 확정…2022년 1월 데뷔 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2256948842</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2256948842"/>
-        <updated>2021-11-29T01:11:11.194Z</updated>
-        <content type="html"><![CDATA[302904]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[투바투 2021 Holiday Collection: Little Wishes (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2256911006</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2256911006"/>
-        <updated>2021-11-29T01:11:11.213Z</updated>
-        <content type="html"><![CDATA[302903]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MSG워너비 M.O.M 완전체, 'MMA 2021' 무대 오른다(공식) (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2256908944</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2256908944"/>
-        <updated>2021-11-29T01:11:11.213Z</updated>
-        <content type="html"><![CDATA[302902]]></content>
     </entry>
 </feed>
