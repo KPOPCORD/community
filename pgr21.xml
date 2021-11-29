@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-29T10:26:16.782Z</updated>
+    <updated>2021-11-29T11:21:07.699Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [쇼미더머니] 소코도모가 진짜 K-힙합인 이유]]></title>
+        <id>https://ppt21.com/spoent/64653?category=2</id>
+        <link href="https://ppt21.com/spoent/64653?category=2"/>
+        <updated>2021-11-29T11:20:37.996Z</updated>
+        <content type="html"><![CDATA[물맛이좋아요]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 대박 조짐이 보이는 드라마 어느 날]]></title>
         <id>https://ppt21.com/spoent/64652?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64612?category=2"/>
         <updated>2021-11-27T23:45:09.198Z</updated>
         <content type="html"><![CDATA[강가딘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 윤하가 말해주는 오르트구름 노래 설명.ytb (feat.슈카)]]></title>
-        <id>https://ppt21.com/spoent/64611?category=2</id>
-        <link href="https://ppt21.com/spoent/64611?category=2"/>
-        <updated>2021-11-27T22:11:37.142Z</updated>
-        <content type="html"><![CDATA[VictoryFood]]></content>
     </entry>
 </feed>
