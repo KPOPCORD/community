@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-29T21:20:07.891Z</updated>
+    <updated>2021-11-29T22:23:18.146Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 29일자 넷플릭스 월드랭킹 top10 정리]]></title>
+        <id>https://ppt21.com/spoent/64670?category=2</id>
+        <link href="https://ppt21.com/spoent/64670?category=2"/>
+        <updated>2021-11-29T22:23:08.051Z</updated>
+        <content type="html"><![CDATA[아롱이다롱이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 어르신 아미들...]]></title>
+        <id>https://ppt21.com/spoent/64669?category=2</id>
+        <link href="https://ppt21.com/spoent/64669?category=2"/>
+        <updated>2021-11-29T22:23:08.054Z</updated>
+        <content type="html"><![CDATA[우주전쟁]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [니쥬] Beyond the Rainbow(무지개를 넘어) 스페셜 클립.ytb]]></title>
         <id>https://ppt21.com/spoent/64667?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/64640?category=2"/>
         <updated>2021-11-29T01:11:01.171Z</updated>
         <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 28일자 넷플릭스 월드랭킹 top10 정리]]></title>
-        <id>https://ppt21.com/spoent/64638?category=2</id>
-        <link href="https://ppt21.com/spoent/64638?category=2"/>
-        <updated>2021-11-28T20:23:05.911Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 니쥬 Step and a step 한국어 버젼]]></title>
-        <id>https://ppt21.com/spoent/64635?category=2</id>
-        <link href="https://ppt21.com/spoent/64635?category=2"/>
-        <updated>2021-11-28T18:26:02.678Z</updated>
-        <content type="html"><![CDATA[묘이 미나]]></content>
     </entry>
 </feed>
