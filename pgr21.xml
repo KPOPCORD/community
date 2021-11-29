@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-29T09:23:26.970Z</updated>
+    <updated>2021-11-29T10:26:16.782Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 대박 조짐이 보이는 드라마 어느 날]]></title>
+        <id>https://ppt21.com/spoent/64652?category=2</id>
+        <link href="https://ppt21.com/spoent/64652?category=2"/>
+        <updated>2021-11-29T10:26:03.438Z</updated>
+        <content type="html"><![CDATA[지켜보고 있다]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] [로켓펀치] 프듀생각이 많이 났던 이번주]]></title>
+        <id>https://ppt21.com/spoent/64651?category=2</id>
+        <link href="https://ppt21.com/spoent/64651?category=2"/>
+        <updated>2021-11-29T10:26:03.438Z</updated>
+        <content type="html"><![CDATA[어강됴리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [후방주의] 역대 뮤지컬 넘버 조회수 1위]]></title>
         <id>https://ppt21.com/spoent/64649?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/64611?category=2"/>
         <updated>2021-11-27T22:11:37.142Z</updated>
         <content type="html"><![CDATA[VictoryFood]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 27일자 넷플릭스 월드랭킹 top10 정리]]></title>
-        <id>https://ppt21.com/spoent/64610?category=2</id>
-        <link href="https://ppt21.com/spoent/64610?category=2"/>
-        <updated>2021-11-27T22:11:37.145Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 개그콘서트의 부활을 꿈꾸는 KBS의 새 개그프로]]></title>
-        <id>https://ppt21.com/spoent/64608?category=2</id>
-        <link href="https://ppt21.com/spoent/64608?category=2"/>
-        <updated>2021-11-27T22:11:37.160Z</updated>
-        <content type="html"><![CDATA[빼사스]]></content>
     </entry>
 </feed>
