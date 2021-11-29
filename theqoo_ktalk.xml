@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2021-11-29T01:11:11.979Z</updated>
+    <updated>2021-11-29T02:36:32.560Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[WOODZ(조승연) × MCM 향수 데이즈드 화보]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2257024056</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2257024056"/>
+        <updated>2021-11-29T02:36:31.745Z</updated>
+        <content type="html"><![CDATA[302909]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘틴탑’ 니엘, 뮤지컬 ‘개와 고양이의 시간’ 마지막 공연 소감]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2257017294</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2257017294"/>
+        <updated>2021-11-29T02:36:31.751Z</updated>
+        <content type="html"><![CDATA[302908]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SBS 노조 파업 가결→방송 파행 불가피]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2257013846</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2257013846"/>
+        <updated>2021-11-29T02:36:31.754Z</updated>
+        <content type="html"><![CDATA[302907]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[공식] 인터파크 보이그룹, TRENDZ 그룹명 확정…2022년 1월 데뷔]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2256948842</id>
@@ -123,26 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2256517114"/>
         <updated>2021-11-28T16:38:22.026Z</updated>
         <content type="html"><![CDATA[302890]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AB6IX 이대휘 멤버스트윗/ 인스타 업 (ft.이웃집 수달)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2256507229</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2256507229"/>
-        <updated>2021-11-28T16:38:22.028Z</updated>
-        <content type="html"><![CDATA[302889]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔하이픈 희승 멤트😶]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2256500007</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2256500007"/>
-        <updated>2021-11-28T16:38:22.029Z</updated>
-        <content type="html"><![CDATA[302888]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[투바투 연준 트윗 (도전!)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2256487131</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2256487131"/>
-        <updated>2021-11-28T16:38:22.030Z</updated>
-        <content type="html"><![CDATA[302887]]></content>
     </entry>
 </feed>
