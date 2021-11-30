@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-11-30T22:23:14.546Z</updated>
+    <updated>2021-11-30T23:23:43.028Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 30일자 넷플릭스 월드랭킹 top10 정리]]></title>
+        <id>https://ppt21.com/spoent/64681?category=2</id>
+        <link href="https://ppt21.com/spoent/64681?category=2"/>
+        <updated>2021-11-30T23:23:31.377Z</updated>
+        <content type="html"><![CDATA[아롱이다롱이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] IVE (아이브) 'ELEVEN' Highlight Medley]]></title>
         <id>https://ppt21.com/spoent/64680?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64655?category=2"/>
         <updated>2021-11-29T12:36:43.662Z</updated>
         <content type="html"><![CDATA[Croove]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [쇼미더머니] 소코도모가 진짜 K-힙합인 이유]]></title>
-        <id>https://ppt21.com/spoent/64653?category=2</id>
-        <link href="https://ppt21.com/spoent/64653?category=2"/>
-        <updated>2021-11-29T11:20:37.996Z</updated>
-        <content type="html"><![CDATA[물맛이좋아요]]></content>
     </entry>
 </feed>

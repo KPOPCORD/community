@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2021-11-30T22:23:14.538Z</updated>
+    <updated>2021-11-30T23:23:42.962Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[김태희→서인국, 스토리제이컴퍼니 캐럴 프로젝트 참여..수익 전액 기부]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2259278920</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2259278920"/>
+        <updated>2021-11-30T23:23:42.091Z</updated>
+        <content type="html"><![CDATA[302972]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['우리 식구됐어요' 엠넷 편성? MBC 왜 이러나.]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2259205946</id>
@@ -137,12 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2258691726"/>
         <updated>2021-11-30T09:19:43.051Z</updated>
         <content type="html"><![CDATA[302953]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stray Kids(스트레이 키즈) "Winter Falls" M/V]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2258686924</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2258686924"/>
-        <updated>2021-11-30T09:19:43.051Z</updated>
-        <content type="html"><![CDATA[302952]]></content>
     </entry>
 </feed>
