@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2021-11-30T15:24:55.399Z</updated>
+    <updated>2021-11-30T16:36:13.293Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[투바투 수빈 트윗🖤]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2259157447</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2259157447"/>
+        <updated>2021-11-30T16:36:12.317Z</updated>
+        <content type="html"><![CDATA[302969]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김재환 컴백 12/27일]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2259094636</id>
@@ -137,12 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2258686148"/>
         <updated>2021-11-30T09:19:43.054Z</updated>
         <content type="html"><![CDATA[302950]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[D-Hack ✕ 이수진 of Weeekly : '환상공중전화' M/V]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2258686073</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2258686073"/>
-        <updated>2021-11-30T09:19:43.056Z</updated>
-        <content type="html"><![CDATA[302949]]></content>
     </entry>
 </feed>
