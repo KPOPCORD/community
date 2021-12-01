@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-01T21:20:13.168Z</updated>
+    <updated>2021-12-01T22:23:02.864Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 12월 1일자 넷플릭스 월드랭킹 top10 정리]]></title>
+        <id>https://ppt21.com/spoent/64696?category=2</id>
+        <link href="https://ppt21.com/spoent/64696?category=2"/>
+        <updated>2021-12-01T22:22:53.285Z</updated>
+        <content type="html"><![CDATA[아롱이다롱이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 기획사 <안테나> 캐롤, 신인 걸그룹 IVE 아이브 멜론 진입]]></title>
         <id>https://ppt21.com/spoent/64692?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64664?category=2"/>
         <updated>2021-11-29T16:36:41.057Z</updated>
         <content type="html"><![CDATA[강가딘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [쇼미더머니] 조회수로 예측해보는 우승자]]></title>
-        <id>https://ppt21.com/spoent/64663?category=2</id>
-        <link href="https://ppt21.com/spoent/64663?category=2"/>
-        <updated>2021-11-29T16:36:41.057Z</updated>
-        <content type="html"><![CDATA[물맛이좋아요]]></content>
     </entry>
 </feed>
