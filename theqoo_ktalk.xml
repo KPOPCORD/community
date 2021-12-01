@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2021-12-01T09:23:55.748Z</updated>
+    <updated>2021-12-01T10:27:31.856Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[투바투 수빈 트윗 + 공식인스타그램 샤넬 행사 사진]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2259884454</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2259884454"/>
+        <updated>2021-12-01T10:27:31.100Z</updated>
+        <content type="html"><![CDATA[302987]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아이브 싸인 (멜론)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2259877068</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2259877068"/>
+        <updated>2021-12-01T10:27:31.109Z</updated>
+        <content type="html"><![CDATA[302986]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[권은비 공식팬덤명 발표]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2259876727</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2259876727"/>
+        <updated>2021-12-01T10:27:31.110Z</updated>
+        <content type="html"><![CDATA[302985]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EVERGLOW (에버글로우) - Pirate MV]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2259836003</id>
@@ -123,26 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2259461373"/>
         <updated>2021-12-01T03:24:15.413Z</updated>
         <content type="html"><![CDATA[302968]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에이티즈 ATEEZ ZERO : FEVER EPILOGUE 야간비행(Turbulence) Concept Photo 산, 민기]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2259457980</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2259457980"/>
-        <updated>2021-12-01T03:24:15.421Z</updated>
-        <content type="html"><![CDATA[302967]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VOGUE, Marie Claire 인스타그램 투바투 수빈]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2259435121</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2259435121"/>
-        <updated>2021-12-01T02:39:40.088Z</updated>
-        <content type="html"><![CDATA[302966]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[썸데이 플레로마 라인업]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2259408274</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2259408274"/>
-        <updated>2021-12-01T02:39:40.089Z</updated>
-        <content type="html"><![CDATA[302965]]></content>
     </entry>
 </feed>
