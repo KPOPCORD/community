@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-01T11:20:57.519Z</updated>
+    <updated>2021-12-01T12:37:23.242Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 기획사 <안테나> 캐롤, 신인 걸그룹 IVE 아이브 멜론 진입]]></title>
+        <id>https://ppt21.com/spoent/64692?category=2</id>
+        <link href="https://ppt21.com/spoent/64692?category=2"/>
+        <updated>2021-12-01T12:37:13.719Z</updated>
+        <content type="html"><![CDATA[아롱이다롱이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 백종원의 골목식당 종영]]></title>
+        <id>https://ppt21.com/spoent/64691?category=2</id>
+        <link href="https://ppt21.com/spoent/64691?category=2"/>
+        <updated>2021-12-01T12:37:13.732Z</updated>
+        <content type="html"><![CDATA[Croove]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 에버글로우와 공식 인사 포즈 겹치는 아이브.jpg]]></title>
         <id>https://ppt21.com/spoent/64690?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/64663?category=2"/>
         <updated>2021-11-29T16:36:41.057Z</updated>
         <content type="html"><![CDATA[물맛이좋아요]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 힙합 소속사 <그랜드라인> 에서 처음으로 론칭하는 여성아이돌그룹 H1-KEY 하이키 의 4번째 멤버 공개]]></title>
-        <id>https://ppt21.com/spoent/64662?category=2</id>
-        <link href="https://ppt21.com/spoent/64662?category=2"/>
-        <updated>2021-11-29T16:36:41.063Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [HKT48] 야부키 나코 단독 센터곡 MV]]></title>
-        <id>https://ppt21.com/spoent/64661?category=2</id>
-        <link href="https://ppt21.com/spoent/64661?category=2"/>
-        <updated>2021-11-29T15:24:33.923Z</updated>
-        <content type="html"><![CDATA[묘이 미나]]></content>
     </entry>
 </feed>
