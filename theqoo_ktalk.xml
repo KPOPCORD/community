@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2021-12-01T01:16:04.133Z</updated>
+    <updated>2021-12-01T02:39:40.907Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[VOGUE, Marie Claire 인스타그램 투바투 수빈]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2259435121</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2259435121"/>
+        <updated>2021-12-01T02:39:40.088Z</updated>
+        <content type="html"><![CDATA[302975]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[썸데이 플레로마 라인업]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2259408274</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2259408274"/>
+        <updated>2021-12-01T02:39:40.089Z</updated>
+        <content type="html"><![CDATA[302974]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[붐·샤이니 키·ITZY 유나, '2021 SBS 가요대전' MC 발탁..25일 생방송]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2259354871</id>
@@ -130,19 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2258856997"/>
         <updated>2021-11-30T12:30:45.350Z</updated>
         <content type="html"><![CDATA[302956]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔하이픈 니키 멤트☺]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2258852140</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2258852140"/>
-        <updated>2021-11-30T12:30:45.351Z</updated>
-        <content type="html"><![CDATA[302955]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더쇼 커댕이 김요한 방청후기(이래서 공방이 최고인가...)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2258836449</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2258836449"/>
-        <updated>2021-11-30T12:30:45.354Z</updated>
-        <content type="html"><![CDATA[302954]]></content>
     </entry>
 </feed>
