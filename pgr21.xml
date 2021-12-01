@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-01T03:24:16.196Z</updated>
+    <updated>2021-12-01T04:31:03.563Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 재계 거물의 여성편력 기사에 불똥이 튄 연예계]]></title>
+        <id>https://ppt21.com/spoent/64685?category=2</id>
+        <link href="https://ppt21.com/spoent/64685?category=2"/>
+        <updated>2021-12-01T04:30:53.358Z</updated>
+        <content type="html"><![CDATA[EpicSide]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 30일자 넷플릭스 월드랭킹 top10 정리]]></title>
         <id>https://ppt21.com/spoent/64681?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64656?category=2"/>
         <updated>2021-11-29T12:36:43.662Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [브레이브 걸스] 운전만해 뮤직뱅크 211126]]></title>
-        <id>https://ppt21.com/spoent/64655?category=2</id>
-        <link href="https://ppt21.com/spoent/64655?category=2"/>
-        <updated>2021-11-29T12:36:43.662Z</updated>
-        <content type="html"><![CDATA[Croove]]></content>
     </entry>
 </feed>
