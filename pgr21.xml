@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-02T15:22:36.876Z</updated>
+    <updated>2021-12-02T16:35:38.797Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [니쥬] 1주년이라고 퍼포먼스 영상 쏟아내는 중.ytb]]></title>
+        <id>https://ppt21.com/spoent/64711?category=2</id>
+        <link href="https://ppt21.com/spoent/64711?category=2"/>
+        <updated>2021-12-02T16:35:28.910Z</updated>
+        <content type="html"><![CDATA[VictoryFood]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [트와이스] 일본 싱글 도넛(Doughnut) Music Video]]></title>
         <id>https://ppt21.com/spoent/64710?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64678?category=2"/>
         <updated>2021-11-30T13:19:10.120Z</updated>
         <content type="html"><![CDATA[VictoryFood]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 2021 노담콘서트 걸그룹 무대 모음]]></title>
-        <id>https://ppt21.com/spoent/64677?category=2</id>
-        <link href="https://ppt21.com/spoent/64677?category=2"/>
-        <updated>2021-11-30T11:16:21.472Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>

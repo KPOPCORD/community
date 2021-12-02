@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-02T15:22:36.879Z</updated>
+    <updated>2021-12-02T16:35:38.802Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] [니쥬] 1주년이라고 퍼포먼스 영상 쏟아내는 중.ytb (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/64711?category=2</id>
+        <link href="https://ppt21.com/spoent/64711?category=2"/>
+        <updated>2021-12-02T16:35:28.910Z</updated>
+        <content type="html"><![CDATA[VictoryFood]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [트와이스] 일본 싱글 도넛(Doughnut) Music Video (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/64710?category=2</id>
@@ -131,11 +138,25 @@
         <content type="html"><![CDATA[VictoryFood]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[연예] 2021 노담콘서트 걸그룹 무대 모음 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/64677?category=2</id>
-        <link href="https://ppt21.com/spoent/64677?category=2"/>
-        <updated>2021-11-30T11:16:21.472Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
+        <title type="html"><![CDATA[[오늘의엔하이픈] 2021 AAA❤ (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2261665231</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2261665231"/>
+        <updated>2021-12-02T16:35:38.095Z</updated>
+        <content type="html"><![CDATA[303048]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021년 남녀아이돌 유튜브뮤직 국내 조회수 순위 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2261659434</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2261659434"/>
+        <updated>2021-12-02T16:35:38.115Z</updated>
+        <content type="html"><![CDATA[303047]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[빌보드 200 연간차트 - 방탄, 블핑, 투바투 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2261646031</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2261646031"/>
+        <updated>2021-12-02T16:35:38.115Z</updated>
+        <content type="html"><![CDATA[303046]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ITZY(있지) Performance Practice | 2021 ASIA ARTIST AWARDS (더쿠 ─ 케이돌토크)]]></title>
@@ -255,26 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2261214342"/>
         <updated>2021-12-02T11:19:12.134Z</updated>
         <content type="html"><![CDATA[303029]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Teaser] 이무진 - 눈이 오잖아(Feat.헤이즈) (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2261112331</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2261112331"/>
-        <updated>2021-12-02T09:23:08.891Z</updated>
-        <content type="html"><![CDATA[303028]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[🎬] ATEEZ(에이티즈) - '야간비행(Turbulence)' Official MV Teaser (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2261102321</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2261102321"/>
-        <updated>2021-12-02T09:23:08.892Z</updated>
-        <content type="html"><![CDATA[303027]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 연말 무대(시상식) MC 라인업 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2261092966</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2261092966"/>
-        <updated>2021-12-02T09:23:08.893Z</updated>
-        <content type="html"><![CDATA[303026]]></content>
     </entry>
 </feed>
