@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-02T18:28:12.502Z</updated>
+    <updated>2021-12-02T19:20:00.082Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 지옥 솔직 후기(스포향 첨가? 최대한 스포없이 작성)]]></title>
+        <id>https://ppt21.com/spoent/64713?category=2</id>
+        <link href="https://ppt21.com/spoent/64713?category=2"/>
+        <updated>2021-12-02T19:19:49.540Z</updated>
+        <content type="html"><![CDATA[빠커의유머노트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 히나타자카46의 Butter 커버]]></title>
         <id>https://ppt21.com/spoent/64712?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64680?category=2"/>
         <updated>2021-11-30T15:24:30.506Z</updated>
         <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [푸른거탑 제로] 조교와 최종훈의 브로맨스]]></title>
-        <id>https://ppt21.com/spoent/64679?category=2</id>
-        <link href="https://ppt21.com/spoent/64679?category=2"/>
-        <updated>2021-11-30T14:21:24.156Z</updated>
-        <content type="html"><![CDATA[Croove]]></content>
     </entry>
 </feed>
