@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-02T16:35:38.802Z</updated>
+    <updated>2021-12-02T17:30:35.214Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] 히나타자카46의 Butter 커버 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/64712?category=2</id>
+        <link href="https://ppt21.com/spoent/64712?category=2"/>
+        <updated>2021-12-02T17:30:25.901Z</updated>
+        <content type="html"><![CDATA[어강됴리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [니쥬] 1주년이라고 퍼포먼스 영상 쏟아내는 중.ytb (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/64711?category=2</id>
@@ -129,13 +136,6 @@
         <link href="https://ppt21.com/spoent/64679?category=2"/>
         <updated>2021-11-30T14:21:24.156Z</updated>
         <content type="html"><![CDATA[Croove]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [안테나] 다음 겨울에도 여기서 만나 teaser.ytb (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/64678?category=2</id>
-        <link href="https://ppt21.com/spoent/64678?category=2"/>
-        <updated>2021-11-30T13:19:10.120Z</updated>
-        <content type="html"><![CDATA[VictoryFood]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[오늘의엔하이픈] 2021 AAA❤ (더쿠 ─ 케이돌토크)]]></title>
