@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2021-12-02T11:19:12.900Z</updated>
+    <updated>2021-12-02T12:36:25.570Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[투바투 수빈 트윗 - 즐거웠습니다 샤넬 뷰티!]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2261299998</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2261299998"/>
+        <updated>2021-12-02T12:36:24.780Z</updated>
+        <content type="html"><![CDATA[303031]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[벨망진창 벨벨랜드] Episode. 35 퇴사하든가 해야지... 진짜 벨벨상사의 빌런은?!?]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2261230109</id>
@@ -137,12 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2260678578"/>
         <updated>2021-12-02T03:24:38.587Z</updated>
         <content type="html"><![CDATA[303012]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 멜론뮤직어워드 대상 예측? 올라옴]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2260673020</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2260673020"/>
-        <updated>2021-12-02T03:24:38.587Z</updated>
-        <content type="html"><![CDATA[303011]]></content>
     </entry>
 </feed>
