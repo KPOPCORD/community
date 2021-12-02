@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-02T10:25:16.196Z</updated>
+    <updated>2021-12-02T11:19:12.807Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[연예] 유튜브 오피셜 국내 최고 인기 뮤직비디오 Top 10]]></title>
+        <title type="html"><![CDATA[[연예] [아이브] 'ELEVEN' 1theK 퍼포먼스 영상 + 응원법]]></title>
+        <id>https://ppt21.com/spoent/64708?category=2</id>
+        <link href="https://ppt21.com/spoent/64708?category=2"/>
+        <updated>2021-12-02T11:19:03.846Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 유튜브 오피셜 2021년 국내 최고 인기 뮤직비디오 Top 10]]></title>
         <id>https://ppt21.com/spoent/64707?category=2</id>
         <link href="https://ppt21.com/spoent/64707?category=2"/>
         <updated>2021-12-02T10:25:02.930Z</updated>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64670?category=2"/>
         <updated>2021-11-29T22:23:08.051Z</updated>
         <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 어르신 아미들...]]></title>
-        <id>https://ppt21.com/spoent/64669?category=2</id>
-        <link href="https://ppt21.com/spoent/64669?category=2"/>
-        <updated>2021-11-29T22:23:08.054Z</updated>
-        <content type="html"><![CDATA[우주전쟁]]></content>
     </entry>
 </feed>
