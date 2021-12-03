@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-03T22:22:53.061Z</updated>
+    <updated>2021-12-03T23:23:05.051Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 성덕 스파이더맨]]></title>
+        <id>https://ppt21.com/spoent/64736?category=2</id>
+        <link href="https://ppt21.com/spoent/64736?category=2"/>
+        <updated>2021-12-03T23:22:50.690Z</updated>
+        <content type="html"><![CDATA[어강됴리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 쥬리와 가은의 부산여행 (자막 유)]]></title>
         <id>https://ppt21.com/spoent/64735?category=2</id>
@@ -128,13 +135,6 @@
         <title type="html"><![CDATA[[연예] 딸이 결혼하면 아내랑 사는게 두려운 이경규의 계획.jpg]]></title>
         <id>https://ppt21.com/spoent/64700?category=2</id>
         <link href="https://ppt21.com/spoent/64700?category=2"/>
-        <updated>2021-12-02T01:12:19.285Z</updated>
-        <content type="html"><![CDATA[너]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예]  결국엔 관짝 뜯어서 끄집어낸 명작]]></title>
-        <id>https://ppt21.com/spoent/64699?category=2</id>
-        <link href="https://ppt21.com/spoent/64699?category=2"/>
         <updated>2021-12-02T01:12:19.285Z</updated>
         <content type="html"><![CDATA[너]]></content>
     </entry>
