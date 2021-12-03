@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2021-12-03T01:11:21.366Z</updated>
+    <updated>2021-12-03T02:36:31.786Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독]러블리즈 케이, 시아준수 소속사와 전속계약..솔로 활동 박차]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2261962917</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2261962917"/>
+        <updated>2021-12-03T02:36:30.944Z</updated>
+        <content type="html"><![CDATA[302802]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[공식] 온앤오프, 오늘 군입대 전 마지막 앨범 '구스범스' 발매 "감각적 카리스마"]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2261875119</id>
@@ -137,12 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2261465175"/>
         <updated>2021-12-02T14:21:12.810Z</updated>
         <content type="html"><![CDATA[302783]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MMA 최종 라인업]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2261452485</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2261452485"/>
-        <updated>2021-12-02T14:21:12.810Z</updated>
-        <content type="html"><![CDATA[302782]]></content>
     </entry>
 </feed>
