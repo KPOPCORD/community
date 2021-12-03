@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-03T11:19:34.026Z</updated>
+    <updated>2021-12-03T12:35:42.375Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] 드디어 킬링보이스에 나오는 벨트누나.jpg (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/64729?category=2</id>
+        <link href="https://ppt21.com/spoent/64729?category=2"/>
+        <updated>2021-12-03T12:35:32.474Z</updated>
+        <content type="html"><![CDATA[insane]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] [아이브] 뮤직뱅크 데뷔무대 영상 (+개인직캠) (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/64728?category=2</id>
+        <link href="https://ppt21.com/spoent/64728?category=2"/>
+        <updated>2021-12-03T12:35:32.477Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 방탄 내년 3월 서울콘 예정 (#PTD_ON_STAGE_SEOUL) (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/64726?category=2</id>
@@ -124,18 +138,11 @@
         <content type="html"><![CDATA[Croove]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[연예] 에버글로우와 공식 인사 포즈 겹치는 아이브.jpg (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/64690?category=2</id>
-        <link href="https://ppt21.com/spoent/64690?category=2"/>
-        <updated>2021-12-01T11:20:29.030Z</updated>
-        <content type="html"><![CDATA[VictoryFood]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [안테나뮤직] 다음 겨울에도 여기서 만나 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/64689?category=2</id>
-        <link href="https://ppt21.com/spoent/64689?category=2"/>
-        <updated>2021-12-01T10:27:22.689Z</updated>
-        <content type="html"><![CDATA[A1]]></content>
+        <title type="html"><![CDATA[한겨울에 바디체인…안 추워요? 아이돌 무대의상의 비밀 [이게될까? 멜론 스테이션 EP17] (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2262626370</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2262626370"/>
+        <updated>2021-12-03T12:35:41.653Z</updated>
+        <content type="html"><![CDATA[302827]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🎀트라이비 멤버들이🎀 파티룸을🎈준비하는 자세(Feat.성향분석) (더쿠 ─ 케이돌토크)]]></title>
@@ -269,12 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2262291771"/>
         <updated>2021-12-03T07:22:15.206Z</updated>
         <content type="html"><![CDATA[302808]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방탄 지민 위버스 업뎃 [아쉽고 아쉽고 아쉽습니다 다시 만날을 행복하게 기다리겠습니다] (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2262241627</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2262241627"/>
-        <updated>2021-12-03T07:22:15.206Z</updated>
-        <content type="html"><![CDATA[302807]]></content>
     </entry>
 </feed>

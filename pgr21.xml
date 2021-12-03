@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-03T11:19:34.021Z</updated>
+    <updated>2021-12-03T12:35:42.462Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 드디어 킬링보이스에 나오는 벨트누나.jpg]]></title>
+        <id>https://ppt21.com/spoent/64729?category=2</id>
+        <link href="https://ppt21.com/spoent/64729?category=2"/>
+        <updated>2021-12-03T12:35:32.474Z</updated>
+        <content type="html"><![CDATA[insane]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] [아이브] 뮤직뱅크 데뷔무대 영상 (+개인직캠)]]></title>
+        <id>https://ppt21.com/spoent/64728?category=2</id>
+        <link href="https://ppt21.com/spoent/64728?category=2"/>
+        <updated>2021-12-03T12:35:32.477Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 방탄 내년 3월 서울콘 예정 (#PTD_ON_STAGE_SEOUL)]]></title>
         <id>https://ppt21.com/spoent/64726?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/64691?category=2"/>
         <updated>2021-12-01T12:37:13.732Z</updated>
         <content type="html"><![CDATA[Croove]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 에버글로우와 공식 인사 포즈 겹치는 아이브.jpg]]></title>
-        <id>https://ppt21.com/spoent/64690?category=2</id>
-        <link href="https://ppt21.com/spoent/64690?category=2"/>
-        <updated>2021-12-01T11:20:29.030Z</updated>
-        <content type="html"><![CDATA[VictoryFood]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [안테나뮤직] 다음 겨울에도 여기서 만나]]></title>
-        <id>https://ppt21.com/spoent/64689?category=2</id>
-        <link href="https://ppt21.com/spoent/64689?category=2"/>
-        <updated>2021-12-01T10:27:22.689Z</updated>
-        <content type="html"><![CDATA[A1]]></content>
     </entry>
 </feed>

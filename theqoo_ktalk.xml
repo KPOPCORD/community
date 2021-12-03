@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2021-12-03T11:19:34.024Z</updated>
+    <updated>2021-12-03T12:35:42.369Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[한겨울에 바디체인…안 추워요? 아이돌 무대의상의 비밀 [이게될까? 멜론 스테이션 EP17]]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2262626370</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2262626370"/>
+        <updated>2021-12-03T12:35:41.653Z</updated>
+        <content type="html"><![CDATA[302827]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🎀트라이비 멤버들이🎀 파티룸을🎈준비하는 자세(Feat.성향분석)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2262562776</id>
@@ -137,12 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2262291771"/>
         <updated>2021-12-03T07:22:15.206Z</updated>
         <content type="html"><![CDATA[302808]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방탄 지민 위버스 업뎃 [아쉽고 아쉽고 아쉽습니다 다시 만날을 행복하게 기다리겠습니다]]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2262241627</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2262241627"/>
-        <updated>2021-12-03T07:22:15.206Z</updated>
-        <content type="html"><![CDATA[302807]]></content>
     </entry>
 </feed>
