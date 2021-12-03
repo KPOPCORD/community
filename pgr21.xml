@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-03T05:21:08.182Z</updated>
+    <updated>2021-12-03T06:27:25.269Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [러블리즈] 케이, 시아준수 소속사와 전속계약..솔로 활동 박차]]></title>
+        <id>https://ppt21.com/spoent/64724?category=2</id>
+        <link href="https://ppt21.com/spoent/64724?category=2"/>
+        <updated>2021-12-03T06:27:15.527Z</updated>
+        <content type="html"><![CDATA[리노]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 타블로피셜 "윤하는 에픽하이의 3번째 멤버"]]></title>
+        <id>https://ppt21.com/spoent/64723?category=2</id>
+        <link href="https://ppt21.com/spoent/64723?category=2"/>
+        <updated>2021-12-03T06:27:15.527Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 강동원 닮은 용접공]]></title>
         <id>https://ppt21.com/spoent/64721?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/64688?category=2"/>
         <updated>2021-12-01T09:23:44.763Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [아이브] IVE 데뷔곡 'ELEVEN' M/V (+쇼케이스 무대 영상)]]></title>
-        <id>https://ppt21.com/spoent/64687?category=2</id>
-        <link href="https://ppt21.com/spoent/64687?category=2"/>
-        <updated>2021-12-01T09:23:44.766Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 재계 거물의 여성편력 기사에 불똥이 튄 연예계]]></title>
-        <id>https://ppt21.com/spoent/64685?category=2</id>
-        <link href="https://ppt21.com/spoent/64685?category=2"/>
-        <updated>2021-12-01T04:30:53.358Z</updated>
-        <content type="html"><![CDATA[EpicSide]]></content>
     </entry>
 </feed>
