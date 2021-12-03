@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-03T12:35:42.462Z</updated>
+    <updated>2021-12-03T13:27:52.824Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 온앤오프(ONF) 6th미니앨범이 공개되었습니다, +Goosebumps MV, 직캠, 응원법]]></title>
+        <id>https://ppt21.com/spoent/64731?category=2</id>
+        <link href="https://ppt21.com/spoent/64731?category=2"/>
+        <updated>2021-12-03T13:27:41.878Z</updated>
+        <content type="html"><![CDATA[별빛정원]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 드디어 킬링보이스에 나오는 벨트누나.jpg]]></title>
         <id>https://ppt21.com/spoent/64729?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64692?category=2"/>
         <updated>2021-12-01T12:37:13.719Z</updated>
         <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 백종원의 골목식당 종영]]></title>
-        <id>https://ppt21.com/spoent/64691?category=2</id>
-        <link href="https://ppt21.com/spoent/64691?category=2"/>
-        <updated>2021-12-01T12:37:13.732Z</updated>
-        <content type="html"><![CDATA[Croove]]></content>
     </entry>
 </feed>
