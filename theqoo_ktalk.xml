@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2021-12-03T21:19:41.989Z</updated>
+    <updated>2021-12-03T22:22:53.064Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[에이티즈 ATEEZ ZERO : FEVER EPILOGUE 흥 : 興 : Heung Concept Photo]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2263038967</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2263038967"/>
+        <updated>2021-12-03T22:22:52.331Z</updated>
+        <content type="html"><![CDATA[302836]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[롤링스톤 선정 2021 베스트 앨범 46위 투바투 The Chaos Chapter: Fight or Escape]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2263030145</id>
@@ -137,12 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2262453868"/>
         <updated>2021-12-03T10:25:52.057Z</updated>
         <content type="html"><![CDATA[302817]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘 데뷔하는 생신인 아이브 멤버 가을이의 톤다운 멘트에 개빵터진 안유진.twt]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2262453520</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2262453520"/>
-        <updated>2021-12-03T10:25:52.057Z</updated>
-        <content type="html"><![CDATA[302816]]></content>
     </entry>
 </feed>
