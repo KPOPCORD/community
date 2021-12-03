@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-03T14:21:43.206Z</updated>
+    <updated>2021-12-03T15:24:56.665Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [JYPn] 릴리M, 2015년 vs 2021년.ytb (feat.Roar)]]></title>
+        <id>https://ppt21.com/spoent/64733?category=2</id>
+        <link href="https://ppt21.com/spoent/64733?category=2"/>
+        <updated>2021-12-03T15:24:40.652Z</updated>
+        <content type="html"><![CDATA[VictoryFood]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 온앤오프(ONF) 6th미니앨범이 공개되었습니다, +Goosebumps MV, 직캠, 응원법]]></title>
         <id>https://ppt21.com/spoent/64731?category=2</id>
@@ -129,13 +136,6 @@
         <id>https://ppt21.com/spoent/64696?category=2</id>
         <link href="https://ppt21.com/spoent/64696?category=2"/>
         <updated>2021-12-01T22:22:53.285Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 기획사 <안테나> 캐롤, 신인 걸그룹 IVE 아이브 멜론 진입]]></title>
-        <id>https://ppt21.com/spoent/64692?category=2</id>
-        <link href="https://ppt21.com/spoent/64692?category=2"/>
-        <updated>2021-12-01T12:37:13.719Z</updated>
         <content type="html"><![CDATA[아롱이다롱이]]></content>
     </entry>
 </feed>
