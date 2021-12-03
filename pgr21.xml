@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-03T04:30:51.055Z</updated>
+    <updated>2021-12-03T05:21:08.182Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 강동원 닮은 용접공]]></title>
+        <id>https://ppt21.com/spoent/64721?category=2</id>
+        <link href="https://ppt21.com/spoent/64721?category=2"/>
+        <updated>2021-12-03T05:20:58.350Z</updated>
+        <content type="html"><![CDATA[인간흑인대머리남캐]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 무럭무럭 자라나는 일본의 한류 유스풀]]></title>
         <id>https://ppt21.com/spoent/64715?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64685?category=2"/>
         <updated>2021-12-01T04:30:53.358Z</updated>
         <content type="html"><![CDATA[EpicSide]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 30일자 넷플릭스 월드랭킹 top10 정리]]></title>
-        <id>https://ppt21.com/spoent/64681?category=2</id>
-        <link href="https://ppt21.com/spoent/64681?category=2"/>
-        <updated>2021-11-30T23:23:31.377Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
     </entry>
 </feed>
