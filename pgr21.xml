@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-04T09:23:28.268Z</updated>
+    <updated>2021-12-04T10:25:54.470Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 시실리 2㎞' 신정원 감독 급성 패혈증으로 사망…향년 47세]]></title>
+        <id>https://ppt21.com/spoent/64740?category=2</id>
+        <link href="https://ppt21.com/spoent/64740?category=2"/>
+        <updated>2021-12-04T10:25:45.431Z</updated>
+        <content type="html"><![CDATA[핑크솔져]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 아이브 초동 10만장 돌파]]></title>
         <id>https://ppt21.com/spoent/64738?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64708?category=2"/>
         <updated>2021-12-02T11:19:03.846Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 유튜브 오피셜 2021년 국내 최고 인기 뮤직비디오 Top 10]]></title>
-        <id>https://ppt21.com/spoent/64707?category=2</id>
-        <link href="https://ppt21.com/spoent/64707?category=2"/>
-        <updated>2021-12-02T10:25:02.930Z</updated>
-        <content type="html"><![CDATA[VictoryFood]]></content>
     </entry>
 </feed>
