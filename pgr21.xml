@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-04T06:27:32.062Z</updated>
+    <updated>2021-12-04T07:22:16.154Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 아이브 초동 10만장 돌파]]></title>
+        <id>https://ppt21.com/spoent/64738?category=2</id>
+        <link href="https://ppt21.com/spoent/64738?category=2"/>
+        <updated>2021-12-04T07:22:02.901Z</updated>
+        <content type="html"><![CDATA[묘이 미나]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 성덕 스파이더맨]]></title>
         <id>https://ppt21.com/spoent/64736?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64707?category=2"/>
         <updated>2021-12-02T10:25:02.930Z</updated>
         <content type="html"><![CDATA[VictoryFood]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 딸이 결혼하면 아내랑 사는게 두려운 이경규의 계획.jpg]]></title>
-        <id>https://ppt21.com/spoent/64700?category=2</id>
-        <link href="https://ppt21.com/spoent/64700?category=2"/>
-        <updated>2021-12-02T01:12:19.285Z</updated>
-        <content type="html"><![CDATA[너]]></content>
     </entry>
 </feed>
