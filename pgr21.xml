@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-04T11:19:28.654Z</updated>
+    <updated>2021-12-04T12:36:27.653Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 2021 멜론 뮤직어워드 수상 내역]]></title>
+        <id>https://ppt21.com/spoent/64741?category=2</id>
+        <link href="https://ppt21.com/spoent/64741?category=2"/>
+        <updated>2021-12-04T12:36:16.917Z</updated>
+        <content type="html"><![CDATA[KIMTAEYEON]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 시실리 2㎞' 신정원 감독 급성 패혈증으로 사망…향년 47세]]></title>
         <id>https://ppt21.com/spoent/64740?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64709?category=2"/>
         <updated>2021-12-02T13:27:25.083Z</updated>
         <content type="html"><![CDATA[VictoryFood]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [아이브] 'ELEVEN' 1theK 퍼포먼스 영상 + 응원법]]></title>
-        <id>https://ppt21.com/spoent/64708?category=2</id>
-        <link href="https://ppt21.com/spoent/64708?category=2"/>
-        <updated>2021-12-02T11:19:03.846Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
