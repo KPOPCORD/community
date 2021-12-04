@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-04T14:20:32.965Z</updated>
+    <updated>2021-12-04T15:24:46.200Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [아이브] 공중파 3사 합동 음악방송.jpg]]></title>
+        <id>https://ppt21.com/spoent/64745?category=2</id>
+        <link href="https://ppt21.com/spoent/64745?category=2"/>
+        <updated>2021-12-04T15:24:11.925Z</updated>
+        <content type="html"><![CDATA[VictoryFood]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] bts 진이 방금전 올린 신곡]]></title>
         <id>https://ppt21.com/spoent/64743?category=2</id>
         <link href="https://ppt21.com/spoent/64743?category=2"/>
         <updated>2021-12-04T14:20:23.103Z</updated>
         <content type="html"><![CDATA[너]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 박정자씨 인터뷰]]></title>
+        <id>https://ppt21.com/spoent/64742?category=2</id>
+        <link href="https://ppt21.com/spoent/64742?category=2"/>
+        <updated>2021-12-04T15:24:11.926Z</updated>
+        <content type="html"><![CDATA[어강됴리]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 2021 멜론 뮤직어워드 수상 내역]]></title>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/64712?category=2"/>
         <updated>2021-12-02T17:30:25.901Z</updated>
         <content type="html"><![CDATA[어강됴리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [니쥬] 1주년이라고 퍼포먼스 영상 쏟아내는 중.ytb]]></title>
-        <id>https://ppt21.com/spoent/64711?category=2</id>
-        <link href="https://ppt21.com/spoent/64711?category=2"/>
-        <updated>2021-12-02T16:35:28.910Z</updated>
-        <content type="html"><![CDATA[VictoryFood]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [트와이스] 일본 싱글 도넛(Doughnut) Music Video]]></title>
-        <id>https://ppt21.com/spoent/64710?category=2</id>
-        <link href="https://ppt21.com/spoent/64710?category=2"/>
-        <updated>2021-12-02T15:22:27.007Z</updated>
-        <content type="html"><![CDATA[VictoryFood]]></content>
     </entry>
 </feed>
