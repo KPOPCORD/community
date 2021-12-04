@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2021-12-03T23:23:05.151Z</updated>
+    <updated>2021-12-04T01:11:38.114Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[엔하이픈 선우 위버스]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2263069112</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2263069112"/>
+        <updated>2021-12-04T01:11:37.310Z</updated>
+        <content type="html"><![CDATA[302839]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김재환 [💿] KIMJAEHWAN 4th MINI ALBUM 'THE LETTER' COMING SOON]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2263058818</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2263058818"/>
+        <updated>2021-12-04T01:11:37.311Z</updated>
+        <content type="html"><![CDATA[302838]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[에이티즈 ATEEZ ZERO : FEVER EPILOGUE 흥 : 興 : Heung Concept Photo]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2263038967</id>
@@ -130,19 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2262468986"/>
         <updated>2021-12-03T10:25:52.033Z</updated>
         <content type="html"><![CDATA[302820]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이브 공트]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2262465074</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2262465074"/>
-        <updated>2021-12-03T10:25:52.057Z</updated>
-        <content type="html"><![CDATA[302819]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하이라이트 완판상사 구조조정!? 시민들의 찐 취향조사! - 1일1깡 해야지!? | [시즌2 EP1]]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2262453868</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2262453868"/>
-        <updated>2021-12-03T10:25:52.057Z</updated>
-        <content type="html"><![CDATA[302818]]></content>
     </entry>
 </feed>
