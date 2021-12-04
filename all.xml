@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-04T10:25:54.464Z</updated>
+    <updated>2021-12-04T11:19:28.647Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[연예] 시실리 2㎞' 신정원 감독 급성 패혈증으로 사망…향년 47세 (Pgr21 ─ 연예)]]></title>
@@ -138,6 +138,27 @@
         <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[방탄 진 슈퍼참치 선공개❗❗❗ (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2263655419</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2263655419"/>
+        <updated>2021-12-04T11:19:27.833Z</updated>
+        <content type="html"><![CDATA[302852]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[투바투 멜뮤어워드 수상cut(올해의 뮤직비디오상) (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2263647584</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2263647584"/>
+        <updated>2021-12-04T11:19:27.843Z</updated>
+        <content type="html"><![CDATA[302851]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[베리베리 - Christmas Light (원곡 Coldplay) 커버 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2263642367</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2263642367"/>
+        <updated>2021-12-04T11:19:27.861Z</updated>
+        <content type="html"><![CDATA[302850]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[아이유 MMA TOP10 최다 수상자래! (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2263556886</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2263556886"/>
@@ -255,26 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2263173317"/>
         <updated>2021-12-04T03:23:36.963Z</updated>
         <content type="html"><![CDATA[302833]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔하이픈 선우 위버스 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2263069112</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2263069112"/>
-        <updated>2021-12-04T01:11:37.310Z</updated>
-        <content type="html"><![CDATA[302832]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김재환 [💿] KIMJAEHWAN 4th MINI ALBUM 'THE LETTER' COMING SOON (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2263058818</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2263058818"/>
-        <updated>2021-12-04T01:11:37.311Z</updated>
-        <content type="html"><![CDATA[302831]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에이티즈 ATEEZ ZERO : FEVER EPILOGUE 흥 : 興 : Heung Concept Photo (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2263038967</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2263038967"/>
-        <updated>2021-12-03T22:22:52.331Z</updated>
-        <content type="html"><![CDATA[302830]]></content>
     </entry>
 </feed>
