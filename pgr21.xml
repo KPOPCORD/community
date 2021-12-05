@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-05T11:19:06.860Z</updated>
+    <updated>2021-12-05T12:35:06.868Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 28살 꼬시는 44살 아재.jpg]]></title>
+        <id>https://ppt21.com/spoent/64763?category=2</id>
+        <link href="https://ppt21.com/spoent/64763?category=2"/>
+        <updated>2021-12-05T12:34:57.028Z</updated>
+        <content type="html"><![CDATA[일사칠사백사]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 스타쉽 신인 걸그룹 아이브의 현재 음원 음반 상황.jpg]]></title>
+        <id>https://ppt21.com/spoent/64762?category=2</id>
+        <link href="https://ppt21.com/spoent/64762?category=2"/>
+        <updated>2021-12-05T12:34:57.029Z</updated>
+        <content type="html"><![CDATA[위르겐클롭]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 높은 완성도의 쿠팡 오리지널 드라마 '어느날']]></title>
         <id>https://ppt21.com/spoent/64761?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/64724?category=2"/>
         <updated>2021-12-03T06:27:15.527Z</updated>
         <content type="html"><![CDATA[리노]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 타블로피셜 "윤하는 에픽하이의 3번째 멤버"]]></title>
-        <id>https://ppt21.com/spoent/64723?category=2</id>
-        <link href="https://ppt21.com/spoent/64723?category=2"/>
-        <updated>2021-12-03T06:27:15.527Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 강동원 닮은 용접공]]></title>
-        <id>https://ppt21.com/spoent/64721?category=2</id>
-        <link href="https://ppt21.com/spoent/64721?category=2"/>
-        <updated>2021-12-03T05:20:58.350Z</updated>
-        <content type="html"><![CDATA[인간흑인대머리남캐]]></content>
     </entry>
 </feed>
