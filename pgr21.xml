@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-05T12:35:06.868Z</updated>
+    <updated>2021-12-05T13:27:05.796Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 아이유, 김세정, 유나의 셀카]]></title>
+        <id>https://ppt21.com/spoent/64767?category=2</id>
+        <link href="https://ppt21.com/spoent/64767?category=2"/>
+        <updated>2021-12-05T13:26:35.851Z</updated>
+        <content type="html"><![CDATA[묻고 더블로 가!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 외모지상주의는 본능.jpg]]></title>
+        <id>https://ppt21.com/spoent/64765?category=2</id>
+        <link href="https://ppt21.com/spoent/64765?category=2"/>
+        <updated>2021-12-05T13:26:35.852Z</updated>
+        <content type="html"><![CDATA[VictoryFood]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 28살 꼬시는 44살 아재.jpg]]></title>
         <id>https://ppt21.com/spoent/64763?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/64728?category=2"/>
         <updated>2021-12-03T12:35:32.477Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 방탄 내년 3월 서울콘 예정 (#PTD_ON_STAGE_SEOUL)]]></title>
-        <id>https://ppt21.com/spoent/64726?category=2</id>
-        <link href="https://ppt21.com/spoent/64726?category=2"/>
-        <updated>2021-12-03T07:22:06.000Z</updated>
-        <content type="html"><![CDATA[로즈마리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [러블리즈] 케이, 시아준수 소속사와 전속계약..솔로 활동 박차]]></title>
-        <id>https://ppt21.com/spoent/64724?category=2</id>
-        <link href="https://ppt21.com/spoent/64724?category=2"/>
-        <updated>2021-12-03T06:27:15.527Z</updated>
-        <content type="html"><![CDATA[리노]]></content>
     </entry>
 </feed>
