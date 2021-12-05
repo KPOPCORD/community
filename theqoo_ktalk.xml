@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2021-12-05T21:19:37.058Z</updated>
+    <updated>2021-12-05T22:22:27.901Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[방탄 진 위버스 업뎃 1, 2]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2265324766</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2265324766"/>
+        <updated>2021-12-05T22:22:27.290Z</updated>
+        <content type="html"><![CDATA[302915]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엔하이픈 정원 위버스 포스트 ❤]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2265150766</id>
@@ -137,12 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2264699817"/>
         <updated>2021-12-05T10:25:03.020Z</updated>
         <content type="html"><![CDATA[302896]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[VIDEO] 민현(뉴이스트) - 모든 날을 너와 함께 할게 (옷소매 붉은 끝동 OST) 녹음실 Full ver]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2264692822</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2264692822"/>
-        <updated>2021-12-05T10:25:03.022Z</updated>
-        <content type="html"><![CDATA[302895]]></content>
     </entry>
 </feed>
