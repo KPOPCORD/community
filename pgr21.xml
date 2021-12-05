@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-05T10:25:03.744Z</updated>
+    <updated>2021-12-05T11:19:06.860Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 높은 완성도의 쿠팡 오리지널 드라마 '어느날']]></title>
+        <id>https://ppt21.com/spoent/64761?category=2</id>
+        <link href="https://ppt21.com/spoent/64761?category=2"/>
+        <updated>2021-12-05T11:18:49.092Z</updated>
+        <content type="html"><![CDATA[핑크솔져]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 넷플릭스 <지금 우리 학교는> 심의 결과]]></title>
         <id>https://ppt21.com/spoent/64760?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64721?category=2"/>
         <updated>2021-12-03T05:20:58.350Z</updated>
         <content type="html"><![CDATA[인간흑인대머리남캐]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 무럭무럭 자라나는 일본의 한류 유스풀]]></title>
-        <id>https://ppt21.com/spoent/64715?category=2</id>
-        <link href="https://ppt21.com/spoent/64715?category=2"/>
-        <updated>2021-12-02T22:22:54.626Z</updated>
-        <content type="html"><![CDATA[어강됴리]]></content>
     </entry>
 </feed>
