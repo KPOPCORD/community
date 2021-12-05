@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2021-12-05T03:24:04.663Z</updated>
+    <updated>2021-12-05T04:31:05.876Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[스걸파 마스터별 원팀 미션 예상 크루]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2264394833</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2264394833"/>
+        <updated>2021-12-05T04:31:04.848Z</updated>
+        <content type="html"><![CDATA[302890]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[케플러 데뷔 일정 연기…현장 스태프 확진 여파 (전문) [공식]]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2264377852</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2264377852"/>
+        <updated>2021-12-05T04:31:04.870Z</updated>
+        <content type="html"><![CDATA[302889]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Xdinary Heroes (엑스디너리 히어로즈) 자필 프로필]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2264342796</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2264342796"/>
+        <updated>2021-12-05T04:31:04.871Z</updated>
+        <content type="html"><![CDATA[302888]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[투바투 자체예능 투두 EP.61 썸네일]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2264341638</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2264341638"/>
+        <updated>2021-12-05T04:31:04.872Z</updated>
+        <content type="html"><![CDATA[302887]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[🎵] UNIVERSE MUSIC MV Full ver. on YouTube RELEASE SCHEDULE📆]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2264327817</id>
@@ -116,33 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2263976408"/>
         <updated>2021-12-04T15:24:45.460Z</updated>
         <content type="html"><![CDATA[302871]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔하이픈 니키 멤트🥲]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2263950413</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2263950413"/>
-        <updated>2021-12-04T15:24:45.460Z</updated>
-        <content type="html"><![CDATA[302870]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔하이픈 제이크 멤트☺️]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2263943469</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2263943469"/>
-        <updated>2021-12-04T15:24:45.460Z</updated>
-        <content type="html"><![CDATA[302869]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔하이픈 정원 멤트♥️]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2263941146</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2263941146"/>
-        <updated>2021-12-04T15:24:45.460Z</updated>
-        <content type="html"><![CDATA[302868]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방탄 제이홉 위버스 모먼트]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2263935462</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2263935462"/>
-        <updated>2021-12-04T15:24:45.460Z</updated>
-        <content type="html"><![CDATA[302867]]></content>
     </entry>
 </feed>
