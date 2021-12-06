@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-06T13:29:13.020Z</updated>
+    <updated>2021-12-06T14:21:43.858Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [런닝맨] 겁없는 김종국 앞담화와 잘못된 방향의 사과]]></title>
+        <id>https://ppt21.com/spoent/64789?category=2</id>
+        <link href="https://ppt21.com/spoent/64789?category=2"/>
+        <updated>2021-12-06T14:21:33.948Z</updated>
+        <content type="html"><![CDATA[A1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 대대로 둘째가 리더를 맡고 있는 스타쉽 걸그룹]]></title>
         <id>https://ppt21.com/spoent/64787?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64762?category=2"/>
         <updated>2021-12-05T12:34:57.029Z</updated>
         <content type="html"><![CDATA[위르겐클롭]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 높은 완성도의 쿠팡 오리지널 드라마 '어느날']]></title>
-        <id>https://ppt21.com/spoent/64761?category=2</id>
-        <link href="https://ppt21.com/spoent/64761?category=2"/>
-        <updated>2021-12-05T11:18:49.092Z</updated>
-        <content type="html"><![CDATA[핑크솔져]]></content>
     </entry>
 </feed>
