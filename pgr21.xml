@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-06T14:21:43.858Z</updated>
+    <updated>2021-12-06T15:25:13.024Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [아이유] 2021 멜론뮤직어워드 무대 영상]]></title>
+        <id>https://ppt21.com/spoent/64790?category=2</id>
+        <link href="https://ppt21.com/spoent/64790?category=2"/>
+        <updated>2021-12-06T15:25:01.961Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [런닝맨] 겁없는 김종국 앞담화와 잘못된 방향의 사과]]></title>
         <id>https://ppt21.com/spoent/64789?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64763?category=2"/>
         <updated>2021-12-05T12:34:57.028Z</updated>
         <content type="html"><![CDATA[일사칠사백사]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 스타쉽 신인 걸그룹 아이브의 현재 음원 음반 상황.jpg]]></title>
-        <id>https://ppt21.com/spoent/64762?category=2</id>
-        <link href="https://ppt21.com/spoent/64762?category=2"/>
-        <updated>2021-12-05T12:34:57.029Z</updated>
-        <content type="html"><![CDATA[위르겐클롭]]></content>
     </entry>
 </feed>
