@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-06T03:24:02.096Z</updated>
+    <updated>2021-12-06T04:32:17.854Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 2021년 12월 첫째주 D-차트 : 아이유 1위 탈환! 비오 3위-SF9 8위]]></title>
+        <id>https://ppt21.com/spoent/64779?category=2</id>
+        <link href="https://ppt21.com/spoent/64779?category=2"/>
+        <updated>2021-12-06T04:32:06.754Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 솔비 근황]]></title>
+        <id>https://ppt21.com/spoent/64778?category=2</id>
+        <link href="https://ppt21.com/spoent/64778?category=2"/>
+        <updated>2021-12-06T04:32:06.754Z</updated>
+        <content type="html"><![CDATA[중상주의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [트와이스] TTT 크라임씬 시즌2 1화 사진, 움짤 (데이터주의)]]></title>
         <id>https://ppt21.com/spoent/64777?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/64741?category=2"/>
         <updated>2021-12-04T12:36:16.917Z</updated>
         <content type="html"><![CDATA[KIMTAEYEON]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 시실리 2㎞' 신정원 감독 급성 패혈증으로 사망…향년 47세]]></title>
-        <id>https://ppt21.com/spoent/64740?category=2</id>
-        <link href="https://ppt21.com/spoent/64740?category=2"/>
-        <updated>2021-12-04T10:25:45.431Z</updated>
-        <content type="html"><![CDATA[핑크솔져]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 아이브 초동 12만장 돌파]]></title>
-        <id>https://ppt21.com/spoent/64738?category=2</id>
-        <link href="https://ppt21.com/spoent/64738?category=2"/>
-        <updated>2021-12-04T07:22:02.901Z</updated>
-        <content type="html"><![CDATA[묘이 미나]]></content>
     </entry>
 </feed>
