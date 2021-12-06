@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-06T09:24:28.489Z</updated>
+    <updated>2021-12-06T10:26:17.654Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [BTS] 멤버 개인 인스타 오픈]]></title>
+        <id>https://ppt21.com/spoent/64785?category=2</id>
+        <link href="https://ppt21.com/spoent/64785?category=2"/>
+        <updated>2021-12-06T10:26:06.290Z</updated>
+        <content type="html"><![CDATA[Bronx Bombers]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 김수미 曰 장동민 결혼하면 집 사주겟다.jpg]]></title>
+        <id>https://ppt21.com/spoent/64784?category=2</id>
+        <link href="https://ppt21.com/spoent/64784?category=2"/>
+        <updated>2021-12-06T10:26:06.292Z</updated>
+        <content type="html"><![CDATA[insane]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 프로그램 캐리하는 폼 좋은 예능 탱커]]></title>
         <id>https://ppt21.com/spoent/64782?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/64752?category=2"/>
         <updated>2021-12-05T02:40:32.362Z</updated>
         <content type="html"><![CDATA[NetGO]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [아이브] 공중파 3사 합동 음악방송.jpg]]></title>
-        <id>https://ppt21.com/spoent/64745?category=2</id>
-        <link href="https://ppt21.com/spoent/64745?category=2"/>
-        <updated>2021-12-04T15:24:11.925Z</updated>
-        <content type="html"><![CDATA[VictoryFood]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] bts 진이 방금전 올린 신곡]]></title>
-        <id>https://ppt21.com/spoent/64743?category=2</id>
-        <link href="https://ppt21.com/spoent/64743?category=2"/>
-        <updated>2021-12-04T14:20:23.103Z</updated>
-        <content type="html"><![CDATA[너]]></content>
     </entry>
 </feed>
