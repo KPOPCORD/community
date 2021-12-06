@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-06T10:26:17.654Z</updated>
+    <updated>2021-12-06T11:19:39.795Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 대대로 둘째가 리더를 맡고 있는 스타쉽 걸그룹]]></title>
+        <id>https://ppt21.com/spoent/64787?category=2</id>
+        <link href="https://ppt21.com/spoent/64787?category=2"/>
+        <updated>2021-12-06T11:19:06.623Z</updated>
+        <content type="html"><![CDATA[VictoryFood]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 김종국 너 축구 개못하잖아]]></title>
+        <id>https://ppt21.com/spoent/64786?category=2</id>
+        <link href="https://ppt21.com/spoent/64786?category=2"/>
+        <updated>2021-12-06T11:19:06.623Z</updated>
+        <content type="html"><![CDATA[손금불산입]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [BTS] 멤버 개인 인스타 오픈]]></title>
         <id>https://ppt21.com/spoent/64785?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/64761?category=2"/>
         <updated>2021-12-05T11:18:49.092Z</updated>
         <content type="html"><![CDATA[핑크솔져]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 넷플릭스 <지금 우리 학교는> 심의 결과]]></title>
-        <id>https://ppt21.com/spoent/64760?category=2</id>
-        <link href="https://ppt21.com/spoent/64760?category=2"/>
-        <updated>2021-12-05T10:24:49.579Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 운동뚱 발가락 골절]]></title>
-        <id>https://ppt21.com/spoent/64752?category=2</id>
-        <link href="https://ppt21.com/spoent/64752?category=2"/>
-        <updated>2021-12-05T02:40:32.362Z</updated>
-        <content type="html"><![CDATA[NetGO]]></content>
     </entry>
 </feed>
