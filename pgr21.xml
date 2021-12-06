@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-06T01:14:26.307Z</updated>
+    <updated>2021-12-06T02:38:32.850Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [트와이스] TTT 크라임씬 시즌2 1화 사진, 움짤 (데이터주의)]]></title>
+        <id>https://ppt21.com/spoent/64777?category=2</id>
+        <link href="https://ppt21.com/spoent/64777?category=2"/>
+        <updated>2021-12-06T02:38:21.233Z</updated>
+        <content type="html"><![CDATA[그10번]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 혁신적인 시즌그리팅]]></title>
+        <id>https://ppt21.com/spoent/64776?category=2</id>
+        <link href="https://ppt21.com/spoent/64776?category=2"/>
+        <updated>2021-12-06T02:38:21.233Z</updated>
+        <content type="html"><![CDATA[껌정]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 빅뱅 태양, 아빠 됐다…민효린 '득남']]></title>
+        <id>https://ppt21.com/spoent/64775?category=2</id>
+        <link href="https://ppt21.com/spoent/64775?category=2"/>
+        <updated>2021-12-06T02:38:21.237Z</updated>
+        <content type="html"><![CDATA[아르타니스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 안녕하세요. 최예나 입니다.]]></title>
+        <id>https://ppt21.com/spoent/64774?category=2</id>
+        <link href="https://ppt21.com/spoent/64774?category=2"/>
+        <updated>2021-12-06T02:38:21.238Z</updated>
+        <content type="html"><![CDATA[발적화]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 방탄소년단 장기휴가 공지]]></title>
+        <id>https://ppt21.com/spoent/64773?category=2</id>
+        <link href="https://ppt21.com/spoent/64773?category=2"/>
+        <updated>2021-12-06T02:38:21.238Z</updated>
+        <content type="html"><![CDATA[Leeka]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 밑에 소년팬 뿐아니라 넉살도 감동시킨 손흥민 유니폼]]></title>
         <id>https://ppt21.com/spoent/64772?category=2</id>
@@ -102,40 +137,5 @@
         <link href="https://ppt21.com/spoent/64738?category=2"/>
         <updated>2021-12-04T07:22:02.901Z</updated>
         <content type="html"><![CDATA[묘이 미나]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 성덕 스파이더맨]]></title>
-        <id>https://ppt21.com/spoent/64736?category=2</id>
-        <link href="https://ppt21.com/spoent/64736?category=2"/>
-        <updated>2021-12-03T23:22:50.690Z</updated>
-        <content type="html"><![CDATA[어강됴리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 쥬리와 가은의 부산여행 (자막 유)]]></title>
-        <id>https://ppt21.com/spoent/64735?category=2</id>
-        <link href="https://ppt21.com/spoent/64735?category=2"/>
-        <updated>2021-12-03T20:23:59.951Z</updated>
-        <content type="html"><![CDATA[어강됴리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [JYPn] 릴리M, 2015년 vs 2021년.ytb (feat.Roar)]]></title>
-        <id>https://ppt21.com/spoent/64733?category=2</id>
-        <link href="https://ppt21.com/spoent/64733?category=2"/>
-        <updated>2021-12-03T15:24:40.652Z</updated>
-        <content type="html"><![CDATA[VictoryFood]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 온앤오프(ONF) 6th미니앨범이 공개되었습니다, +Goosebumps MV, 직캠, 응원법]]></title>
-        <id>https://ppt21.com/spoent/64731?category=2</id>
-        <link href="https://ppt21.com/spoent/64731?category=2"/>
-        <updated>2021-12-03T13:27:41.878Z</updated>
-        <content type="html"><![CDATA[별빛정원]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 드디어 킬링보이스에 나오는 벨트누나.jpg]]></title>
-        <id>https://ppt21.com/spoent/64729?category=2</id>
-        <link href="https://ppt21.com/spoent/64729?category=2"/>
-        <updated>2021-12-03T12:35:32.474Z</updated>
-        <content type="html"><![CDATA[insane]]></content>
     </entry>
 </feed>
