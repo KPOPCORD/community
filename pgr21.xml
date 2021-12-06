@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-06T15:25:13.024Z</updated>
+    <updated>2021-12-06T16:30:51.214Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 음원, 음반, 유튜브 다 잡은 갓 데뷔한 신인걸그룹 IVE 아이브]]></title>
+        <id>https://ppt21.com/spoent/64792?category=2</id>
+        <link href="https://ppt21.com/spoent/64792?category=2"/>
+        <updated>2021-12-06T16:30:38.570Z</updated>
+        <content type="html"><![CDATA[아롱이다롱이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [아이유] 2021 멜론뮤직어워드 무대 영상]]></title>
         <id>https://ppt21.com/spoent/64790?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64765?category=2"/>
         <updated>2021-12-05T13:26:35.852Z</updated>
         <content type="html"><![CDATA[VictoryFood]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 28살 꼬시는 44살 아재.jpg]]></title>
-        <id>https://ppt21.com/spoent/64763?category=2</id>
-        <link href="https://ppt21.com/spoent/64763?category=2"/>
-        <updated>2021-12-05T12:34:57.028Z</updated>
-        <content type="html"><![CDATA[일사칠사백사]]></content>
     </entry>
 </feed>
