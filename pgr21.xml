@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-07T09:25:13.851Z</updated>
+    <updated>2021-12-07T10:27:26.553Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 킬링보이스 윤하]]></title>
+        <id>https://ppt21.com/spoent/64808?category=2</id>
+        <link href="https://ppt21.com/spoent/64808?category=2"/>
+        <updated>2021-12-07T10:27:16.352Z</updated>
+        <content type="html"><![CDATA[껌정]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [아이브] 데뷔앨범 초동 15만 돌파.JPG]]></title>
         <id>https://ppt21.com/spoent/64807?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64782?category=2"/>
         <updated>2021-12-06T07:22:25.634Z</updated>
         <content type="html"><![CDATA[손금불산입]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [아이브] 07년생 막내에게 초근접샷 시전.gif]]></title>
-        <id>https://ppt21.com/spoent/64780?category=2</id>
-        <link href="https://ppt21.com/spoent/64780?category=2"/>
-        <updated>2021-12-06T05:22:24.341Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
