@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-07T22:23:34.166Z</updated>
+    <updated>2021-12-07T23:24:01.764Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 배성재 놀리려고 배텐 오는 꼰지애]]></title>
+        <id>https://ppt21.com/spoent/64819?category=2</id>
+        <link href="https://ppt21.com/spoent/64819?category=2"/>
+        <updated>2021-12-07T23:23:51.371Z</updated>
+        <content type="html"><![CDATA[강가딘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] Xdinary Heroes "Happy Death Day" M/V]]></title>
         <id>https://ppt21.com/spoent/64818?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64792?category=2"/>
         <updated>2021-12-06T16:30:38.570Z</updated>
         <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [아이유] 2021 멜론뮤직어워드 무대 영상]]></title>
-        <id>https://ppt21.com/spoent/64790?category=2</id>
-        <link href="https://ppt21.com/spoent/64790?category=2"/>
-        <updated>2021-12-06T15:25:01.961Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
