@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-07T14:23:14.193Z</updated>
+    <updated>2021-12-07T15:27:27.958Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] IVE 아이브 'ELEVEN' DANCE PRACTICE (Fix ver.) + etc]]></title>
+        <id>https://ppt21.com/spoent/64816?category=2</id>
+        <link href="https://ppt21.com/spoent/64816?category=2"/>
+        <updated>2021-12-07T15:27:17.544Z</updated>
+        <content type="html"><![CDATA[아롱이다롱이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 인스타그램 팔로워 1500만을 넘긴 한국인들]]></title>
         <id>https://ppt21.com/spoent/64814?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64787?category=2"/>
         <updated>2021-12-06T11:19:06.623Z</updated>
         <content type="html"><![CDATA[VictoryFood]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 김종국 너 축구 개못하잖아]]></title>
-        <id>https://ppt21.com/spoent/64786?category=2</id>
-        <link href="https://ppt21.com/spoent/64786?category=2"/>
-        <updated>2021-12-06T11:19:06.623Z</updated>
-        <content type="html"><![CDATA[손금불산입]]></content>
     </entry>
 </feed>
