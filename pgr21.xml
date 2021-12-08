@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-07T23:24:01.764Z</updated>
+    <updated>2021-12-08T01:14:54.525Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 2021 KBS 가요대축제 라인업]]></title>
+        <id>https://ppt21.com/spoent/64823?category=2</id>
+        <link href="https://ppt21.com/spoent/64823?category=2"/>
+        <updated>2021-12-08T01:14:44.543Z</updated>
+        <content type="html"><![CDATA[아롱이다롱이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 배성재 놀리려고 배텐 오는 꼰지애]]></title>
         <id>https://ppt21.com/spoent/64819?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64794?category=2"/>
         <updated>2021-12-07T07:22:57.903Z</updated>
         <content type="html"><![CDATA[너]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 음원, 음반, 유튜브 다 잡은 갓 데뷔한 신인걸그룹 IVE 아이브]]></title>
-        <id>https://ppt21.com/spoent/64792?category=2</id>
-        <link href="https://ppt21.com/spoent/64792?category=2"/>
-        <updated>2021-12-06T16:30:38.570Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
     </entry>
 </feed>
