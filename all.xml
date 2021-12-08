@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-08T06:28:14.071Z</updated>
+    <updated>2021-12-08T07:22:38.567Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[연예] 2021년 크리스마스 씰.jpg (Pgr21 ─ 연예)]]></title>
@@ -138,6 +138,20 @@
         <content type="html"><![CDATA[insane]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[김민주 인스타 업뎃 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2268242984</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2268242984"/>
+        <updated>2021-12-08T07:22:37.814Z</updated>
+        <content type="html"><![CDATA[302999]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[누가 정리해달라길래 올리는 골디 누적 & 30일 누적 음원 순위 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2268235036</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2268235036"/>
+        <updated>2021-12-08T07:22:37.829Z</updated>
+        <content type="html"><![CDATA[302998]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[투바투 연준 멤트 (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2268182597</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2268182597"/>
@@ -262,19 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2267734102"/>
         <updated>2021-12-07T17:32:16.957Z</updated>
         <content type="html"><![CDATA[302980]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔하이픈 선우 멤트 (성훈 생축) 🎂 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2267702264</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2267702264"/>
-        <updated>2021-12-07T16:37:30.436Z</updated>
-        <content type="html"><![CDATA[302979]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔하이픈 제이크 멤트 (성훈 생축)😊 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2267700893</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2267700893"/>
-        <updated>2021-12-07T16:37:30.437Z</updated>
-        <content type="html"><![CDATA[302978]]></content>
     </entry>
 </feed>
