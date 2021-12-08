@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2021-12-08T10:25:42.209Z</updated>
+    <updated>2021-12-08T11:19:41.759Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[박지훈 윙케이드3 HOMECOMWING-DAY🎁 "충격" 치료의 정체는?!👨🏻 ⚕]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2268514324</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2268514324"/>
+        <updated>2021-12-08T11:19:41.048Z</updated>
+        <content type="html"><![CDATA[303009]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엑디즈 자컨 XQXA 티저]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2268452421</id>
@@ -137,12 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2268046796"/>
         <updated>2021-12-08T04:30:52.379Z</updated>
         <content type="html"><![CDATA[302990]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[골디 겹치는거 정리해드림]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2268006258</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2268006258"/>
-        <updated>2021-12-08T03:23:50.299Z</updated>
-        <content type="html"><![CDATA[302989]]></content>
     </entry>
 </feed>

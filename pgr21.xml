@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-08T10:25:42.304Z</updated>
+    <updated>2021-12-08T11:19:41.760Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] BBC "오징어게임은 TV 혁명의 시작"]]></title>
+        <id>https://ppt21.com/spoent/64839?category=2</id>
+        <link href="https://ppt21.com/spoent/64839?category=2"/>
+        <updated>2021-12-08T11:19:31.512Z</updated>
+        <content type="html"><![CDATA[핑크솔져]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [아이브] 쇼챔피언 1위, 걸그룹 최단기간 음방 1위 신기록 달성]]></title>
         <id>https://ppt21.com/spoent/64837?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64805?category=2"/>
         <updated>2021-12-07T07:22:57.895Z</updated>
         <content type="html"><![CDATA[우주전쟁]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 아빠 닮앗다는 말에 눈물터진 딸.jpy]]></title>
-        <id>https://ppt21.com/spoent/64804?category=2</id>
-        <link href="https://ppt21.com/spoent/64804?category=2"/>
-        <updated>2021-12-07T07:22:57.896Z</updated>
-        <content type="html"><![CDATA[insane]]></content>
     </entry>
 </feed>
