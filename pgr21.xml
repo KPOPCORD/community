@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-08T11:19:41.760Z</updated>
+    <updated>2021-12-08T12:37:08.400Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [AKB48] 본점 조각 결과 - 팀B 캡틴 아사이 나나미]]></title>
+        <id>https://ppt21.com/spoent/64840?category=2</id>
+        <link href="https://ppt21.com/spoent/64840?category=2"/>
+        <updated>2021-12-08T12:36:57.905Z</updated>
+        <content type="html"><![CDATA[Dr. ShuRA]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] BBC "오징어게임은 TV 혁명의 시작"]]></title>
         <id>https://ppt21.com/spoent/64839?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64806?category=2"/>
         <updated>2021-12-07T07:22:57.893Z</updated>
         <content type="html"><![CDATA[강가딘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 2022년 주요 개봉 예정작들...]]></title>
-        <id>https://ppt21.com/spoent/64805?category=2</id>
-        <link href="https://ppt21.com/spoent/64805?category=2"/>
-        <updated>2021-12-07T07:22:57.895Z</updated>
-        <content type="html"><![CDATA[우주전쟁]]></content>
     </entry>
 </feed>
