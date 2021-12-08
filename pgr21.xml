@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-08T04:30:53.331Z</updated>
+    <updated>2021-12-08T05:22:24.668Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 축구할때 섹시해지는 아나운서.JPG]]></title>
+        <id>https://ppt21.com/spoent/64831?category=2</id>
+        <link href="https://ppt21.com/spoent/64831?category=2"/>
+        <updated>2021-12-08T05:22:00.700Z</updated>
+        <content type="html"><![CDATA[insane]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 방탄소년단 진이 가벼운 마음으로 공개한 노래 근황.jpg]]></title>
+        <id>https://ppt21.com/spoent/64829?category=2</id>
+        <link href="https://ppt21.com/spoent/64829?category=2"/>
+        <updated>2021-12-08T05:22:00.701Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 도대체 무슨 조합인지 알수 없는 이번 MAMA 콜라보]]></title>
         <id>https://ppt21.com/spoent/64825?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/64798?category=2"/>
         <updated>2021-12-07T07:22:57.900Z</updated>
         <content type="html"><![CDATA[알콜프리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 싱어게인 시즌2 1화 영상들]]></title>
-        <id>https://ppt21.com/spoent/64797?category=2</id>
-        <link href="https://ppt21.com/spoent/64797?category=2"/>
-        <updated>2021-12-07T07:22:57.901Z</updated>
-        <content type="html"><![CDATA[빼사스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 아니 그걸 왜 니들이??? (feat. BTS, 군대)]]></title>
-        <id>https://ppt21.com/spoent/64796?category=2</id>
-        <link href="https://ppt21.com/spoent/64796?category=2"/>
-        <updated>2021-12-07T07:22:57.902Z</updated>
-        <content type="html"><![CDATA[Cafe_Seokguram]]></content>
     </entry>
 </feed>
