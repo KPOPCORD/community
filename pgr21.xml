@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-08T02:39:21.419Z</updated>
+    <updated>2021-12-08T03:23:50.995Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 도대체 무슨 조합인지 알수 없는 이번 MAMA 콜라보]]></title>
+        <id>https://ppt21.com/spoent/64825?category=2</id>
+        <link href="https://ppt21.com/spoent/64825?category=2"/>
+        <updated>2021-12-08T03:23:41.861Z</updated>
+        <content type="html"><![CDATA[Anti-MAGE]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 2021 KBS 가요대축제 라인업]]></title>
         <id>https://ppt21.com/spoent/64823?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64796?category=2"/>
         <updated>2021-12-07T07:22:57.902Z</updated>
         <content type="html"><![CDATA[Cafe_Seokguram]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 신입사원 : "대표가 마음에 들지 않으면 싸우겠다"]]></title>
-        <id>https://ppt21.com/spoent/64794?category=2</id>
-        <link href="https://ppt21.com/spoent/64794?category=2"/>
-        <updated>2021-12-07T07:22:57.903Z</updated>
-        <content type="html"><![CDATA[너]]></content>
     </entry>
 </feed>
