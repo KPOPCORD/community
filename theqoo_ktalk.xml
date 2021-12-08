@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2021-12-08T05:22:24.672Z</updated>
+    <updated>2021-12-08T06:28:14.066Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[투바투 연준 멤트]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2268182597</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2268182597"/>
+        <updated>2021-12-08T06:28:13.348Z</updated>
+        <content type="html"><![CDATA[302997]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stray Kids(스트레이 키즈) 2022 SEASON'S GREETINGS Garden in ROOM TEASER IMAGE]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2268179986</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2268179986"/>
+        <updated>2021-12-08T06:28:13.350Z</updated>
+        <content type="html"><![CDATA[302996]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[디스패치 포토x방탄소년단 화보]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2268168560</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2268168560"/>
+        <updated>2021-12-08T06:28:13.355Z</updated>
+        <content type="html"><![CDATA[302995]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[12월31일-1월1일 킨텍스합동공연]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2268119578</id>
@@ -123,26 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2267700893"/>
         <updated>2021-12-07T16:37:30.437Z</updated>
         <content type="html"><![CDATA[302978]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔하이픈 정원 멤트 (성훈 생축) 😋]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2267700298</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2267700298"/>
-        <updated>2021-12-07T16:37:30.437Z</updated>
-        <content type="html"><![CDATA[302977]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엑디즈 라디오에서 쓴 프로필]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2267671031</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2267671031"/>
-        <updated>2021-12-07T16:37:30.438Z</updated>
-        <content type="html"><![CDATA[302976]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에이티즈 최산 트위터 업데이트 ⛰]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2267659427</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2267659427"/>
-        <updated>2021-12-07T16:37:30.438Z</updated>
-        <content type="html"><![CDATA[302975]]></content>
     </entry>
 </feed>
