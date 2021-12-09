@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-09T15:25:03.675Z</updated>
+    <updated>2021-12-09T16:36:15.011Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 신인걸그룹 IVE 아이브의 멜론(한국) + 월드멜론(스포티파이) 추이]]></title>
+        <id>https://ppt21.com/spoent/64867?category=2</id>
+        <link href="https://ppt21.com/spoent/64867?category=2"/>
+        <updated>2021-12-09T16:35:48.590Z</updated>
+        <content type="html"><![CDATA[아롱이다롱이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [아이브] 스타쉽 댄스 메들리 + 1theK 보컬 커버 + 팬클럽명 확정]]></title>
         <id>https://ppt21.com/spoent/64866?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64829?category=2"/>
         <updated>2021-12-08T05:22:00.701Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 도대체 무슨 조합인지 알수 없는 이번 MAMA 콜라보]]></title>
-        <id>https://ppt21.com/spoent/64825?category=2</id>
-        <link href="https://ppt21.com/spoent/64825?category=2"/>
-        <updated>2021-12-08T03:23:41.861Z</updated>
-        <content type="html"><![CDATA[Anti-MAGE]]></content>
     </entry>
 </feed>
