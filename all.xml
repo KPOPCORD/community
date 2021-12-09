@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-09T16:36:15.021Z</updated>
+    <updated>2021-12-09T17:29:57.642Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] 지드래곤 근황 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/64868?category=2</id>
+        <link href="https://ppt21.com/spoent/64868?category=2"/>
+        <updated>2021-12-09T17:29:46.472Z</updated>
+        <content type="html"><![CDATA[어강됴리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 신인걸그룹 IVE 아이브의 멜론(한국) + 월드멜론(스포티파이) 추이 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/64867?category=2</id>
@@ -129,13 +136,6 @@
         <link href="https://ppt21.com/spoent/64831?category=2"/>
         <updated>2021-12-08T05:22:00.700Z</updated>
         <content type="html"><![CDATA[insane]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 방탄소년단 진이 가벼운 마음으로 공개한 노래 근황.jpg (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/64829?category=2</id>
-        <link href="https://ppt21.com/spoent/64829?category=2"/>
-        <updated>2021-12-08T05:22:00.701Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[엔하이픈 니키 멤트 🎂❤🔥 (더쿠 ─ 케이돌토크)]]></title>
