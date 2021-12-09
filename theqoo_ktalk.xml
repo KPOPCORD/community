@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2021-12-09T12:37:03.086Z</updated>
+    <updated>2021-12-09T13:29:16.144Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[윤은혜, 코로나19 확진 “집식구 확진에 검사→격리중]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2269817049</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2269817049"/>
+        <updated>2021-12-09T13:29:15.399Z</updated>
+        <content type="html"><![CDATA[303050]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스키즈 승민 인스타그램🐶🍒 #스키즈코드]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2269814172</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2269814172"/>
+        <updated>2021-12-09T13:29:15.400Z</updated>
+        <content type="html"><![CDATA[303049]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[태민 '미로' Performed by 우주소녀 여름]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2269762103</id>
@@ -130,19 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2269391082"/>
         <updated>2021-12-09T07:22:28.375Z</updated>
         <content type="html"><![CDATA[303031]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stray Kids(스트레이 키즈) 2022 SEASON'S GREETINGS Garden in ROOM TEASER IMAGE]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2269345124</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2269345124"/>
-        <updated>2021-12-09T06:28:16.191Z</updated>
-        <content type="html"><![CDATA[303030]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021년 유튜브뮤직 국내 연간 TOP100]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2269290020</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2269290020"/>
-        <updated>2021-12-09T05:21:52.068Z</updated>
-        <content type="html"><![CDATA[303029]]></content>
     </entry>
 </feed>
