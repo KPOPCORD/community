@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2021-12-09T11:19:38.904Z</updated>
+    <updated>2021-12-09T12:37:03.086Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[태민 '미로' Performed by 우주소녀 여름]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2269762103</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2269762103"/>
+        <updated>2021-12-09T12:37:02.324Z</updated>
+        <content type="html"><![CDATA[303048]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MAPS 1월호 표지모델 박지훈]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2269728448</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2269728448"/>
+        <updated>2021-12-09T12:37:02.331Z</updated>
+        <content type="html"><![CDATA[303047]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[방탄 진 위버스]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2269695287</id>
@@ -130,19 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2269290020"/>
         <updated>2021-12-09T05:21:52.068Z</updated>
         <content type="html"><![CDATA[303029]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔하이픈 제이크 멤트 (니키생축)😊👍]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2269287414</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2269287414"/>
-        <updated>2021-12-09T05:21:52.069Z</updated>
-        <content type="html"><![CDATA[303028]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독]이달의 소녀 소속사, 이번엔 ‘헤·메 스타일링 비용’ 미지급 논란]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2269280928</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2269280928"/>
-        <updated>2021-12-09T05:21:52.076Z</updated>
-        <content type="html"><![CDATA[303027]]></content>
     </entry>
 </feed>
