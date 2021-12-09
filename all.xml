@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-09T13:29:16.140Z</updated>
+    <updated>2021-12-09T14:21:50.153Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[연예] 이채연이 연기에 도전합니다. (Pgr21 ─ 연예)]]></title>
@@ -138,6 +138,27 @@
         <content type="html"><![CDATA[아롱이다롱이]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[2022 빅톤 VICTON COMEBACK SPOILER (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2269918897</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2269918897"/>
+        <updated>2021-12-09T14:21:49.463Z</updated>
+        <content type="html"><![CDATA[303053]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아이브 팬클럽명 공개 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2269918862</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2269918862"/>
+        <updated>2021-12-09T14:21:49.468Z</updated>
+        <content type="html"><![CDATA[303052]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[씨아이엑스 승훈 트위터 업뎃💛 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2269913847</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2269913847"/>
+        <updated>2021-12-09T14:21:49.473Z</updated>
+        <content type="html"><![CDATA[303051]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[윤은혜, 코로나19 확진 “집식구 확진에 검사→격리중 (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2269817049</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2269817049"/>
@@ -255,26 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2269492604"/>
         <updated>2021-12-09T08:27:57.166Z</updated>
         <content type="html"><![CDATA[303034]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방탄 진 위버스 업뎃 "이게 휴가냐!!!!!!" (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2269451487</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2269451487"/>
-        <updated>2021-12-09T08:27:57.185Z</updated>
-        <content type="html"><![CDATA[303033]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AB6IX 박우진 이대휘, 우진이 본가 강아지들과 부산 여행 예능 🐶어바웃펫 하울링캠프 EP.1🐶 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2269448627</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2269448627"/>
-        <updated>2021-12-09T08:27:57.185Z</updated>
-        <content type="html"><![CDATA[303032]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독] '번지점프를 하다' 드라마화 무산.."원작자 신념 존중" (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2269391082</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2269391082"/>
-        <updated>2021-12-09T07:22:28.375Z</updated>
-        <content type="html"><![CDATA[303031]]></content>
     </entry>
 </feed>
