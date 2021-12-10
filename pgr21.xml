@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-10T12:36:23.097Z</updated>
+    <updated>2021-12-10T13:28:16.730Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [우당탕탕 안테나] 현설을 노래하다]]></title>
+        <id>https://ppt21.com/spoent/64880?category=2</id>
+        <link href="https://ppt21.com/spoent/64880?category=2"/>
+        <updated>2021-12-10T13:28:06.002Z</updated>
+        <content type="html"><![CDATA[A1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 2천 3백 8십만]]></title>
         <id>https://ppt21.com/spoent/64876?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64837?category=2"/>
         <updated>2021-12-08T10:25:32.512Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 2021년 크리스마스 씰.jpg]]></title>
-        <id>https://ppt21.com/spoent/64835?category=2</id>
-        <link href="https://ppt21.com/spoent/64835?category=2"/>
-        <updated>2021-12-08T06:28:01.017Z</updated>
-        <content type="html"><![CDATA[멀면 벙커링]]></content>
     </entry>
 </feed>
