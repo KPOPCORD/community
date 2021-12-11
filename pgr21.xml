@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-10T23:23:18.109Z</updated>
+    <updated>2021-12-11T01:12:18.786Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 윤하 콘서트에 화환 보낸.JYP]]></title>
+        <id>https://ppt21.com/spoent/64887?category=2</id>
+        <link href="https://ppt21.com/spoent/64887?category=2"/>
+        <updated>2021-12-11T01:12:07.848Z</updated>
+        <content type="html"><![CDATA[insane]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 안테나 유희열 코로나 확진]]></title>
+        <id>https://ppt21.com/spoent/64885?category=2</id>
+        <link href="https://ppt21.com/spoent/64885?category=2"/>
+        <updated>2021-12-11T01:12:07.850Z</updated>
+        <content type="html"><![CDATA[EpicSide]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] NCT U 엔시티 유 'Universe (Let's Play Ball)' MV]]></title>
         <id>https://ppt21.com/spoent/64881?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/64841?category=2"/>
         <updated>2021-12-08T14:21:52.489Z</updated>
         <content type="html"><![CDATA[달리와]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [AKB48] 본점 조각 결과 - 팀B 캡틴 아사이 나나미]]></title>
-        <id>https://ppt21.com/spoent/64840?category=2</id>
-        <link href="https://ppt21.com/spoent/64840?category=2"/>
-        <updated>2021-12-08T12:36:57.905Z</updated>
-        <content type="html"><![CDATA[Dr. ShuRA]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] BBC "오징어게임은 TV 혁명의 시작"]]></title>
-        <id>https://ppt21.com/spoent/64839?category=2</id>
-        <link href="https://ppt21.com/spoent/64839?category=2"/>
-        <updated>2021-12-08T11:19:31.512Z</updated>
-        <content type="html"><![CDATA[핑크솔져]]></content>
     </entry>
 </feed>

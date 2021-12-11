@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-10T23:23:18.113Z</updated>
+    <updated>2021-12-11T01:12:18.789Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] 윤하 콘서트에 화환 보낸.JYP (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/64887?category=2</id>
+        <link href="https://ppt21.com/spoent/64887?category=2"/>
+        <updated>2021-12-11T01:12:07.848Z</updated>
+        <content type="html"><![CDATA[insane]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 안테나 유희열 코로나 확진 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/64885?category=2</id>
+        <link href="https://ppt21.com/spoent/64885?category=2"/>
+        <updated>2021-12-11T01:12:07.850Z</updated>
+        <content type="html"><![CDATA[EpicSide]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] NCT U 엔시티 유 'Universe (Let's Play Ball)' MV (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/64881?category=2</id>
@@ -124,157 +138,143 @@
         <content type="html"><![CDATA[달리와]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[연예] [AKB48] 본점 조각 결과 - 팀B 캡틴 아사이 나나미 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/64840?category=2</id>
-        <link href="https://ppt21.com/spoent/64840?category=2"/>
-        <updated>2021-12-08T12:36:57.905Z</updated>
-        <content type="html"><![CDATA[Dr. ShuRA]]></content>
+        <title type="html"><![CDATA[투바투 EUPHORIA 매거진 인스타스토리 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2271578638</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2271578638"/>
+        <updated>2021-12-11T01:12:17.982Z</updated>
+        <content type="html"><![CDATA[300470]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[연예] BBC "오징어게임은 TV 혁명의 시작" (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/64839?category=2</id>
-        <link href="https://ppt21.com/spoent/64839?category=2"/>
-        <updated>2021-12-08T11:19:31.512Z</updated>
-        <content type="html"><![CDATA[핑크솔져]]></content>
+        <title type="html"><![CDATA[워너원, 코로나19 음성→‘MAMA’ 사녹완료 “생방송은 불참”[전문] (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2271571215</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2271571215"/>
+        <updated>2021-12-11T01:12:17.998Z</updated>
+        <content type="html"><![CDATA[300469]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유희열, 코로나19 확진 "돌파 감염"[공식] (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2271552240</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2271552240"/>
+        <updated>2021-12-11T01:12:18.009Z</updated>
+        <content type="html"><![CDATA[300468]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[퍼플키스, 18일 데뷔 첫 윈터송 'My My' 발매..크리스마스 분위기 (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2271545771</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2271545771"/>
         <updated>2021-12-10T23:23:17.312Z</updated>
-        <content type="html"><![CDATA[300465]]></content>
+        <content type="html"><![CDATA[300467]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[방탄 제이홉 인스타업🌟 (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2271543248</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2271543248"/>
         <updated>2021-12-10T23:23:17.315Z</updated>
-        <content type="html"><![CDATA[300464]]></content>
+        <content type="html"><![CDATA[300466]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[강다니엘 회사 코로나 사과문ㅇㅇ (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2271374329</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2271374329"/>
         <updated>2021-12-10T16:36:10.882Z</updated>
-        <content type="html"><![CDATA[300463]]></content>
+        <content type="html"><![CDATA[300465]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[WOODZ(우즈 조승연) 단독콘서트 'The Invisible City' 컨셉 스포일러 (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2271367609</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2271367609"/>
         <updated>2021-12-10T16:36:10.882Z</updated>
-        <content type="html"><![CDATA[300462]]></content>
+        <content type="html"><![CDATA[300464]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[마마무 문별 ‘G999 (feat. 미란이)' Live Clip TEASER (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2271275235</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2271275235"/>
         <updated>2021-12-10T15:26:09.658Z</updated>
-        <content type="html"><![CDATA[300461]]></content>
+        <content type="html"><![CDATA[300463]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[💿] 김재환 4th MINI ALBUM 'THE LETTER' Concept Photo #6 (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2271272646</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2271272646"/>
         <updated>2021-12-10T15:26:09.674Z</updated>
-        <content type="html"><![CDATA[300460]]></content>
+        <content type="html"><![CDATA[300462]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[CIX 씨아이엑스 배진영 트위터 인스타그램 업뎃💜 (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2271264779</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2271264779"/>
         <updated>2021-12-10T15:26:09.674Z</updated>
-        <content type="html"><![CDATA[300459]]></content>
+        <content type="html"><![CDATA[300461]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[WOODZ(우즈 조승연) '엄마는 아이돌' 셀카 (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2271230704</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2271230704"/>
         <updated>2021-12-10T15:26:09.679Z</updated>
-        <content type="html"><![CDATA[300458]]></content>
+        <content type="html"><![CDATA[300460]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[스키즈 승민 인스타그램🐶🍒 (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2271225249</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2271225249"/>
         <updated>2021-12-10T15:26:09.681Z</updated>
-        <content type="html"><![CDATA[300457]]></content>
+        <content type="html"><![CDATA[300459]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[원걸덬이 주관적으로 생각하는 민선예 레전드 무대들 모음 (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2271214331</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2271214331"/>
         <updated>2021-12-10T14:22:31.746Z</updated>
-        <content type="html"><![CDATA[300456]]></content>
+        <content type="html"><![CDATA[300458]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[워너원 사녹 최종 공지 (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2271187038</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2271187038"/>
         <updated>2021-12-10T14:22:31.747Z</updated>
-        <content type="html"><![CDATA[300455]]></content>
+        <content type="html"><![CDATA[300457]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[NME 선정 The 50 best albums of 2021 38위 투바투 The Chaos Chapter: FREEZE (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2271165140</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2271165140"/>
         <updated>2021-12-10T14:22:31.747Z</updated>
-        <content type="html"><![CDATA[300454]]></content>
+        <content type="html"><![CDATA[300456]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[더보이즈 현재 위더보 (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2271139790</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2271139790"/>
         <updated>2021-12-10T14:22:31.747Z</updated>
-        <content type="html"><![CDATA[300453]]></content>
+        <content type="html"><![CDATA[300455]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[GHOST9 Go!9cam] WooJinWoo(우진,진우)! WoW ~ (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2271117174</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2271117174"/>
         <updated>2021-12-10T13:28:16.059Z</updated>
-        <content type="html"><![CDATA[300452]]></content>
+        <content type="html"><![CDATA[300454]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[씨아이엑스 승훈 현석 인스타그램 트위터 업뎃💛❤️ (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2271096720</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2271096720"/>
         <updated>2021-12-10T13:28:16.060Z</updated>
-        <content type="html"><![CDATA[300451]]></content>
+        <content type="html"><![CDATA[300453]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뉴이스트 황민현, 코로나19 음성.."스태프 전원 음성" [공식] (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2271065847</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2271065847"/>
         <updated>2021-12-10T12:36:22.415Z</updated>
-        <content type="html"><![CDATA[300450]]></content>
+        <content type="html"><![CDATA[300452]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[워너원 전원 음성 (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2271046264</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2271046264"/>
         <updated>2021-12-10T12:36:22.417Z</updated>
-        <content type="html"><![CDATA[300449]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Live Clip] 강다니엘(KANGDANIEL) - White Christmas (Cover) (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2270925165</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2270925165"/>
-        <updated>2021-12-10T11:19:44.524Z</updated>
-        <content type="html"><![CDATA[300448]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뮤뱅] Xdinary Heroes/엑디즈 데뷔무대 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2270869368</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2270869368"/>
-        <updated>2021-12-10T10:25:53.799Z</updated>
-        <content type="html"><![CDATA[300447]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[네이버 포스트] '어서 오세요! 와리와리 파크에 오신 것을 환영합니다!' 와리와리 파크 캐스트로 변신한 투모로우바이투게더를 만날 수 있는 2022 Season’s Greetings 비하인드로 '뿔지기'가 초대합니다! 🎡🎢🧸 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2270862120</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2270862120"/>
-        <updated>2021-12-10T10:25:53.810Z</updated>
-        <content type="html"><![CDATA[300446]]></content>
+        <content type="html"><![CDATA[300451]]></content>
     </entry>
 </feed>
