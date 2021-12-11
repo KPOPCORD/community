@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-11T05:20:41.404Z</updated>
+    <updated>2021-12-11T06:27:13.985Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 문득 다시 본 1박 2일 전설의 씨름부 회식. 그 비용은?]]></title>
+        <id>https://ppt21.com/spoent/64894?category=2</id>
+        <link href="https://ppt21.com/spoent/64894?category=2"/>
+        <updated>2021-12-11T06:26:53.024Z</updated>
+        <content type="html"><![CDATA[카루오스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 역대 KBS 대하드라마 시리즈 방영리스트.TXT]]></title>
+        <id>https://ppt21.com/spoent/64893?category=2</id>
+        <link href="https://ppt21.com/spoent/64893?category=2"/>
+        <updated>2021-12-11T06:26:53.025Z</updated>
+        <content type="html"><![CDATA[비타에듀]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 윤하 콘서트에 화환 보낸.JYP]]></title>
         <id>https://ppt21.com/spoent/64887?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/64846?category=2"/>
         <updated>2021-12-08T17:28:57.892Z</updated>
         <content type="html"><![CDATA[insane]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 2000년대에 내한한 한국에서 핫했던 팝가수]]></title>
-        <id>https://ppt21.com/spoent/64845?category=2</id>
-        <link href="https://ppt21.com/spoent/64845?category=2"/>
-        <updated>2021-12-08T15:25:10.036Z</updated>
-        <content type="html"><![CDATA[kien.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [스포] 현재 댓글 폭발한 엠팍 골때녀 게시물]]></title>
-        <id>https://ppt21.com/spoent/64841?category=2</id>
-        <link href="https://ppt21.com/spoent/64841?category=2"/>
-        <updated>2021-12-08T14:21:52.489Z</updated>
-        <content type="html"><![CDATA[달리와]]></content>
     </entry>
 </feed>
