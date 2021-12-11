@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2021-12-11T02:39:19.352Z</updated>
+    <updated>2021-12-11T03:23:57.184Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[트라이비 & We Baby Bears - 바바송 Set2 멤버&유닛 이미지]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2271656723</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2271656723"/>
+        <updated>2021-12-11T03:23:56.238Z</updated>
+        <content type="html"><![CDATA[300470]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(골든차일드) [EP.0] 이 각박한 유튜브 세상 속에서 알고리즘 정복하기 | 알고리즘 실험단]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2271654472</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2271654472"/>
+        <updated>2021-12-11T03:23:56.238Z</updated>
+        <content type="html"><![CDATA[300469]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['싱어게인2' 측 "유희열 증상 확인→녹화 불참..윤종신 투입" [공식]]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2271619621</id>
@@ -130,19 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2271165140"/>
         <updated>2021-12-10T14:22:31.747Z</updated>
         <content type="html"><![CDATA[300451]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더보이즈 현재 위더보]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2271139790</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2271139790"/>
-        <updated>2021-12-10T14:22:31.747Z</updated>
-        <content type="html"><![CDATA[300450]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[GHOST9 Go!9cam] WooJinWoo(우진,진우)! WoW ~]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2271117174</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2271117174"/>
-        <updated>2021-12-10T13:28:16.059Z</updated>
-        <content type="html"><![CDATA[300449]]></content>
     </entry>
 </feed>
