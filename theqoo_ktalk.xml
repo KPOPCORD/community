@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2021-12-11T17:27:57.583Z</updated>
+    <updated>2021-12-11T18:26:39.736Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2021 마마 수상자 한눈에 보기!]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2272675176</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2272675176"/>
+        <updated>2021-12-11T18:26:38.987Z</updated>
+        <content type="html"><![CDATA[300521]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[방탄 지민 위버스 업뎃 #우리아미상받았네]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2272668397</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2272668397"/>
+        <updated>2021-12-11T18:26:38.988Z</updated>
+        <content type="html"><![CDATA[300520]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MAMA 황민현 얼굴 움짤 모음.gif]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2272648574</id>
@@ -130,19 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2272409178"/>
         <updated>2021-12-11T15:23:12.791Z</updated>
         <content type="html"><![CDATA[300502]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔하이픈 마마 무대 영상 (+댄브 풀캠)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2272394912</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2272394912"/>
-        <updated>2021-12-11T14:20:28.224Z</updated>
-        <content type="html"><![CDATA[300501]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방탄소년단 역대 대상 63회 수상 (new)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2272393808</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2272393808"/>
-        <updated>2021-12-11T14:20:28.250Z</updated>
-        <content type="html"><![CDATA[300500]]></content>
     </entry>
 </feed>
