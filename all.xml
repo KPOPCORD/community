@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-11T16:34:29.534Z</updated>
+    <updated>2021-12-11T17:27:57.580Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] 풍류대장 10화 리뷰 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/64901?category=2</id>
+        <link href="https://ppt21.com/spoent/64901?category=2"/>
+        <updated>2021-12-11T17:27:47.748Z</updated>
+        <content type="html"><![CDATA[도롱롱롱롱롱이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 대물림 되는 태종 이방원 > 태조 이성계 역 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/64899?category=2</id>
@@ -131,11 +138,25 @@
         <content type="html"><![CDATA[강가딘]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[연예] 오늘 10대 마지막 생일 맞은 아이돌.gif (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/64853?category=2</id>
-        <link href="https://ppt21.com/spoent/64853?category=2"/>
-        <updated>2021-12-09T02:38:07.479Z</updated>
-        <content type="html"><![CDATA[Anti-MAGE]]></content>
+        <title type="html"><![CDATA[MAMA 황민현 얼굴 움짤 모음.gif (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2272648574</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2272648574"/>
+        <updated>2021-12-11T17:27:56.823Z</updated>
+        <content type="html"><![CDATA[300519]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[투바투 마마 무대 싱크 밀림 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2272611659</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2272611659"/>
+        <updated>2021-12-11T17:27:56.823Z</updated>
+        <content type="html"><![CDATA[300518]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[춤 맛깔나게 추는 엔하이픈 정원 모음 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2272609461</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2272609461"/>
+        <updated>2021-12-11T17:27:56.823Z</updated>
+        <content type="html"><![CDATA[300517]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[투바투 마마 안무영상 칼군무 부분 (더쿠 ─ 케이돌토크)]]></title>
@@ -255,26 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2272393808"/>
         <updated>2021-12-11T14:20:28.250Z</updated>
         <content type="html"><![CDATA[300500]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#오늘의TXT] 211211 #투모로우바이투게더 의 메세지 💌 WORLDWIDE FANS’ CHOICE TOP 10 🏆 #모아 감사합니다 💖 #TXT_Frost #LOSER_LOVER @ 2021 MAMA (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2272389653</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2272389653"/>
-        <updated>2021-12-11T14:20:28.251Z</updated>
-        <content type="html"><![CDATA[300499]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[투바투 수빈 트윗 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2272387211</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2272387211"/>
-        <updated>2021-12-11T14:20:28.260Z</updated>
-        <content type="html"><![CDATA[300498]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ITZY Performance Practice | MAMA 2021 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2272379199</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2272379199"/>
-        <updated>2021-12-11T14:20:28.263Z</updated>
-        <content type="html"><![CDATA[300497]]></content>
     </entry>
 </feed>
