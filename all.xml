@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-11T11:20:29.766Z</updated>
+    <updated>2021-12-11T12:35:07.061Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] 홍철아 비트코인 많이 올랐던데 그대로 갖고 있는 거지?.gfy (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/64895?category=2</id>
+        <link href="https://ppt21.com/spoent/64895?category=2"/>
+        <updated>2021-12-11T12:34:55.761Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 문득 다시 본 1박 2일 전설의 씨름부 회식. 그 비용은? (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/64894?category=2</id>
@@ -131,11 +138,11 @@
         <content type="html"><![CDATA[어강됴리]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[연예] 역대급 대진이 펼쳐진 풍류대장 10회.mp4 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/64846?category=2</id>
-        <link href="https://ppt21.com/spoent/64846?category=2"/>
-        <updated>2021-12-08T17:28:57.892Z</updated>
-        <content type="html"><![CDATA[insane]]></content>
+        <title type="html"><![CDATA[워너원 뷰티풀 part3.twt (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2272207447</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2272207447"/>
+        <updated>2021-12-11T12:35:06.379Z</updated>
+        <content type="html"><![CDATA[300480]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[2021 MAMA] ITZY - LOCO (MAMA ver.) + In the morning (MAMA ver.) (더쿠 ─ 케이돌토크)]]></title>
@@ -269,12 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2271374329"/>
         <updated>2021-12-10T16:36:10.882Z</updated>
         <content type="html"><![CDATA[300461]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WOODZ(우즈 조승연) 단독콘서트 'The Invisible City' 컨셉 스포일러 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2271367609</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2271367609"/>
-        <updated>2021-12-10T16:36:10.882Z</updated>
-        <content type="html"><![CDATA[300460]]></content>
     </entry>
 </feed>

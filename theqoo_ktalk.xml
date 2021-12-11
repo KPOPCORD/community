@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2021-12-11T11:20:29.771Z</updated>
+    <updated>2021-12-11T12:35:07.067Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[워너원 뷰티풀 part3.twt]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2272207447</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2272207447"/>
+        <updated>2021-12-11T12:35:06.379Z</updated>
+        <content type="html"><![CDATA[300480]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[2021 MAMA] ITZY - LOCO (MAMA ver.) + In the morning (MAMA ver.)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2272086304</id>
@@ -137,12 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2271374329"/>
         <updated>2021-12-10T16:36:10.882Z</updated>
         <content type="html"><![CDATA[300461]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WOODZ(우즈 조승연) 단독콘서트 'The Invisible City' 컨셉 스포일러]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2271367609</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2271367609"/>
-        <updated>2021-12-10T16:36:10.882Z</updated>
-        <content type="html"><![CDATA[300460]]></content>
     </entry>
 </feed>
