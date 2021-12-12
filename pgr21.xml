@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-12T09:22:43.154Z</updated>
+    <updated>2021-12-12T10:24:58.865Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 이번 드라마 태종 이방원에서 나온 재밌는 설정]]></title>
+        <id>https://ppt21.com/spoent/64919?category=2</id>
+        <link href="https://ppt21.com/spoent/64919?category=2"/>
+        <updated>2021-12-12T10:24:49.898Z</updated>
+        <content type="html"><![CDATA[카루오스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예]  지석진 제 2의 전성기의 비결]]></title>
+        <id>https://ppt21.com/spoent/64918?category=2</id>
+        <link href="https://ppt21.com/spoent/64918?category=2"/>
+        <updated>2021-12-12T10:24:49.902Z</updated>
+        <content type="html"><![CDATA[TWICE쯔위]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 태종 또방원 1화 시청률 8.7%]]></title>
         <id>https://ppt21.com/spoent/64916?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/64880?category=2"/>
         <updated>2021-12-10T13:28:06.002Z</updated>
         <content type="html"><![CDATA[A1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 2천 3백 8십만]]></title>
-        <id>https://ppt21.com/spoent/64876?category=2</id>
-        <link href="https://ppt21.com/spoent/64876?category=2"/>
-        <updated>2021-12-10T08:28:57.365Z</updated>
-        <content type="html"><![CDATA[BTS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 충격적인 고요의 바다 티져]]></title>
-        <id>https://ppt21.com/spoent/64870?category=2</id>
-        <link href="https://ppt21.com/spoent/64870?category=2"/>
-        <updated>2021-12-10T01:13:34.715Z</updated>
-        <content type="html"><![CDATA[어강됴리]]></content>
     </entry>
 </feed>
