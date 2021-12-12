@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-12T06:26:51.127Z</updated>
+    <updated>2021-12-12T07:21:58.329Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 태종 또방원 1화 시청률 8.7%]]></title>
+        <id>https://ppt21.com/spoent/64916?category=2</id>
+        <link href="https://ppt21.com/spoent/64916?category=2"/>
+        <updated>2021-12-12T07:21:26.116Z</updated>
+        <content type="html"><![CDATA[valewalker]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 2021 MAMA 여자가수 무대 모음]]></title>
         <id>https://ppt21.com/spoent/64913?category=2</id>
@@ -129,13 +136,6 @@
         <id>https://ppt21.com/spoent/64870?category=2</id>
         <link href="https://ppt21.com/spoent/64870?category=2"/>
         <updated>2021-12-10T01:13:34.715Z</updated>
-        <content type="html"><![CDATA[어강됴리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 지드래곤 근황]]></title>
-        <id>https://ppt21.com/spoent/64868?category=2</id>
-        <link href="https://ppt21.com/spoent/64868?category=2"/>
-        <updated>2021-12-09T17:29:46.472Z</updated>
         <content type="html"><![CDATA[어강됴리]]></content>
     </entry>
 </feed>
