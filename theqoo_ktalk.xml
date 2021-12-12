@@ -2,35 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2021-12-11T23:22:58.674Z</updated>
+    <updated>2021-12-12T01:17:05.254Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[AB6IX 박우진X이대휘 ‘동물농장’ 출격‥반려견과 힐링 캠핑]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2272797049</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2272797049"/>
+        <updated>2021-12-12T01:17:04.432Z</updated>
+        <content type="html"><![CDATA[300523]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마마 시청률 0.8 / 0.9 / 1.0 이네]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2272786952</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2272786952"/>
+        <updated>2021-12-12T01:17:04.438Z</updated>
+        <content type="html"><![CDATA[300522]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[2021 MAMA] Wanna One(워너원) All Moments]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2272748812</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2272748812"/>
         <updated>2021-12-11T21:19:21.030Z</updated>
-        <content type="html"><![CDATA[300522]]></content>
+        <content type="html"><![CDATA[300521]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[요상하고 웃긴 방탄 슈퍼참치챌린지]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2272736949</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2272736949"/>
         <updated>2021-12-11T20:23:27.545Z</updated>
-        <content type="html"><![CDATA[300521]]></content>
+        <content type="html"><![CDATA[300520]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[투바투 범규 트윗🧸]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2272727236</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2272727236"/>
         <updated>2021-12-11T20:23:27.545Z</updated>
-        <content type="html"><![CDATA[300520]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 마마 수상자 한눈에 보기!]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2272675176</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2272675176"/>
-        <updated>2021-12-11T18:26:38.987Z</updated>
         <content type="html"><![CDATA[300519]]></content>
     </entry>
     <entry>
@@ -137,12 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2272430539"/>
         <updated>2021-12-11T15:23:12.787Z</updated>
         <content type="html"><![CDATA[300504]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[투바투 2021 MAMA Performance Dance Practice]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2272424972</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2272424972"/>
-        <updated>2021-12-11T15:23:12.788Z</updated>
-        <content type="html"><![CDATA[300503]]></content>
     </entry>
 </feed>
