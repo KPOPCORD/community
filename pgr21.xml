@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-12T14:20:51.622Z</updated>
+    <updated>2021-12-12T15:23:41.877Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] AKB48 미야자키 미호 졸업발표]]></title>
+        <id>https://ppt21.com/spoent/64922?category=2</id>
+        <link href="https://ppt21.com/spoent/64922?category=2"/>
+        <updated>2021-12-12T15:23:32.468Z</updated>
+        <content type="html"><![CDATA[cldn]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 사극 만렙 이민우&정태우&안재모가 출연한 역대 사극.TXT]]></title>
         <id>https://ppt21.com/spoent/64921?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64885?category=2"/>
         <updated>2021-12-11T01:12:07.850Z</updated>
         <content type="html"><![CDATA[EpicSide]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] NCT U 엔시티 유 'Universe (Let's Play Ball)' MV]]></title>
-        <id>https://ppt21.com/spoent/64881?category=2</id>
-        <link href="https://ppt21.com/spoent/64881?category=2"/>
-        <updated>2021-12-10T15:25:57.139Z</updated>
-        <content type="html"><![CDATA[미원]]></content>
     </entry>
 </feed>
