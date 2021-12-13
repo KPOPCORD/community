@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2021-12-13T13:29:06.696Z</updated>
+    <updated>2021-12-13T14:21:44.283Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[Code_9] GHOST9 (고스트나인) 'Control' 녹음실 비하인드]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2274964478</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2274964478"/>
+        <updated>2021-12-13T14:21:43.566Z</updated>
+        <content type="html"><![CDATA[300395]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하성운 <그해 우리는> OST '티격태격']]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2274942178</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2274942178"/>
+        <updated>2021-12-13T14:21:43.568Z</updated>
+        <content type="html"><![CDATA[300394]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 W Korea 1월호 #엔하이픈]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2274871984</id>
@@ -130,19 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2274448994"/>
         <updated>2021-12-13T08:27:55.389Z</updated>
         <content type="html"><![CDATA[300376]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘런닝맨’ 측 “오늘(13일) 유재석 없이 녹화 진행”(공식입장)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2274375768</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2274375768"/>
-        <updated>2021-12-13T07:22:43.040Z</updated>
-        <content type="html"><![CDATA[300375]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유재석, 코로나19 확진…"9월말 2차 접종까지 완료" [공식입장 전문]]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2274351809</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2274351809"/>
-        <updated>2021-12-13T06:28:10.196Z</updated>
-        <content type="html"><![CDATA[300374]]></content>
     </entry>
 </feed>

@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-13T13:29:06.687Z</updated>
+    <updated>2021-12-13T14:21:44.285Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] 태종 이방원에서 정말 반가웠던 배우.jpg (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/64952?category=2</id>
+        <link href="https://ppt21.com/spoent/64952?category=2"/>
+        <updated>2021-12-13T14:21:34.936Z</updated>
+        <content type="html"><![CDATA[valewalker]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [우당탕탕 안테나] 다른 장르로 재탄생한 고퀄의 사랑의 재개발 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/64949?category=2</id>
@@ -131,11 +138,18 @@
         <content type="html"><![CDATA[강가딘]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[연예] 언젠가 꼭 태조 이성계 역 하는 것을 보고 싶은 안재모 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/64905?category=2</id>
-        <link href="https://ppt21.com/spoent/64905?category=2"/>
-        <updated>2021-12-11T18:26:29.911Z</updated>
-        <content type="html"><![CDATA[VictoryFood]]></content>
+        <title type="html"><![CDATA[[Code_9] GHOST9 (고스트나인) 'Control' 녹음실 비하인드 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2274964478</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2274964478"/>
+        <updated>2021-12-13T14:21:43.566Z</updated>
+        <content type="html"><![CDATA[300395]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하성운 <그해 우리는> OST '티격태격' (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2274942178</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2274942178"/>
+        <updated>2021-12-13T14:21:43.568Z</updated>
+        <content type="html"><![CDATA[300394]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022 W Korea 1월호 #엔하이픈 (더쿠 ─ 케이돌토크)]]></title>
@@ -262,19 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2274448994"/>
         <updated>2021-12-13T08:27:55.389Z</updated>
         <content type="html"><![CDATA[300376]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘런닝맨’ 측 “오늘(13일) 유재석 없이 녹화 진행”(공식입장) (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2274375768</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2274375768"/>
-        <updated>2021-12-13T07:22:43.040Z</updated>
-        <content type="html"><![CDATA[300375]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유재석, 코로나19 확진…"9월말 2차 접종까지 완료" [공식입장 전문] (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2274351809</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2274351809"/>
-        <updated>2021-12-13T06:28:10.196Z</updated>
-        <content type="html"><![CDATA[300374]]></content>
     </entry>
 </feed>
