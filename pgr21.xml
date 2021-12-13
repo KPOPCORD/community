@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-13T02:38:20.590Z</updated>
+    <updated>2021-12-13T03:24:09.726Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 2021년 12월 둘째주 D-차트 : '신흥 음원강자' 비오 1위! IVE는 4위 진입]]></title>
+        <id>https://ppt21.com/spoent/64930?category=2</id>
+        <link href="https://ppt21.com/spoent/64930?category=2"/>
+        <updated>2021-12-13T03:23:58.557Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 넷플릭스 "고요의 바다" 촬영 비하인드 스틸]]></title>
         <id>https://ppt21.com/spoent/64929?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64894?category=2"/>
         <updated>2021-12-11T06:26:53.024Z</updated>
         <content type="html"><![CDATA[카루오스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 역대 KBS 대하드라마 시리즈 방영리스트.TXT]]></title>
-        <id>https://ppt21.com/spoent/64893?category=2</id>
-        <link href="https://ppt21.com/spoent/64893?category=2"/>
-        <updated>2021-12-11T06:26:53.025Z</updated>
-        <content type="html"><![CDATA[비타에듀]]></content>
     </entry>
 </feed>
