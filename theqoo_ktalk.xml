@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2021-12-13T12:36:52.347Z</updated>
+    <updated>2021-12-13T13:29:06.696Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 W Korea 1월호 #엔하이픈]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2274871984</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2274871984"/>
+        <updated>2021-12-13T13:29:05.713Z</updated>
+        <content type="html"><![CDATA[300393]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[로투킹 - 퀸덤 -킹덤 출연돌들 출연 이후 초동]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2274817125</id>
@@ -137,12 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2274351809"/>
         <updated>2021-12-13T06:28:10.196Z</updated>
         <content type="html"><![CDATA[300374]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리 식구됐어요 2화 예고편]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2274313424</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2274313424"/>
-        <updated>2021-12-13T06:28:10.196Z</updated>
-        <content type="html"><![CDATA[300373]]></content>
     </entry>
 </feed>
