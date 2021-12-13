@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-13T15:25:35.158Z</updated>
+    <updated>2021-12-13T16:36:13.176Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[연예] [싱어게인2] 2화 주요 영상들 (Pgr21 ─ 연예)]]></title>
@@ -138,6 +138,20 @@
         <content type="html"><![CDATA[빼사스]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[투바투 일본앨범 'Chaotic Wonderland (EP)' 빌보드200 차트인 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2275120970</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2275120970"/>
+        <updated>2021-12-13T16:36:12.449Z</updated>
+        <content type="html"><![CDATA[300403]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[투바투 태현 위버스 커버곡 (랩도 있음) (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2275112604</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2275112604"/>
+        <updated>2021-12-13T16:36:12.450Z</updated>
+        <content type="html"><![CDATA[300402]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[엔하이픈 성훈 위버스 (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2275065986</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2275065986"/>
@@ -262,19 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2274577598"/>
         <updated>2021-12-13T09:25:28.750Z</updated>
         <content type="html"><![CDATA[300384]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[용준&성규 _ 눈이 내리면 | 스페셜클립 | 라이브 | 4K (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2274573400</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2274573400"/>
-        <updated>2021-12-13T09:25:28.772Z</updated>
-        <content type="html"><![CDATA[300383]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[갓세븐 영재 Digital Single '같이 걸어가줘요' 2021.12.15 WED 6pm(KST) (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2274569300</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2274569300"/>
-        <updated>2021-12-13T09:25:28.773Z</updated>
-        <content type="html"><![CDATA[300382]]></content>
     </entry>
 </feed>
