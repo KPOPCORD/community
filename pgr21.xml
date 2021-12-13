@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-13T06:28:10.927Z</updated>
+    <updated>2021-12-13T07:22:43.799Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 유재석도 코로나 확진..]]></title>
+        <id>https://ppt21.com/spoent/64939?category=2</id>
+        <link href="https://ppt21.com/spoent/64939?category=2"/>
+        <updated>2021-12-13T07:22:30.147Z</updated>
+        <content type="html"><![CDATA[양념반자르반]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [태종이방원]방원과 방간의 갈등]]></title>
         <id>https://ppt21.com/spoent/64935?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64899?category=2"/>
         <updated>2021-12-11T15:23:03.977Z</updated>
         <content type="html"><![CDATA[Croove]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 2021 MAMA 수상 내역]]></title>
-        <id>https://ppt21.com/spoent/64897?category=2</id>
-        <link href="https://ppt21.com/spoent/64897?category=2"/>
-        <updated>2021-12-11T14:20:13.486Z</updated>
-        <content type="html"><![CDATA[KIMTAEYEON]]></content>
     </entry>
 </feed>
