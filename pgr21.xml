@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-12T23:22:57.128Z</updated>
+    <updated>2021-12-13T01:13:21.211Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 무대를 위해서 액션스쿨 다녔다는 여자아이돌.gif]]></title>
+        <id>https://ppt21.com/spoent/64925?category=2</id>
+        <link href="https://ppt21.com/spoent/64925?category=2"/>
+        <updated>2021-12-13T01:13:10.291Z</updated>
+        <content type="html"><![CDATA[Anti-MAGE]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] AKB48 미야자키 미호 졸업발표]]></title>
         <id>https://ppt21.com/spoent/64922?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64887?category=2"/>
         <updated>2021-12-11T01:12:07.848Z</updated>
         <content type="html"><![CDATA[insane]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 안테나 유희열 코로나 확진]]></title>
-        <id>https://ppt21.com/spoent/64885?category=2</id>
-        <link href="https://ppt21.com/spoent/64885?category=2"/>
-        <updated>2021-12-11T01:12:07.850Z</updated>
-        <content type="html"><![CDATA[EpicSide]]></content>
     </entry>
 </feed>
