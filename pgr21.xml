@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-13T07:22:43.799Z</updated>
+    <updated>2021-12-13T08:27:56.126Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 배우 박소담이 갑상선 유두암 진단을 받았다고 하네요.]]></title>
+        <id>https://ppt21.com/spoent/64942?category=2</id>
+        <link href="https://ppt21.com/spoent/64942?category=2"/>
+        <updated>2021-12-13T08:27:47.351Z</updated>
+        <content type="html"><![CDATA[아르타니스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 유재석도 코로나 확진..]]></title>
         <id>https://ppt21.com/spoent/64939?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64901?category=2"/>
         <updated>2021-12-11T17:27:47.748Z</updated>
         <content type="html"><![CDATA[도롱롱롱롱롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 대물림 되는 태종 이방원 > 태조 이성계 역]]></title>
-        <id>https://ppt21.com/spoent/64899?category=2</id>
-        <link href="https://ppt21.com/spoent/64899?category=2"/>
-        <updated>2021-12-11T15:23:03.977Z</updated>
-        <content type="html"><![CDATA[Croove]]></content>
     </entry>
 </feed>
