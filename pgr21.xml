@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-13T03:24:09.726Z</updated>
+    <updated>2021-12-13T04:30:52.450Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 오뚜기 광고를 두고 어필했던 스우파 멤버들.jpg]]></title>
+        <id>https://ppt21.com/spoent/64933?category=2</id>
+        <link href="https://ppt21.com/spoent/64933?category=2"/>
+        <updated>2021-12-13T04:30:40.913Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 2021년 12월 둘째주 D-차트 : '신흥 음원강자' 비오 1위! IVE는 4위 진입]]></title>
         <id>https://ppt21.com/spoent/64930?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64895?category=2"/>
         <updated>2021-12-11T12:34:55.761Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 문득 다시 본 1박 2일 전설의 씨름부 회식. 그 비용은?]]></title>
-        <id>https://ppt21.com/spoent/64894?category=2</id>
-        <link href="https://ppt21.com/spoent/64894?category=2"/>
-        <updated>2021-12-11T06:26:53.024Z</updated>
-        <content type="html"><![CDATA[카루오스]]></content>
     </entry>
 </feed>
