@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-14T04:30:41.032Z</updated>
+    <updated>2021-12-14T05:21:14.527Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] '코로나19 돌파감염' 유재석, 조심성이 확산 여파 막았다]]></title>
+        <id>https://ppt21.com/spoent/64969?category=2</id>
+        <link href="https://ppt21.com/spoent/64969?category=2"/>
+        <updated>2021-12-14T05:21:01.987Z</updated>
+        <content type="html"><![CDATA[Leeka]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] AKB 졸업을 발표한 <미야자키 미호> 가 인스타에 올린 내용]]></title>
+        <id>https://ppt21.com/spoent/64968?category=2</id>
+        <link href="https://ppt21.com/spoent/64968?category=2"/>
+        <updated>2021-12-14T05:21:01.987Z</updated>
+        <content type="html"><![CDATA[아롱이다롱이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 선예 '엄마는 아이돌'로 복귀→팬심 돌릴까]]></title>
         <id>https://ppt21.com/spoent/64961?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/64921?category=2"/>
         <updated>2021-12-12T14:20:33.015Z</updated>
         <content type="html"><![CDATA[비타에듀]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 이번 드라마 태종 이방원에서 나온 재밌는 설정]]></title>
-        <id>https://ppt21.com/spoent/64919?category=2</id>
-        <link href="https://ppt21.com/spoent/64919?category=2"/>
-        <updated>2021-12-12T10:24:49.898Z</updated>
-        <content type="html"><![CDATA[카루오스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예]  지석진 제 2의 전성기의 비결]]></title>
-        <id>https://ppt21.com/spoent/64918?category=2</id>
-        <link href="https://ppt21.com/spoent/64918?category=2"/>
-        <updated>2021-12-12T10:24:49.902Z</updated>
-        <content type="html"><![CDATA[TWICE쯔위]]></content>
     </entry>
 </feed>
