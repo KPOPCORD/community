@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-14T12:36:20.114Z</updated>
+    <updated>2021-12-14T13:29:16.188Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[연예] [이방원] 소소하지만 아마 다른사극에선 안했던 고증을 할 예정...jpg (Pgr21 ─ 연예)]]></title>
@@ -138,6 +138,13 @@
         <content type="html"><![CDATA[카루오스]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[스키즈 승민 인스타그램🐶🍒 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2276251301</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2276251301"/>
+        <updated>2021-12-14T13:29:15.398Z</updated>
+        <content type="html"><![CDATA[300428]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[투바투 2021 KBS 가요대축제 티저 FULLCAM (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2276192247</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2276192247"/>
@@ -269,12 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2275907525"/>
         <updated>2021-12-14T09:23:17.941Z</updated>
         <content type="html"><![CDATA[300409]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Behind] 양요섭(YANG YO SEOP) - [Chocolate Box] 녹음 비하인드 - 2 - (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2275898049</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2275898049"/>
-        <updated>2021-12-14T09:23:17.941Z</updated>
-        <content type="html"><![CDATA[300408]]></content>
     </entry>
 </feed>
