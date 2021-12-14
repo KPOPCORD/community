@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-14T11:20:44.653Z</updated>
+    <updated>2021-12-14T12:36:19.857Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [이방원] 소소하지만 아마 다른사극에선 안했던 고증을 할 예정...jpg]]></title>
+        <id>https://ppt21.com/spoent/64985?category=2</id>
+        <link href="https://ppt21.com/spoent/64985?category=2"/>
+        <updated>2021-12-14T12:36:10.593Z</updated>
+        <content type="html"><![CDATA[나의 연인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 노홍철 특혜 논란 관련 식당 주인의 입장]]></title>
+        <id>https://ppt21.com/spoent/64983?category=2</id>
+        <link href="https://ppt21.com/spoent/64983?category=2"/>
+        <updated>2021-12-14T12:36:10.602Z</updated>
+        <content type="html"><![CDATA[검정치마]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] mbc 메탈리카 공연 비하인드]]></title>
         <id>https://ppt21.com/spoent/64980?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/64935?category=2"/>
         <updated>2021-12-13T05:21:16.836Z</updated>
         <content type="html"><![CDATA[카루오스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 오뚜기 광고를 두고 어필했던 스우파 멤버들.jpg]]></title>
-        <id>https://ppt21.com/spoent/64933?category=2</id>
-        <link href="https://ppt21.com/spoent/64933?category=2"/>
-        <updated>2021-12-13T04:30:40.913Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 2021년 12월 둘째주 D-차트 : '신흥 음원강자' 비오 1위! IVE는 4위 진입]]></title>
-        <id>https://ppt21.com/spoent/64930?category=2</id>
-        <link href="https://ppt21.com/spoent/64930?category=2"/>
-        <updated>2021-12-13T03:23:58.557Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
