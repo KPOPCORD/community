@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-14T01:17:07.438Z</updated>
+    <updated>2021-12-14T02:40:06.710Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 선예 '엄마는 아이돌'로 복귀→팬심 돌릴까]]></title>
+        <id>https://ppt21.com/spoent/64961?category=2</id>
+        <link href="https://ppt21.com/spoent/64961?category=2"/>
+        <updated>2021-12-14T02:39:54.541Z</updated>
+        <content type="html"><![CDATA[먹설턴트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 드라마 D.P. 마지막에 안준호 일병이 가던 곳이 밝혀졌네요]]></title>
         <id>https://ppt21.com/spoent/64958?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64918?category=2"/>
         <updated>2021-12-12T10:24:49.902Z</updated>
         <content type="html"><![CDATA[TWICE쯔위]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 태종 또방원 1화 시청률 8.7%]]></title>
-        <id>https://ppt21.com/spoent/64916?category=2</id>
-        <link href="https://ppt21.com/spoent/64916?category=2"/>
-        <updated>2021-12-12T07:21:26.116Z</updated>
-        <content type="html"><![CDATA[valewalker]]></content>
     </entry>
 </feed>
