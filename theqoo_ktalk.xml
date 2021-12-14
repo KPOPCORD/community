@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2021-12-14T05:21:14.522Z</updated>
+    <updated>2021-12-14T06:27:42.093Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[김민주 인스타업뎃]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2275626275</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2275626275"/>
+        <updated>2021-12-14T06:27:41.355Z</updated>
+        <content type="html"><![CDATA[300412]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[안테나 공지 (pcr 검사 완료, 나머지는 모두 음성)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2275491711</id>
@@ -137,12 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2274942178"/>
         <updated>2021-12-13T14:21:43.568Z</updated>
         <content type="html"><![CDATA[300393]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 W Korea 1월호 #엔하이픈]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2274871984</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2274871984"/>
-        <updated>2021-12-13T13:29:05.713Z</updated>
-        <content type="html"><![CDATA[300392]]></content>
     </entry>
 </feed>
