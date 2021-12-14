@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-13T23:23:37.747Z</updated>
+    <updated>2021-12-14T01:17:07.438Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 드라마 D.P. 마지막에 안준호 일병이 가던 곳이 밝혀졌네요]]></title>
+        <id>https://ppt21.com/spoent/64958?category=2</id>
+        <link href="https://ppt21.com/spoent/64958?category=2"/>
+        <updated>2021-12-14T01:16:53.843Z</updated>
+        <content type="html"><![CDATA[BTS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 2022년 엠넷 예능 라인업]]></title>
+        <id>https://ppt21.com/spoent/64957?category=2</id>
+        <link href="https://ppt21.com/spoent/64957?category=2"/>
+        <updated>2021-12-14T01:16:53.843Z</updated>
+        <content type="html"><![CDATA[아롱이다롱이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [싱어게인2] 2화 주요 영상들]]></title>
         <id>https://ppt21.com/spoent/64956?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/64916?category=2"/>
         <updated>2021-12-12T07:21:26.116Z</updated>
         <content type="html"><![CDATA[valewalker]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 2021 MAMA 여자가수 무대 모음]]></title>
-        <id>https://ppt21.com/spoent/64913?category=2</id>
-        <link href="https://ppt21.com/spoent/64913?category=2"/>
-        <updated>2021-12-12T03:23:23.215Z</updated>
-        <content type="html"><![CDATA[발적화]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] KBS 개그서바이벌 '개승자' 2라운드 B조 영상들]]></title>
-        <id>https://ppt21.com/spoent/64911?category=2</id>
-        <link href="https://ppt21.com/spoent/64911?category=2"/>
-        <updated>2021-12-12T03:23:23.215Z</updated>
-        <content type="html"><![CDATA[빼사스]]></content>
     </entry>
 </feed>
