@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-15T09:23:41.751Z</updated>
+    <updated>2021-12-15T10:25:56.653Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 마술사 김준표, 최현우 영상들을 보다 놀란점...]]></title>
+        <id>https://ppt21.com/spoent/65003?category=2</id>
+        <link href="https://ppt21.com/spoent/65003?category=2"/>
+        <updated>2021-12-15T10:25:31.996Z</updated>
+        <content type="html"><![CDATA[마르키아르]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 운전하다 본성을 깨달은 지애]]></title>
         <id>https://ppt21.com/spoent/64998?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64952?category=2"/>
         <updated>2021-12-13T14:21:34.936Z</updated>
         <content type="html"><![CDATA[valewalker]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [우당탕탕 안테나] 다른 장르로 재탄생한 고퀄의 사랑의 재개발]]></title>
-        <id>https://ppt21.com/spoent/64949?category=2</id>
-        <link href="https://ppt21.com/spoent/64949?category=2"/>
-        <updated>2021-12-13T12:36:42.365Z</updated>
-        <content type="html"><![CDATA[A1]]></content>
     </entry>
 </feed>
