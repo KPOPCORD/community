@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2021-12-15T02:38:08.868Z</updated>
+    <updated>2021-12-15T03:23:38.871Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2021 지니 연말결산]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2276896460</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2276896460"/>
+        <updated>2021-12-15T03:23:38.110Z</updated>
+        <content type="html"><![CDATA[300434]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오마이걸x유니버스, 23일 신곡 ‘Shark’ 발매]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2276795426</id>
@@ -137,12 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2275994286"/>
         <updated>2021-12-14T10:25:43.765Z</updated>
         <content type="html"><![CDATA[300415]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[투바투 [#TTIME] 촬영장에 너굴맨이 나타났다! 동물들과 함께했던 #FROST MV 촬영 현장으로➡]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2275988027</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2275988027"/>
-        <updated>2021-12-14T10:25:43.766Z</updated>
-        <content type="html"><![CDATA[300414]]></content>
     </entry>
 </feed>
