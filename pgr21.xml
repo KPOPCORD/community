@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-15T01:13:20.296Z</updated>
+    <updated>2021-12-15T02:38:08.865Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예]  프로미스나인, 1월 새 앨범 발매 확정..4개월 만에 컴백]]></title>
+        <id>https://ppt21.com/spoent/64995?category=2</id>
+        <link href="https://ppt21.com/spoent/64995?category=2"/>
+        <updated>2021-12-15T02:37:57.648Z</updated>
+        <content type="html"><![CDATA[싸볼]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 시즌 끝나니 야구선수들이 예능에 많이 출연하네요]]></title>
         <id>https://ppt21.com/spoent/64991?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64942?category=2"/>
         <updated>2021-12-13T08:27:47.351Z</updated>
         <content type="html"><![CDATA[아르타니스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 유재석도 코로나 확진..]]></title>
-        <id>https://ppt21.com/spoent/64939?category=2</id>
-        <link href="https://ppt21.com/spoent/64939?category=2"/>
-        <updated>2021-12-13T07:22:30.147Z</updated>
-        <content type="html"><![CDATA[양념반자르반]]></content>
     </entry>
 </feed>
