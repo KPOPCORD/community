@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2021-12-15T15:25:27.810Z</updated>
+    <updated>2021-12-15T16:35:40.775Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[숙소에서 김장하는 아이돌 (투바투 위버스)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2277902980</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2277902980"/>
+        <updated>2021-12-15T16:35:40.068Z</updated>
+        <content type="html"><![CDATA[300458]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[트라이비 - 바바송 (We Baby Bears Theme) MV Teaser]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2277896920</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2277896920"/>
+        <updated>2021-12-15T16:35:40.069Z</updated>
+        <content type="html"><![CDATA[300457]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[업텐션 0103 컴백 트랙리스트]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2277819586</id>
@@ -130,19 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2277362454"/>
         <updated>2021-12-15T09:23:40.955Z</updated>
         <content type="html"><![CDATA[300439]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김재환 4th MINI ALBUM 'THE LETTER' Preview]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2277314350</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2277314350"/>
-        <updated>2021-12-15T08:27:47.324Z</updated>
-        <content type="html"><![CDATA[300438]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마마무 문별 × 미란이 ‘G999’ The Booth LIVE]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2277298807</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2277298807"/>
-        <updated>2021-12-15T08:27:47.324Z</updated>
-        <content type="html"><![CDATA[300437]]></content>
     </entry>
 </feed>
