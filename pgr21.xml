@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-16T14:21:08.685Z</updated>
+    <updated>2021-12-16T15:24:41.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 트와이스 콘서트 24일 첫콘 취소 공지]]></title>
+        <id>https://ppt21.com/spoent/65017?category=2</id>
+        <link href="https://ppt21.com/spoent/65017?category=2"/>
+        <updated>2021-12-16T15:24:29.844Z</updated>
+        <content type="html"><![CDATA[묘이 미나]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [아이브] 더쇼-쇼챔 1위 / 인기가요 페이스캠 & 단독샷캠  모음]]></title>
         <id>https://ppt21.com/spoent/65015?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64961?category=2"/>
         <updated>2021-12-14T02:39:54.541Z</updated>
         <content type="html"><![CDATA[먹설턴트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 드라마 D.P. 마지막에 안준호 일병이 가던 곳이 밝혀졌네요]]></title>
-        <id>https://ppt21.com/spoent/64958?category=2</id>
-        <link href="https://ppt21.com/spoent/64958?category=2"/>
-        <updated>2021-12-14T01:16:53.843Z</updated>
-        <content type="html"><![CDATA[BTS]]></content>
     </entry>
 </feed>
