@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-16T10:24:47.165Z</updated>
+    <updated>2021-12-16T11:19:33.528Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] [아이브] 더쇼-쇼챔 1위 / 인기가요 페이스캠 & 단독샷캠  모음 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/65015?category=2</id>
+        <link href="https://ppt21.com/spoent/65015?category=2"/>
+        <updated>2021-12-16T11:19:23.823Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 김종국 도핑검사 결과 공개.jpgytb (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/65013?category=2</id>
+        <link href="https://ppt21.com/spoent/65013?category=2"/>
+        <updated>2021-12-16T11:19:23.824Z</updated>
+        <content type="html"><![CDATA[VictoryFood]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 2021 SBS 가요대전 라인업이 공개됐습니다 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/65010?category=2</id>
@@ -124,18 +138,11 @@
         <content type="html"><![CDATA[BTS]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[연예] 2022년 엠넷 예능 라인업 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/64957?category=2</id>
-        <link href="https://ppt21.com/spoent/64957?category=2"/>
-        <updated>2021-12-14T01:16:53.843Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [싱어게인2] 2화 주요 영상들 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/64956?category=2</id>
-        <link href="https://ppt21.com/spoent/64956?category=2"/>
-        <updated>2021-12-13T15:25:05.854Z</updated>
-        <content type="html"><![CDATA[빼사스]]></content>
+        <title type="html"><![CDATA[[벨망진창 벨벨랜드] Episoee.37 갈 때까지 가보자고 벨벨랜드 시즌1 마지막화 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2278797440</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2278797440"/>
+        <updated>2021-12-16T11:19:32.833Z</updated>
+        <content type="html"><![CDATA[300429]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[엑디즈 (Xdinary Heroes) 자컨 [XQXA] 준한 X 오드 (더쿠 ─ 케이돌토크)]]></title>
@@ -269,12 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2278017545"/>
         <updated>2021-12-15T19:19:04.188Z</updated>
         <content type="html"><![CDATA[300410]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[투바투 수빈 멤트 (with 휴닝카이) (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2277978041</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2277978041"/>
-        <updated>2021-12-15T17:28:38.240Z</updated>
-        <content type="html"><![CDATA[300409]]></content>
     </entry>
 </feed>

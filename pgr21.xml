@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-16T10:24:47.155Z</updated>
+    <updated>2021-12-16T11:19:33.526Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [아이브] 더쇼-쇼챔 1위 / 인기가요 페이스캠 & 단독샷캠  모음]]></title>
+        <id>https://ppt21.com/spoent/65015?category=2</id>
+        <link href="https://ppt21.com/spoent/65015?category=2"/>
+        <updated>2021-12-16T11:19:23.823Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 김종국 도핑검사 결과 공개.jpgytb]]></title>
+        <id>https://ppt21.com/spoent/65013?category=2</id>
+        <link href="https://ppt21.com/spoent/65013?category=2"/>
+        <updated>2021-12-16T11:19:23.824Z</updated>
+        <content type="html"><![CDATA[VictoryFood]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 2021 SBS 가요대전 라인업이 공개됐습니다]]></title>
         <id>https://ppt21.com/spoent/65010?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/64958?category=2"/>
         <updated>2021-12-14T01:16:53.843Z</updated>
         <content type="html"><![CDATA[BTS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 2022년 엠넷 예능 라인업]]></title>
-        <id>https://ppt21.com/spoent/64957?category=2</id>
-        <link href="https://ppt21.com/spoent/64957?category=2"/>
-        <updated>2021-12-14T01:16:53.843Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [싱어게인2] 2화 주요 영상들]]></title>
-        <id>https://ppt21.com/spoent/64956?category=2</id>
-        <link href="https://ppt21.com/spoent/64956?category=2"/>
-        <updated>2021-12-13T15:25:05.854Z</updated>
-        <content type="html"><![CDATA[빼사스]]></content>
     </entry>
 </feed>
