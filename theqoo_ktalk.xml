@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2021-12-17T12:36:10.349Z</updated>
+    <updated>2021-12-17T13:26:39.829Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[가요대축제 순서 이거봐줘]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2280086151</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2280086151"/>
+        <updated>2021-12-17T13:26:39.040Z</updated>
+        <content type="html"><![CDATA[300435]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이마 빡빡치며 웃다가 기절한 손동표 되는 영상 [이게될까? - 멜론 스테이션 EP19]]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2280035491</id>
@@ -137,12 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2279633842"/>
         <updated>2021-12-17T06:27:50.282Z</updated>
         <content type="html"><![CDATA[300416]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 MAMA BEHIND 12월 29일 (수) 저녁 8시 방송]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2279633432</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2279633432"/>
-        <updated>2021-12-17T06:27:50.282Z</updated>
-        <content type="html"><![CDATA[300415]]></content>
     </entry>
 </feed>
