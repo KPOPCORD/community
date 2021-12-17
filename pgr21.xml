@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-17T06:27:50.982Z</updated>
+    <updated>2021-12-17T07:22:33.950Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] BTS 횡단보도 콘서트(코튼쇼)]]></title>
+        <id>https://ppt21.com/spoent/65025?category=2</id>
+        <link href="https://ppt21.com/spoent/65025?category=2"/>
+        <updated>2021-12-17T07:22:04.693Z</updated>
+        <content type="html"><![CDATA[Janzisuka]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 화장품 선전을 찍은 유지애]]></title>
         <id>https://ppt21.com/spoent/65023?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64975?category=2"/>
         <updated>2021-12-14T06:27:32.098Z</updated>
         <content type="html"><![CDATA[강가딘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] '코로나19 돌파감염' 유재석, 조심성이 확산 여파 막았다]]></title>
-        <id>https://ppt21.com/spoent/64969?category=2</id>
-        <link href="https://ppt21.com/spoent/64969?category=2"/>
-        <updated>2021-12-14T05:21:01.987Z</updated>
-        <content type="html"><![CDATA[Leeka]]></content>
     </entry>
 </feed>
