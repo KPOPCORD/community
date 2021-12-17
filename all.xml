@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-17T04:30:30.860Z</updated>
+    <updated>2021-12-17T05:21:14.397Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] 화장품 선전을 찍은 유지애 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/65023?category=2</id>
+        <link href="https://ppt21.com/spoent/65023?category=2"/>
+        <updated>2021-12-17T05:21:03.826Z</updated>
+        <content type="html"><![CDATA[강가딘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 정용검 김선신의 듀옛곡 퍼래이드 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/65020?category=2</id>
@@ -131,13 +138,6 @@
         <content type="html"><![CDATA[Leeka]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[연예] AKB 졸업을 발표한 <미야자키 미호> 가 인스타에 올린 내용 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/64968?category=2</id>
-        <link href="https://ppt21.com/spoent/64968?category=2"/>
-        <updated>2021-12-14T05:21:01.987Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[케사 가요대축제 레드카펫 생중계 라이브 (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2279493876</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2279493876"/>
@@ -159,7 +159,7 @@
         <content type="html"><![CDATA[300437]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[불닭 광고주 진짜 이번 모델 선정 안목 쩔었다.. (더쿠 ─ 케이돌토크)]]></title>
+        <title type="html"><![CDATA[불닭 광고주 진짜 이번 광고 목소리 선정 안목 쩔었다.. (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2279479050</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2279479050"/>
         <updated>2021-12-17T04:30:30.181Z</updated>
