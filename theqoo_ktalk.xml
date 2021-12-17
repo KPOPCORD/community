@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2021-12-17T16:35:53.444Z</updated>
+    <updated>2021-12-17T17:27:26.285Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[스키즈 승민 인스타그램🐶🍒]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2280411633</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2280411633"/>
+        <updated>2021-12-17T17:27:25.564Z</updated>
+        <content type="html"><![CDATA[300448]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스키즈 승민 인스타그램🐶🍒 #파라다이스]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2280399357</id>
@@ -137,12 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2279975593"/>
         <updated>2021-12-17T11:17:51.178Z</updated>
         <content type="html"><![CDATA[300429]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[첫 만남부터 대휘와 밀당하는 꼬미! 😲ㅣAB6IX 하울링캠프ㅣ어바웃펫]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2279928974</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2279928974"/>
-        <updated>2021-12-17T10:26:10.695Z</updated>
-        <content type="html"><![CDATA[300428]]></content>
     </entry>
 </feed>
