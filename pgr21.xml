@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-17T11:17:51.937Z</updated>
+    <updated>2021-12-17T12:36:10.344Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[연예] KBS 가요대축제 레드카펫 유튜브 생중계 종료]]></title>
-        <id>https://ppt21.com/spoent/65030?category=2</id>
-        <link href="https://ppt21.com/spoent/65030?category=2"/>
-        <updated>2021-12-17T09:23:39.306Z</updated>
+        <title type="html"><![CDATA[[연예] 가요대축제로 인해 결방된 오늘자 뮤직뱅크 K-차트 순위]]></title>
+        <id>https://ppt21.com/spoent/65033?category=2</id>
+        <link href="https://ppt21.com/spoent/65033?category=2"/>
+        <updated>2021-12-17T12:36:00.807Z</updated>
         <content type="html"><![CDATA[아롱이다롱이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] [블랙핑크] 커플룩입고 꽁냥거리는 언니라인 제니지수]]></title>
+        <id>https://ppt21.com/spoent/65032?category=2</id>
+        <link href="https://ppt21.com/spoent/65032?category=2"/>
+        <updated>2021-12-17T12:36:00.811Z</updated>
+        <content type="html"><![CDATA[헤인즈]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 플라스틱 러브, 오피셜 뮤직 비디오]]></title>
+        <id>https://ppt21.com/spoent/65031?category=2</id>
+        <link href="https://ppt21.com/spoent/65031?category=2"/>
+        <updated>2021-12-17T12:36:00.811Z</updated>
+        <content type="html"><![CDATA[파랑파랑]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[연예] BTS 횡단보도 콘서트(코튼쇼)]]></title>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/64980?category=2"/>
         <updated>2021-12-14T10:25:35.285Z</updated>
         <content type="html"><![CDATA[제3지대]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [아이브] 최근 공개된 여러 영상]]></title>
-        <id>https://ppt21.com/spoent/64978?category=2</id>
-        <link href="https://ppt21.com/spoent/64978?category=2"/>
-        <updated>2021-12-14T09:23:07.756Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 예약 꽉 찬 식당, 연예인은 가능?...'먹보와 털보' 노홍철 특혜논란]]></title>
-        <id>https://ppt21.com/spoent/64977?category=2</id>
-        <link href="https://ppt21.com/spoent/64977?category=2"/>
-        <updated>2021-12-14T08:29:30.309Z</updated>
-        <content type="html"><![CDATA[insane]]></content>
     </entry>
 </feed>
