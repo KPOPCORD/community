@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-18T08:27:50.355Z</updated>
+    <updated>2021-12-18T09:22:54.937Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 내과 병원 지하철 광고..]]></title>
+        <id>https://ppt21.com/spoent/65047?category=2</id>
+        <link href="https://ppt21.com/spoent/65047?category=2"/>
+        <updated>2021-12-18T09:22:45.094Z</updated>
+        <content type="html"><![CDATA[카미트리아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 음중에서 코로나 관련 문제가 터졌습니다.]]></title>
         <id>https://ppt21.com/spoent/65045?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65003?category=2"/>
         <updated>2021-12-15T10:25:31.996Z</updated>
         <content type="html"><![CDATA[마르키아르]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 운전하다 본성을 깨달은 지애]]></title>
-        <id>https://ppt21.com/spoent/64998?category=2</id>
-        <link href="https://ppt21.com/spoent/64998?category=2"/>
-        <updated>2021-12-15T07:22:17.398Z</updated>
-        <content type="html"><![CDATA[강가딘]]></content>
     </entry>
 </feed>
