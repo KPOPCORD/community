@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-18T01:17:44.513Z</updated>
+    <updated>2021-12-18T02:44:21.980Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[연예] 스파이더맨 그 장면의 미국 극장반응(강력 스포) (Pgr21 ─ 연예)]]></title>
@@ -138,6 +138,20 @@
         <content type="html"><![CDATA[강가딘]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[윤지성 "종현아(뉴종현) 이런 사진을 어떻게 올리니?!" (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2280593128</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2280593128"/>
+        <updated>2021-12-18T02:44:21.240Z</updated>
+        <content type="html"><![CDATA[300451]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[베리베리 용승 코로나 확진 공지 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2280567587</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2280567587"/>
+        <updated>2021-12-18T02:44:21.241Z</updated>
+        <content type="html"><![CDATA[300450]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[뉴종현 가요대축제 출퇴근 고화질 눈빛 주목 (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2280514576</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2280514576"/>
@@ -262,19 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2280086151"/>
         <updated>2021-12-17T13:26:39.040Z</updated>
         <content type="html"><![CDATA[300432]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이마 빡빡치며 웃다가 기절한 손동표 되는 영상 [이게될까? - 멜론 스테이션 EP19] (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2280035491</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2280035491"/>
-        <updated>2021-12-17T12:36:09.602Z</updated>
-        <content type="html"><![CDATA[300431]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김우석 공트 업뎃 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2279978869</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2279978869"/>
-        <updated>2021-12-17T11:17:51.178Z</updated>
-        <content type="html"><![CDATA[300430]]></content>
     </entry>
 </feed>
