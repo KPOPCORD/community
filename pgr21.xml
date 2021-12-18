@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-18T06:28:46.215Z</updated>
+    <updated>2021-12-18T07:21:55.500Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 음중에서 코로나 관련 문제가 터졌습니다.]]></title>
+        <id>https://ppt21.com/spoent/65045?category=2</id>
+        <link href="https://ppt21.com/spoent/65045?category=2"/>
+        <updated>2021-12-18T07:21:44.291Z</updated>
+        <content type="html"><![CDATA[Old Moon]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예]  안태나에 가수로 들어갔다는 재석]]></title>
         <id>https://ppt21.com/spoent/65042?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64998?category=2"/>
         <updated>2021-12-15T07:22:17.398Z</updated>
         <content type="html"><![CDATA[강가딘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예]  프로미스나인, 1월 새 앨범 발매 확정..4개월 만에 컴백]]></title>
-        <id>https://ppt21.com/spoent/64995?category=2</id>
-        <link href="https://ppt21.com/spoent/64995?category=2"/>
-        <updated>2021-12-15T02:37:57.648Z</updated>
-        <content type="html"><![CDATA[싸볼]]></content>
     </entry>
 </feed>
