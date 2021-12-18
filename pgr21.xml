@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-18T14:20:42.635Z</updated>
+    <updated>2021-12-18T15:24:08.296Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [우아!] 중소 기획사가 걸그룹 만드는 방법.jpg (feat.구라철)]]></title>
+        <id>https://ppt21.com/spoent/65053?category=2</id>
+        <link href="https://ppt21.com/spoent/65053?category=2"/>
+        <updated>2021-12-18T15:23:34.286Z</updated>
+        <content type="html"><![CDATA[VictoryFood]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] K-Pop 국악 편곡 버전 모음]]></title>
         <id>https://ppt21.com/spoent/65050?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65009?category=2"/>
         <updated>2021-12-16T02:37:20.184Z</updated>
         <content type="html"><![CDATA[Anti-MAGE]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 골때녀 FC탑겋-FC아나콘다 주요장면]]></title>
-        <id>https://ppt21.com/spoent/65006?category=2</id>
-        <link href="https://ppt21.com/spoent/65006?category=2"/>
-        <updated>2021-12-15T22:22:47.404Z</updated>
-        <content type="html"><![CDATA[강가딘]]></content>
     </entry>
 </feed>
