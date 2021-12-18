@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-18T04:30:29.138Z</updated>
+    <updated>2021-12-18T05:21:35.262Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예]  안태나에 가수로 들어갔다는 재석]]></title>
+        <id>https://ppt21.com/spoent/65042?category=2</id>
+        <link href="https://ppt21.com/spoent/65042?category=2"/>
+        <updated>2021-12-18T05:21:24.446Z</updated>
+        <content type="html"><![CDATA[강가딘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 스파이더맨 그 장면의 미국 극장반응(강력 스포)]]></title>
         <id>https://ppt21.com/spoent/65037?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/64995?category=2"/>
         <updated>2021-12-15T02:37:57.648Z</updated>
         <content type="html"><![CDATA[싸볼]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 시즌 끝나니 야구선수들이 예능에 많이 출연하네요]]></title>
-        <id>https://ppt21.com/spoent/64991?category=2</id>
-        <link href="https://ppt21.com/spoent/64991?category=2"/>
-        <updated>2021-12-15T01:13:03.029Z</updated>
-        <content type="html"><![CDATA[강가딘]]></content>
     </entry>
 </feed>
