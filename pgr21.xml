@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-18T15:24:08.296Z</updated>
+    <updated>2021-12-18T16:35:22.705Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] (약스포?)설강화 1화 후기]]></title>
+        <id>https://ppt21.com/spoent/65055?category=2</id>
+        <link href="https://ppt21.com/spoent/65055?category=2"/>
+        <updated>2021-12-18T16:35:12.585Z</updated>
+        <content type="html"><![CDATA[하프-물범]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] SBS 연예대상을 마무리하는 신동엽의 한마디.MP4]]></title>
+        <id>https://ppt21.com/spoent/65054?category=2</id>
+        <link href="https://ppt21.com/spoent/65054?category=2"/>
+        <updated>2021-12-18T16:35:12.588Z</updated>
+        <content type="html"><![CDATA[insane]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [우아!] 중소 기획사가 걸그룹 만드는 방법.jpg (feat.구라철)]]></title>
         <id>https://ppt21.com/spoent/65053?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/65013?category=2"/>
         <updated>2021-12-16T11:19:23.824Z</updated>
         <content type="html"><![CDATA[VictoryFood]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 2021 SBS 가요대전 라인업이 공개됐습니다]]></title>
-        <id>https://ppt21.com/spoent/65010?category=2</id>
-        <link href="https://ppt21.com/spoent/65010?category=2"/>
-        <updated>2021-12-16T02:37:20.183Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 무대화장 안한 ITZY 예지.gif]]></title>
-        <id>https://ppt21.com/spoent/65009?category=2</id>
-        <link href="https://ppt21.com/spoent/65009?category=2"/>
-        <updated>2021-12-16T02:37:20.184Z</updated>
-        <content type="html"><![CDATA[Anti-MAGE]]></content>
     </entry>
 </feed>
