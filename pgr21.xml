@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-19T14:21:04.283Z</updated>
+    <updated>2021-12-19T15:24:01.589Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [태종이방원]3화 공양왕의 역습]]></title>
+        <id>https://ppt21.com/spoent/65073?category=2</id>
+        <link href="https://ppt21.com/spoent/65073?category=2"/>
+        <updated>2021-12-19T15:23:47.401Z</updated>
+        <content type="html"><![CDATA[카루오스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 2000년 이후 출생한 여자아이돌 비주얼 트로이카.jpgif]]></title>
+        <id>https://ppt21.com/spoent/65072?category=2</id>
+        <link href="https://ppt21.com/spoent/65072?category=2"/>
+        <updated>2021-12-19T15:23:47.402Z</updated>
+        <content type="html"><![CDATA[VictoryFood]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] [트와이스] MELODY PROJECT "Snowman (Sia)" Cover by MINA]]></title>
+        <id>https://ppt21.com/spoent/65071?category=2</id>
+        <link href="https://ppt21.com/spoent/65071?category=2"/>
+        <updated>2021-12-19T15:23:47.403Z</updated>
+        <content type="html"><![CDATA[TWICE쯔위]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 런닝맨x놀면뭐하니 가능성이 나왔습니다]]></title>
         <id>https://ppt21.com/spoent/65070?category=2</id>
@@ -116,26 +137,5 @@
         <link href="https://ppt21.com/spoent/65036?category=2"/>
         <updated>2021-12-17T15:24:21.951Z</updated>
         <content type="html"><![CDATA[위르겐클롭]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [트와이스] 일본 싱글 Doughnut, Wonderful Day 스폐셜 스테이지]]></title>
-        <id>https://ppt21.com/spoent/65035?category=2</id>
-        <link href="https://ppt21.com/spoent/65035?category=2"/>
-        <updated>2021-12-17T15:24:21.952Z</updated>
-        <content type="html"><![CDATA[VictoryFood]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 가요대축제로 인해 결방된 오늘자 뮤직뱅크 K-차트 순위]]></title>
-        <id>https://ppt21.com/spoent/65033?category=2</id>
-        <link href="https://ppt21.com/spoent/65033?category=2"/>
-        <updated>2021-12-17T12:36:00.807Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [블랙핑크] 커플룩입고 꽁냥거리는 언니라인 제니지수]]></title>
-        <id>https://ppt21.com/spoent/65032?category=2</id>
-        <link href="https://ppt21.com/spoent/65032?category=2"/>
-        <updated>2021-12-17T12:36:00.811Z</updated>
-        <content type="html"><![CDATA[헤인즈]]></content>
     </entry>
 </feed>
