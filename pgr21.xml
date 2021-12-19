@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-19T15:24:01.589Z</updated>
+    <updated>2021-12-19T16:35:37.533Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 20년된 명반 - 박효신 2집]]></title>
+        <id>https://ppt21.com/spoent/65074?category=2</id>
+        <link href="https://ppt21.com/spoent/65074?category=2"/>
+        <updated>2021-12-19T16:35:27.491Z</updated>
+        <content type="html"><![CDATA[Croove]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [태종이방원]3화 공양왕의 역습]]></title>
         <id>https://ppt21.com/spoent/65073?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65037?category=2"/>
         <updated>2021-12-17T15:24:21.950Z</updated>
         <content type="html"><![CDATA[style]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [가요대축제] 수신료의 가치]]></title>
-        <id>https://ppt21.com/spoent/65036?category=2</id>
-        <link href="https://ppt21.com/spoent/65036?category=2"/>
-        <updated>2021-12-17T15:24:21.951Z</updated>
-        <content type="html"><![CDATA[위르겐클롭]]></content>
     </entry>
 </feed>
