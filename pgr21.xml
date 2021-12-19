@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-19T13:27:40.145Z</updated>
+    <updated>2021-12-19T14:21:04.283Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 런닝맨x놀면뭐하니 가능성이 나왔습니다]]></title>
+        <id>https://ppt21.com/spoent/65070?category=2</id>
+        <link href="https://ppt21.com/spoent/65070?category=2"/>
+        <updated>2021-12-19T14:20:55.017Z</updated>
+        <content type="html"><![CDATA[telracScarlet]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [브레이브 걸스] 유나, 홍은지, 유정 유튜브 근황]]></title>
         <id>https://ppt21.com/spoent/65069?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65032?category=2"/>
         <updated>2021-12-17T12:36:00.811Z</updated>
         <content type="html"><![CDATA[헤인즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 플라스틱 러브, 오피셜 뮤직 비디오]]></title>
-        <id>https://ppt21.com/spoent/65031?category=2</id>
-        <link href="https://ppt21.com/spoent/65031?category=2"/>
-        <updated>2021-12-17T12:36:00.811Z</updated>
-        <content type="html"><![CDATA[파랑파랑]]></content>
     </entry>
 </feed>
