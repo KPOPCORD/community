@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-19T02:42:08.972Z</updated>
+    <updated>2021-12-19T03:24:13.783Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[연예]  [트와이스] TTT 크라임씬 시즌2 2,3화 사진, 움짤 (데이터주의) (Pgr21 ─ 연예)]]></title>
@@ -138,6 +138,13 @@
         <content type="html"><![CDATA[묘이 미나]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[투바투 자체예능 투두 EP.63 썸네일 미리보기 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2281717041</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2281717041"/>
+        <updated>2021-12-19T03:24:12.903Z</updated>
+        <content type="html"><![CDATA[300460]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2021년 12월 걸그룹 개인 브랜드평판 순위 (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2281693011</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2281693011"/>
@@ -269,12 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2280930887"/>
         <updated>2021-12-18T09:22:54.235Z</updated>
         <content type="html"><![CDATA[300441]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[방탄밤] 🎼 어딘지 익숙한 멜로디가 들려오는데…🎶 앗? 이 소리는 #합창소년단 재등장을 알리는 멜로디 ⁉️ #여전히밥만잘먹더라 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2280914166</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2280914166"/>
-        <updated>2021-12-18T09:22:54.235Z</updated>
-        <content type="html"><![CDATA[300440]]></content>
     </entry>
 </feed>
