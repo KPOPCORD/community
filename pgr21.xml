@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-19T11:19:24.300Z</updated>
+    <updated>2021-12-19T12:36:24.716Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 런닝맨 하차했어도 여전히 맴버들에게 놀림당하는 이광수]]></title>
+        <id>https://ppt21.com/spoent/65066?category=2</id>
+        <link href="https://ppt21.com/spoent/65066?category=2"/>
+        <updated>2021-12-19T12:36:12.634Z</updated>
+        <content type="html"><![CDATA[강가딘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 2021년 웨이브 올해의 프로그램 - 런닝맨]]></title>
         <id>https://ppt21.com/spoent/65060?category=2</id>
@@ -129,13 +136,6 @@
         <id>https://ppt21.com/spoent/65023?category=2</id>
         <link href="https://ppt21.com/spoent/65023?category=2"/>
         <updated>2021-12-17T05:21:03.826Z</updated>
-        <content type="html"><![CDATA[강가딘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 정용검 김선신의 듀옛곡 퍼래이드]]></title>
-        <id>https://ppt21.com/spoent/65020?category=2</id>
-        <link href="https://ppt21.com/spoent/65020?category=2"/>
-        <updated>2021-12-17T02:40:09.133Z</updated>
         <content type="html"><![CDATA[강가딘]]></content>
     </entry>
 </feed>
