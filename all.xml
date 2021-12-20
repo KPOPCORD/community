@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-20T01:16:15.465Z</updated>
+    <updated>2021-12-20T02:41:26.203Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] IU를 이긴 바로 그 노래!.avi (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/65081?category=2</id>
+        <link href="https://ppt21.com/spoent/65081?category=2"/>
+        <updated>2021-12-20T02:41:16.189Z</updated>
+        <content type="html"><![CDATA[하우스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 2021년 12월 셋째주 D-차트 : IVE 1위! 에이티즈 3위-다비치 6위 진입 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/65080?category=2</id>
+        <link href="https://ppt21.com/spoent/65080?category=2"/>
+        <updated>2021-12-20T02:41:16.189Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 방과후 설렘] 본 경연 시작 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/65078?category=2</id>
@@ -124,18 +138,18 @@
         <content type="html"><![CDATA[VictoryFood]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[연예] K-Pop 국악 편곡 버전 모음 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/65050?category=2</id>
-        <link href="https://ppt21.com/spoent/65050?category=2"/>
-        <updated>2021-12-18T12:35:23.877Z</updated>
-        <content type="html"><![CDATA[Bronx Bombers]]></content>
+        <title type="html"><![CDATA[투바투 휴닝카이 위버스 모먼트🐻🎠🎡 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2282920892</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2282920892"/>
+        <updated>2021-12-20T02:41:25.410Z</updated>
+        <content type="html"><![CDATA[300475]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[연예] 내과 병원 지하철 광고.. (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/65047?category=2</id>
-        <link href="https://ppt21.com/spoent/65047?category=2"/>
-        <updated>2021-12-18T09:22:45.094Z</updated>
-        <content type="html"><![CDATA[카미트리아]]></content>
+        <title type="html"><![CDATA[[단독] 아이브 안유진, '강철부대 시즌2' 고정 출연 확정 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2282882894</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2282882894"/>
+        <updated>2021-12-20T02:41:25.422Z</updated>
+        <content type="html"><![CDATA[300474]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[투바투 수빈 위버스 (태현이 선물) (더쿠 ─ 케이돌토크)]]></title>
@@ -262,19 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2281693011"/>
         <updated>2021-12-19T02:42:08.090Z</updated>
         <content type="html"><![CDATA[300456]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔하이픈 정원 멤트♥️ (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2281437619</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2281437619"/>
-        <updated>2021-12-18T16:35:21.947Z</updated>
-        <content type="html"><![CDATA[300455]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[씨아이엑스 용희 인스타그램 업뎃💚 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2281286827</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2281286827"/>
-        <updated>2021-12-18T15:24:07.682Z</updated>
-        <content type="html"><![CDATA[300454]]></content>
     </entry>
 </feed>
