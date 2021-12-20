@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-20T11:19:52.999Z</updated>
+    <updated>2021-12-20T12:38:35.089Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [로켓펀치] 한국관광공사 달달하고]]></title>
+        <id>https://ppt21.com/spoent/65101?category=2</id>
+        <link href="https://ppt21.com/spoent/65101?category=2"/>
+        <updated>2021-12-20T12:38:25.742Z</updated>
+        <content type="html"><![CDATA[어강됴리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 사극에서 성공적으로 PPL 하는 방법.jpg]]></title>
+        <id>https://ppt21.com/spoent/65100?category=2</id>
+        <link href="https://ppt21.com/spoent/65100?category=2"/>
+        <updated>2021-12-20T12:38:25.742Z</updated>
+        <content type="html"><![CDATA[VictoryFood]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 한국으로 다시 오는 타케우치 미유]]></title>
+        <id>https://ppt21.com/spoent/65099?category=2</id>
+        <link href="https://ppt21.com/spoent/65099?category=2"/>
+        <updated>2021-12-20T12:38:25.742Z</updated>
+        <content type="html"><![CDATA[어강됴리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 조유리 'White' 라이브]]></title>
+        <id>https://ppt21.com/spoent/65098?category=2</id>
+        <link href="https://ppt21.com/spoent/65098?category=2"/>
+        <updated>2021-12-20T12:38:25.744Z</updated>
+        <content type="html"><![CDATA[쿨럭]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [성시경]노래 좀 하는 요리 유투버]]></title>
         <id>https://ppt21.com/spoent/65097?category=2</id>
@@ -109,33 +137,5 @@
         <link href="https://ppt21.com/spoent/65073?category=2"/>
         <updated>2021-12-19T15:23:47.401Z</updated>
         <content type="html"><![CDATA[카루오스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 2000년 이후 출생한 여자아이돌 비주얼 트로이카.jpgif]]></title>
-        <id>https://ppt21.com/spoent/65072?category=2</id>
-        <link href="https://ppt21.com/spoent/65072?category=2"/>
-        <updated>2021-12-19T15:23:47.402Z</updated>
-        <content type="html"><![CDATA[VictoryFood]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [트와이스] MELODY PROJECT "Snowman (Sia)" Cover by MINA]]></title>
-        <id>https://ppt21.com/spoent/65071?category=2</id>
-        <link href="https://ppt21.com/spoent/65071?category=2"/>
-        <updated>2021-12-19T15:23:47.403Z</updated>
-        <content type="html"><![CDATA[TWICE쯔위]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 런닝맨x놀면뭐하니 가능성이 나왔습니다]]></title>
-        <id>https://ppt21.com/spoent/65070?category=2</id>
-        <link href="https://ppt21.com/spoent/65070?category=2"/>
-        <updated>2021-12-19T14:20:55.017Z</updated>
-        <content type="html"><![CDATA[telracScarlet]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [브레이브 걸스] 유나, 홍은지, 유정 유튜브 근황]]></title>
-        <id>https://ppt21.com/spoent/65069?category=2</id>
-        <link href="https://ppt21.com/spoent/65069?category=2"/>
-        <updated>2021-12-19T13:27:30.091Z</updated>
-        <content type="html"><![CDATA[Croove]]></content>
     </entry>
 </feed>
