@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-20T05:23:01.758Z</updated>
+    <updated>2021-12-20T06:29:08.004Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] 잼민이랑 말싸움하는 문세윤.jpg (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/65089?category=2</id>
+        <link href="https://ppt21.com/spoent/65089?category=2"/>
+        <updated>2021-12-20T06:28:46.510Z</updated>
+        <content type="html"><![CDATA[파랑파랑]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [런닝맨] 안양꼬라지를 차단하는 보필PD (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/65087?category=2</id>
@@ -131,11 +138,18 @@
         <content type="html"><![CDATA[그10번]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[연예] 여러 커뮤에서 반응이 뜨거운 tvN 드라마 <불가살> (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/65056?category=2</id>
-        <link href="https://ppt21.com/spoent/65056?category=2"/>
-        <updated>2021-12-19T02:41:57.710Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
+        <title type="html"><![CDATA[황민현 인스타그램 업데이트 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2283203686</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2283203686"/>
+        <updated>2021-12-20T06:29:07.355Z</updated>
+        <content type="html"><![CDATA[300482]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[갤럽 올해 빛낸 가수 2020-2021 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2283144785</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2283144785"/>
+        <updated>2021-12-20T06:29:07.359Z</updated>
+        <content type="html"><![CDATA[300481]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022 Weverse Con [New Era] Holiday Poster (더쿠 ─ 케이돌토크)]]></title>
@@ -262,19 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2282232588"/>
         <updated>2021-12-19T11:19:23.639Z</updated>
         <content type="html"><![CDATA[300463]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박지훈 인스타그램 업뎃 눈사람 맥스 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2282157244</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2282157244"/>
-        <updated>2021-12-19T10:25:07.515Z</updated>
-        <content type="html"><![CDATA[300462]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오마이걸 (OH MY GIRL) - 'Shark' Official Music Video TEASER (The Ball ver) (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2282108128</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2282108128"/>
-        <updated>2021-12-19T09:23:11.796Z</updated>
-        <content type="html"><![CDATA[300461]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-20T05:23:01.756Z</updated>
+    <updated>2021-12-20T06:29:08.003Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 잼민이랑 말싸움하는 문세윤.jpg]]></title>
+        <id>https://ppt21.com/spoent/65089?category=2</id>
+        <link href="https://ppt21.com/spoent/65089?category=2"/>
+        <updated>2021-12-20T06:28:46.510Z</updated>
+        <content type="html"><![CDATA[파랑파랑]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [런닝맨] 안양꼬라지를 차단하는 보필PD]]></title>
         <id>https://ppt21.com/spoent/65087?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65057?category=2"/>
         <updated>2021-12-19T02:41:57.710Z</updated>
         <content type="html"><![CDATA[그10번]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 여러 커뮤에서 반응이 뜨거운 tvN 드라마 <불가살>]]></title>
-        <id>https://ppt21.com/spoent/65056?category=2</id>
-        <link href="https://ppt21.com/spoent/65056?category=2"/>
-        <updated>2021-12-19T02:41:57.710Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
     </entry>
 </feed>

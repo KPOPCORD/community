@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2021-12-20T05:23:01.753Z</updated>
+    <updated>2021-12-20T06:29:08.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[황민현 인스타그램 업데이트]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2283203686</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2283203686"/>
+        <updated>2021-12-20T06:29:07.355Z</updated>
+        <content type="html"><![CDATA[300482]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[갤럽 올해 빛낸 가수 2020-2021]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2283144785</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2283144785"/>
+        <updated>2021-12-20T06:29:07.359Z</updated>
+        <content type="html"><![CDATA[300481]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 Weverse Con [New Era] Holiday Poster]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2283094239</id>
@@ -130,19 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2282232588"/>
         <updated>2021-12-19T11:19:23.639Z</updated>
         <content type="html"><![CDATA[300463]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박지훈 인스타그램 업뎃 눈사람 맥스]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2282157244</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2282157244"/>
-        <updated>2021-12-19T10:25:07.515Z</updated>
-        <content type="html"><![CDATA[300462]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오마이걸 (OH MY GIRL) - 'Shark' Official Music Video TEASER (The Ball ver)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2282108128</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2282108128"/>
-        <updated>2021-12-19T09:23:11.796Z</updated>
-        <content type="html"><![CDATA[300461]]></content>
     </entry>
 </feed>
