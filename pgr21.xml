@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-20T17:30:58.583Z</updated>
+    <updated>2021-12-20T18:28:02.890Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 설강화 논란 돌파 발법]]></title>
+        <id>https://ppt21.com/spoent/65108?category=2</id>
+        <link href="https://ppt21.com/spoent/65108?category=2"/>
+        <updated>2021-12-20T18:27:51.425Z</updated>
+        <content type="html"><![CDATA[차라리꽉눌러붙을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [피의게임 스포] 드디어 터진 시빌 워. 여러분은 어느 쪽에 공감하시나요?]]></title>
         <id>https://ppt21.com/spoent/65107?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65078?category=2"/>
         <updated>2021-12-20T01:16:04.662Z</updated>
         <content type="html"><![CDATA[빼사스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [태종이방원]고증 제대로한 창왕의 죽음]]></title>
-        <id>https://ppt21.com/spoent/65077?category=2</id>
-        <link href="https://ppt21.com/spoent/65077?category=2"/>
-        <updated>2021-12-20T01:16:04.667Z</updated>
-        <content type="html"><![CDATA[카루오스]]></content>
     </entry>
 </feed>
