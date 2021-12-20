@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-20T07:22:39.291Z</updated>
+    <updated>2021-12-20T08:29:15.215Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 사극에서 표현된 하여가, 단심가와 선죽교]]></title>
+        <id>https://ppt21.com/spoent/65093?category=2</id>
+        <link href="https://ppt21.com/spoent/65093?category=2"/>
+        <updated>2021-12-20T08:29:01.748Z</updated>
+        <content type="html"><![CDATA[그10번]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 잼민이랑 말싸움하는 문세윤.jpg]]></title>
         <id>https://ppt21.com/spoent/65089?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65060?category=2"/>
         <updated>2021-12-19T07:21:41.426Z</updated>
         <content type="html"><![CDATA[Leeka]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예]  [트와이스] TTT 크라임씬 시즌2 2,3화 사진, 움짤 (데이터주의)]]></title>
-        <id>https://ppt21.com/spoent/65057?category=2</id>
-        <link href="https://ppt21.com/spoent/65057?category=2"/>
-        <updated>2021-12-19T02:41:57.710Z</updated>
-        <content type="html"><![CDATA[그10번]]></content>
     </entry>
 </feed>
