@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-20T15:24:37.628Z</updated>
+    <updated>2021-12-20T16:38:04.259Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [피의게임 스포] 드디어 터진 시빌 워. 여러분은 어느 쪽에 공감하시나요?]]></title>
+        <id>https://ppt21.com/spoent/65107?category=2</id>
+        <link href="https://ppt21.com/spoent/65107?category=2"/>
+        <updated>2021-12-20T16:37:54.284Z</updated>
+        <content type="html"><![CDATA[이탐화]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 벌써 8년 전 옛날노래]]></title>
+        <id>https://ppt21.com/spoent/65106?category=2</id>
+        <link href="https://ppt21.com/spoent/65106?category=2"/>
+        <updated>2021-12-20T16:37:54.284Z</updated>
+        <content type="html"><![CDATA[ELESIS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [갤럽] 2021년을 빛낸 가수와 가요]]></title>
         <id>https://ppt21.com/spoent/65104?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/65077?category=2"/>
         <updated>2021-12-20T01:16:04.667Z</updated>
         <content type="html"><![CDATA[카루오스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 역대급 흥행을 보여주는 위쳐 시즌2]]></title>
-        <id>https://ppt21.com/spoent/65076?category=2</id>
-        <link href="https://ppt21.com/spoent/65076?category=2"/>
-        <updated>2021-12-19T20:24:10.522Z</updated>
-        <content type="html"><![CDATA[카트만두에서만두]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 20년된 명반 - 박효신 2집]]></title>
-        <id>https://ppt21.com/spoent/65074?category=2</id>
-        <link href="https://ppt21.com/spoent/65074?category=2"/>
-        <updated>2021-12-19T16:35:27.491Z</updated>
-        <content type="html"><![CDATA[Croove]]></content>
     </entry>
 </feed>
