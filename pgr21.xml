@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-20T04:31:54.860Z</updated>
+    <updated>2021-12-20T05:23:01.756Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [런닝맨] 안양꼬라지를 차단하는 보필PD]]></title>
+        <id>https://ppt21.com/spoent/65087?category=2</id>
+        <link href="https://ppt21.com/spoent/65087?category=2"/>
+        <updated>2021-12-20T05:22:34.331Z</updated>
+        <content type="html"><![CDATA[A1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 박종철기념사업회 "설강화, 국가 폭력에 합리성을 부여하려는 시도가 놀랍다"]]></title>
         <id>https://ppt21.com/spoent/65086?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65056?category=2"/>
         <updated>2021-12-19T02:41:57.710Z</updated>
         <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] (약스포?)설강화 1화 후기]]></title>
-        <id>https://ppt21.com/spoent/65055?category=2</id>
-        <link href="https://ppt21.com/spoent/65055?category=2"/>
-        <updated>2021-12-18T16:35:12.585Z</updated>
-        <content type="html"><![CDATA[하프-물범]]></content>
     </entry>
 </feed>

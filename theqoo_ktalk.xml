@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2021-12-20T04:31:54.852Z</updated>
+    <updated>2021-12-20T05:23:01.753Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 Weverse Con [New Era] Holiday Poster]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2283094239</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2283094239"/>
+        <updated>2021-12-20T05:23:01.054Z</updated>
+        <content type="html"><![CDATA[300480]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[설강화 1987년 박종철 고문치사 사건 정확하게 모르면 이 영상 봐]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2283048876</id>
@@ -137,12 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2282108128"/>
         <updated>2021-12-19T09:23:11.796Z</updated>
         <content type="html"><![CDATA[300461]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박지훈 공트 #JIHOONNow 밤톨 셀카]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2282052374</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2282052374"/>
-        <updated>2021-12-19T08:27:40.707Z</updated>
-        <content type="html"><![CDATA[300460]]></content>
     </entry>
 </feed>
