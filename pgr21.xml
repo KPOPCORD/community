@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-20T12:38:35.089Z</updated>
+    <updated>2021-12-20T13:30:33.802Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 손흥민의 리버풀인맥]]></title>
+        <id>https://ppt21.com/spoent/65103?category=2</id>
+        <link href="https://ppt21.com/spoent/65103?category=2"/>
+        <updated>2021-12-20T13:30:22.962Z</updated>
+        <content type="html"><![CDATA[어강됴리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [로켓펀치] 한국관광공사 달달하고]]></title>
         <id>https://ppt21.com/spoent/65101?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65074?category=2"/>
         <updated>2021-12-19T16:35:27.491Z</updated>
         <content type="html"><![CDATA[Croove]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [태종이방원]3화 공양왕의 역습]]></title>
-        <id>https://ppt21.com/spoent/65073?category=2</id>
-        <link href="https://ppt21.com/spoent/65073?category=2"/>
-        <updated>2021-12-19T15:23:47.401Z</updated>
-        <content type="html"><![CDATA[카루오스]]></content>
     </entry>
 </feed>
