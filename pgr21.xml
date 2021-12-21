@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-21T06:28:26.032Z</updated>
+    <updated>2021-12-21T07:22:32.596Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 영국 NME 선정 2021년 올해의 kpop 25곡]]></title>
+        <id>https://ppt21.com/spoent/65125?category=2</id>
+        <link href="https://ppt21.com/spoent/65125?category=2"/>
+        <updated>2021-12-21T07:22:19.950Z</updated>
+        <content type="html"><![CDATA[발적화]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 스포티파이 선정 2021년 K-Pop 최고 10곡.jpg]]></title>
         <id>https://ppt21.com/spoent/65123?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65089?category=2"/>
         <updated>2021-12-20T06:28:46.510Z</updated>
         <content type="html"><![CDATA[파랑파랑]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [런닝맨] 안양꼬라지를 차단하는 보필PD]]></title>
-        <id>https://ppt21.com/spoent/65087?category=2</id>
-        <link href="https://ppt21.com/spoent/65087?category=2"/>
-        <updated>2021-12-20T05:22:34.331Z</updated>
-        <content type="html"><![CDATA[A1]]></content>
     </entry>
 </feed>
