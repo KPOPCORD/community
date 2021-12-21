@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-21T14:21:40.900Z</updated>
+    <updated>2021-12-21T15:25:02.100Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [아이유] <조각집> Artwork Teaser]]></title>
+        <id>https://ppt21.com/spoent/65129?category=2</id>
+        <link href="https://ppt21.com/spoent/65129?category=2"/>
+        <updated>2021-12-21T15:24:52.289Z</updated>
+        <content type="html"><![CDATA[VictoryFood]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 1년간 빌보드 차트 순위 변화]]></title>
         <id>https://ppt21.com/spoent/65128?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65097?category=2"/>
         <updated>2021-12-20T11:19:19.903Z</updated>
         <content type="html"><![CDATA[kogang2001]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] aespa 에스파 Dreams Come True MV]]></title>
-        <id>https://ppt21.com/spoent/65096?category=2</id>
-        <link href="https://ppt21.com/spoent/65096?category=2"/>
-        <updated>2021-12-20T10:26:25.442Z</updated>
-        <content type="html"><![CDATA[aespa]]></content>
     </entry>
 </feed>
