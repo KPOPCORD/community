@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-21T10:26:12.260Z</updated>
+    <updated>2021-12-21T11:20:15.043Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 설강화 제작진에게 간첩 얘기는 듣지도 못했다는 유르트]]></title>
+        <id>https://ppt21.com/spoent/65126?category=2</id>
+        <link href="https://ppt21.com/spoent/65126?category=2"/>
+        <updated>2021-12-21T11:20:04.255Z</updated>
+        <content type="html"><![CDATA[GUNDAM EXIA]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 영국 NME 선정 2021년 올해의 kpop 25곡]]></title>
         <id>https://ppt21.com/spoent/65125?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65093?category=2"/>
         <updated>2021-12-20T08:29:01.748Z</updated>
         <content type="html"><![CDATA[그10번]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 잼민이랑 말싸움하는 문세윤.jpg]]></title>
-        <id>https://ppt21.com/spoent/65089?category=2</id>
-        <link href="https://ppt21.com/spoent/65089?category=2"/>
-        <updated>2021-12-20T06:28:46.510Z</updated>
-        <content type="html"><![CDATA[파랑파랑]]></content>
     </entry>
 </feed>
