@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-21T05:22:33.575Z</updated>
+    <updated>2021-12-21T06:28:26.032Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 스포티파이 선정 2021년 K-Pop 최고 10곡.jpg]]></title>
+        <id>https://ppt21.com/spoent/65123?category=2</id>
+        <link href="https://ppt21.com/spoent/65123?category=2"/>
+        <updated>2021-12-21T06:28:16.226Z</updated>
+        <content type="html"><![CDATA[미원]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 조세호의 인성논란 불러일으킨 프로참석러]]></title>
+        <id>https://ppt21.com/spoent/65122?category=2</id>
+        <link href="https://ppt21.com/spoent/65122?category=2"/>
+        <updated>2021-12-21T06:28:16.226Z</updated>
+        <content type="html"><![CDATA[물맛이좋아요]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 최고의 스파이디 영화는?...]]></title>
         <id>https://ppt21.com/spoent/65117?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/65087?category=2"/>
         <updated>2021-12-20T05:22:34.331Z</updated>
         <content type="html"><![CDATA[A1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 박종철기념사업회 "설강화, 국가 폭력에 합리성을 부여하려는 시도가 놀랍다"]]></title>
-        <id>https://ppt21.com/spoent/65086?category=2</id>
-        <link href="https://ppt21.com/spoent/65086?category=2"/>
-        <updated>2021-12-20T04:31:31.114Z</updated>
-        <content type="html"><![CDATA[EpicSide]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] ITZY,에스파 리더들 투샷.JPG]]></title>
-        <id>https://ppt21.com/spoent/65083?category=2</id>
-        <link href="https://ppt21.com/spoent/65083?category=2"/>
-        <updated>2021-12-20T03:24:10.968Z</updated>
-        <content type="html"><![CDATA[삭제됨]]></content>
     </entry>
 </feed>
