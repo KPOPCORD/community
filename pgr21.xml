@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-21T11:20:15.043Z</updated>
+    <updated>2021-12-21T12:38:07.142Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 골목식당 빽다방편]]></title>
+        <id>https://ppt21.com/spoent/65127?category=2</id>
+        <link href="https://ppt21.com/spoent/65127?category=2"/>
+        <updated>2021-12-21T12:37:56.697Z</updated>
+        <content type="html"><![CDATA[껌정]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 설강화 제작진에게 간첩 얘기는 듣지도 못했다는 유르트]]></title>
         <id>https://ppt21.com/spoent/65126?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65095?category=2"/>
         <updated>2021-12-20T10:26:25.444Z</updated>
         <content type="html"><![CDATA[손금불산입]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 사극에서 표현된 하여가, 단심가와 선죽교]]></title>
-        <id>https://ppt21.com/spoent/65093?category=2</id>
-        <link href="https://ppt21.com/spoent/65093?category=2"/>
-        <updated>2021-12-20T08:29:01.748Z</updated>
-        <content type="html"><![CDATA[그10번]]></content>
     </entry>
 </feed>

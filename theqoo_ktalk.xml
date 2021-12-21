@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2021-12-21T11:20:15.053Z</updated>
+    <updated>2021-12-21T12:38:07.136Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[강다니엘 릴스업뎃]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2284821488</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2284821488"/>
+        <updated>2021-12-21T12:38:06.439Z</updated>
+        <content type="html"><![CDATA[300536]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[카카오티비 '펌킨타임' 요정으로 등장하는 남자 아이돌]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2284749975</id>
@@ -137,12 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2284199696"/>
         <updated>2021-12-21T03:24:58.682Z</updated>
         <content type="html"><![CDATA[300517]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유재석 유희열 코로나19 완치..."곧 활동 복귀"[전문]]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2284193681</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2284193681"/>
-        <updated>2021-12-21T02:42:14.987Z</updated>
-        <content type="html"><![CDATA[300516]]></content>
     </entry>
 </feed>

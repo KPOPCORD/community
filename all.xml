@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-21T11:20:15.050Z</updated>
+    <updated>2021-12-21T12:38:07.139Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] 골목식당 빽다방편 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/65127?category=2</id>
+        <link href="https://ppt21.com/spoent/65127?category=2"/>
+        <updated>2021-12-21T12:37:56.697Z</updated>
+        <content type="html"><![CDATA[껌정]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 설강화 제작진에게 간첩 얘기는 듣지도 못했다는 유르트 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/65126?category=2</id>
@@ -131,11 +138,11 @@
         <content type="html"><![CDATA[손금불산입]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[연예] 사극에서 표현된 하여가, 단심가와 선죽교 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/65093?category=2</id>
-        <link href="https://ppt21.com/spoent/65093?category=2"/>
-        <updated>2021-12-20T08:29:01.748Z</updated>
-        <content type="html"><![CDATA[그10번]]></content>
+        <title type="html"><![CDATA[강다니엘 릴스업뎃 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2284821488</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2284821488"/>
+        <updated>2021-12-21T12:38:06.439Z</updated>
+        <content type="html"><![CDATA[300536]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[카카오티비 '펌킨타임' 요정으로 등장하는 남자 아이돌 (더쿠 ─ 케이돌토크)]]></title>
@@ -269,12 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2284199696"/>
         <updated>2021-12-21T03:24:58.682Z</updated>
         <content type="html"><![CDATA[300517]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유재석 유희열 코로나19 완치..."곧 활동 복귀"[전문] (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2284193681</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2284193681"/>
-        <updated>2021-12-21T02:42:14.987Z</updated>
-        <content type="html"><![CDATA[300516]]></content>
     </entry>
 </feed>
