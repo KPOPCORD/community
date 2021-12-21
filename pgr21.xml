@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-21T13:30:10.094Z</updated>
+    <updated>2021-12-21T14:21:40.900Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 1년간 빌보드 차트 순위 변화]]></title>
+        <id>https://ppt21.com/spoent/65128?category=2</id>
+        <link href="https://ppt21.com/spoent/65128?category=2"/>
+        <updated>2021-12-21T14:21:31.217Z</updated>
+        <content type="html"><![CDATA[여기에있어]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 골목식당 빽다방편]]></title>
         <id>https://ppt21.com/spoent/65127?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65096?category=2"/>
         <updated>2021-12-20T10:26:25.442Z</updated>
         <content type="html"><![CDATA[aespa]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 양세찬을 손바닥 위에서 농락하는 전소민]]></title>
-        <id>https://ppt21.com/spoent/65095?category=2</id>
-        <link href="https://ppt21.com/spoent/65095?category=2"/>
-        <updated>2021-12-20T10:26:25.444Z</updated>
-        <content type="html"><![CDATA[손금불산입]]></content>
     </entry>
 </feed>
