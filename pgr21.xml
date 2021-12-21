@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-21T04:31:18.376Z</updated>
+    <updated>2021-12-21T05:22:33.575Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 최고의 스파이디 영화는?...]]></title>
+        <id>https://ppt21.com/spoent/65117?category=2</id>
+        <link href="https://ppt21.com/spoent/65117?category=2"/>
+        <updated>2021-12-21T05:22:22.282Z</updated>
+        <content type="html"><![CDATA[우주전쟁]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] '킬러 콘텐츠가 없다'..디즈니플러스 고전]]></title>
         <id>https://ppt21.com/spoent/65116?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65083?category=2"/>
         <updated>2021-12-20T03:24:10.968Z</updated>
         <content type="html"><![CDATA[삭제됨]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] IU를 이긴 바로 그 노래!.avi]]></title>
-        <id>https://ppt21.com/spoent/65081?category=2</id>
-        <link href="https://ppt21.com/spoent/65081?category=2"/>
-        <updated>2021-12-20T02:41:16.189Z</updated>
-        <content type="html"><![CDATA[하우스]]></content>
     </entry>
 </feed>
