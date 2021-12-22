@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-22T13:30:25.445Z</updated>
+    <updated>2021-12-22T14:21:58.549Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 강혜원 양의 미니앨범이 공개되었습니다. [타이틀곡 : winter poem]]]></title>
+        <id>https://ppt21.com/spoent/65154?category=2</id>
+        <link href="https://ppt21.com/spoent/65154?category=2"/>
+        <updated>2021-12-22T14:21:35.855Z</updated>
+        <content type="html"><![CDATA[별빛정원]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 칠레 대통령 근황]]></title>
         <id>https://ppt21.com/spoent/65148?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65108?category=2"/>
         <updated>2021-12-20T18:27:51.425Z</updated>
         <content type="html"><![CDATA[차라리꽉눌러붙을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [피의게임 스포] 드디어 터진 시빌 워. 여러분은 어느 쪽에 공감하시나요?]]></title>
-        <id>https://ppt21.com/spoent/65107?category=2</id>
-        <link href="https://ppt21.com/spoent/65107?category=2"/>
-        <updated>2021-12-20T16:37:54.284Z</updated>
-        <content type="html"><![CDATA[이탐화]]></content>
     </entry>
 </feed>
