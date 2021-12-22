@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-22T22:23:26.743Z</updated>
+    <updated>2021-12-22T23:23:59.180Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 20211222 배성재의 텐 로맨스가 콩닥콩닥해 with. 유지애, 류수정, 정예인 (크리스마스 특집)]]></title>
+        <id>https://ppt21.com/spoent/65159?category=2</id>
+        <link href="https://ppt21.com/spoent/65159?category=2"/>
+        <updated>2021-12-22T23:23:49.366Z</updated>
+        <content type="html"><![CDATA[강가딘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] '닥터스트레인지: 대혼돈의 멀티버스' 예고편]]></title>
         <id>https://ppt21.com/spoent/65157?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65116?category=2"/>
         <updated>2021-12-21T04:31:08.747Z</updated>
         <content type="html"><![CDATA[Leeka]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 올해도 연금수령 완료한 머라이어 캐리 누님...]]></title>
-        <id>https://ppt21.com/spoent/65109?category=2</id>
-        <link href="https://ppt21.com/spoent/65109?category=2"/>
-        <updated>2021-12-21T01:17:19.674Z</updated>
-        <content type="html"><![CDATA[우주전쟁]]></content>
     </entry>
 </feed>
