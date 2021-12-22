@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-21T23:23:58.788Z</updated>
+    <updated>2021-12-22T01:17:15.211Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [출장 십오야2] 출장 십오야가 돌아왔습니다]]></title>
+        <id>https://ppt21.com/spoent/65132?category=2</id>
+        <link href="https://ppt21.com/spoent/65132?category=2"/>
+        <updated>2021-12-22T01:17:00.080Z</updated>
+        <content type="html"><![CDATA[A1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [아이유] <조각집> Artwork Teaser]]></title>
         <id>https://ppt21.com/spoent/65129?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65098?category=2"/>
         <updated>2021-12-20T12:38:25.744Z</updated>
         <content type="html"><![CDATA[쿨럭]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [성시경]노래 좀 하는 요리 유투버]]></title>
-        <id>https://ppt21.com/spoent/65097?category=2</id>
-        <link href="https://ppt21.com/spoent/65097?category=2"/>
-        <updated>2021-12-20T11:19:19.903Z</updated>
-        <content type="html"><![CDATA[kogang2001]]></content>
     </entry>
 </feed>
