@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-22T20:25:45.151Z</updated>
+    <updated>2021-12-22T21:20:32.698Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] '닥터스트레인지: 대혼돈의 멀티버스' 예고편]]></title>
+        <id>https://ppt21.com/spoent/65157?category=2</id>
+        <link href="https://ppt21.com/spoent/65157?category=2"/>
+        <updated>2021-12-22T21:20:22.667Z</updated>
+        <content type="html"><![CDATA[발적화]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 강혜원 양의 미니앨범이 공개되었습니다. [타이틀곡 : winter poem]]]></title>
         <id>https://ppt21.com/spoent/65154?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65109?category=2"/>
         <updated>2021-12-21T01:17:19.674Z</updated>
         <content type="html"><![CDATA[우주전쟁]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 설강화 논란 돌파 방법]]></title>
-        <id>https://ppt21.com/spoent/65108?category=2</id>
-        <link href="https://ppt21.com/spoent/65108?category=2"/>
-        <updated>2021-12-20T18:27:51.425Z</updated>
-        <content type="html"><![CDATA[차라리꽉눌러붙을]]></content>
     </entry>
 </feed>
