@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-22T03:25:09.535Z</updated>
+    <updated>2021-12-22T04:31:36.541Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 넷플릭스 공식 12월 3주차 시청시간]]></title>
+        <id>https://ppt21.com/spoent/65137?category=2</id>
+        <link href="https://ppt21.com/spoent/65137?category=2"/>
+        <updated>2021-12-22T04:31:19.912Z</updated>
+        <content type="html"><![CDATA[카트만두에서만두]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 넷플릭스 공식 기준 올해 한국드라마 시청시간 집계]]></title>
+        <id>https://ppt21.com/spoent/65136?category=2</id>
+        <link href="https://ppt21.com/spoent/65136?category=2"/>
+        <updated>2021-12-22T04:31:19.918Z</updated>
+        <content type="html"><![CDATA[카트만두에서만두]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [출장 십오야2] 출장 십오야가 돌아왔습니다]]></title>
         <id>https://ppt21.com/spoent/65132?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/65100?category=2"/>
         <updated>2021-12-20T12:38:25.742Z</updated>
         <content type="html"><![CDATA[VictoryFood]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 한국으로 다시 오는 타케우치 미유]]></title>
-        <id>https://ppt21.com/spoent/65099?category=2</id>
-        <link href="https://ppt21.com/spoent/65099?category=2"/>
-        <updated>2021-12-20T12:38:25.742Z</updated>
-        <content type="html"><![CDATA[어강됴리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 조유리 'White' 라이브]]></title>
-        <id>https://ppt21.com/spoent/65098?category=2</id>
-        <link href="https://ppt21.com/spoent/65098?category=2"/>
-        <updated>2021-12-20T12:38:25.744Z</updated>
-        <content type="html"><![CDATA[쿨럭]]></content>
     </entry>
 </feed>
