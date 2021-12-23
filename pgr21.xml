@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-23T06:28:32.901Z</updated>
+    <updated>2021-12-23T07:22:32.602Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] '설강화' 우려가 현실로…'민주화운동 간첩개입' 음모론 고개]]></title>
+        <id>https://ppt21.com/spoent/65167?category=2</id>
+        <link href="https://ppt21.com/spoent/65167?category=2"/>
+        <updated>2021-12-23T07:22:10.326Z</updated>
+        <content type="html"><![CDATA[GUNDAM EXIA]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 배성재의 텐 로맨스가 콩닥콩닥해 with. 유지애, 류수정, 정예인 (크리스마스 특집)]]></title>
         <id>https://ppt21.com/spoent/65159?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65117?category=2"/>
         <updated>2021-12-21T05:22:22.282Z</updated>
         <content type="html"><![CDATA[우주전쟁]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] '킬러 콘텐츠가 없다'..디즈니플러스 고전]]></title>
-        <id>https://ppt21.com/spoent/65116?category=2</id>
-        <link href="https://ppt21.com/spoent/65116?category=2"/>
-        <updated>2021-12-21T04:31:08.747Z</updated>
-        <content type="html"><![CDATA[Leeka]]></content>
     </entry>
 </feed>
