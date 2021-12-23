@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-23T14:21:39.950Z</updated>
+    <updated>2021-12-23T15:24:36.785Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 백지영이 이소라의 발라드를 부르는게 그렇게 이질적이란 소리 들을만 했나요?]]></title>
+        <id>https://ppt21.com/spoent/65174?category=2</id>
+        <link href="https://ppt21.com/spoent/65174?category=2"/>
+        <updated>2021-12-23T15:24:26.579Z</updated>
+        <content type="html"><![CDATA[신클라크]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 넷플릭스 '고요의바다' 첫 해외평.jpg]]></title>
         <id>https://ppt21.com/spoent/65172?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65126?category=2"/>
         <updated>2021-12-21T11:20:04.255Z</updated>
         <content type="html"><![CDATA[GUNDAM EXIA]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 영국 NME 선정 2021년 올해의 kpop 25곡]]></title>
-        <id>https://ppt21.com/spoent/65125?category=2</id>
-        <link href="https://ppt21.com/spoent/65125?category=2"/>
-        <updated>2021-12-21T07:22:19.950Z</updated>
-        <content type="html"><![CDATA[발적화]]></content>
     </entry>
 </feed>
