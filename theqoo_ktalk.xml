@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2021-12-23T12:37:59.159Z</updated>
+    <updated>2021-12-23T13:29:43.109Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[엔하이픈 성훈 멤트]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2287146024</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2287146024"/>
+        <updated>2021-12-23T13:29:42.436Z</updated>
+        <content type="html"><![CDATA[300557]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엔하이픈 [EN-O'CLOCK] EPISODE 21 해피 엔하 홀리데이🎁]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2287130904</id>
@@ -137,12 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2286540634"/>
         <updated>2021-12-23T03:24:10.630Z</updated>
         <content type="html"><![CDATA[300538]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AB6IX 박우진 이대휘, 우진이 본가 강아지들과 부산 여행 예능 🐶어바웃펫 하울링캠프 EP.3🐶]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2286524549</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2286524549"/>
-        <updated>2021-12-23T03:24:10.644Z</updated>
-        <content type="html"><![CDATA[300537]]></content>
     </entry>
 </feed>

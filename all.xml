@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-23T12:37:59.204Z</updated>
+    <updated>2021-12-23T13:29:43.198Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] 넷플릭스 '고요의바다' 첫 해외평.jpg (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/65172?category=2</id>
+        <link href="https://ppt21.com/spoent/65172?category=2"/>
+        <updated>2021-12-23T13:29:32.140Z</updated>
+        <content type="html"><![CDATA[핑크솔져]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 예능 나오기만 하면 오열한다는 나미춘 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/65170?category=2</id>
@@ -131,11 +138,11 @@
         <content type="html"><![CDATA[발적화]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[연예] 스포티파이 선정 2021년 K-Pop 최고 10곡.jpg (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/65123?category=2</id>
-        <link href="https://ppt21.com/spoent/65123?category=2"/>
-        <updated>2021-12-21T06:28:16.226Z</updated>
-        <content type="html"><![CDATA[미원]]></content>
+        <title type="html"><![CDATA[엔하이픈 성훈 멤트 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2287146024</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2287146024"/>
+        <updated>2021-12-23T13:29:42.436Z</updated>
+        <content type="html"><![CDATA[300557]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[엔하이픈 [EN-O'CLOCK] EPISODE 21 해피 엔하 홀리데이🎁 (더쿠 ─ 케이돌토크)]]></title>
@@ -269,12 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2286540634"/>
         <updated>2021-12-23T03:24:10.630Z</updated>
         <content type="html"><![CDATA[300538]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AB6IX 박우진 이대휘, 우진이 본가 강아지들과 부산 여행 예능 🐶어바웃펫 하울링캠프 EP.3🐶 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2286524549</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2286524549"/>
-        <updated>2021-12-23T03:24:10.644Z</updated>
-        <content type="html"><![CDATA[300537]]></content>
     </entry>
 </feed>

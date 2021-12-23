@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-23T12:37:59.155Z</updated>
+    <updated>2021-12-23T13:29:43.105Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 넷플릭스 '고요의바다' 첫 해외평.jpg]]></title>
+        <id>https://ppt21.com/spoent/65172?category=2</id>
+        <link href="https://ppt21.com/spoent/65172?category=2"/>
+        <updated>2021-12-23T13:29:32.140Z</updated>
+        <content type="html"><![CDATA[핑크솔져]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 예능 나오기만 하면 오열한다는 나미춘]]></title>
         <id>https://ppt21.com/spoent/65170?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65125?category=2"/>
         <updated>2021-12-21T07:22:19.950Z</updated>
         <content type="html"><![CDATA[발적화]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 스포티파이 선정 2021년 K-Pop 최고 10곡.jpg]]></title>
-        <id>https://ppt21.com/spoent/65123?category=2</id>
-        <link href="https://ppt21.com/spoent/65123?category=2"/>
-        <updated>2021-12-21T06:28:16.226Z</updated>
-        <content type="html"><![CDATA[미원]]></content>
     </entry>
 </feed>
