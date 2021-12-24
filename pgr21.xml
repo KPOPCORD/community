@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-24T10:26:19.817Z</updated>
+    <updated>2021-12-24T11:19:44.442Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 현시각 빌보드 차트]]></title>
+        <id>https://ppt21.com/spoent/65196?category=2</id>
+        <link href="https://ppt21.com/spoent/65196?category=2"/>
+        <updated>2021-12-24T11:19:33.590Z</updated>
+        <content type="html"><![CDATA[올해는다르다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] "배성재·이수근 조작 가담" 비난…골때녀 측 또 사과 "연출 탓"]]></title>
         <id>https://ppt21.com/spoent/65195?category=2</id>
@@ -129,13 +136,6 @@
         <id>https://ppt21.com/spoent/65137?category=2</id>
         <link href="https://ppt21.com/spoent/65137?category=2"/>
         <updated>2021-12-22T04:31:19.912Z</updated>
-        <content type="html"><![CDATA[카트만두에서만두]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 넷플릭스 공식 기준 올해 한국드라마 시청시간 집계]]></title>
-        <id>https://ppt21.com/spoent/65136?category=2</id>
-        <link href="https://ppt21.com/spoent/65136?category=2"/>
-        <updated>2021-12-22T04:31:19.918Z</updated>
         <content type="html"><![CDATA[카트만두에서만두]]></content>
     </entry>
 </feed>
