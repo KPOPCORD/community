@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-24T14:23:18.469Z</updated>
+    <updated>2021-12-24T15:24:31.643Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [골때녀] 과연 한 경기만 조작했을까?]]></title>
+        <id>https://ppt21.com/spoent/65202?category=2</id>
+        <link href="https://ppt21.com/spoent/65202?category=2"/>
+        <updated>2021-12-24T15:24:20.677Z</updated>
+        <content type="html"><![CDATA[랑비]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] [골때녀] 매우 화가 난 이석원.jpg]]></title>
+        <id>https://ppt21.com/spoent/65201?category=2</id>
+        <link href="https://ppt21.com/spoent/65201?category=2"/>
+        <updated>2021-12-24T15:24:20.683Z</updated>
+        <content type="html"><![CDATA[이탐화]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 배성재 아나운서가 트위치에서 해명방송 중이네요(종료)]]></title>
         <id>https://ppt21.com/spoent/65199?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/65146?category=2"/>
         <updated>2021-12-22T12:37:34.458Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] MBC 가요대제전에서 성사된 음방 MC 5인 콜라보]]></title>
-        <id>https://ppt21.com/spoent/65145?category=2</id>
-        <link href="https://ppt21.com/spoent/65145?category=2"/>
-        <updated>2021-12-22T12:37:34.458Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 톰 홀랜드가 출연하는 소니 영화]]></title>
-        <id>https://ppt21.com/spoent/65139?category=2</id>
-        <link href="https://ppt21.com/spoent/65139?category=2"/>
-        <updated>2021-12-22T05:25:14.217Z</updated>
-        <content type="html"><![CDATA[판을흔들어라]]></content>
     </entry>
 </feed>
