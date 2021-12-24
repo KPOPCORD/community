@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-24T08:28:29.118Z</updated>
+    <updated>2021-12-24T09:23:44.474Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] "배성재·이수근 조작 가담" 비난…골때녀 측 또 사과 "연출 탓"]]></title>
+        <id>https://ppt21.com/spoent/65195?category=2</id>
+        <link href="https://ppt21.com/spoent/65195?category=2"/>
+        <updated>2021-12-24T09:23:34.624Z</updated>
+        <content type="html"><![CDATA[카트만두에서만두]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 바다가 dreams come true를 녹음하던 당시 사용한 노트]]></title>
         <id>https://ppt21.com/spoent/65194?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65136?category=2"/>
         <updated>2021-12-22T04:31:19.918Z</updated>
         <content type="html"><![CDATA[카트만두에서만두]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [출장 십오야2] 출장 십오야가 돌아왔습니다]]></title>
-        <id>https://ppt21.com/spoent/65132?category=2</id>
-        <link href="https://ppt21.com/spoent/65132?category=2"/>
-        <updated>2021-12-22T01:17:00.080Z</updated>
-        <content type="html"><![CDATA[A1]]></content>
     </entry>
 </feed>
