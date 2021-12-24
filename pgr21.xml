@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-24T16:36:27.958Z</updated>
+    <updated>2021-12-24T17:29:23.595Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 자기가 뭐 찍었는지도 모르는 배우]]></title>
+        <id>https://ppt21.com/spoent/65203?category=2</id>
+        <link href="https://ppt21.com/spoent/65203?category=2"/>
+        <updated>2021-12-24T17:29:14.124Z</updated>
+        <content type="html"><![CDATA[소믈리에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [골때녀] 과연 한 경기만 조작했을까?]]></title>
         <id>https://ppt21.com/spoent/65202?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65148?category=2"/>
         <updated>2021-12-22T12:37:34.457Z</updated>
         <content type="html"><![CDATA[어강됴리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 아이유가 시상식에서 후배 울린 썰]]></title>
-        <id>https://ppt21.com/spoent/65146?category=2</id>
-        <link href="https://ppt21.com/spoent/65146?category=2"/>
-        <updated>2021-12-22T12:37:34.458Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
