@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-24T12:38:05.624Z</updated>
+    <updated>2021-12-24T13:29:11.838Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[[연예] 배성재 아나운서가 트위치에서 해명방송 중이네요 (Pgr21 ─ 연예)]]></title>
+        <title type="html"><![CDATA[[연예] 배성재 아나운서가 트위치에서 해명방송 중이네요(종료) (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/65199?category=2</id>
         <link href="https://ppt21.com/spoent/65199?category=2"/>
         <updated>2021-12-24T12:37:33.727Z</updated>
@@ -138,6 +138,34 @@
         <content type="html"><![CDATA[판을흔들어라]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[김재환 콘서트 세트리스트 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2288327840</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2288327840"/>
+        <updated>2021-12-24T13:29:11.171Z</updated>
+        <content type="html"><![CDATA[300612]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[투바투 'Sweet Dreams' Live Clip (Face cam ver.)🎄 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2288320103</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2288320103"/>
+        <updated>2021-12-24T13:29:11.171Z</updated>
+        <content type="html"><![CDATA[300611]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[투바투 멤트 (떼창녹음 비하인드) (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2288319095</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2288319095"/>
+        <updated>2021-12-24T13:29:11.172Z</updated>
+        <content type="html"><![CDATA[300610]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[데이식스 LP 예판 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2288318832</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2288318832"/>
+        <updated>2021-12-24T13:29:11.172Z</updated>
+        <content type="html"><![CDATA[300609]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[CIX 씨아이엑스 승훈 인스타그램 업뎃💛 (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2288256157</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2288256157"/>
@@ -248,33 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2288063617"/>
         <updated>2021-12-24T09:23:43.823Z</updated>
         <content type="html"><![CDATA[300593]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[씨아이엑스 BX 이병곤 트위터 업뎃💙 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2288056146</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2288056146"/>
-        <updated>2021-12-24T09:23:43.824Z</updated>
-        <content type="html"><![CDATA[300592]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[씨아이엑스 현석 트위터 인스타그램 업뎃❤️ (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2288049989</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2288049989"/>
-        <updated>2021-12-24T09:23:43.824Z</updated>
-        <content type="html"><![CDATA[300591]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이거 강성훈 짭 아니지?? (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2288046796</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2288046796"/>
-        <updated>2021-12-24T09:23:43.825Z</updated>
-        <content type="html"><![CDATA[300590]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노나카 샤나 & 샹티 Santa tell me Cover(official video) (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2288041185</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2288041185"/>
-        <updated>2021-12-24T09:23:43.827Z</updated>
-        <content type="html"><![CDATA[300589]]></content>
     </entry>
 </feed>
