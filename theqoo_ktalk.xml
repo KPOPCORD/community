@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2021-12-25T01:13:40.969Z</updated>
+    <updated>2021-12-25T02:42:35.369Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[설강화 시청률]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2288746985</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2288746985"/>
+        <updated>2021-12-25T02:42:34.667Z</updated>
+        <content type="html"><![CDATA[300625]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엔하이픈 정원 위버스 (과거사진🥰)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2288724438</id>
@@ -137,12 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2288252495"/>
         <updated>2021-12-24T12:38:04.931Z</updated>
         <content type="html"><![CDATA[300606]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[투바투 ‘Sweet Dreams’ Live Clip🎄]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2288239537</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2288239537"/>
-        <updated>2021-12-24T12:38:04.931Z</updated>
-        <content type="html"><![CDATA[300605]]></content>
     </entry>
 </feed>
