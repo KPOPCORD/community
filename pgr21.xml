@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-25T17:28:34.008Z</updated>
+    <updated>2021-12-25T18:27:21.347Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 골때녀 현재까지 밝혀진 주작 경기들]]></title>
+        <id>https://ppt21.com/spoent/65217?category=2</id>
+        <link href="https://ppt21.com/spoent/65217?category=2"/>
+        <updated>2021-12-25T18:27:10.138Z</updated>
+        <content type="html"><![CDATA[NetGO]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 치열했던 10여년 전 연예대상]]></title>
         <id>https://ppt21.com/spoent/65216?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65182?category=2"/>
         <updated>2021-12-24T04:31:04.920Z</updated>
         <content type="html"><![CDATA[KOS-MOS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 삭제된 글입니다.]]></title>
-        <id>https://ppt21.com/spoent/65174?category=2</id>
-        <link href="https://ppt21.com/spoent/65174?category=2"/>
-        <updated>2021-12-23T15:24:26.579Z</updated>
-        <content type="html"><![CDATA[삭제됨]]></content>
     </entry>
 </feed>
