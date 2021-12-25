@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-25T14:21:26.941Z</updated>
+    <updated>2021-12-25T15:23:43.863Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [트와이스] 'III' 첫콘 셋리스트 + 초간단후기]]></title>
+        <id>https://ppt21.com/spoent/65213?category=2</id>
+        <link href="https://ppt21.com/spoent/65213?category=2"/>
+        <updated>2021-12-25T15:23:32.674Z</updated>
+        <content type="html"><![CDATA[발적화]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 꽤나 배우가 겹치는 "고요의 바다"와 "오징어게임" (스포유)]]></title>
         <id>https://ppt21.com/spoent/65210?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65169?category=2"/>
         <updated>2021-12-23T08:28:19.198Z</updated>
         <content type="html"><![CDATA[실제상황입니다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] '설강화' 우려가 현실로…'민주화운동 간첩개입' 음모론 고개]]></title>
-        <id>https://ppt21.com/spoent/65167?category=2</id>
-        <link href="https://ppt21.com/spoent/65167?category=2"/>
-        <updated>2021-12-23T07:22:10.326Z</updated>
-        <content type="html"><![CDATA[GUNDAM EXIA]]></content>
     </entry>
 </feed>
