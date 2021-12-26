@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-26T20:24:25.496Z</updated>
+    <updated>2021-12-26T21:19:34.303Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 아래 sm 걸그룹 <Girls on top> 소식이 알려지고 몰려간 팬들]]></title>
+        <id>https://ppt21.com/spoent/65237?category=2</id>
+        <link href="https://ppt21.com/spoent/65237?category=2"/>
+        <updated>2021-12-26T21:19:24.480Z</updated>
+        <content type="html"><![CDATA[아롱이다롱이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 12월 26일 넷플릭스 순위 - 고요의 바다 4위]]></title>
         <id>https://ppt21.com/spoent/65235?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65214?category=2"/>
         <updated>2021-12-25T16:35:14.698Z</updated>
         <content type="html"><![CDATA[리노]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [트와이스] 'III' 첫콘 셋리스트 + 초간단후기]]></title>
-        <id>https://ppt21.com/spoent/65213?category=2</id>
-        <link href="https://ppt21.com/spoent/65213?category=2"/>
-        <updated>2021-12-25T15:23:32.674Z</updated>
-        <content type="html"><![CDATA[발적화]]></content>
     </entry>
 </feed>
