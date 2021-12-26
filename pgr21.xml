@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-26T04:31:00.084Z</updated>
+    <updated>2021-12-26T05:22:17.609Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 스파이더맨 노웨이홈 코로나시국 최초 월드와이드 10억불 기록]]></title>
+        <id>https://ppt21.com/spoent/65221?category=2</id>
+        <link href="https://ppt21.com/spoent/65221?category=2"/>
+        <updated>2021-12-26T05:21:51.858Z</updated>
+        <content type="html"><![CDATA[카트만두에서만두]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] [태종이방원]5화 본격적으로 갈라진 이성계 vs 정몽주]]></title>
+        <id>https://ppt21.com/spoent/65220?category=2</id>
+        <link href="https://ppt21.com/spoent/65220?category=2"/>
+        <updated>2021-12-26T05:21:51.862Z</updated>
+        <content type="html"><![CDATA[카루오스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 오늘 전국의 아버지,어머니들 난리날 임영웅쇼.jpg]]></title>
         <id>https://ppt21.com/spoent/65218?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/65194?category=2"/>
         <updated>2021-12-24T08:28:18.069Z</updated>
         <content type="html"><![CDATA[iwyh]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] SBS 3대 주작]]></title>
-        <id>https://ppt21.com/spoent/65192?category=2</id>
-        <link href="https://ppt21.com/spoent/65192?category=2"/>
-        <updated>2021-12-24T08:28:18.070Z</updated>
-        <content type="html"><![CDATA[니시노 나나세]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] SEOTAIJI 25 TIME : TRAVELER - feat BTS (메리크리스마스!)]]></title>
-        <id>https://ppt21.com/spoent/65191?category=2</id>
-        <link href="https://ppt21.com/spoent/65191?category=2"/>
-        <updated>2021-12-24T08:28:18.070Z</updated>
-        <content type="html"><![CDATA[Janzisuka]]></content>
     </entry>
 </feed>
