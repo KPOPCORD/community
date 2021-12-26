@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-26T02:43:45.063Z</updated>
+    <updated>2021-12-26T03:24:16.155Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[연예] 오늘 전국의 아버지,어머니들 난리날 임영웅쇼.jpg (Pgr21 ─ 연예)]]></title>
@@ -138,6 +138,13 @@
         <content type="html"><![CDATA[Janzisuka]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[💿] 김재환 4th MINI ALBUM 'THE LETTER' Prologue Film (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2289897802</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2289897802"/>
+        <updated>2021-12-26T03:24:15.439Z</updated>
+        <content type="html"><![CDATA[300639]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[투바투 휴닝카이 트윗 (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2289869171</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2289869171"/>
@@ -269,12 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2289325995"/>
         <updated>2021-12-25T13:27:26.776Z</updated>
         <content type="html"><![CDATA[300620]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아스트로 문빈 트위터 업뎃 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2289321147</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2289321147"/>
-        <updated>2021-12-25T13:27:26.777Z</updated>
-        <content type="html"><![CDATA[300619]]></content>
     </entry>
 </feed>
