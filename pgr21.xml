@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-26T01:19:45.332Z</updated>
+    <updated>2021-12-26T02:43:45.056Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 오늘 전국의 아버지,어머니들 난리날 임영웅쇼.jpg]]></title>
+        <id>https://ppt21.com/spoent/65218?category=2</id>
+        <link href="https://ppt21.com/spoent/65218?category=2"/>
+        <updated>2021-12-26T02:43:33.322Z</updated>
+        <content type="html"><![CDATA[핑크솔져]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 골때녀 현재까지 밝혀진 주작 경기들]]></title>
         <id>https://ppt21.com/spoent/65217?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65191?category=2"/>
         <updated>2021-12-24T08:28:18.070Z</updated>
         <content type="html"><![CDATA[Janzisuka]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 대쪽 같은 그녀의 취향.jpg]]></title>
-        <id>https://ppt21.com/spoent/65182?category=2</id>
-        <link href="https://ppt21.com/spoent/65182?category=2"/>
-        <updated>2021-12-24T04:31:04.920Z</updated>
-        <content type="html"><![CDATA[KOS-MOS]]></content>
     </entry>
 </feed>
