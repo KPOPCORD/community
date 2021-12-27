@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-27T21:20:01.115Z</updated>
+    <updated>2021-12-27T22:23:11.288Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 27일자 넷플릭스 tv/쇼 부문 월드랭킹]]></title>
+        <id>https://ppt21.com/spoent/65257?category=2</id>
+        <link href="https://ppt21.com/spoent/65257?category=2"/>
+        <updated>2021-12-27T22:23:00.824Z</updated>
+        <content type="html"><![CDATA[아롱이다롱이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] sm <갓더비트> 개인 티저 - 보아, 태연, 슬기, 윈터]]></title>
         <id>https://ppt21.com/spoent/65256?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65226?category=2"/>
         <updated>2021-12-26T12:36:18.072Z</updated>
         <content type="html"><![CDATA[TAEYEON]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [골때녀] 경기 중에 사라지는 시계.jpg]]></title>
-        <id>https://ppt21.com/spoent/65225?category=2</id>
-        <link href="https://ppt21.com/spoent/65225?category=2"/>
-        <updated>2021-12-26T10:25:15.761Z</updated>
-        <content type="html"><![CDATA[낭천]]></content>
     </entry>
 </feed>
