@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-27T09:26:11.385Z</updated>
+    <updated>2021-12-27T11:22:40.471Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 일본인 앞에서 라떼썰 푸는 김응수]]></title>
+        <id>https://ppt21.com/spoent/65251?category=2</id>
+        <link href="https://ppt21.com/spoent/65251?category=2"/>
+        <updated>2021-12-27T11:22:31.031Z</updated>
+        <content type="html"><![CDATA[어강됴리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 1월 1일 오후 1시부터 무료 온라인으로 진행되는 SM콘서트 라인업]]></title>
         <id>https://ppt21.com/spoent/65250?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65221?category=2"/>
         <updated>2021-12-26T05:21:51.858Z</updated>
         <content type="html"><![CDATA[카트만두에서만두]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [태종이방원]5화 본격적으로 갈라진 이성계 vs 정몽주]]></title>
-        <id>https://ppt21.com/spoent/65220?category=2</id>
-        <link href="https://ppt21.com/spoent/65220?category=2"/>
-        <updated>2021-12-26T05:21:51.862Z</updated>
-        <content type="html"><![CDATA[카루오스]]></content>
     </entry>
 </feed>
