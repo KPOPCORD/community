@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-27T14:34:25.532Z</updated>
+    <updated>2021-12-27T15:38:47.589Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 싱어게인] 오늘 무대 영상들]]></title>
+        <id>https://ppt21.com/spoent/65254?category=2</id>
+        <link href="https://ppt21.com/spoent/65254?category=2"/>
+        <updated>2021-12-27T15:38:37.562Z</updated>
+        <content type="html"><![CDATA[빼사스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] [오마이걸] 팬들이 11년 전 유튜브 영상에 광고를 건 이유 (스압)]]></title>
+        <id>https://ppt21.com/spoent/65253?category=2</id>
+        <link href="https://ppt21.com/spoent/65253?category=2"/>
+        <updated>2021-12-27T15:38:37.575Z</updated>
+        <content type="html"><![CDATA[VictoryFood]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 일본인 앞에서 라떼썰 푸는 김응수]]></title>
         <id>https://ppt21.com/spoent/65251?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/65223?category=2"/>
         <updated>2021-12-26T08:27:32.896Z</updated>
         <content type="html"><![CDATA[VictoryFood]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 40대 아저씨의 셀카.jpg]]></title>
-        <id>https://ppt21.com/spoent/65222?category=2</id>
-        <link href="https://ppt21.com/spoent/65222?category=2"/>
-        <updated>2021-12-26T07:21:48.323Z</updated>
-        <content type="html"><![CDATA[파랑파랑]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 스파이더맨 노웨이홈 코로나시국 최초 월드와이드 10억불 기록]]></title>
-        <id>https://ppt21.com/spoent/65221?category=2</id>
-        <link href="https://ppt21.com/spoent/65221?category=2"/>
-        <updated>2021-12-26T05:21:51.858Z</updated>
-        <content type="html"><![CDATA[카트만두에서만두]]></content>
     </entry>
 </feed>
