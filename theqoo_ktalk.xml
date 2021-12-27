@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2021-12-27T11:22:40.465Z</updated>
+    <updated>2021-12-27T12:38:12.318Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[투바투 자체예능 투두 EP.64 해피 홀리데이 파티 2편]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2291591530</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2291591530"/>
+        <updated>2021-12-27T12:38:10.735Z</updated>
+        <content type="html"><![CDATA[300679]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우주소녀 쪼꼬미 2ND SINGLE ALBUM 슈퍼그럼요 LISTENING_REACTION]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2291501180</id>
@@ -137,12 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2291207168"/>
         <updated>2021-12-27T07:24:36.893Z</updated>
         <content type="html"><![CDATA[300660]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['걸스플래닛999 출신' 케플러, '글로벌 데뷔쇼' 통해 팬덤명 최초 공개]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2291171046</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2291171046"/>
-        <updated>2021-12-27T06:31:00.558Z</updated>
-        <content type="html"><![CDATA[300659]]></content>
     </entry>
 </feed>
