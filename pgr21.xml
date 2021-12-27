@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-27T16:37:00.276Z</updated>
+    <updated>2021-12-27T17:29:37.625Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 싱어게인 57호 가수]]></title>
+        <id>https://ppt21.com/spoent/65255?category=2</id>
+        <link href="https://ppt21.com/spoent/65255?category=2"/>
+        <updated>2021-12-27T17:29:28.448Z</updated>
+        <content type="html"><![CDATA[로사]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 싱어게인] 오늘 무대 영상들]]></title>
         <id>https://ppt21.com/spoent/65254?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65224?category=2"/>
         <updated>2021-12-26T08:27:32.895Z</updated>
         <content type="html"><![CDATA[달리와]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 잼민이 연기하는 신혜선.ytb]]></title>
-        <id>https://ppt21.com/spoent/65223?category=2</id>
-        <link href="https://ppt21.com/spoent/65223?category=2"/>
-        <updated>2021-12-26T08:27:32.896Z</updated>
-        <content type="html"><![CDATA[VictoryFood]]></content>
     </entry>
 </feed>
