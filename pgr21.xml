@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-27T07:24:37.512Z</updated>
+    <updated>2021-12-27T09:26:11.385Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 1월 1일 오후 1시부터 무료 온라인으로 진행되는 SM콘서트 라인업]]></title>
+        <id>https://ppt21.com/spoent/65250?category=2</id>
+        <link href="https://ppt21.com/spoent/65250?category=2"/>
+        <updated>2021-12-27T09:25:44.752Z</updated>
+        <content type="html"><![CDATA[아롱이다롱이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [출장 십오야2] 내과 박원장편 업로드 되었습니다!]]></title>
         <id>https://ppt21.com/spoent/65246?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65220?category=2"/>
         <updated>2021-12-26T05:21:51.862Z</updated>
         <content type="html"><![CDATA[카루오스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 오늘 전국의 아버지,어머니들 난리날 임영웅쇼.jpg]]></title>
-        <id>https://ppt21.com/spoent/65218?category=2</id>
-        <link href="https://ppt21.com/spoent/65218?category=2"/>
-        <updated>2021-12-26T02:43:33.322Z</updated>
-        <content type="html"><![CDATA[핑크솔져]]></content>
     </entry>
 </feed>
