@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-27T03:24:09.523Z</updated>
+    <updated>2021-12-27T06:31:01.328Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [출장 십오야2] 내과 박원장편 업로드 되었습니다!]]></title>
+        <id>https://ppt21.com/spoent/65246?category=2</id>
+        <link href="https://ppt21.com/spoent/65246?category=2"/>
+        <updated>2021-12-27T06:30:51.429Z</updated>
+        <content type="html"><![CDATA[A1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 의외로 노래를 엄청 잘한다는 여배우.JPG]]></title>
         <id>https://ppt21.com/spoent/65242?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65218?category=2"/>
         <updated>2021-12-26T02:43:33.322Z</updated>
         <content type="html"><![CDATA[핑크솔져]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 골때녀 현재까지 밝혀진 주작 경기들]]></title>
-        <id>https://ppt21.com/spoent/65217?category=2</id>
-        <link href="https://ppt21.com/spoent/65217?category=2"/>
-        <updated>2021-12-25T18:27:10.138Z</updated>
-        <content type="html"><![CDATA[NetGO]]></content>
     </entry>
 </feed>
