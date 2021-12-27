@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-27T01:15:46.656Z</updated>
+    <updated>2021-12-27T03:24:09.523Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 의외로 노래를 엄청 잘한다는 여배우.JPG]]></title>
+        <id>https://ppt21.com/spoent/65242?category=2</id>
+        <link href="https://ppt21.com/spoent/65242?category=2"/>
+        <updated>2021-12-27T03:23:59.752Z</updated>
+        <content type="html"><![CDATA[insane]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 연말 임영웅 콘서트 시청률 16.1%]]></title>
+        <id>https://ppt21.com/spoent/65240?category=2</id>
+        <link href="https://ppt21.com/spoent/65240?category=2"/>
+        <updated>2021-12-27T03:23:59.752Z</updated>
+        <content type="html"><![CDATA[손금불산입]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] SM 새 프로젝트 '걸스 온 탑' 론칭… 첫 유닛은 '갓 더 비트']]></title>
         <id>https://ppt21.com/spoent/65238?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/65217?category=2"/>
         <updated>2021-12-25T18:27:10.138Z</updated>
         <content type="html"><![CDATA[NetGO]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 치열했던 10여년 전 연예대상]]></title>
-        <id>https://ppt21.com/spoent/65216?category=2</id>
-        <link href="https://ppt21.com/spoent/65216?category=2"/>
-        <updated>2021-12-25T17:28:23.554Z</updated>
-        <content type="html"><![CDATA[피잘모모]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 오늘자 넷플릭스 월드 순위 - 고요의 바다 top10]]></title>
-        <id>https://ppt21.com/spoent/65215?category=2</id>
-        <link href="https://ppt21.com/spoent/65215?category=2"/>
-        <updated>2021-12-25T16:35:14.697Z</updated>
-        <content type="html"><![CDATA[카트만두에서만두]]></content>
     </entry>
 </feed>
