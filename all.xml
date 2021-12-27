@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-27T20:25:02.167Z</updated>
+    <updated>2021-12-27T21:20:01.122Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] sm <갓더비트> 개인 티저 - 보아, 태연, 슬기, 윈터 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/65256?category=2</id>
+        <link href="https://ppt21.com/spoent/65256?category=2"/>
+        <updated>2021-12-27T21:19:50.129Z</updated>
+        <content type="html"><![CDATA[아롱이다롱이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 싱어게인 57호 가수 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/65255?category=2</id>
@@ -129,13 +136,6 @@
         <link href="https://ppt21.com/spoent/65225?category=2"/>
         <updated>2021-12-26T10:25:15.761Z</updated>
         <content type="html"><![CDATA[낭천]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [방송] 골장면도 편집하는 골때녀(?) (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/65224?category=2</id>
-        <link href="https://ppt21.com/spoent/65224?category=2"/>
-        <updated>2021-12-26T08:27:32.895Z</updated>
-        <content type="html"><![CDATA[달리와]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[펜타곤 컴백 트레일러 영상 섹시미 쩐다 (더쿠 ─ 케이돌토크)]]></title>
