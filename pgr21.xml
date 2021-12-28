@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-28T02:40:54.074Z</updated>
+    <updated>2021-12-28T03:24:19.274Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 성욕 포기 vs 전 재산 포기]]></title>
+        <id>https://ppt21.com/spoent/65263?category=2</id>
+        <link href="https://ppt21.com/spoent/65263?category=2"/>
+        <updated>2021-12-28T03:23:54.428Z</updated>
+        <content type="html"><![CDATA[손금불산입]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [DC]더 배트맨 : 박쥐와 고양이 신규 트레일러[한글자막]]]></title>
         <id>https://ppt21.com/spoent/65258?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65228?category=2"/>
         <updated>2021-12-26T14:20:40.885Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [트와이스] 월드투어 'III' 체조경기장 막콘 셋리스트 + 일본 도쿄돔 추가]]></title>
-        <id>https://ppt21.com/spoent/65227?category=2</id>
-        <link href="https://ppt21.com/spoent/65227?category=2"/>
-        <updated>2021-12-26T14:20:40.885Z</updated>
-        <content type="html"><![CDATA[발적화]]></content>
     </entry>
 </feed>
