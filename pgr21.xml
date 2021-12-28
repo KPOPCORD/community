@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-28T01:14:55.052Z</updated>
+    <updated>2021-12-28T02:40:54.074Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [DC]더 배트맨 : 박쥐와 고양이 신규 트레일러[한글자막]]]></title>
+        <id>https://ppt21.com/spoent/65258?category=2</id>
+        <link href="https://ppt21.com/spoent/65258?category=2"/>
+        <updated>2021-12-28T02:40:42.661Z</updated>
+        <content type="html"><![CDATA[타카이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 27일자 넷플릭스 tv/쇼 부문 월드랭킹]]></title>
         <id>https://ppt21.com/spoent/65257?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65227?category=2"/>
         <updated>2021-12-26T14:20:40.885Z</updated>
         <content type="html"><![CDATA[발적화]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] KBS대하드라마에서 표현된 이성계와 이방원의 모습들]]></title>
-        <id>https://ppt21.com/spoent/65226?category=2</id>
-        <link href="https://ppt21.com/spoent/65226?category=2"/>
-        <updated>2021-12-26T12:36:18.072Z</updated>
-        <content type="html"><![CDATA[TAEYEON]]></content>
     </entry>
 </feed>
