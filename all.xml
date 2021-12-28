@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-28T21:19:49.700Z</updated>
+    <updated>2021-12-28T22:23:05.033Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] 넷플릭스 '공식' 12월 4주차 시청시간 순위 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/65272?category=2</id>
+        <link href="https://ppt21.com/spoent/65272?category=2"/>
+        <updated>2021-12-28T22:22:54.888Z</updated>
+        <content type="html"><![CDATA[카트만두에서만두]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 겨울에 들어주지않으면 왠지 서운한 노래 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/65270?category=2</id>
@@ -129,13 +136,6 @@
         <link href="https://ppt21.com/spoent/65235?category=2"/>
         <updated>2021-12-26T17:28:53.008Z</updated>
         <content type="html"><![CDATA[카트만두에서만두]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 가요대전에서 1인3색을 보여준 유나 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/65232?category=2</id>
-        <link href="https://ppt21.com/spoent/65232?category=2"/>
-        <updated>2021-12-26T16:35:10.264Z</updated>
-        <content type="html"><![CDATA[묻고 더블로 가!]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[박우진 키스더라디오 비키라 고정게스트 8주차 인스타 셀카🐦📻❤ (더쿠 ─ 케이돌토크)]]></title>
