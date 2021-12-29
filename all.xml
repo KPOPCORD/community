@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-29T21:20:02.414Z</updated>
+    <updated>2021-12-29T22:23:07.827Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] 29일자 넷플릭스 월드랭킹 tv/쇼 부문 top10 순위 <그 해 우리는> 첫 진입 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/65298?category=2</id>
+        <link href="https://ppt21.com/spoent/65298?category=2"/>
+        <updated>2021-12-29T22:22:56.887Z</updated>
+        <content type="html"><![CDATA[아롱이다롱이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] MBC를 떠나기 전 마지막 소감 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/65297?category=2</id>
@@ -129,13 +136,6 @@
         <link href="https://ppt21.com/spoent/65253?category=2"/>
         <updated>2021-12-27T15:38:37.575Z</updated>
         <content type="html"><![CDATA[VictoryFood]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 일본인 앞에서 라떼썰 푸는 김응수 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/65251?category=2</id>
-        <link href="https://ppt21.com/spoent/65251?category=2"/>
-        <updated>2021-12-27T11:22:31.031Z</updated>
-        <content type="html"><![CDATA[어강됴리]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[펜타곤 본격적으로 컴백 준비하나바 (더쿠 ─ 케이돌토크)]]></title>
