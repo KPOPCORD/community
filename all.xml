@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-29T07:21:59.974Z</updated>
+    <updated>2021-12-29T08:28:24.536Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] 연예대상 기대를 받았던 두명의 다른 결과 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/65286?category=2</id>
+        <link href="https://ppt21.com/spoent/65286?category=2"/>
+        <updated>2021-12-29T08:28:13.588Z</updated>
+        <content type="html"><![CDATA[강가딘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [우주소녀] 우주소녀 쪼꼬미 '슈퍼 그럼요' 리스닝 리액션 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/65284?category=2</id>
@@ -131,11 +138,18 @@
         <content type="html"><![CDATA[insane]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[연예] 연말 임영웅 콘서트 시청률 16.1% (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/65240?category=2</id>
-        <link href="https://ppt21.com/spoent/65240?category=2"/>
-        <updated>2021-12-27T03:23:59.752Z</updated>
-        <content type="html"><![CDATA[손금불산입]]></content>
+        <title type="html"><![CDATA[스트레이키즈 한,승민 가요대전 미리메리크리스마스 페이스캠 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2293794005</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2293794005"/>
+        <updated>2021-12-29T08:28:23.856Z</updated>
+        <content type="html"><![CDATA[300728]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[씨아이엑스 현석 트위터 업뎃❤️ (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2293791644</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2293791644"/>
+        <updated>2021-12-29T08:28:23.856Z</updated>
+        <content type="html"><![CDATA[300727]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OMEGA X 2nd Mini Album [LOVE ME LIKE] IMAGE TEASER LIKE ver. #2 (더쿠 ─ 케이돌토크)]]></title>
@@ -262,19 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2292975664"/>
         <updated>2021-12-28T15:25:56.030Z</updated>
         <content type="html"><![CDATA[300709]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김요한(KIM YO HAN) 'Illusion' TRACKLIST 2022.01.10 6PM (KST) (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2292974846</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2292974846"/>
-        <updated>2021-12-28T15:25:56.030Z</updated>
-        <content type="html"><![CDATA[300708]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤지성 공트 - 이대휘 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2292938018</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2292938018"/>
-        <updated>2021-12-28T15:25:56.030Z</updated>
-        <content type="html"><![CDATA[300707]]></content>
     </entry>
 </feed>

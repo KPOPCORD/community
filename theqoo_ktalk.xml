@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2021-12-29T07:21:59.982Z</updated>
+    <updated>2021-12-29T08:28:24.530Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[스트레이키즈 한,승민 가요대전 미리메리크리스마스 페이스캠]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2293794005</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2293794005"/>
+        <updated>2021-12-29T08:28:23.856Z</updated>
+        <content type="html"><![CDATA[300728]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[씨아이엑스 현석 트위터 업뎃❤️]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2293791644</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2293791644"/>
+        <updated>2021-12-29T08:28:23.856Z</updated>
+        <content type="html"><![CDATA[300727]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OMEGA X 2nd Mini Album [LOVE ME LIKE] IMAGE TEASER LIKE ver. #2]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2293697993</id>
@@ -130,19 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2292975664"/>
         <updated>2021-12-28T15:25:56.030Z</updated>
         <content type="html"><![CDATA[300709]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김요한(KIM YO HAN) 'Illusion' TRACKLIST 2022.01.10 6PM (KST)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2292974846</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2292974846"/>
-        <updated>2021-12-28T15:25:56.030Z</updated>
-        <content type="html"><![CDATA[300708]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤지성 공트 - 이대휘]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2292938018</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2292938018"/>
-        <updated>2021-12-28T15:25:56.030Z</updated>
-        <content type="html"><![CDATA[300707]]></content>
     </entry>
 </feed>
