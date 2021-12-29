@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-29T06:28:41.135Z</updated>
+    <updated>2021-12-29T07:21:59.978Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [우주소녀] 우주소녀 쪼꼬미 '슈퍼 그럼요' 리스닝 리액션]]></title>
+        <id>https://ppt21.com/spoent/65284?category=2</id>
+        <link href="https://ppt21.com/spoent/65284?category=2"/>
+        <updated>2021-12-29T07:21:49.105Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] [오마이걸] 'Shark' M/V]]></title>
+        <id>https://ppt21.com/spoent/65283?category=2</id>
+        <link href="https://ppt21.com/spoent/65283?category=2"/>
+        <updated>2021-12-29T07:21:49.105Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 한번 돈 맛을 본 넷플릭스의 집요함...]]></title>
         <id>https://ppt21.com/spoent/65274?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/65240?category=2"/>
         <updated>2021-12-27T03:23:59.752Z</updated>
         <content type="html"><![CDATA[손금불산입]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] SM 새 프로젝트 '걸스 온 탑' 론칭… 첫 유닛은 '갓 더 비트']]></title>
-        <id>https://ppt21.com/spoent/65238?category=2</id>
-        <link href="https://ppt21.com/spoent/65238?category=2"/>
-        <updated>2021-12-27T01:15:35.531Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 아래 sm 걸그룹 <Girls on top> 소식이 알려지고 몰려간 팬들]]></title>
-        <id>https://ppt21.com/spoent/65237?category=2</id>
-        <link href="https://ppt21.com/spoent/65237?category=2"/>
-        <updated>2021-12-26T21:19:24.480Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
     </entry>
 </feed>
