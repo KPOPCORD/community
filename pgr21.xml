@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-29T09:24:21.524Z</updated>
+    <updated>2021-12-29T10:26:09.318Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 오늘 발매된 아이유 [조각집] 앨범 소개글.txt]]></title>
+        <id>https://ppt21.com/spoent/65289?category=2</id>
+        <link href="https://ppt21.com/spoent/65289?category=2"/>
+        <updated>2021-12-29T10:25:52.319Z</updated>
+        <content type="html"><![CDATA[얼굴찌푸리지말아요]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 9년 연속으로 최우수상 수상자가 나온 런닝맨]]></title>
         <id>https://ppt21.com/spoent/65287?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65250?category=2"/>
         <updated>2021-12-27T09:25:44.752Z</updated>
         <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [출장 십오야2] 내과 박원장편 업로드 되었습니다!]]></title>
-        <id>https://ppt21.com/spoent/65246?category=2</id>
-        <link href="https://ppt21.com/spoent/65246?category=2"/>
-        <updated>2021-12-27T06:30:51.429Z</updated>
-        <content type="html"><![CDATA[A1]]></content>
     </entry>
 </feed>
