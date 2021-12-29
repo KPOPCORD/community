@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-29T08:28:24.533Z</updated>
+    <updated>2021-12-29T09:24:21.524Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 9년 연속으로 최우수상 수상자가 나온 런닝맨]]></title>
+        <id>https://ppt21.com/spoent/65287?category=2</id>
+        <link href="https://ppt21.com/spoent/65287?category=2"/>
+        <updated>2021-12-29T09:24:11.396Z</updated>
+        <content type="html"><![CDATA[Leeka]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 연예대상 기대를 받았던 두명의 다른 결과]]></title>
         <id>https://ppt21.com/spoent/65286?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65246?category=2"/>
         <updated>2021-12-27T06:30:51.429Z</updated>
         <content type="html"><![CDATA[A1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 의외로 노래를 엄청 잘한다는 여배우.JPG]]></title>
-        <id>https://ppt21.com/spoent/65242?category=2</id>
-        <link href="https://ppt21.com/spoent/65242?category=2"/>
-        <updated>2021-12-27T03:23:59.752Z</updated>
-        <content type="html"><![CDATA[insane]]></content>
     </entry>
 </feed>
