@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-30T09:23:49.061Z</updated>
+    <updated>2021-12-30T10:25:54.603Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] JTBC 설강화 허위사실 유포 고소 예정]]></title>
+        <id>https://ppt21.com/spoent/65311?category=2</id>
+        <link href="https://ppt21.com/spoent/65311?category=2"/>
+        <updated>2021-12-30T10:25:43.683Z</updated>
+        <content type="html"><![CDATA[카트만두에서만두]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 첨예하게 찬반 대립 중인 댓글]]></title>
         <id>https://ppt21.com/spoent/65310?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65258?category=2"/>
         <updated>2021-12-28T02:40:42.661Z</updated>
         <content type="html"><![CDATA[타카이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 27일자 넷플릭스 tv/쇼 부문 월드랭킹]]></title>
-        <id>https://ppt21.com/spoent/65257?category=2</id>
-        <link href="https://ppt21.com/spoent/65257?category=2"/>
-        <updated>2021-12-27T22:23:00.824Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
     </entry>
 </feed>
