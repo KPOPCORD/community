@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-29T23:23:40.199Z</updated>
+    <updated>2021-12-30T01:15:10.917Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] 에밀리의 아무노래 챌린지 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/65299?category=2</id>
+        <link href="https://ppt21.com/spoent/65299?category=2"/>
+        <updated>2021-12-30T01:14:57.371Z</updated>
+        <content type="html"><![CDATA[어강됴리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 29일자 넷플릭스 월드랭킹 tv/쇼 부문 top10 순위 <그 해 우리는> 첫 진입 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/65298?category=2</id>
@@ -131,11 +138,11 @@
         <content type="html"><![CDATA[빼사스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[연예] [오마이걸] 팬들이 11년 전 유튜브 영상에 광고를 건 이유 (스압) (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/65253?category=2</id>
-        <link href="https://ppt21.com/spoent/65253?category=2"/>
-        <updated>2021-12-27T15:38:37.575Z</updated>
-        <content type="html"><![CDATA[VictoryFood]]></content>
+        <title type="html"><![CDATA[강다니엘X채수빈 '너와 나의 경찰수업', 2차 포스터 공개 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2294543236</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2294543236"/>
+        <updated>2021-12-30T01:15:10.138Z</updated>
+        <content type="html"><![CDATA[300758]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[펜타곤 본격적으로 컴백 준비하나바 (더쿠 ─ 케이돌토크)]]></title>
@@ -269,12 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2294136240"/>
         <updated>2021-12-29T13:29:28.639Z</updated>
         <content type="html"><![CDATA[300739]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안경 쓴 김재환🤓 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2294136039</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2294136039"/>
-        <updated>2021-12-29T13:29:28.639Z</updated>
-        <content type="html"><![CDATA[300738]]></content>
     </entry>
 </feed>

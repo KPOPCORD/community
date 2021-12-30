@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2021-12-29T23:23:40.187Z</updated>
+    <updated>2021-12-30T01:15:10.911Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[강다니엘X채수빈 '너와 나의 경찰수업', 2차 포스터 공개]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2294543236</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2294543236"/>
+        <updated>2021-12-30T01:15:10.138Z</updated>
+        <content type="html"><![CDATA[300758]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[펜타곤 본격적으로 컴백 준비하나바]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2294475981</id>
@@ -137,12 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2294136240"/>
         <updated>2021-12-29T13:29:28.639Z</updated>
         <content type="html"><![CDATA[300739]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안경 쓴 김재환🤓]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2294136039</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2294136039"/>
-        <updated>2021-12-29T13:29:28.639Z</updated>
-        <content type="html"><![CDATA[300738]]></content>
     </entry>
 </feed>

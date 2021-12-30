@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-29T23:23:40.184Z</updated>
+    <updated>2021-12-30T01:15:10.920Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 에밀리의 아무노래 챌린지]]></title>
+        <id>https://ppt21.com/spoent/65299?category=2</id>
+        <link href="https://ppt21.com/spoent/65299?category=2"/>
+        <updated>2021-12-30T01:14:57.371Z</updated>
+        <content type="html"><![CDATA[어강됴리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 29일자 넷플릭스 월드랭킹 tv/쇼 부문 top10 순위 <그 해 우리는> 첫 진입]]></title>
         <id>https://ppt21.com/spoent/65298?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65254?category=2"/>
         <updated>2021-12-27T15:38:37.562Z</updated>
         <content type="html"><![CDATA[빼사스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [오마이걸] 팬들이 11년 전 유튜브 영상에 광고를 건 이유 (스압)]]></title>
-        <id>https://ppt21.com/spoent/65253?category=2</id>
-        <link href="https://ppt21.com/spoent/65253?category=2"/>
-        <updated>2021-12-27T15:38:37.575Z</updated>
-        <content type="html"><![CDATA[VictoryFood]]></content>
     </entry>
 </feed>
