@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-30T05:22:37.246Z</updated>
+    <updated>2021-12-30T06:28:24.804Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 첨예하게 찬반 대립 중인 댓글]]></title>
+        <id>https://ppt21.com/spoent/65310?category=2</id>
+        <link href="https://ppt21.com/spoent/65310?category=2"/>
+        <updated>2021-12-30T06:28:13.042Z</updated>
+        <content type="html"><![CDATA[묻고 더블로 가!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 근손실 와서 너무 기뻣다는 아이돌 근황.MP4]]></title>
+        <id>https://ppt21.com/spoent/65307?category=2</id>
+        <link href="https://ppt21.com/spoent/65307?category=2"/>
+        <updated>2021-12-30T06:28:13.042Z</updated>
+        <content type="html"><![CDATA[insane]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 유재석 대상 수상내역]]></title>
         <id>https://ppt21.com/spoent/65300?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/65257?category=2"/>
         <updated>2021-12-27T22:23:00.824Z</updated>
         <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] sm <갓더비트> 개인 티저 - 보아, 태연, 슬기, 윈터]]></title>
-        <id>https://ppt21.com/spoent/65256?category=2</id>
-        <link href="https://ppt21.com/spoent/65256?category=2"/>
-        <updated>2021-12-27T21:19:50.129Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 싱어게인 57호 가수]]></title>
-        <id>https://ppt21.com/spoent/65255?category=2</id>
-        <link href="https://ppt21.com/spoent/65255?category=2"/>
-        <updated>2021-12-27T17:29:28.448Z</updated>
-        <content type="html"><![CDATA[로사]]></content>
     </entry>
 </feed>
