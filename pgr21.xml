@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-31T11:15:31.187Z</updated>
+    <updated>2021-12-31T12:27:20.797Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 올해 넷플릭스 월드 1위 횟수 순위]]></title>
+        <id>https://ppt21.com/spoent/65329?category=2</id>
+        <link href="https://ppt21.com/spoent/65329?category=2"/>
+        <updated>2021-12-31T12:26:52.307Z</updated>
+        <content type="html"><![CDATA[아롱이다롱이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [아이유] 20대의 마지막 날 공개된 '겨울잠' Live Clip]]></title>
         <id>https://ppt21.com/spoent/65328?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65283?category=2"/>
         <updated>2021-12-29T07:21:49.105Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 한번 돈 맛을 본 넷플릭스의 집요함...]]></title>
-        <id>https://ppt21.com/spoent/65274?category=2</id>
-        <link href="https://ppt21.com/spoent/65274?category=2"/>
-        <updated>2021-12-29T01:14:32.569Z</updated>
-        <content type="html"><![CDATA[우주전쟁]]></content>
     </entry>
 </feed>

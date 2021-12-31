@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-31T11:15:31.190Z</updated>
+    <updated>2021-12-31T12:27:20.870Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] 올해 넷플릭스 월드 1위 횟수 순위 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/65329?category=2</id>
+        <link href="https://ppt21.com/spoent/65329?category=2"/>
+        <updated>2021-12-31T12:26:52.307Z</updated>
+        <content type="html"><![CDATA[아롱이다롱이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [아이유] 20대의 마지막 날 공개된 '겨울잠' Live Clip (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/65328?category=2</id>
@@ -131,11 +138,18 @@
         <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[연예] 한번 돈 맛을 본 넷플릭스의 집요함... (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/65274?category=2</id>
-        <link href="https://ppt21.com/spoent/65274?category=2"/>
-        <updated>2021-12-29T01:14:32.569Z</updated>
-        <content type="html"><![CDATA[우주전쟁]]></content>
+        <title type="html"><![CDATA[양희은 인스타그램에 올라온 차은우 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2296444856</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2296444856"/>
+        <updated>2021-12-31T12:27:20.085Z</updated>
+        <content type="html"><![CDATA[300813]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WOODZ(우즈 조승연) & AB6IX 전웅 스테이션제트 예고 영상 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2296388106</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2296388106"/>
+        <updated>2021-12-31T12:27:20.087Z</updated>
+        <content type="html"><![CDATA[300812]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[권은비 2021 연말결산👋 | 2022년도 은비와 함께💖 (더쿠 ─ 케이돌토크)]]></title>
@@ -262,19 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2296173104"/>
         <updated>2021-12-31T08:51:11.124Z</updated>
         <content type="html"><![CDATA[300794]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방탄 인스타 제이홉 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2296166556</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2296166556"/>
-        <updated>2021-12-31T08:51:11.124Z</updated>
-        <content type="html"><![CDATA[300793]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김민주 인스타업뎃 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2296136896</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2296136896"/>
-        <updated>2021-12-31T08:51:11.146Z</updated>
-        <content type="html"><![CDATA[300792]]></content>
     </entry>
 </feed>
