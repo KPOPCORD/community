@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-30T14:21:44.310Z</updated>
+    <updated>2021-12-31T08:51:11.788Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 웹툰 원작, 넷플릭스 드라마 <지금 우리 학교는> 티저]]></title>
+        <id>https://ppt21.com/spoent/65324?category=2</id>
+        <link href="https://ppt21.com/spoent/65324?category=2"/>
+        <updated>2021-12-31T08:51:02.302Z</updated>
+        <content type="html"><![CDATA[아롱이다롱이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 남궁민, 2년 연속 연기대상 수상 (작년 SBS-올해 MBC)]]></title>
+        <id>https://ppt21.com/spoent/65318?category=2</id>
+        <link href="https://ppt21.com/spoent/65318?category=2"/>
+        <updated>2021-12-31T08:51:02.302Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [우주소녀] 우주소녀 쪼꼬미 '슈퍼 그럼요' 쪼꼬미 짤 (개인별 쇼츠)]]></title>
         <id>https://ppt21.com/spoent/65316?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/65272?category=2"/>
         <updated>2021-12-28T22:22:54.888Z</updated>
         <content type="html"><![CDATA[카트만두에서만두]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 겨울에 들어주지않으면 왠지 서운한 노래]]></title>
-        <id>https://ppt21.com/spoent/65270?category=2</id>
-        <link href="https://ppt21.com/spoent/65270?category=2"/>
-        <updated>2021-12-28T13:29:00.468Z</updated>
-        <content type="html"><![CDATA[Gunners]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [아이유] '정거장' 조각집 선공개 Live Clip]]></title>
-        <id>https://ppt21.com/spoent/65267?category=2</id>
-        <link href="https://ppt21.com/spoent/65267?category=2"/>
-        <updated>2021-12-28T09:24:04.872Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
