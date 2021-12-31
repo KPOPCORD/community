@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-31T15:17:59.524Z</updated>
+    <updated>2021-12-31T16:25:49.309Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [에스파] 2021 MBC 가요대제전 '드림스 컴 트루']]></title>
+        <id>https://ppt21.com/spoent/65332?category=2</id>
+        <link href="https://ppt21.com/spoent/65332?category=2"/>
+        <updated>2021-12-31T16:25:39.514Z</updated>
+        <content type="html"><![CDATA[바스테나]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [우주소녀] 가장 최근 '이루리' 직캠 (새해 복 많이 받으세요)]]></title>
         <id>https://ppt21.com/spoent/65331?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65287?category=2"/>
         <updated>2021-12-29T09:24:11.396Z</updated>
         <content type="html"><![CDATA[Leeka]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 연예대상 기대를 받았던 두명의 다른 결과]]></title>
-        <id>https://ppt21.com/spoent/65286?category=2</id>
-        <link href="https://ppt21.com/spoent/65286?category=2"/>
-        <updated>2021-12-29T08:28:13.588Z</updated>
-        <content type="html"><![CDATA[강가딘]]></content>
     </entry>
 </feed>
