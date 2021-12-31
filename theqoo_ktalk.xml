@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2021-12-31T17:24:27.688Z</updated>
+    <updated>2021-12-31T18:19:44.250Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[스키즈 2022 연간계획 발표.jpg]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2297032608</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2297032608"/>
+        <updated>2021-12-31T18:19:43.485Z</updated>
+        <content type="html"><![CDATA[300849]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아스트로 차은우 인스타 업뎃]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2296992888</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2296992888"/>
+        <updated>2021-12-31T18:19:43.492Z</updated>
+        <content type="html"><![CDATA[300848]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스키즈 승민 인스타그램🐶🍒 #2022]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2296988335</id>
@@ -130,19 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2296756383"/>
         <updated>2021-12-31T16:25:48.628Z</updated>
         <content type="html"><![CDATA[300830]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최예나 1월 17일 데뷔]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2296727306</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2296727306"/>
-        <updated>2021-12-31T15:17:58.768Z</updated>
-        <content type="html"><![CDATA[300829]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stray Kids(스트레이 키즈) "STEP OUT 2022"]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2296723723</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2296723723"/>
-        <updated>2021-12-31T15:17:58.768Z</updated>
-        <content type="html"><![CDATA[300828]]></content>
     </entry>
 </feed>
