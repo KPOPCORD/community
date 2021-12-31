@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2021-12-31T22:16:37.454Z</updated>
+    <updated>2021-12-31T23:16:47.032Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [본격자랑글] 에스파 그리팅]]></title>
+        <id>https://ppt21.com/spoent/65334?category=2</id>
+        <link href="https://ppt21.com/spoent/65334?category=2"/>
+        <updated>2021-12-31T23:16:37.677Z</updated>
+        <content type="html"><![CDATA[마포구보안관]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 2021 KBS 연기대상 지현우 / SBS 연기대상 김소연]]></title>
         <id>https://ppt21.com/spoent/65333?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65297?category=2"/>
         <updated>2021-12-29T18:27:45.054Z</updated>
         <content type="html"><![CDATA[EZrock]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 오늘 발매된 아이유 [조각집] 앨범 소개글.txt]]></title>
-        <id>https://ppt21.com/spoent/65289?category=2</id>
-        <link href="https://ppt21.com/spoent/65289?category=2"/>
-        <updated>2021-12-29T10:25:52.319Z</updated>
-        <content type="html"><![CDATA[얼굴찌푸리지말아요]]></content>
     </entry>
 </feed>
