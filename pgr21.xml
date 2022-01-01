@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-01T07:16:21.117Z</updated>
+    <updated>2022-01-01T08:20:28.146Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 상상을 초월하는 자이언티의 행보]]></title>
+        <id>https://ppt21.com/spoent/65344?category=2</id>
+        <link href="https://ppt21.com/spoent/65344?category=2"/>
+        <updated>2022-01-01T08:19:51.374Z</updated>
+        <content type="html"><![CDATA[xxqpxx]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] [로켓펀치] 한복 쥬리]]></title>
+        <id>https://ppt21.com/spoent/65343?category=2</id>
+        <link href="https://ppt21.com/spoent/65343?category=2"/>
+        <updated>2022-01-01T08:19:51.375Z</updated>
+        <content type="html"><![CDATA[어강됴리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 뜬금없이 설강화로 피해볼지도 모르는 영화-  이정재,정우성 헌트]]></title>
+        <id>https://ppt21.com/spoent/65342?category=2</id>
+        <link href="https://ppt21.com/spoent/65342?category=2"/>
+        <updated>2022-01-01T08:19:51.382Z</updated>
+        <content type="html"><![CDATA[forangel]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 설강화 1화 2화 간략후기(스포 있을수도 있음)]]></title>
         <id>https://ppt21.com/spoent/65341?category=2</id>
@@ -116,26 +137,5 @@
         <link href="https://ppt21.com/spoent/65312?category=2"/>
         <updated>2021-12-30T12:37:28.053Z</updated>
         <content type="html"><![CDATA[카트만두에서만두]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] JTBC 설강화 허위사실 유포 고소 예정]]></title>
-        <id>https://ppt21.com/spoent/65311?category=2</id>
-        <link href="https://ppt21.com/spoent/65311?category=2"/>
-        <updated>2021-12-30T10:25:43.683Z</updated>
-        <content type="html"><![CDATA[카트만두에서만두]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 첨예하게 찬반 대립 중인 댓글]]></title>
-        <id>https://ppt21.com/spoent/65310?category=2</id>
-        <link href="https://ppt21.com/spoent/65310?category=2"/>
-        <updated>2021-12-30T06:28:13.042Z</updated>
-        <content type="html"><![CDATA[묻고 더블로 가!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 근손실 와서 너무 기뻣다는 아이돌 근황.MP4]]></title>
-        <id>https://ppt21.com/spoent/65307?category=2</id>
-        <link href="https://ppt21.com/spoent/65307?category=2"/>
-        <updated>2021-12-30T06:28:13.042Z</updated>
-        <content type="html"><![CDATA[insane]]></content>
     </entry>
 </feed>
