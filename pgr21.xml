@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-01T11:14:05.670Z</updated>
+    <updated>2022-01-01T12:26:20.601Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 디스패치 10주년 기념 콘서트]]></title>
+        <id>https://ppt21.com/spoent/65348?category=2</id>
+        <link href="https://ppt21.com/spoent/65348?category=2"/>
+        <updated>2022-01-01T12:26:08.885Z</updated>
+        <content type="html"><![CDATA[김민둥맨둥]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [갓더비트] 'Step Back' Stage Video]]></title>
         <id>https://ppt21.com/spoent/65347?category=2</id>
@@ -129,13 +136,6 @@
         <id>https://ppt21.com/spoent/65318?category=2</id>
         <link href="https://ppt21.com/spoent/65318?category=2"/>
         <updated>2021-12-31T08:51:02.302Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [우주소녀] 우주소녀 쪼꼬미 '슈퍼 그럼요' 쪼꼬미 짤 (개인별 쇼츠)]]></title>
-        <id>https://ppt21.com/spoent/65316?category=2</id>
-        <link href="https://ppt21.com/spoent/65316?category=2"/>
-        <updated>2021-12-30T13:29:03.522Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>

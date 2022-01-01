@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-01T11:14:05.672Z</updated>
+    <updated>2022-01-01T12:26:20.609Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] 디스패치 10주년 기념 콘서트 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/65348?category=2</id>
+        <link href="https://ppt21.com/spoent/65348?category=2"/>
+        <updated>2022-01-01T12:26:08.885Z</updated>
+        <content type="html"><![CDATA[김민둥맨둥]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [갓더비트] 'Step Back' Stage Video (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/65347?category=2</id>
@@ -131,11 +138,18 @@
         <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[연예] [우주소녀] 우주소녀 쪼꼬미 '슈퍼 그럼요' 쪼꼬미 짤 (개인별 쇼츠) (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/65316?category=2</id>
-        <link href="https://ppt21.com/spoent/65316?category=2"/>
-        <updated>2021-12-30T13:29:03.522Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
+        <title type="html"><![CDATA[☁ 하성운 트위터&인스타그램 릴스 업뎃 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2297789939</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2297789939"/>
+        <updated>2022-01-01T12:26:19.823Z</updated>
+        <content type="html"><![CDATA[300864]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[환웅 트위터 투샷 with 김동현(AB6IX) (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2297753728</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2297753728"/>
+        <updated>2022-01-01T12:26:19.823Z</updated>
+        <content type="html"><![CDATA[300863]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[골든디스크 인기상 투표 종료 결과 (더쿠 ─ 케이돌토크)]]></title>
@@ -145,136 +159,122 @@
         <content type="html"><![CDATA[300862]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[갓더비트 공식 무대영상 올라옴 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2297657545</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2297657545"/>
-        <updated>2022-01-01T10:19:08.342Z</updated>
-        <content type="html"><![CDATA[300861]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[샤이니 키 인스타 ㅋㅋㅋㅋㅋㅋㅋ (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2297613867</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2297613867"/>
         <updated>2022-01-01T10:19:08.342Z</updated>
-        <content type="html"><![CDATA[300860]]></content>
+        <content type="html"><![CDATA[300861]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[CIX 씨아이엑스 승훈 인스타그램 업뎃💛 (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2297607057</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2297607057"/>
         <updated>2022-01-01T09:18:16.465Z</updated>
-        <content type="html"><![CDATA[300859]]></content>
+        <content type="html"><![CDATA[300860]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[가요대제전 더보이즈 킬디스럽 안무영상 (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2297600486</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2297600486"/>
         <updated>2022-01-01T09:18:16.465Z</updated>
-        <content type="html"><![CDATA[300858]]></content>
+        <content type="html"><![CDATA[300859]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[갓더비트 - 스텝백 가사 (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2297517609</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2297517609"/>
         <updated>2022-01-01T08:20:27.508Z</updated>
-        <content type="html"><![CDATA[300857]]></content>
+        <content type="html"><![CDATA[300858]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[CIX(씨아이엑스)의 2022년 새해 인사 영상이 도착했습니다💌 (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2297471052</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2297471052"/>
         <updated>2022-01-01T07:16:20.384Z</updated>
-        <content type="html"><![CDATA[300856]]></content>
+        <content type="html"><![CDATA[300857]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[여기서 애간장 존나 탐 (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2297469039</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2297469039"/>
         <updated>2022-01-01T07:16:20.390Z</updated>
-        <content type="html"><![CDATA[300855]]></content>
+        <content type="html"><![CDATA[300856]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[가요대제전 4K 직캠] 주연 '호랑이' (JUYEON FanCam) (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2297376864</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2297376864"/>
         <updated>2022-01-01T06:20:25.107Z</updated>
-        <content type="html"><![CDATA[300854]]></content>
+        <content type="html"><![CDATA[300855]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[투바투 연준 위버스 모먼트 (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2297362397</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2297362397"/>
         <updated>2022-01-01T05:16:22.259Z</updated>
-        <content type="html"><![CDATA[300853]]></content>
+        <content type="html"><![CDATA[300854]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[가요대제전 4K 직캠] 문빈 '호랑이' (MOON BIN FanCam) @MBCMusicFestival_211231 (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2297333879</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2297333879"/>
         <updated>2022-01-01T05:16:22.260Z</updated>
-        <content type="html"><![CDATA[300852]]></content>
+        <content type="html"><![CDATA[300853]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[원위 2nd Mini Album [Planet Nine: Voyager] Highlight Medley (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2297289753</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2297289753"/>
         <updated>2022-01-01T04:22:09.973Z</updated>
-        <content type="html"><![CDATA[300851]]></content>
+        <content type="html"><![CDATA[300852]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[💥GOT! Let's get it💥 (갓더비트 트위터, 로고공개) (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2297283101</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2297283101"/>
         <updated>2022-01-01T04:22:09.973Z</updated>
-        <content type="html"><![CDATA[300850]]></content>
+        <content type="html"><![CDATA[300851]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[🎥] AB6IX (에이비식스) 2022 임인년 새해 인사 (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2297260842</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2297260842"/>
         <updated>2022-01-01T04:22:09.973Z</updated>
-        <content type="html"><![CDATA[300849]]></content>
+        <content type="html"><![CDATA[300850]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[🎬] ATEEZ(에이티즈) 고등학교 2022 신년맞이 동아리 신입 부원 모집 (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2297236116</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2297236116"/>
         <updated>2022-01-01T03:18:59.958Z</updated>
-        <content type="html"><![CDATA[300848]]></content>
+        <content type="html"><![CDATA[300849]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[🎥] 강다니엘(KANGDANIEL) 2022년 새해 인사 메시지 (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2297235249</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2297235249"/>
         <updated>2022-01-01T03:18:59.959Z</updated>
-        <content type="html"><![CDATA[300847]]></content>
+        <content type="html"><![CDATA[300848]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[골든차일드(Golden Child) 2022 새해 인사 (New Year Greetings Message) (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2297235110</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2297235110"/>
         <updated>2022-01-01T03:18:59.961Z</updated>
-        <content type="html"><![CDATA[300846]]></content>
+        <content type="html"><![CDATA[300847]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[디스패치 10주년 트윗 (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2297181974</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2297181974"/>
         <updated>2022-01-01T02:10:14.469Z</updated>
-        <content type="html"><![CDATA[300845]]></content>
+        <content type="html"><![CDATA[300846]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[엔하이픈 선우 멤트 (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2297175989</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2297175989"/>
         <updated>2022-01-01T02:10:14.484Z</updated>
-        <content type="html"><![CDATA[300844]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빅톤 3rd Single Album [Chronograph] 프로모션 스케쥴러 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2297102955</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2297102955"/>
-        <updated>2022-01-01T00:57:57.598Z</updated>
-        <content type="html"><![CDATA[300843]]></content>
+        <content type="html"><![CDATA[300845]]></content>
     </entry>
 </feed>
