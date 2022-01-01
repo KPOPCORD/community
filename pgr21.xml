@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-01T14:15:34.490Z</updated>
+    <updated>2022-01-01T15:17:01.987Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 2021 SBS 연기대상 베스트 커플상]]></title>
+        <id>https://ppt21.com/spoent/65351?category=2</id>
+        <link href="https://ppt21.com/spoent/65351?category=2"/>
+        <updated>2022-01-01T15:16:32.993Z</updated>
+        <content type="html"><![CDATA[Croove]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 2021년 다시보는 쁘걸의 역주행 연대기]]></title>
+        <id>https://ppt21.com/spoent/65350?category=2</id>
+        <link href="https://ppt21.com/spoent/65350?category=2"/>
+        <updated>2022-01-01T15:16:32.994Z</updated>
+        <content type="html"><![CDATA[Croove]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 디스패치 10주년 기념 콘서트]]></title>
         <id>https://ppt21.com/spoent/65348?category=2</id>
@@ -122,20 +136,6 @@
         <id>https://ppt21.com/spoent/65328?category=2</id>
         <link href="https://ppt21.com/spoent/65328?category=2"/>
         <updated>2021-12-31T11:15:21.180Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 웹툰 원작, 넷플릭스 드라마 <지금 우리 학교는> 티저]]></title>
-        <id>https://ppt21.com/spoent/65324?category=2</id>
-        <link href="https://ppt21.com/spoent/65324?category=2"/>
-        <updated>2021-12-31T08:51:02.302Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 남궁민, 2년 연속 연기대상 수상 (작년 SBS-올해 MBC)]]></title>
-        <id>https://ppt21.com/spoent/65318?category=2</id>
-        <link href="https://ppt21.com/spoent/65318?category=2"/>
-        <updated>2021-12-31T08:51:02.302Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
