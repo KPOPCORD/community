@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-01T09:18:17.290Z</updated>
+    <updated>2022-01-01T10:19:09.107Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] [갓더비트] 'Step Back' Stage Video (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/65347?category=2</id>
+        <link href="https://ppt21.com/spoent/65347?category=2"/>
+        <updated>2022-01-01T10:18:39.100Z</updated>
+        <content type="html"><![CDATA[VictoryFood]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [싱어게인2] 4호가수 모음 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/65345?category=2</id>
@@ -131,11 +138,25 @@
         <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[연예] 펌) 힙합하는 10대 애들이 마약에 빠지게 되는 과정.txt (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/65315?category=2</id>
-        <link href="https://ppt21.com/spoent/65315?category=2"/>
-        <updated>2021-12-30T13:29:03.522Z</updated>
-        <content type="html"><![CDATA[너]]></content>
+        <title type="html"><![CDATA[골든디스크 인기상 투표 종료 결과 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2297658302</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2297658302"/>
+        <updated>2022-01-01T10:19:08.331Z</updated>
+        <content type="html"><![CDATA[300862]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[갓더비트 공식 무대영상 올라옴 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2297657545</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2297657545"/>
+        <updated>2022-01-01T10:19:08.342Z</updated>
+        <content type="html"><![CDATA[300861]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[샤이니 키 인스타 ㅋㅋㅋㅋㅋㅋㅋ (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2297613867</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2297613867"/>
+        <updated>2022-01-01T10:19:08.342Z</updated>
+        <content type="html"><![CDATA[300860]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[CIX 씨아이엑스 승훈 인스타그램 업뎃💛 (더쿠 ─ 케이돌토크)]]></title>
@@ -255,26 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2297102955"/>
         <updated>2022-01-01T00:57:57.598Z</updated>
         <content type="html"><![CDATA[300843]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 지상파 3사 연말 가요제 시청률 (닐슨 전국 기준) (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2297100431</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2297100431"/>
-        <updated>2022-01-01T00:57:57.601Z</updated>
-        <content type="html"><![CDATA[300842]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방탄 지민 위버스 포스트 & 댓글 업뎃 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2297082794</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2297082794"/>
-        <updated>2021-12-31T23:16:46.318Z</updated>
-        <content type="html"><![CDATA[300841]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가요대제전 호랑이즈 MBC 짹 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2297046024</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2297046024"/>
-        <updated>2021-12-31T19:13:51.802Z</updated>
-        <content type="html"><![CDATA[300840]]></content>
     </entry>
 </feed>
