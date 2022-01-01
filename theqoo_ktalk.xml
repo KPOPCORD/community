@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2022-01-01T06:20:25.803Z</updated>
+    <updated>2022-01-01T07:16:21.119Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[CIX(씨아이엑스)의 2022년 새해 인사 영상이 도착했습니다💌]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2297471052</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2297471052"/>
+        <updated>2022-01-01T07:16:20.384Z</updated>
+        <content type="html"><![CDATA[300858]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[여기서 애간장 존나 탐]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2297469039</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2297469039"/>
+        <updated>2022-01-01T07:16:20.390Z</updated>
+        <content type="html"><![CDATA[300857]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[가요대제전 4K 직캠] 주연 '호랑이' (JUYEON FanCam)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2297376864</id>
@@ -130,19 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2296988335"/>
         <updated>2021-12-31T17:24:26.939Z</updated>
         <content type="html"><![CDATA[300839]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아스트로 라키 멤트 업뎃💜]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2296973616</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2296973616"/>
-        <updated>2021-12-31T17:24:26.957Z</updated>
-        <content type="html"><![CDATA[300838]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔하이픈 성훈 멤트 ❤🎊🥰]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2296965141</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2296965141"/>
-        <updated>2021-12-31T17:24:26.957Z</updated>
-        <content type="html"><![CDATA[300837]]></content>
     </entry>
 </feed>
