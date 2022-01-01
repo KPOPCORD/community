@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-01T08:20:28.146Z</updated>
+    <updated>2022-01-01T09:18:17.303Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [싱어게인2] 4호가수 모음]]></title>
+        <id>https://ppt21.com/spoent/65345?category=2</id>
+        <link href="https://ppt21.com/spoent/65345?category=2"/>
+        <updated>2022-01-01T09:18:07.293Z</updated>
+        <content type="html"><![CDATA[moodoori]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 상상을 초월하는 자이언티의 행보]]></title>
         <id>https://ppt21.com/spoent/65344?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65315?category=2"/>
         <updated>2021-12-30T13:29:03.522Z</updated>
         <content type="html"><![CDATA[너]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 스파이더맨 노웨이홈 역대 스파이더맨 최고 수익 기록]]></title>
-        <id>https://ppt21.com/spoent/65312?category=2</id>
-        <link href="https://ppt21.com/spoent/65312?category=2"/>
-        <updated>2021-12-30T12:37:28.053Z</updated>
-        <content type="html"><![CDATA[카트만두에서만두]]></content>
     </entry>
 </feed>
