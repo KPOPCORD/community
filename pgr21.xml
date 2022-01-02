@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-02T02:12:42.428Z</updated>
+    <updated>2022-01-02T03:18:03.312Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] (데이터주의) 마녀 이후 3년만에 다시 만난 사랑스러운 김다미와 최우식.MP4]]></title>
+        <id>https://ppt21.com/spoent/65357?category=2</id>
+        <link href="https://ppt21.com/spoent/65357?category=2"/>
+        <updated>2022-01-02T03:17:53.906Z</updated>
+        <content type="html"><![CDATA[insane]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 결국 자체 최고시청률로 종영한 MBC 드라마 <옷소매 붉은 끝동>.swf]]></title>
+        <id>https://ppt21.com/spoent/65356?category=2</id>
+        <link href="https://ppt21.com/spoent/65356?category=2"/>
+        <updated>2022-01-02T03:17:53.906Z</updated>
+        <content type="html"><![CDATA[Bar Sur]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 2021 SBS 연기대상 베스트 커플상]]></title>
         <id>https://ppt21.com/spoent/65351?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/65330?category=2"/>
         <updated>2021-12-31T15:17:48.697Z</updated>
         <content type="html"><![CDATA[VictoryFood]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 올해 넷플릭스 월드 1위 횟수 순위]]></title>
-        <id>https://ppt21.com/spoent/65329?category=2</id>
-        <link href="https://ppt21.com/spoent/65329?category=2"/>
-        <updated>2021-12-31T12:26:52.307Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [아이유] 20대의 마지막 날 공개된 '겨울잠' Live Clip]]></title>
-        <id>https://ppt21.com/spoent/65328?category=2</id>
-        <link href="https://ppt21.com/spoent/65328?category=2"/>
-        <updated>2021-12-31T11:15:21.180Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
