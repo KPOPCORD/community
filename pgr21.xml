@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-02T03:18:03.312Z</updated>
+    <updated>2022-01-02T04:22:28.455Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [태종이방원]7화 정몽주 제거 빌드업]]></title>
+        <id>https://ppt21.com/spoent/65360?category=2</id>
+        <link href="https://ppt21.com/spoent/65360?category=2"/>
+        <updated>2022-01-02T04:21:57.543Z</updated>
+        <content type="html"><![CDATA[카루오스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 박재범, AOMG·하이어뮤직 대표 사임..]]></title>
+        <id>https://ppt21.com/spoent/65359?category=2</id>
+        <link href="https://ppt21.com/spoent/65359?category=2"/>
+        <updated>2022-01-02T04:21:57.547Z</updated>
+        <content type="html"><![CDATA[헤인즈]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] [개승자] 전반전 5팀]]></title>
+        <id>https://ppt21.com/spoent/65358?category=2</id>
+        <link href="https://ppt21.com/spoent/65358?category=2"/>
+        <updated>2022-01-02T04:21:57.553Z</updated>
+        <content type="html"><![CDATA[빼사스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] (데이터주의) 마녀 이후 3년만에 다시 만난 사랑스러운 김다미와 최우식.MP4]]></title>
         <id>https://ppt21.com/spoent/65357?category=2</id>
@@ -116,26 +137,5 @@
         <link href="https://ppt21.com/spoent/65333?category=2"/>
         <updated>2021-12-31T17:24:03.948Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [에스파] 2021 MBC 가요대제전 '드림스 컴 트루']]></title>
-        <id>https://ppt21.com/spoent/65332?category=2</id>
-        <link href="https://ppt21.com/spoent/65332?category=2"/>
-        <updated>2021-12-31T16:25:39.514Z</updated>
-        <content type="html"><![CDATA[바스테나]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [우주소녀] 가장 최근 '이루리' 직캠 (새해 복 많이 받으세요)]]></title>
-        <id>https://ppt21.com/spoent/65331?category=2</id>
-        <link href="https://ppt21.com/spoent/65331?category=2"/>
-        <updated>2021-12-31T15:17:48.696Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 11시 58분 52초부터 우주소녀 이루리를 들으십시오 (feat.금메달 3관왕)]]></title>
-        <id>https://ppt21.com/spoent/65330?category=2</id>
-        <link href="https://ppt21.com/spoent/65330?category=2"/>
-        <updated>2021-12-31T15:17:48.697Z</updated>
-        <content type="html"><![CDATA[VictoryFood]]></content>
     </entry>
 </feed>
