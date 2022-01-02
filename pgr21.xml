@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-02T05:16:21.827Z</updated>
+    <updated>2022-01-02T06:19:47.354Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [트와이스] 2022 새해 인사+TTT 티저 (+연말에 바빴던 채영)]]></title>
+        <id>https://ppt21.com/spoent/65361?category=2</id>
+        <link href="https://ppt21.com/spoent/65361?category=2"/>
+        <updated>2022-01-02T06:19:37.805Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [태종이방원]7화 정몽주 제거 빌드업]]></title>
         <id>https://ppt21.com/spoent/65360?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65334?category=2"/>
         <updated>2021-12-31T23:16:37.677Z</updated>
         <content type="html"><![CDATA[마포구보안관]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 2021 KBS 연기대상 지현우 / SBS 연기대상 김소연]]></title>
-        <id>https://ppt21.com/spoent/65333?category=2</id>
-        <link href="https://ppt21.com/spoent/65333?category=2"/>
-        <updated>2021-12-31T17:24:03.948Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
