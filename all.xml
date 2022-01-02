@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-02T13:22:23.244Z</updated>
+    <updated>2022-01-02T14:15:28.760Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] 2022년 1월 1주차 D-차트 : 아이브 1위 탈환! 에스파 8위-토요태 20위 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/65367?category=2</id>
+        <link href="https://ppt21.com/spoent/65367?category=2"/>
+        <updated>2022-01-02T14:15:17.989Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [에이핑크] 누군가 에이핑크 컴백이 얼마나 남았냐고 묻거든...(데이터 주의) (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/65365?category=2</id>
@@ -131,11 +138,18 @@
         <content type="html"><![CDATA[SigurRos]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[연예] 2021 MBC 가요대제전 걸그룹 무대 모음 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/65340?category=2</id>
-        <link href="https://ppt21.com/spoent/65340?category=2"/>
-        <updated>2022-01-01T04:21:56.738Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
+        <title type="html"><![CDATA[빅톤 VICTON 3rd Single Album [Chronograph] Track List (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2298979022</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2298979022"/>
+        <updated>2022-01-02T14:15:27.987Z</updated>
+        <content type="html"><![CDATA[300890]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[투바투 태현 멤트❣️ (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2298942811</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2298942811"/>
+        <updated>2022-01-02T14:15:27.989Z</updated>
+        <content type="html"><![CDATA[300889]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[투바투 THE STAR SEEKERS Coming soon (더쿠 ─ 케이돌토크)]]></title>
@@ -262,19 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2298252792"/>
         <updated>2022-01-02T00:58:53.790Z</updated>
         <content type="html"><![CDATA[300871]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[태연 바람기억 코노영상 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2298042943</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2298042943"/>
-        <updated>2022-01-01T16:25:20.275Z</updated>
-        <content type="html"><![CDATA[300870]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[투바투 태현 위버스 모먼트 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2298016455</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2298016455"/>
-        <updated>2022-01-01T16:25:20.275Z</updated>
-        <content type="html"><![CDATA[300869]]></content>
     </entry>
 </feed>

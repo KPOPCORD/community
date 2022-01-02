@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2022-01-02T13:22:23.143Z</updated>
+    <updated>2022-01-02T14:15:28.756Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[빅톤 VICTON 3rd Single Album [Chronograph] Track List]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2298979022</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2298979022"/>
+        <updated>2022-01-02T14:15:27.987Z</updated>
+        <content type="html"><![CDATA[300890]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[투바투 태현 멤트❣️]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2298942811</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2298942811"/>
+        <updated>2022-01-02T14:15:27.989Z</updated>
+        <content type="html"><![CDATA[300889]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[투바투 THE STAR SEEKERS Coming soon]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2298923570</id>
@@ -130,19 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2298252792"/>
         <updated>2022-01-02T00:58:53.790Z</updated>
         <content type="html"><![CDATA[300871]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[태연 바람기억 코노영상]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2298042943</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2298042943"/>
-        <updated>2022-01-01T16:25:20.275Z</updated>
-        <content type="html"><![CDATA[300870]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[투바투 태현 위버스 모먼트]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2298016455</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2298016455"/>
-        <updated>2022-01-01T16:25:20.275Z</updated>
-        <content type="html"><![CDATA[300869]]></content>
     </entry>
 </feed>
