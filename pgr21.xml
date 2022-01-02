@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-02T14:15:28.753Z</updated>
+    <updated>2022-01-02T15:17:36.452Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [태종 이방원/8화] 벼루는 없었다 그리고 철퇴]]></title>
+        <id>https://ppt21.com/spoent/65368?category=2</id>
+        <link href="https://ppt21.com/spoent/65368?category=2"/>
+        <updated>2022-01-02T15:17:03.031Z</updated>
+        <content type="html"><![CDATA[이호철]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 2022년 1월 1주차 D-차트 : 아이브 1위 탈환! 에스파 8위-토요태 20위]]></title>
         <id>https://ppt21.com/spoent/65367?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65342?category=2"/>
         <updated>2022-01-01T08:19:51.382Z</updated>
         <content type="html"><![CDATA[forangel]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 설강화 1화 2화 간략후기(스포 있을수도 있음)]]></title>
-        <id>https://ppt21.com/spoent/65341?category=2</id>
-        <link href="https://ppt21.com/spoent/65341?category=2"/>
-        <updated>2022-01-01T06:20:15.849Z</updated>
-        <content type="html"><![CDATA[SigurRos]]></content>
     </entry>
 </feed>
