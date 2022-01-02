@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-02T04:22:28.459Z</updated>
+    <updated>2022-01-02T05:16:21.831Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[연예] [태종이방원]7화 정몽주 제거 빌드업 (Pgr21 ─ 연예)]]></title>
@@ -138,6 +138,13 @@
         <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[211231✨[가요대제전 4K 직캠] ‘첫사랑즈 - 첫 사랑니 (Rum Pum Pum Pum) (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2298427189</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2298427189"/>
+        <updated>2022-01-02T05:16:21.083Z</updated>
+        <content type="html"><![CDATA[300873]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[비투비(BTOB) 멜로디 4기 팬미팅 [Welcome to BTOB’s Home] - 2022 HAPPY MELODY YEAR💙 (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2298375691</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2298375691"/>
@@ -269,12 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2297517609"/>
         <updated>2022-01-01T08:20:27.508Z</updated>
         <content type="html"><![CDATA[300854]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CIX(씨아이엑스)의 2022년 새해 인사 영상이 도착했습니다💌 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2297471052</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2297471052"/>
-        <updated>2022-01-01T07:16:20.384Z</updated>
-        <content type="html"><![CDATA[300853]]></content>
     </entry>
 </feed>
