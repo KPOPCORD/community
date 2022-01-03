@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-03T11:14:16.191Z</updated>
+    <updated>2022-01-03T12:28:48.056Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [우주소녀] 우주소녀 쪼꼬미 '슈퍼 그럼요' M/V Teaser]]></title>
+        <id>https://ppt21.com/spoent/65385?category=2</id>
+        <link href="https://ppt21.com/spoent/65385?category=2"/>
+        <updated>2022-01-03T12:28:36.050Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 동시간에 공개된 <Kep1er> <갓더비트> 음원차트 진입 순위]]></title>
         <id>https://ppt21.com/spoent/65384?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65357?category=2"/>
         <updated>2022-01-02T03:17:53.906Z</updated>
         <content type="html"><![CDATA[insane]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 결국 자체 최고시청률로 종영한 MBC 드라마 <옷소매 붉은 끝동>.swf]]></title>
-        <id>https://ppt21.com/spoent/65356?category=2</id>
-        <link href="https://ppt21.com/spoent/65356?category=2"/>
-        <updated>2022-01-02T03:17:53.906Z</updated>
-        <content type="html"><![CDATA[Bar Sur]]></content>
     </entry>
 </feed>
