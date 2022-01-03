@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-03T06:20:44.656Z</updated>
+    <updated>2022-01-03T07:17:58.719Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 넷플릭스 리얼리티 <솔로지옥> 월드랭킹 top10 진입]]></title>
+        <id>https://ppt21.com/spoent/65379?category=2</id>
+        <link href="https://ppt21.com/spoent/65379?category=2"/>
+        <updated>2022-01-03T07:17:48.470Z</updated>
+        <content type="html"><![CDATA[아롱이다롱이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] [레드벨벳] 잃어버렸던 연말을 되찾은 웬디]]></title>
+        <id>https://ppt21.com/spoent/65378?category=2</id>
+        <link href="https://ppt21.com/spoent/65378?category=2"/>
+        <updated>2022-01-03T07:17:48.470Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] [에스파] 연말 3사 가요제 직캠 모음]]></title>
+        <id>https://ppt21.com/spoent/65377?category=2</id>
+        <link href="https://ppt21.com/spoent/65377?category=2"/>
+        <updated>2022-01-03T07:17:48.471Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 태종이방원 시청률 10프로 돌파]]></title>
         <id>https://ppt21.com/spoent/65375?category=2</id>
@@ -116,26 +137,5 @@
         <link href="https://ppt21.com/spoent/65348?category=2"/>
         <updated>2022-01-01T12:26:08.885Z</updated>
         <content type="html"><![CDATA[김민둥맨둥]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [갓더비트] 'Step Back' Stage Video]]></title>
-        <id>https://ppt21.com/spoent/65347?category=2</id>
-        <link href="https://ppt21.com/spoent/65347?category=2"/>
-        <updated>2022-01-01T10:18:39.100Z</updated>
-        <content type="html"><![CDATA[VictoryFood]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [싱어게인2] 4호가수 모음]]></title>
-        <id>https://ppt21.com/spoent/65345?category=2</id>
-        <link href="https://ppt21.com/spoent/65345?category=2"/>
-        <updated>2022-01-01T09:18:07.293Z</updated>
-        <content type="html"><![CDATA[moodoori]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 상상을 초월하는 자이언티의 행보]]></title>
-        <id>https://ppt21.com/spoent/65344?category=2</id>
-        <link href="https://ppt21.com/spoent/65344?category=2"/>
-        <updated>2022-01-01T08:19:51.374Z</updated>
-        <content type="html"><![CDATA[xxqpxx]]></content>
     </entry>
 </feed>
