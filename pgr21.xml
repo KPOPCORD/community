@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-03T10:19:06.521Z</updated>
+    <updated>2022-01-03T11:14:16.191Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 동시간에 공개된 <Kep1er> <갓더비트> 음원차트 진입 순위]]></title>
+        <id>https://ppt21.com/spoent/65384?category=2</id>
+        <link href="https://ppt21.com/spoent/65384?category=2"/>
+        <updated>2022-01-03T11:14:05.618Z</updated>
+        <content type="html"><![CDATA[아롱이다롱이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] Kep1er (케플러) 'WA DA DA' M/V (+쇼케이스 무대 영상)]]></title>
         <id>https://ppt21.com/spoent/65382?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65356?category=2"/>
         <updated>2022-01-02T03:17:53.906Z</updated>
         <content type="html"><![CDATA[Bar Sur]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 2021 SBS 연기대상 베스트 커플상]]></title>
-        <id>https://ppt21.com/spoent/65351?category=2</id>
-        <link href="https://ppt21.com/spoent/65351?category=2"/>
-        <updated>2022-01-01T15:16:32.993Z</updated>
-        <content type="html"><![CDATA[Croove]]></content>
     </entry>
 </feed>
