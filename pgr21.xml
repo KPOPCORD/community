@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-03T15:17:36.815Z</updated>
+    <updated>2022-01-03T16:27:13.254Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 방탄소년단 팬이라는 싱어게인 64호의 댄스실력.MP4]]></title>
+        <id>https://ppt21.com/spoent/65389?category=2</id>
+        <link href="https://ppt21.com/spoent/65389?category=2"/>
+        <updated>2022-01-03T16:27:03.205Z</updated>
+        <content type="html"><![CDATA[insane]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [방과후설렘] 몇몇 참가자들 주관적인 생각과 방설의 문제점]]></title>
         <id>https://ppt21.com/spoent/65388?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65359?category=2"/>
         <updated>2022-01-02T04:21:57.547Z</updated>
         <content type="html"><![CDATA[헤인즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [개승자] 전반전 5팀]]></title>
-        <id>https://ppt21.com/spoent/65358?category=2</id>
-        <link href="https://ppt21.com/spoent/65358?category=2"/>
-        <updated>2022-01-02T04:21:57.553Z</updated>
-        <content type="html"><![CDATA[빼사스]]></content>
     </entry>
 </feed>
