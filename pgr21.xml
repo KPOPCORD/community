@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-03T04:22:31.615Z</updated>
+    <updated>2022-01-03T05:17:37.655Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 태종이방원 시청률 10프로 돌파]]></title>
+        <id>https://ppt21.com/spoent/65375?category=2</id>
+        <link href="https://ppt21.com/spoent/65375?category=2"/>
+        <updated>2022-01-03T05:17:12.145Z</updated>
+        <content type="html"><![CDATA[카루오스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 코로나 걸렸던 유재석 하루 일과.jpg]]></title>
         <id>https://ppt21.com/spoent/65372?category=2</id>
@@ -20,7 +27,7 @@
         <content type="html"><![CDATA[이호철]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[연예] 2022년 1월 1주차 D-차트 : 아이브 1위 탈환! 에스파 8위-토요태 20위]]></title>
+        <title type="html"><![CDATA[[연예] 2022년 1월 1주 D-차트 : 아이브 1위 탈환! 에스파 8위-토요태 20위]]></title>
         <id>https://ppt21.com/spoent/65367?category=2</id>
         <link href="https://ppt21.com/spoent/65367?category=2"/>
         <updated>2022-01-02T14:15:17.989Z</updated>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65344?category=2"/>
         <updated>2022-01-01T08:19:51.374Z</updated>
         <content type="html"><![CDATA[xxqpxx]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [로켓펀치] 한복 쥬리]]></title>
-        <id>https://ppt21.com/spoent/65343?category=2</id>
-        <link href="https://ppt21.com/spoent/65343?category=2"/>
-        <updated>2022-01-01T08:19:51.375Z</updated>
-        <content type="html"><![CDATA[어강됴리]]></content>
     </entry>
 </feed>
