@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-03T07:17:58.719Z</updated>
+    <updated>2022-01-03T08:22:18.558Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 새해 첫 출근일 10분을 삭제해드립니다 (feat. 거북이)]]></title>
+        <id>https://ppt21.com/spoent/65381?category=2</id>
+        <link href="https://ppt21.com/spoent/65381?category=2"/>
+        <updated>2022-01-03T08:21:55.342Z</updated>
+        <content type="html"><![CDATA[Cafe_Seokguram]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 넷플릭스 리얼리티 <솔로지옥> 월드랭킹 top10 진입]]></title>
         <id>https://ppt21.com/spoent/65379?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65350?category=2"/>
         <updated>2022-01-01T15:16:32.994Z</updated>
         <content type="html"><![CDATA[Croove]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 디스패치 10주년 기념 콘서트]]></title>
-        <id>https://ppt21.com/spoent/65348?category=2</id>
-        <link href="https://ppt21.com/spoent/65348?category=2"/>
-        <updated>2022-01-01T12:26:08.885Z</updated>
-        <content type="html"><![CDATA[김민둥맨둥]]></content>
     </entry>
 </feed>
