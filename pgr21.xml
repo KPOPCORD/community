@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-03T03:17:32.054Z</updated>
+    <updated>2022-01-03T04:22:31.615Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 코로나 걸렸던 유재석 하루 일과.jpg]]></title>
+        <id>https://ppt21.com/spoent/65372?category=2</id>
+        <link href="https://ppt21.com/spoent/65372?category=2"/>
+        <updated>2022-01-03T04:22:20.559Z</updated>
+        <content type="html"><![CDATA[insane]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [태종 이방원/8화 스포] 벼루는 없었다 그리고 철퇴]]></title>
         <id>https://ppt21.com/spoent/65368?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65343?category=2"/>
         <updated>2022-01-01T08:19:51.375Z</updated>
         <content type="html"><![CDATA[어강됴리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 뜬금없이 설강화로 피해볼지도 모르는 영화-  이정재,정우성 헌트]]></title>
-        <id>https://ppt21.com/spoent/65342?category=2</id>
-        <link href="https://ppt21.com/spoent/65342?category=2"/>
-        <updated>2022-01-01T08:19:51.382Z</updated>
-        <content type="html"><![CDATA[forangel]]></content>
     </entry>
 </feed>
