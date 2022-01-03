@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-03T14:15:42.704Z</updated>
+    <updated>2022-01-03T15:17:36.815Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [방과후설렘] 몇몇 참가자들 주관적인 생각과 방설의 문제점]]></title>
+        <id>https://ppt21.com/spoent/65388?category=2</id>
+        <link href="https://ppt21.com/spoent/65388?category=2"/>
+        <updated>2022-01-03T15:17:26.531Z</updated>
+        <content type="html"><![CDATA[iwyh]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [우주소녀] 우주소녀 쪼꼬미 '슈퍼 그럼요' M/V Teaser]]></title>
         <id>https://ppt21.com/spoent/65385?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65358?category=2"/>
         <updated>2022-01-02T04:21:57.553Z</updated>
         <content type="html"><![CDATA[빼사스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] (데이터주의) 마녀 이후 3년만에 다시 만난 사랑스러운 김다미와 최우식.MP4]]></title>
-        <id>https://ppt21.com/spoent/65357?category=2</id>
-        <link href="https://ppt21.com/spoent/65357?category=2"/>
-        <updated>2022-01-02T03:17:53.906Z</updated>
-        <content type="html"><![CDATA[insane]]></content>
     </entry>
 </feed>
