@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-04T09:17:51.141Z</updated>
+    <updated>2022-01-04T10:18:42.448Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] woo!ah! (우아!) '별 따러 가자' M/V]]></title>
+        <id>https://ppt21.com/spoent/65402?category=2</id>
+        <link href="https://ppt21.com/spoent/65402?category=2"/>
+        <updated>2022-01-04T10:18:18.743Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [옷소매붉은끝동] 명장면의 OST - 옥쇄씬]]></title>
         <id>https://ppt21.com/spoent/65400?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65365?category=2"/>
         <updated>2022-01-02T13:22:13.233Z</updated>
         <content type="html"><![CDATA[무적LG오지환]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 아이유 2021년 멜론 전곡 누적 이용자수 896,096,714]]></title>
-        <id>https://ppt21.com/spoent/65363?category=2</id>
-        <link href="https://ppt21.com/spoent/65363?category=2"/>
-        <updated>2022-01-02T12:25:59.639Z</updated>
-        <content type="html"><![CDATA[VictoryFood]]></content>
     </entry>
 </feed>
