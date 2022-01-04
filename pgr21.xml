@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-04T11:14:37.892Z</updated>
+    <updated>2022-01-04T12:27:21.906Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 개인적으로 요새 재미있게 보는 프로그램]]></title>
+        <id>https://ppt21.com/spoent/65403?category=2</id>
+        <link href="https://ppt21.com/spoent/65403?category=2"/>
+        <updated>2022-01-04T12:27:11.797Z</updated>
+        <content type="html"><![CDATA[랑비]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] woo!ah! (우아!) '별 따러 가자' M/V]]></title>
         <id>https://ppt21.com/spoent/65402?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65367?category=2"/>
         <updated>2022-01-02T14:15:17.989Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [에이핑크] 누군가 에이핑크 컴백이 얼마나 남았냐고 묻거든...(데이터 주의)]]></title>
-        <id>https://ppt21.com/spoent/65365?category=2</id>
-        <link href="https://ppt21.com/spoent/65365?category=2"/>
-        <updated>2022-01-02T13:22:13.233Z</updated>
-        <content type="html"><![CDATA[무적LG오지환]]></content>
     </entry>
 </feed>
