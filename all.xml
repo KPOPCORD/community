@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-04T02:08:06.771Z</updated>
+    <updated>2022-01-04T03:17:44.447Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[연예] 조작 논란 '골때녀', 박성훈 CP‧김화정 PD로 제작진 교체 (Pgr21 ─ 연예)]]></title>
@@ -138,6 +138,13 @@
         <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[슴 이번 겨울 앨범 역대 최다 판매래 ( 슴 역대 시즌 앨범들 중 ) (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2300598614</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2300598614"/>
+        <updated>2022-01-04T03:17:43.693Z</updated>
+        <content type="html"><![CDATA[300938]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[✨ 대휘가 오늘 밤 10시 20분 스트릿댄스 걸스 파이터 파이널 생방에 출연합니다! (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2300551103</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2300551103"/>
@@ -145,7 +152,7 @@
         <content type="html"><![CDATA[300937]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OMEGA X(오메가엑스) 2nd Mini Album [LOVE ME LIKE] Official MV Teaser 2022.01.06 6PM (KST) (더쿠 ─ 케이돌토크)]]></title>
+        <title type="html"><![CDATA[OMEGA X(오메가엑스) 2nd Mini Album [LOVE ME LIKE] Official MV Teaser 2022.01.05 6PM (KST) (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2300536628</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2300536628"/>
         <updated>2022-01-04T02:08:06.036Z</updated>
@@ -269,12 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2300029272"/>
         <updated>2022-01-03T12:28:47.171Z</updated>
         <content type="html"><![CDATA[300919]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Teaser] 우주소녀 쪼꼬미(CHOCOME) - 슈퍼 그럼요(Super Yuppers!) (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2299950174</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2299950174"/>
-        <updated>2022-01-03T11:14:15.345Z</updated>
-        <content type="html"><![CDATA[300918]]></content>
     </entry>
 </feed>
