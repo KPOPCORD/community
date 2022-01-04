@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-04T07:16:44.248Z</updated>
+    <updated>2022-01-04T08:21:06.398Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] [옷소매붉은끝동] 명장면의 OST - 옥쇄씬 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/65400?category=2</id>
+        <link href="https://ppt21.com/spoent/65400?category=2"/>
+        <updated>2022-01-04T08:20:54.274Z</updated>
+        <content type="html"><![CDATA[moodoori]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 뭉찬 유부남들이 엄청 안타까워 했던 장면.JPG (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/65398?category=2</id>
@@ -131,11 +138,11 @@
         <content type="html"><![CDATA[VictoryFood]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[연예] [태종 이방원] 과연 주상욱은 벼루를 맞을 것인가 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/65362?category=2</id>
-        <link href="https://ppt21.com/spoent/65362?category=2"/>
-        <updated>2022-01-02T08:19:47.996Z</updated>
-        <content type="html"><![CDATA[이호철]]></content>
+        <title type="html"><![CDATA[어제 케플러 샤오팅 비주얼.gif (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2300900184</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2300900184"/>
+        <updated>2022-01-04T08:21:05.621Z</updated>
+        <content type="html"><![CDATA[300943]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[가요대제전 4K 직캠] 이무진 X 화사 '신호등' (더쿠 ─ 케이돌토크)]]></title>
@@ -269,12 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2300217257"/>
         <updated>2022-01-03T15:17:36.061Z</updated>
         <content type="html"><![CDATA[300924]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[투바투 세계관 얼빡짤 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2300181507</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2300181507"/>
-        <updated>2022-01-03T14:15:41.980Z</updated>
-        <content type="html"><![CDATA[300923]]></content>
     </entry>
 </feed>

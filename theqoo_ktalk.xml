@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2022-01-04T07:16:44.245Z</updated>
+    <updated>2022-01-04T08:21:06.396Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[어제 케플러 샤오팅 비주얼.gif]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2300900184</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2300900184"/>
+        <updated>2022-01-04T08:21:05.621Z</updated>
+        <content type="html"><![CDATA[300943]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[가요대제전 4K 직캠] 이무진 X 화사 '신호등']]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2300785977</id>
@@ -137,12 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2300217257"/>
         <updated>2022-01-03T15:17:36.061Z</updated>
         <content type="html"><![CDATA[300924]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[투바투 세계관 얼빡짤]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2300181507</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2300181507"/>
-        <updated>2022-01-03T14:15:41.980Z</updated>
-        <content type="html"><![CDATA[300923]]></content>
     </entry>
 </feed>

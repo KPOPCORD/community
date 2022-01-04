@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-04T07:16:44.337Z</updated>
+    <updated>2022-01-04T08:21:06.393Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [옷소매붉은끝동] 명장면의 OST - 옥쇄씬]]></title>
+        <id>https://ppt21.com/spoent/65400?category=2</id>
+        <link href="https://ppt21.com/spoent/65400?category=2"/>
+        <updated>2022-01-04T08:20:54.274Z</updated>
+        <content type="html"><![CDATA[moodoori]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 뭉찬 유부남들이 엄청 안타까워 했던 장면.JPG]]></title>
         <id>https://ppt21.com/spoent/65398?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65363?category=2"/>
         <updated>2022-01-02T12:25:59.639Z</updated>
         <content type="html"><![CDATA[VictoryFood]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [태종 이방원] 과연 주상욱은 벼루를 맞을 것인가]]></title>
-        <id>https://ppt21.com/spoent/65362?category=2</id>
-        <link href="https://ppt21.com/spoent/65362?category=2"/>
-        <updated>2022-01-02T08:19:47.996Z</updated>
-        <content type="html"><![CDATA[이호철]]></content>
     </entry>
 </feed>
