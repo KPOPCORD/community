@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-05T02:12:00.144Z</updated>
+    <updated>2022-01-05T03:18:14.939Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 누군지 맞춰보세요]]></title>
+        <id>https://ppt21.com/spoent/65409?category=2</id>
+        <link href="https://ppt21.com/spoent/65409?category=2"/>
+        <updated>2022-01-05T03:18:01.759Z</updated>
+        <content type="html"><![CDATA[착한글만쓰기]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 스트릿 걸스 파이터 '턴즈' 결승전 무대]]></title>
         <id>https://ppt21.com/spoent/65408?category=2</id>
@@ -129,13 +136,6 @@
         <id>https://ppt21.com/spoent/65378?category=2</id>
         <link href="https://ppt21.com/spoent/65378?category=2"/>
         <updated>2022-01-03T07:17:48.470Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [에스파] 연말 3사 가요제 직캠 모음]]></title>
-        <id>https://ppt21.com/spoent/65377?category=2</id>
-        <link href="https://ppt21.com/spoent/65377?category=2"/>
-        <updated>2022-01-03T07:17:48.471Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
