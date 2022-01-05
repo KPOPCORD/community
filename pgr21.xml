@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-04T23:17:19.175Z</updated>
+    <updated>2022-01-05T00:59:01.339Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 정창욱 음주운전 벌금 1,500만원]]></title>
+        <id>https://ppt21.com/spoent/65407?category=2</id>
+        <link href="https://ppt21.com/spoent/65407?category=2"/>
+        <updated>2022-01-05T00:58:51.680Z</updated>
+        <content type="html"><![CDATA[네오바람]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 넷플릭스 공식 12월 5주차 시청시간 순위]]></title>
+        <id>https://ppt21.com/spoent/65406?category=2</id>
+        <link href="https://ppt21.com/spoent/65406?category=2"/>
+        <updated>2022-01-05T00:58:51.687Z</updated>
+        <content type="html"><![CDATA[카트만두에서만두]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [해리포터] 해리포터 20주년: 리턴 투 호그와트]]></title>
         <id>https://ppt21.com/spoent/65404?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/65375?category=2"/>
         <updated>2022-01-03T05:17:12.145Z</updated>
         <content type="html"><![CDATA[카루오스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 코로나 걸렸던 유재석 하루 일과.jpg]]></title>
-        <id>https://ppt21.com/spoent/65372?category=2</id>
-        <link href="https://ppt21.com/spoent/65372?category=2"/>
-        <updated>2022-01-03T04:22:20.559Z</updated>
-        <content type="html"><![CDATA[insane]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [태종 이방원/8화 스포] 벼루는 없었다 그리고 철퇴]]></title>
-        <id>https://ppt21.com/spoent/65368?category=2</id>
-        <link href="https://ppt21.com/spoent/65368?category=2"/>
-        <updated>2022-01-02T15:17:03.031Z</updated>
-        <content type="html"><![CDATA[이호철]]></content>
     </entry>
 </feed>
