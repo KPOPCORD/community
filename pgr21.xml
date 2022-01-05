@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-05T15:18:26.662Z</updated>
+    <updated>2022-01-05T16:26:47.039Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 유주(YUJU) [REC.] CONCEPT FILM]]></title>
+        <id>https://ppt21.com/spoent/65422?category=2</id>
+        <link href="https://ppt21.com/spoent/65422?category=2"/>
+        <updated>2022-01-05T16:26:36.500Z</updated>
+        <content type="html"><![CDATA[메자이의 학점약탈자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 광탈러인데 승자]]></title>
         <id>https://ppt21.com/spoent/65421?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65393?category=2"/>
         <updated>2022-01-04T02:07:57.274Z</updated>
         <content type="html"><![CDATA[insane]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [싱어게인2] 2-2라운드 경연 영상]]></title>
-        <id>https://ppt21.com/spoent/65392?category=2</id>
-        <link href="https://ppt21.com/spoent/65392?category=2"/>
-        <updated>2022-01-04T00:56:40.306Z</updated>
-        <content type="html"><![CDATA[빼사스]]></content>
     </entry>
 </feed>
