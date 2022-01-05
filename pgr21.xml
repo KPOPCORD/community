@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-05T06:20:53.368Z</updated>
+    <updated>2022-01-05T07:16:41.581Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 대선후보 3인 성대모사하는 안윤상]]></title>
+        <id>https://ppt21.com/spoent/65414?category=2</id>
+        <link href="https://ppt21.com/spoent/65414?category=2"/>
+        <updated>2022-01-05T07:16:32.174Z</updated>
+        <content type="html"><![CDATA[강가딘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 현재 복면가왕 겨울아이 무대 모음]]></title>
         <id>https://ppt21.com/spoent/65412?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65384?category=2"/>
         <updated>2022-01-03T11:14:05.618Z</updated>
         <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] Kep1er (케플러) 'WA DA DA' M/V (+쇼케이스 무대 영상)]]></title>
-        <id>https://ppt21.com/spoent/65382?category=2</id>
-        <link href="https://ppt21.com/spoent/65382?category=2"/>
-        <updated>2022-01-03T09:19:06.486Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
