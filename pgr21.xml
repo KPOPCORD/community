@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-05T04:22:37.441Z</updated>
+    <updated>2022-01-05T05:17:15.425Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 현재 복면가왕 겨울아이 무대 모음]]></title>
+        <id>https://ppt21.com/spoent/65412?category=2</id>
+        <link href="https://ppt21.com/spoent/65412?category=2"/>
+        <updated>2022-01-05T05:17:05.822Z</updated>
+        <content type="html"><![CDATA[건전한닉네임4]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 서지수, 미스틱스토리와 전속계약 체결... 윤종신·고민시와 한 식구 (공식)]]></title>
         <id>https://ppt21.com/spoent/65411?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65382?category=2"/>
         <updated>2022-01-03T09:19:06.486Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 새해 첫 출근일 10분을 삭제해드립니다 (feat. 거북이)]]></title>
-        <id>https://ppt21.com/spoent/65381?category=2</id>
-        <link href="https://ppt21.com/spoent/65381?category=2"/>
-        <updated>2022-01-03T08:21:55.342Z</updated>
-        <content type="html"><![CDATA[Cafe_Seokguram]]></content>
     </entry>
 </feed>
