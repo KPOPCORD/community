@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-05T03:18:14.939Z</updated>
+    <updated>2022-01-05T04:22:37.441Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 서지수, 미스틱스토리와 전속계약 체결... 윤종신·고민시와 한 식구 (공식)]]></title>
+        <id>https://ppt21.com/spoent/65411?category=2</id>
+        <link href="https://ppt21.com/spoent/65411?category=2"/>
+        <updated>2022-01-05T04:22:09.838Z</updated>
+        <content type="html"><![CDATA[지수]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 미성년자를 좋아하는 중년남성 연예인.JPG]]></title>
+        <id>https://ppt21.com/spoent/65410?category=2</id>
+        <link href="https://ppt21.com/spoent/65410?category=2"/>
+        <updated>2022-01-05T04:22:09.838Z</updated>
+        <content type="html"><![CDATA[insane]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 누군지 맞춰보세요]]></title>
         <id>https://ppt21.com/spoent/65409?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/65381?category=2"/>
         <updated>2022-01-03T08:21:55.342Z</updated>
         <content type="html"><![CDATA[Cafe_Seokguram]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 넷플릭스 리얼리티 <솔로지옥> 월드랭킹 top10 진입]]></title>
-        <id>https://ppt21.com/spoent/65379?category=2</id>
-        <link href="https://ppt21.com/spoent/65379?category=2"/>
-        <updated>2022-01-03T07:17:48.470Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [레드벨벳] 잃어버렸던 연말을 되찾은 웬디]]></title>
-        <id>https://ppt21.com/spoent/65378?category=2</id>
-        <link href="https://ppt21.com/spoent/65378?category=2"/>
-        <updated>2022-01-03T07:17:48.470Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
