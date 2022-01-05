@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-05T08:21:10.225Z</updated>
+    <updated>2022-01-05T09:18:05.322Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [우주소녀] 우주소녀 쪼꼬미 '슈퍼 그럼요' M/V]]></title>
+        <id>https://ppt21.com/spoent/65417?category=2</id>
+        <link href="https://ppt21.com/spoent/65417?category=2"/>
+        <updated>2022-01-05T09:17:52.544Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] '설강화' 여대생 여정민 역 배우 김미수 사망, 향년 30세]]></title>
+        <id>https://ppt21.com/spoent/65416?category=2</id>
+        <link href="https://ppt21.com/spoent/65416?category=2"/>
+        <updated>2022-01-05T09:17:52.555Z</updated>
+        <content type="html"><![CDATA[forangel]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 대선후보 3인 성대모사하는 안윤상]]></title>
         <id>https://ppt21.com/spoent/65414?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/65388?category=2"/>
         <updated>2022-01-03T15:17:26.531Z</updated>
         <content type="html"><![CDATA[iwyh]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [우주소녀] 우주소녀 쪼꼬미 '슈퍼 그럼요' M/V Teaser]]></title>
-        <id>https://ppt21.com/spoent/65385?category=2</id>
-        <link href="https://ppt21.com/spoent/65385?category=2"/>
-        <updated>2022-01-03T12:28:36.050Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 동시간에 공개된 <Kep1er> <갓더비트> 음원차트 진입 순위]]></title>
-        <id>https://ppt21.com/spoent/65384?category=2</id>
-        <link href="https://ppt21.com/spoent/65384?category=2"/>
-        <updated>2022-01-03T11:14:05.618Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
     </entry>
 </feed>
