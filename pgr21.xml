@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-06T11:14:39.115Z</updated>
+    <updated>2022-01-06T12:28:30.574Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 놀라운 토요일 김동현, 키 포켓몬스터 분장]]></title>
+        <id>https://ppt21.com/spoent/65438?category=2</id>
+        <link href="https://ppt21.com/spoent/65438?category=2"/>
+        <updated>2022-01-06T12:28:20.423Z</updated>
+        <content type="html"><![CDATA[빠독이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [유퀴즈] 유퀴즈에 이정재님이 출연합니다]]></title>
         <id>https://ppt21.com/spoent/65436?category=2</id>
@@ -20,7 +27,7 @@
         <content type="html"><![CDATA[QuickSohee]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[연예] [우주소녀] 우주소녀 쪼꼬미 '슈퍼 그럼요' 1theK 스페셜 클립]]></title>
+        <title type="html"><![CDATA[[연예] [우주소녀] 우주소녀 쪼꼬미 '슈퍼 그럼요' 1theK 스페셜 클립 (+메이킹 필름)]]></title>
         <id>https://ppt21.com/spoent/65434?category=2</id>
         <link href="https://ppt21.com/spoent/65434?category=2"/>
         <updated>2022-01-06T10:18:41.539Z</updated>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65406?category=2"/>
         <updated>2022-01-05T00:58:51.687Z</updated>
         <content type="html"><![CDATA[카트만두에서만두]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [해리포터] 해리포터 20주년: 리턴 투 호그와트]]></title>
-        <id>https://ppt21.com/spoent/65404?category=2</id>
-        <link href="https://ppt21.com/spoent/65404?category=2"/>
-        <updated>2022-01-04T13:24:22.951Z</updated>
-        <content type="html"><![CDATA[A1]]></content>
     </entry>
 </feed>
