@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-07T01:02:13.172Z</updated>
+    <updated>2022-01-07T02:39:57.994Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 지금 우리 학교는 공식 티저]]></title>
+        <id>https://ppt21.com/spoent/65444?category=2</id>
+        <link href="https://ppt21.com/spoent/65444?category=2"/>
+        <updated>2022-01-07T02:39:42.434Z</updated>
+        <content type="html"><![CDATA[어강됴리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 중국인은 무릎 꿇지 않는다!]]></title>
         <id>https://ppt21.com/spoent/65442?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65409?category=2"/>
         <updated>2022-01-05T03:18:01.759Z</updated>
         <content type="html"><![CDATA[착한글만쓰기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 스트릿 걸스 파이터 '턴즈' 결승전 무대]]></title>
-        <id>https://ppt21.com/spoent/65408?category=2</id>
-        <link href="https://ppt21.com/spoent/65408?category=2"/>
-        <updated>2022-01-05T02:11:50.830Z</updated>
-        <content type="html"><![CDATA[Anti-MAGE]]></content>
     </entry>
 </feed>
