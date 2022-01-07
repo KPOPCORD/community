@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-07T18:20:18.422Z</updated>
+    <updated>2022-01-07T19:12:09.178Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[연예] [트와이스] 언니와 엄마의 차이 (데이터주의) (Pgr21 ─ 연예)]]></title>
@@ -138,6 +138,13 @@
         <content type="html"><![CDATA[Bronx Bombers]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[방탄 지민 인스타 업뎃 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2304863437</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2304863437"/>
+        <updated>2022-01-07T19:12:08.356Z</updated>
+        <content type="html"><![CDATA[300899]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[220107 KBS2 뮤직뱅크 EP1102 쪼꼬미 - 슈퍼 그럼요 Cut.1080p 60f.KANON.ts (남바♡) (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2304839302</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2304839302"/>
@@ -269,12 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2304377888"/>
         <updated>2022-01-07T10:19:34.801Z</updated>
         <content type="html"><![CDATA[300880]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[K-Fancam] 업텐션 고결, 선율, 샤오 '너에게 미쳤었다 l @MusicBank 220107 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2304364853</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2304364853"/>
-        <updated>2022-01-07T10:19:34.801Z</updated>
-        <content type="html"><![CDATA[300879]]></content>
     </entry>
 </feed>
