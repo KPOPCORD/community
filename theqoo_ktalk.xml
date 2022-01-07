@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2022-01-07T02:39:57.998Z</updated>
+    <updated>2022-01-07T03:20:10.964Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Stray Kids 2ND #LoveSTAY 'SKZ’S CHOCOLATE FACTORY']]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2303948258</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2303948258"/>
+        <updated>2022-01-07T03:20:10.192Z</updated>
+        <content type="html"><![CDATA[300970]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[220106 케플러 샤오팅 반응좋은 영통후기.twt]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2303698005</id>
@@ -137,12 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2303377395"/>
         <updated>2022-01-06T12:28:29.852Z</updated>
         <content type="html"><![CDATA[300951]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[월광소나타🎹를 만난 NCT U - BOSS?! 클래식X케이팝 #아이브 의 Black&White 반전 퍼포먼스! 베토벤이 케이팝을 해도 되는 거임? 아이브도?]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2303338097</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2303338097"/>
-        <updated>2022-01-06T11:14:38.396Z</updated>
-        <content type="html"><![CDATA[300950]]></content>
     </entry>
 </feed>
