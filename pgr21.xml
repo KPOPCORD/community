@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-07T06:20:45.673Z</updated>
+    <updated>2022-01-07T07:16:43.705Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 2021년 가온차트 디지털 연간차트 발표]]></title>
+        <id>https://ppt21.com/spoent/65448?category=2</id>
+        <link href="https://ppt21.com/spoent/65448?category=2"/>
+        <updated>2022-01-07T07:16:30.160Z</updated>
+        <content type="html"><![CDATA[Bronx Bombers]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 혼다 히토미는 일본활동을 이어나갈것 같군요]]></title>
         <id>https://ppt21.com/spoent/65446?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65412?category=2"/>
         <updated>2022-01-07T04:22:22.155Z</updated>
         <content type="html"><![CDATA[건전한닉네임4]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 서지수, 미스틱스토리와 전속계약 체결... 윤종신·고민시와 한 식구 (공식)]]></title>
-        <id>https://ppt21.com/spoent/65411?category=2</id>
-        <link href="https://ppt21.com/spoent/65411?category=2"/>
-        <updated>2022-01-07T04:22:22.156Z</updated>
-        <content type="html"><![CDATA[지수]]></content>
     </entry>
 </feed>
