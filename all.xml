@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-08T05:17:01.001Z</updated>
+    <updated>2022-01-08T06:20:44.550Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] 쇼미보다 그이상인 힙합 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/65466?category=2</id>
+        <link href="https://ppt21.com/spoent/65466?category=2"/>
+        <updated>2022-01-08T06:20:33.820Z</updated>
+        <content type="html"><![CDATA[telracScarlet]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [출장십오야] 아티스트 컴퍼니 편이 업로드 되었습니다 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/65465?category=2</id>
@@ -129,13 +136,6 @@
         <link href="https://ppt21.com/spoent/65422?category=2"/>
         <updated>2022-01-07T04:22:22.148Z</updated>
         <content type="html"><![CDATA[메자이의 학점약탈자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 광탈러인데 승자 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/65421?category=2</id>
-        <link href="https://ppt21.com/spoent/65421?category=2"/>
-        <updated>2022-01-07T04:22:22.149Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[투바투 휴닝카이 멤트 🖤 (더쿠 ─ 케이돌토크)]]></title>
