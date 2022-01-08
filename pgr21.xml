@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-08T13:23:43.234Z</updated>
+    <updated>2022-01-08T14:15:11.549Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 드디어 왕건에게 복수한 궁예.gfy]]></title>
+        <id>https://ppt21.com/spoent/65473?category=2</id>
+        <link href="https://ppt21.com/spoent/65473?category=2"/>
+        <updated>2022-01-08T14:15:01.249Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] One should see this video(아이유)]]></title>
         <id>https://ppt21.com/spoent/65472?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65438?category=2"/>
         <updated>2022-01-07T04:22:22.143Z</updated>
         <content type="html"><![CDATA[빠독이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [유퀴즈] 유퀴즈에 이정재님이 출연합니다]]></title>
-        <id>https://ppt21.com/spoent/65436?category=2</id>
-        <link href="https://ppt21.com/spoent/65436?category=2"/>
-        <updated>2022-01-07T04:22:22.143Z</updated>
-        <content type="html"><![CDATA[A1]]></content>
     </entry>
 </feed>
