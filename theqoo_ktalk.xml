@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2022-01-08T02:07:25.032Z</updated>
+    <updated>2022-01-08T03:19:06.644Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2021년 오리콘 아티스트별 토탈 세일즈 TOP100]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2305005513</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2305005513"/>
+        <updated>2022-01-08T03:19:05.906Z</updated>
+        <content type="html"><![CDATA[300901]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[컴백 SOON] 김요한·최강창민·손태진… 男다른 솔로위크]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2304917218</id>
@@ -137,12 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2304404740"/>
         <updated>2022-01-08T02:07:24.323Z</updated>
         <content type="html"><![CDATA[300882]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2021 가요대전 4K] 아스트로 'ONE' 페이스캠 모음]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2304385113</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2304385113"/>
-        <updated>2022-01-08T02:07:24.325Z</updated>
-        <content type="html"><![CDATA[300881]]></content>
     </entry>
 </feed>
