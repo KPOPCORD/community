@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-09T14:15:32.051Z</updated>
+    <updated>2022-01-09T15:17:02.651Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] (이방원) 슬슬 다들 기대하는 장면]]></title>
+        <id>https://ppt21.com/spoent/65492?category=2</id>
+        <link href="https://ppt21.com/spoent/65492?category=2"/>
+        <updated>2022-01-09T15:16:53.500Z</updated>
+        <content type="html"><![CDATA[길갈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [에버글로우] 왕이런 중국으로 일시 귀국]]></title>
         <id>https://ppt21.com/spoent/65486?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65453?category=2"/>
         <updated>2022-01-07T14:15:46.095Z</updated>
         <content type="html"><![CDATA[빼사스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 2015데뷔 아이돌들의 재계약 현황과 전망]]></title>
-        <id>https://ppt21.com/spoent/65452?category=2</id>
-        <link href="https://ppt21.com/spoent/65452?category=2"/>
-        <updated>2022-01-07T14:15:46.095Z</updated>
-        <content type="html"><![CDATA[어강됴리]]></content>
     </entry>
 </feed>
