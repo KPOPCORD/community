@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-09T19:13:52.854Z</updated>
+    <updated>2022-01-09T20:18:43.964Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 2월 데뷔, jyp 7인조 신인걸그룹 멤버들]]></title>
+        <id>https://ppt21.com/spoent/65495?category=2</id>
+        <link href="https://ppt21.com/spoent/65495?category=2"/>
+        <updated>2022-01-09T20:18:31.019Z</updated>
+        <content type="html"><![CDATA[아롱이다롱이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [태종이방원]이방원과 강씨의 말싸움]]></title>
         <id>https://ppt21.com/spoent/65493?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65465?category=2"/>
         <updated>2022-01-08T05:16:51.646Z</updated>
         <content type="html"><![CDATA[A1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [트와이스] 언니와 엄마의 차이 (데이터주의)]]></title>
-        <id>https://ppt21.com/spoent/65454?category=2</id>
-        <link href="https://ppt21.com/spoent/65454?category=2"/>
-        <updated>2022-01-07T14:15:46.092Z</updated>
-        <content type="html"><![CDATA[그10번]]></content>
     </entry>
 </feed>
