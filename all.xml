@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-09T06:20:58.743Z</updated>
+    <updated>2022-01-09T07:16:23.704Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] 다이아 솜이 근황 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/65482?category=2</id>
+        <link href="https://ppt21.com/spoent/65482?category=2"/>
+        <updated>2022-01-09T07:16:13.903Z</updated>
+        <content type="html"><![CDATA[이히리기우구추]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 개승자 후반전 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/65481?category=2</id>
@@ -129,13 +136,6 @@
         <link href="https://ppt21.com/spoent/65448?category=2"/>
         <updated>2022-01-07T07:16:30.160Z</updated>
         <content type="html"><![CDATA[Bronx Bombers]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 혼다 히토미는 일본활동을 이어나갈것 같군요 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/65446?category=2</id>
-        <link href="https://ppt21.com/spoent/65446?category=2"/>
-        <updated>2022-01-07T04:22:22.134Z</updated>
-        <content type="html"><![CDATA[어강됴리]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[인기가요 케플러 의상 (더쿠 ─ 케이돌토크)]]></title>
