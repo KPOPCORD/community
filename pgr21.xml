@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-09T02:14:39.473Z</updated>
+    <updated>2022-01-09T03:19:59.914Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 존잘남의 학창시절 인기.JPG]]></title>
+        <id>https://ppt21.com/spoent/65478?category=2</id>
+        <link href="https://ppt21.com/spoent/65478?category=2"/>
+        <updated>2022-01-09T03:19:49.718Z</updated>
+        <content type="html"><![CDATA[insane]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [AEW]현재 미국 프로레슬링에서 가장 재밌는 대립]]></title>
         <id>https://ppt21.com/spoent/65477?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65444?category=2"/>
         <updated>2022-01-07T04:22:22.141Z</updated>
         <content type="html"><![CDATA[어강됴리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 중국인은 무릎 꿇지 않는다!]]></title>
-        <id>https://ppt21.com/spoent/65442?category=2</id>
-        <link href="https://ppt21.com/spoent/65442?category=2"/>
-        <updated>2022-01-07T04:22:22.141Z</updated>
-        <content type="html"><![CDATA[AKbizs]]></content>
     </entry>
 </feed>
