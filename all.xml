@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-10T05:18:19.625Z</updated>
+    <updated>2022-01-10T06:21:37.932Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[연예] <민희진 걸그룹, 사쿠라 걸그룹, 걸그룹 오디션> 하이브 걸그룹 3팀 데뷔 (Pgr21 ─ 연예)]]></title>
@@ -138,6 +138,13 @@
         <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[투바투 범규 트윗🧸 (With 이엔😎👍) (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2307327894</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2307327894"/>
+        <updated>2022-01-10T06:21:37.000Z</updated>
+        <content type="html"><![CDATA[300921]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[단독] 케플러 김채현, '더쇼' 새 MC 확정..'걸스플래닛999' 1위의 대세 행보 (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2307240494</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2307240494"/>
@@ -269,12 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2306622174"/>
         <updated>2022-01-09T13:23:42.301Z</updated>
         <content type="html"><![CDATA[300902]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에버글로우 <왕이런> 중국으로 일시귀국 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2306553014</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2306553014"/>
-        <updated>2022-01-09T12:26:40.040Z</updated>
-        <content type="html"><![CDATA[300901]]></content>
     </entry>
 </feed>
