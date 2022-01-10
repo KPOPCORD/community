@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-10T07:17:21.353Z</updated>
+    <updated>2022-01-10T08:21:42.911Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 2021년 1월 2주 D-차트 : 아이브 3주째 1위! 아이유는 3위 진입]]></title>
+        <id>https://ppt21.com/spoent/65503?category=2</id>
+        <link href="https://ppt21.com/spoent/65503?category=2"/>
+        <updated>2022-01-10T08:21:31.528Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 넷플릭스 월드랭킹 TOP10에 위치한 유일한 한국프로]]></title>
+        <id>https://ppt21.com/spoent/65502?category=2</id>
+        <link href="https://ppt21.com/spoent/65502?category=2"/>
+        <updated>2022-01-10T08:21:31.534Z</updated>
+        <content type="html"><![CDATA[인사이더]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] <민희진 걸그룹, 사쿠라 걸그룹, 걸그룹 오디션> 하이브 걸그룹 3팀 데뷔]]></title>
         <id>https://ppt21.com/spoent/65500?category=2</id>
@@ -122,20 +136,6 @@
         <id>https://ppt21.com/spoent/65470?category=2</id>
         <link href="https://ppt21.com/spoent/65470?category=2"/>
         <updated>2022-01-08T11:13:56.419Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 2022 골든 디스크 수상내역]]></title>
-        <id>https://ppt21.com/spoent/65468?category=2</id>
-        <link href="https://ppt21.com/spoent/65468?category=2"/>
-        <updated>2022-01-08T11:13:56.424Z</updated>
-        <content type="html"><![CDATA[KIMTAEYEON]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 2021년 D-차트 1,2위 결산 : BTS&아이유 양강체제]]></title>
-        <id>https://ppt21.com/spoent/65467?category=2</id>
-        <link href="https://ppt21.com/spoent/65467?category=2"/>
-        <updated>2022-01-08T10:18:10.897Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
