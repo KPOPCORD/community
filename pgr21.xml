@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-10T11:15:11.792Z</updated>
+    <updated>2022-01-10T12:27:53.968Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [에스파] 'Dreams Come True' 인기가요 페이스캠 (+음중 직캠)]]></title>
+        <id>https://ppt21.com/spoent/65509?category=2</id>
+        <link href="https://ppt21.com/spoent/65509?category=2"/>
+        <updated>2022-01-10T12:27:42.309Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [러블리즈][쟤와 벌] 1화 - Q&A, 밸런스게임]]></title>
         <id>https://ppt21.com/spoent/65506?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65473?category=2"/>
         <updated>2022-01-08T14:15:01.249Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] One should see this video(아이유)]]></title>
-        <id>https://ppt21.com/spoent/65472?category=2</id>
-        <link href="https://ppt21.com/spoent/65472?category=2"/>
-        <updated>2022-01-08T13:23:32.177Z</updated>
-        <content type="html"><![CDATA[차라리꽉눌러붙을]]></content>
     </entry>
 </feed>
