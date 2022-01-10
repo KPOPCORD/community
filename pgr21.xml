@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-10T08:21:42.911Z</updated>
+    <updated>2022-01-10T09:18:24.966Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 요즘 음악방송 카메라무빙.gif]]></title>
+        <id>https://ppt21.com/spoent/65505?category=2</id>
+        <link href="https://ppt21.com/spoent/65505?category=2"/>
+        <updated>2022-01-10T09:18:02.789Z</updated>
+        <content type="html"><![CDATA[이히리기우구추]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 넷플릭스 한국예능 <솔로지옥> 이 어떤 국가에서 차트인 했는지 알아보자]]></title>
+        <id>https://ppt21.com/spoent/65504?category=2</id>
+        <link href="https://ppt21.com/spoent/65504?category=2"/>
+        <updated>2022-01-10T09:18:02.796Z</updated>
+        <content type="html"><![CDATA[아롱이다롱이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 2021년 1월 2주 D-차트 : 아이브 3주째 1위! 아이유는 3위 진입]]></title>
         <id>https://ppt21.com/spoent/65503?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/65472?category=2"/>
         <updated>2022-01-08T13:23:32.177Z</updated>
         <content type="html"><![CDATA[차라리꽉눌러붙을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 에이프릴 이나은의 학폭 의혹이 허위로 밝혀졌군요.]]></title>
-        <id>https://ppt21.com/spoent/65471?category=2</id>
-        <link href="https://ppt21.com/spoent/65471?category=2"/>
-        <updated>2022-01-08T12:26:33.726Z</updated>
-        <content type="html"><![CDATA[마르세유]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 2021년 D-차트 결산 : 걸그룹 4주 합산 지표]]></title>
-        <id>https://ppt21.com/spoent/65470?category=2</id>
-        <link href="https://ppt21.com/spoent/65470?category=2"/>
-        <updated>2022-01-08T11:13:56.419Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
