@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-11T02:12:23.549Z</updated>
+    <updated>2022-01-11T03:19:53.630Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] ITZY 류진이 출연했던 영화]]></title>
+        <id>https://ppt21.com/spoent/65516?category=2</id>
+        <link href="https://ppt21.com/spoent/65516?category=2"/>
+        <updated>2022-01-11T03:19:41.619Z</updated>
+        <content type="html"><![CDATA[Anti-MAGE]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 걸그룹 지상파 1위 도달기간]]></title>
+        <id>https://ppt21.com/spoent/65515?category=2</id>
+        <link href="https://ppt21.com/spoent/65515?category=2"/>
+        <updated>2022-01-11T03:19:41.638Z</updated>
+        <content type="html"><![CDATA[Croove]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] VIVIZ 2022 시즌그리팅 비하인드 신]]></title>
         <id>https://ppt21.com/spoent/65512?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/65478?category=2"/>
         <updated>2022-01-09T03:19:49.718Z</updated>
         <content type="html"><![CDATA[insane]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [AEW]현재 미국 프로레슬링에서 가장 재밌는 대립]]></title>
-        <id>https://ppt21.com/spoent/65477?category=2</id>
-        <link href="https://ppt21.com/spoent/65477?category=2"/>
-        <updated>2022-01-09T02:14:26.994Z</updated>
-        <content type="html"><![CDATA[kien.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [아이브] 음악중심 1위와 함께 어느덧 6관왕]]></title>
-        <id>https://ppt21.com/spoent/65474?category=2</id>
-        <link href="https://ppt21.com/spoent/65474?category=2"/>
-        <updated>2022-01-08T15:17:07.817Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
