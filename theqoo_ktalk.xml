@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2022-01-11T07:17:08.117Z</updated>
+    <updated>2022-01-11T08:20:54.631Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[방탄 RM 인스타 호떡먹었네]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2308691967</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2308691967"/>
+        <updated>2022-01-11T08:20:53.931Z</updated>
+        <content type="html"><![CDATA[300964]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독]크래비티 민희, '더쇼' 새 MC 발탁..4세대 대표주자다운 행보]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2308666062</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2308666062"/>
+        <updated>2022-01-11T08:20:53.942Z</updated>
+        <content type="html"><![CDATA[300963]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하이브 JYP 에스엠 YG 아티스트 활동 현황]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2308629504</id>
@@ -130,19 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2307944776"/>
         <updated>2022-01-10T15:18:21.770Z</updated>
         <content type="html"><![CDATA[300945]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YENA(최예나) 'SMILEY' - VISUAL FILM]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2307944592</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2307944592"/>
-        <updated>2022-01-10T15:18:21.779Z</updated>
-        <content type="html"><![CDATA[300944]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DRIPPIN(드리핀) 3rd MINI ALBUM [Villain]｜7Villaz D-6 #김민서 (#KIMMINSEO)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2307943823</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2307943823"/>
-        <updated>2022-01-10T15:18:21.782Z</updated>
-        <content type="html"><![CDATA[300943]]></content>
     </entry>
 </feed>

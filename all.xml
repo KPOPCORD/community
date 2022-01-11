@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-11T07:17:08.113Z</updated>
+    <updated>2022-01-11T08:20:54.629Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] 이번 설연휴엔 송가인이군요 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/65524?category=2</id>
+        <link href="https://ppt21.com/spoent/65524?category=2"/>
+        <updated>2022-01-11T08:20:44.834Z</updated>
+        <content type="html"><![CDATA[강가딘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [우주소녀 쪼꼬미] 스타쉽이 엠넷이랑 화해를 한 모양입니다. (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/65522?category=2</id>
@@ -131,11 +138,18 @@
         <content type="html"><![CDATA[아롱이다롱이]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[연예] 다이아 솜이 근황 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/65482?category=2</id>
-        <link href="https://ppt21.com/spoent/65482?category=2"/>
-        <updated>2022-01-09T07:16:13.903Z</updated>
-        <content type="html"><![CDATA[이히리기우구추]]></content>
+        <title type="html"><![CDATA[방탄 RM 인스타 호떡먹었네 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2308691967</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2308691967"/>
+        <updated>2022-01-11T08:20:53.931Z</updated>
+        <content type="html"><![CDATA[300964]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독]크래비티 민희, '더쇼' 새 MC 발탁..4세대 대표주자다운 행보 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2308666062</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2308666062"/>
+        <updated>2022-01-11T08:20:53.942Z</updated>
+        <content type="html"><![CDATA[300963]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[하이브 JYP 에스엠 YG 아티스트 활동 현황 (더쿠 ─ 케이돌토크)]]></title>
@@ -262,19 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2307944776"/>
         <updated>2022-01-10T15:18:21.770Z</updated>
         <content type="html"><![CDATA[300945]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YENA(최예나) 'SMILEY' - VISUAL FILM (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2307944592</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2307944592"/>
-        <updated>2022-01-10T15:18:21.779Z</updated>
-        <content type="html"><![CDATA[300944]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DRIPPIN(드리핀) 3rd MINI ALBUM [Villain]｜7Villaz D-6 #김민서 (#KIMMINSEO) (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2307943823</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2307943823"/>
-        <updated>2022-01-10T15:18:21.782Z</updated>
-        <content type="html"><![CDATA[300943]]></content>
     </entry>
 </feed>
