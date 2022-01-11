@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-11T03:19:53.630Z</updated>
+    <updated>2022-01-11T04:22:12.709Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 신인걸그룹 <Kep1er>케플러의 이번주 뮤뱅 1위가 예상되는 이유]]></title>
+        <id>https://ppt21.com/spoent/65519?category=2</id>
+        <link href="https://ppt21.com/spoent/65519?category=2"/>
+        <updated>2022-01-11T04:22:02.067Z</updated>
+        <content type="html"><![CDATA[아롱이다롱이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] ITZY 류진이 출연했던 영화]]></title>
         <id>https://ppt21.com/spoent/65516?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65479?category=2"/>
         <updated>2022-01-09T04:22:28.358Z</updated>
         <content type="html"><![CDATA[VictoryFood]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 존잘남의 학창시절 인기.JPG]]></title>
-        <id>https://ppt21.com/spoent/65478?category=2</id>
-        <link href="https://ppt21.com/spoent/65478?category=2"/>
-        <updated>2022-01-09T03:19:49.718Z</updated>
-        <content type="html"><![CDATA[insane]]></content>
     </entry>
 </feed>
