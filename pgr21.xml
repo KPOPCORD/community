@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-11T11:14:48.908Z</updated>
+    <updated>2022-01-11T12:27:40.537Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 사람들이 정말 잘 모르는 유동근 주연 드라마]]></title>
+        <id>https://ppt21.com/spoent/65530?category=2</id>
+        <link href="https://ppt21.com/spoent/65530?category=2"/>
+        <updated>2022-01-11T12:27:18.009Z</updated>
+        <content type="html"><![CDATA[드라고나]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 사람들이 잘 모르는 유동근 선생님 과거 배역]]></title>
+        <id>https://ppt21.com/spoent/65529?category=2</id>
+        <link href="https://ppt21.com/spoent/65529?category=2"/>
+        <updated>2022-01-11T12:27:18.017Z</updated>
+        <content type="html"><![CDATA[Croove]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 최예나 - SMILEY MV Teaser (Dance Ver.)]]></title>
         <id>https://ppt21.com/spoent/65528?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/65499?category=2"/>
         <updated>2022-01-10T03:18:49.207Z</updated>
         <content type="html"><![CDATA[강가딘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 2월 데뷔, jyp 7인조 신인걸그룹 멤버들]]></title>
-        <id>https://ppt21.com/spoent/65495?category=2</id>
-        <link href="https://ppt21.com/spoent/65495?category=2"/>
-        <updated>2022-01-09T20:18:31.019Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [태종이방원]이방원과 강씨의 말싸움]]></title>
-        <id>https://ppt21.com/spoent/65493?category=2</id>
-        <link href="https://ppt21.com/spoent/65493?category=2"/>
-        <updated>2022-01-09T16:25:32.930Z</updated>
-        <content type="html"><![CDATA[카루오스]]></content>
     </entry>
 </feed>
