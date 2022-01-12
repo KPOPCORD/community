@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-12T04:22:25.664Z</updated>
+    <updated>2022-01-12T05:17:21.188Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] SM의 최동원, 마크]]></title>
+        <id>https://ppt21.com/spoent/65539?category=2</id>
+        <link href="https://ppt21.com/spoent/65539?category=2"/>
+        <updated>2022-01-12T05:17:11.170Z</updated>
+        <content type="html"><![CDATA[어강됴리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 연도별 걸그룹(feat.솔로) MV 조회수 top 3]]></title>
         <id>https://ppt21.com/spoent/65538?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65506?category=2"/>
         <updated>2022-01-10T10:19:20.289Z</updated>
         <content type="html"><![CDATA[유지애]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 요즘 음악방송 카메라무빙.gif]]></title>
-        <id>https://ppt21.com/spoent/65505?category=2</id>
-        <link href="https://ppt21.com/spoent/65505?category=2"/>
-        <updated>2022-01-10T09:18:02.789Z</updated>
-        <content type="html"><![CDATA[이히리기우구추]]></content>
     </entry>
 </feed>
