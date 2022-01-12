@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-12T06:21:38.110Z</updated>
+    <updated>2022-01-12T07:17:35.868Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] 런닝맨 식구들이 보고 놀랐다는 드라마 속 전소민 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/65545?category=2</id>
+        <link href="https://ppt21.com/spoent/65545?category=2"/>
+        <updated>2022-01-12T07:17:22.988Z</updated>
+        <content type="html"><![CDATA[강가딘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [유튜브] 킹받는 케이팝 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/65542?category=2</id>
@@ -129,13 +136,6 @@
         <link href="https://ppt21.com/spoent/65516?category=2"/>
         <updated>2022-01-11T03:19:41.619Z</updated>
         <content type="html"><![CDATA[Anti-MAGE]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 걸그룹 지상파 1위 도달기간 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/65515?category=2</id>
-        <link href="https://ppt21.com/spoent/65515?category=2"/>
-        <updated>2022-01-11T03:19:41.638Z</updated>
-        <content type="html"><![CDATA[Croove]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[220113 엠카운트다운 라인업 (더쿠 ─ 케이돌토크)]]></title>
