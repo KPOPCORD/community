@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-12T09:17:27.768Z</updated>
+    <updated>2022-01-12T10:19:32.988Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] 유퀴즈 이정재 선공개 영상, (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/65547?category=2</id>
+        <link href="https://ppt21.com/spoent/65547?category=2"/>
+        <updated>2022-01-12T10:19:07.984Z</updated>
+        <content type="html"><![CDATA[강가딘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 런닝맨 식구들이 보고 놀랐다는 드라마 속 전소민 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/65545?category=2</id>
@@ -131,11 +138,11 @@
         <content type="html"><![CDATA[아롱이다롱이]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[연예] ITZY 류진이 출연했던 영화 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/65516?category=2</id>
-        <link href="https://ppt21.com/spoent/65516?category=2"/>
-        <updated>2022-01-11T03:19:41.619Z</updated>
-        <content type="html"><![CDATA[Anti-MAGE]]></content>
+        <title type="html"><![CDATA[[1인칭 라이브] [4K] 김재환 (KIM JAE HWAN) - 다 잊은 줄 알았어｜THE LETTER, Stone LIVE (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2310014233</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2310014233"/>
+        <updated>2022-01-12T10:19:32.240Z</updated>
+        <content type="html"><![CDATA[300993]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[DRIPPIN(드리핀) 'Villain' MV TEASER 1 (더쿠 ─ 케이돌토크)]]></title>
@@ -269,12 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2309153675"/>
         <updated>2022-01-11T15:18:17.540Z</updated>
         <content type="html"><![CDATA[300974]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DRIPPIN(드리핀) 3rd MINI ALBUM [Villain]｜7Villaz D-5 #이협 (#LEEHYEOP) (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2309151921</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2309151921"/>
-        <updated>2022-01-11T15:18:17.545Z</updated>
-        <content type="html"><![CDATA[300973]]></content>
     </entry>
 </feed>

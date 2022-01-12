@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2022-01-12T09:17:27.763Z</updated>
+    <updated>2022-01-12T10:19:32.987Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[1인칭 라이브] [4K] 김재환 (KIM JAE HWAN) - 다 잊은 줄 알았어｜THE LETTER, Stone LIVE]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2310014233</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2310014233"/>
+        <updated>2022-01-12T10:19:32.240Z</updated>
+        <content type="html"><![CDATA[300993]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DRIPPIN(드리핀) 'Villain' MV TEASER 1]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2309929399</id>
@@ -137,12 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2309153675"/>
         <updated>2022-01-11T15:18:17.540Z</updated>
         <content type="html"><![CDATA[300974]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DRIPPIN(드리핀) 3rd MINI ALBUM [Villain]｜7Villaz D-5 #이협 (#LEEHYEOP)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2309151921</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2309151921"/>
-        <updated>2022-01-11T15:18:17.545Z</updated>
-        <content type="html"><![CDATA[300973]]></content>
     </entry>
 </feed>
