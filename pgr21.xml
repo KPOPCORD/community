@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-12T03:19:48.802Z</updated>
+    <updated>2022-01-12T04:22:25.664Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 연도별 걸그룹(feat.솔로) MV 조회수 top 3]]></title>
+        <id>https://ppt21.com/spoent/65538?category=2</id>
+        <link href="https://ppt21.com/spoent/65538?category=2"/>
+        <updated>2022-01-12T04:22:15.669Z</updated>
+        <content type="html"><![CDATA[Croove]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 10년간 음반판매 1백만장 넘는 가수.gisa]]></title>
         <id>https://ppt21.com/spoent/65534?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65505?category=2"/>
         <updated>2022-01-10T09:18:02.789Z</updated>
         <content type="html"><![CDATA[이히리기우구추]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 2021년 1월 2주 D-차트 : 아이브 3주째 1위! 아이유는 3위 진입]]></title>
-        <id>https://ppt21.com/spoent/65503?category=2</id>
-        <link href="https://ppt21.com/spoent/65503?category=2"/>
-        <updated>2022-01-10T08:21:31.528Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
