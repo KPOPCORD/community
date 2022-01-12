@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-12T05:17:21.185Z</updated>
+    <updated>2022-01-12T06:21:38.110Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] [유튜브] 킹받는 케이팝 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/65542?category=2</id>
+        <link href="https://ppt21.com/spoent/65542?category=2"/>
+        <updated>2022-01-12T06:21:12.934Z</updated>
+        <content type="html"><![CDATA[Bronx Bombers]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 이세계 트와이스 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/65541?category=2</id>
+        <link href="https://ppt21.com/spoent/65541?category=2"/>
+        <updated>2022-01-12T06:21:12.934Z</updated>
+        <content type="html"><![CDATA[어강됴리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 유키카 - 오늘 나를 부탁해(Please Me)(크아 20주년ost) (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/65540?category=2</id>
+        <link href="https://ppt21.com/spoent/65540?category=2"/>
+        <updated>2022-01-12T06:21:12.934Z</updated>
+        <content type="html"><![CDATA[김캇트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] SM의 최동원, 마크 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/65539?category=2</id>
@@ -117,25 +138,18 @@
         <content type="html"><![CDATA[Croove]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[연예] VIVIZ 2022 시즌그리팅 비하인드 신 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/65512?category=2</id>
-        <link href="https://ppt21.com/spoent/65512?category=2"/>
-        <updated>2022-01-10T15:18:11.353Z</updated>
-        <content type="html"><![CDATA[김캇트]]></content>
+        <title type="html"><![CDATA[220113 엠카운트다운 라인업 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2309692071</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2309692071"/>
+        <updated>2022-01-12T06:21:36.820Z</updated>
+        <content type="html"><![CDATA[300992]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[연예] [에스파] 'Dreams Come True' 인기가요 페이스캠 (+음중 직캠) (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/65509?category=2</id>
-        <link href="https://ppt21.com/spoent/65509?category=2"/>
-        <updated>2022-01-10T12:27:42.309Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [러블리즈][쟤와 벌] 1화 - Q&A, 밸런스게임 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/65506?category=2</id>
-        <link href="https://ppt21.com/spoent/65506?category=2"/>
-        <updated>2022-01-10T10:19:20.289Z</updated>
-        <content type="html"><![CDATA[유지애]]></content>
+        <title type="html"><![CDATA[가온차트 누적 앨범판매량 누락 관련 공지 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2309686102</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2309686102"/>
+        <updated>2022-01-12T06:21:36.822Z</updated>
+        <content type="html"><![CDATA[300991]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[태연 신곡 ‘Can’t Control Myself’ 작사 참여, 17일 공개 [공식] (더쿠 ─ 케이돌토크)]]></title>
@@ -262,19 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2309063485"/>
         <updated>2022-01-11T14:16:12.782Z</updated>
         <content type="html"><![CDATA[300973]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고스트나인 이거 영상 개웃김 ㅅㅂㅋㅋㅋㅋㅋㅋ (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2309030478</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2309030478"/>
-        <updated>2022-01-11T14:16:12.782Z</updated>
-        <content type="html"><![CDATA[300972]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방탄소년단 이번주 오리콘 위클리 차트인 앨범, 영상물 목록 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2309005788</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2309005788"/>
-        <updated>2022-01-11T13:25:18.066Z</updated>
-        <content type="html"><![CDATA[300971]]></content>
     </entry>
 </feed>

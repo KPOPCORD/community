@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2022-01-12T05:17:21.177Z</updated>
+    <updated>2022-01-12T06:21:38.103Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[220113 엠카운트다운 라인업]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2309692071</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2309692071"/>
+        <updated>2022-01-12T06:21:36.820Z</updated>
+        <content type="html"><![CDATA[300992]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가온차트 누적 앨범판매량 누락 관련 공지]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2309686102</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2309686102"/>
+        <updated>2022-01-12T06:21:36.822Z</updated>
+        <content type="html"><![CDATA[300991]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[태연 신곡 ‘Can’t Control Myself’ 작사 참여, 17일 공개 [공식]]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2309638450</id>
@@ -130,19 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2309063485"/>
         <updated>2022-01-11T14:16:12.782Z</updated>
         <content type="html"><![CDATA[300973]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고스트나인 이거 영상 개웃김 ㅅㅂㅋㅋㅋㅋㅋㅋ]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2309030478</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2309030478"/>
-        <updated>2022-01-11T14:16:12.782Z</updated>
-        <content type="html"><![CDATA[300972]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방탄소년단 이번주 오리콘 위클리 차트인 앨범, 영상물 목록]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2309005788</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2309005788"/>
-        <updated>2022-01-11T13:25:18.066Z</updated>
-        <content type="html"><![CDATA[300971]]></content>
     </entry>
 </feed>
