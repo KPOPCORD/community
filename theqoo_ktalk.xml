@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2022-01-13T03:19:25.421Z</updated>
+    <updated>2022-01-13T04:22:21.679Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[태연 Pre-release Single [Can't Control Myself] ➫ 2022.01.17. 6PM KST ❤️‍🩹]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2310785432</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2310785432"/>
+        <updated>2022-01-13T04:22:20.967Z</updated>
+        <content type="html"><![CDATA[301010]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AB6IX 박우진 이대휘, 우진이 본가 강아지들과 부산 여행 예능 🐶어바웃펫 하울링캠프 EP.6 마지막회🐶]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2310757177</id>
@@ -137,12 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2310233353"/>
         <updated>2022-01-12T13:25:39.642Z</updated>
         <content type="html"><![CDATA[300991]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일본 주간 음원 차트(1월 둘째주)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2310221508</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2310221508"/>
-        <updated>2022-01-12T13:25:39.642Z</updated>
-        <content type="html"><![CDATA[300990]]></content>
     </entry>
 </feed>
