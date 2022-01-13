@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2022-01-13T04:22:21.679Z</updated>
+    <updated>2022-01-13T05:18:10.661Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[깜짝 선공개] JYP랑 선미가 여기서 왜 나와? 이 조합 머선 일? TELL ME! #엄마는아이돌 EP.5]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2310872724</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2310872724"/>
+        <updated>2022-01-13T05:18:09.953Z</updated>
+        <content type="html"><![CDATA[301012]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[투바투 연준 인스타 업데이트]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2310845770</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2310845770"/>
+        <updated>2022-01-13T05:18:09.953Z</updated>
+        <content type="html"><![CDATA[301011]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[태연 Pre-release Single [Can't Control Myself] ➫ 2022.01.17. 6PM KST ❤️‍🩹]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2310785432</id>
@@ -130,19 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2310350397"/>
         <updated>2022-01-12T14:16:15.895Z</updated>
         <content type="html"><![CDATA[300993]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빅톤 3rd Single Album [Chronograph] Concept Image - 임세준 & 정수빈 #Graphein✍]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2310335577</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2310335577"/>
-        <updated>2022-01-12T14:16:15.922Z</updated>
-        <content type="html"><![CDATA[300992]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[투바투 태현 Concept Photo 3: Boys of destiny]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2310233353</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2310233353"/>
-        <updated>2022-01-12T13:25:39.642Z</updated>
-        <content type="html"><![CDATA[300991]]></content>
     </entry>
 </feed>
