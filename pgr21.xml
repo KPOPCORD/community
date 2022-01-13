@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-12T23:17:10.475Z</updated>
+    <updated>2022-01-13T01:00:09.701Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 넷플릭스 '종말의 바보' 캐스팅 완료]]></title>
+        <id>https://ppt21.com/spoent/65552?category=2</id>
+        <link href="https://ppt21.com/spoent/65552?category=2"/>
+        <updated>2022-01-13T00:59:59.807Z</updated>
+        <content type="html"><![CDATA[카트만두에서만두]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 넷플릭스 1월 첫주차 공식 시청시간]]></title>
+        <id>https://ppt21.com/spoent/65551?category=2</id>
+        <link href="https://ppt21.com/spoent/65551?category=2"/>
+        <updated>2022-01-13T00:59:59.808Z</updated>
+        <content type="html"><![CDATA[카트만두에서만두]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 오징어 게임, SAG 어워즈 4개 부분 노미네이트]]></title>
         <id>https://ppt21.com/spoent/65549?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/65524?category=2"/>
         <updated>2022-01-11T08:20:44.834Z</updated>
         <content type="html"><![CDATA[강가딘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [우주소녀 쪼꼬미] 스타쉽이 엠넷이랑 화해를 한 모양입니다.]]></title>
-        <id>https://ppt21.com/spoent/65522?category=2</id>
-        <link href="https://ppt21.com/spoent/65522?category=2"/>
-        <updated>2022-01-11T06:21:16.438Z</updated>
-        <content type="html"><![CDATA[Bronx Bombers]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 스파이더맨 노웨이홈 15억불 돌파 역대 8위]]></title>
-        <id>https://ppt21.com/spoent/65520?category=2</id>
-        <link href="https://ppt21.com/spoent/65520?category=2"/>
-        <updated>2022-01-11T05:16:52.330Z</updated>
-        <content type="html"><![CDATA[카트만두에서만두]]></content>
     </entry>
 </feed>
