@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-13T05:18:10.658Z</updated>
+    <updated>2022-01-13T06:20:57.091Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 15년만의 Tell me]]></title>
+        <id>https://ppt21.com/spoent/65560?category=2</id>
+        <link href="https://ppt21.com/spoent/65560?category=2"/>
+        <updated>2022-01-13T06:20:44.826Z</updated>
+        <content type="html"><![CDATA[어강됴리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 지난주 골든디스크 걸그룹 무대 모음 (+길치 아이유)]]></title>
+        <id>https://ppt21.com/spoent/65559?category=2</id>
+        <link href="https://ppt21.com/spoent/65559?category=2"/>
+        <updated>2022-01-13T06:20:44.831Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 넷플릭스 '종말의 바보' 캐스팅 완료]]></title>
         <id>https://ppt21.com/spoent/65552?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/65527?category=2"/>
         <updated>2022-01-11T11:14:37.424Z</updated>
         <content type="html"><![CDATA[insane]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 태연 1/17 정규3집 선공개 'Can’t Control Myself’ 발매]]></title>
-        <id>https://ppt21.com/spoent/65526?category=2</id>
-        <link href="https://ppt21.com/spoent/65526?category=2"/>
-        <updated>2022-01-11T11:14:37.424Z</updated>
-        <content type="html"><![CDATA[KIMTAEYEON]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 이번 설연휴엔 송가인이군요]]></title>
-        <id>https://ppt21.com/spoent/65524?category=2</id>
-        <link href="https://ppt21.com/spoent/65524?category=2"/>
-        <updated>2022-01-11T08:20:44.834Z</updated>
-        <content type="html"><![CDATA[강가딘]]></content>
     </entry>
 </feed>
