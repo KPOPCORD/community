@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2022-01-13T02:14:49.916Z</updated>
+    <updated>2022-01-13T03:19:25.421Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[AB6IX 박우진 이대휘, 우진이 본가 강아지들과 부산 여행 예능 🐶어바웃펫 하울링캠프 EP.6 마지막회🐶]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2310757177</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2310757177"/>
+        <updated>2022-01-13T03:19:24.616Z</updated>
+        <content type="html"><![CDATA[301009]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AB6IX (에이비식스) SPECIAL ALBUM 'COMPLETE WITH YOU' OFFICIAL PREVIEW]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2310756247</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2310756247"/>
+        <updated>2022-01-13T03:19:24.617Z</updated>
+        <content type="html"><![CDATA[301008]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[올해 데뷔한 걸그룹 막내이지만 걸그룹 대선배격인 멤버]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2310703111</id>
@@ -130,19 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2310221508"/>
         <updated>2022-01-12T13:25:39.642Z</updated>
         <content type="html"><![CDATA[300990]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[씨아이엑스 현석 트위터 업뎃❤️ (동생이랑)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2310185707</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2310185707"/>
-        <updated>2022-01-12T12:28:09.807Z</updated>
-        <content type="html"><![CDATA[300989]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[fromis_9 (프로미스나인) '9_log' (하영 & 나경)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2310155703</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2310155703"/>
-        <updated>2022-01-12T12:28:09.810Z</updated>
-        <content type="html"><![CDATA[300988]]></content>
     </entry>
 </feed>
