@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2022-01-13T12:28:14.461Z</updated>
+    <updated>2022-01-13T13:25:52.313Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[투바투 휴닝카이 Concept Photo 3: Boys of destiny]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2311406502</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2311406502"/>
+        <updated>2022-01-13T13:25:51.579Z</updated>
+        <content type="html"><![CDATA[301008]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엔하이픈(ENHYPEN)_Blessed-Cursed | 1theKILLPO | 원더킬포 | 킬포인트 | Performance | 4K |]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2311282816</id>
@@ -137,12 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2310757177"/>
         <updated>2022-01-13T03:19:24.616Z</updated>
         <content type="html"><![CDATA[300989]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AB6IX (에이비식스) SPECIAL ALBUM 'COMPLETE WITH YOU' OFFICIAL PREVIEW]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2310756247</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2310756247"/>
-        <updated>2022-01-13T03:19:24.617Z</updated>
-        <content type="html"><![CDATA[300988]]></content>
     </entry>
 </feed>
