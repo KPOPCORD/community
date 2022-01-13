@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-13T14:16:03.077Z</updated>
+    <updated>2022-01-13T15:18:00.306Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] Kep1er(케플러), 데뷔 10일만에 첫 음방 1위 (+앵콜 직캠)]]></title>
+        <id>https://ppt21.com/spoent/65568?category=2</id>
+        <link href="https://ppt21.com/spoent/65568?category=2"/>
+        <updated>2022-01-13T15:17:48.484Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 지난주 런닝맨 오프닝 토크와 뜬금없이 떠오른 이야기]]></title>
+        <id>https://ppt21.com/spoent/65567?category=2</id>
+        <link href="https://ppt21.com/spoent/65567?category=2"/>
+        <updated>2022-01-13T15:17:48.484Z</updated>
+        <content type="html"><![CDATA[A1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 15년만의 Tell me]]></title>
         <id>https://ppt21.com/spoent/65560?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/65529?category=2"/>
         <updated>2022-01-11T12:27:18.017Z</updated>
         <content type="html"><![CDATA[Croove]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 최예나 - SMILEY MV Teaser (Dance Ver.)]]></title>
-        <id>https://ppt21.com/spoent/65528?category=2</id>
-        <link href="https://ppt21.com/spoent/65528?category=2"/>
-        <updated>2022-01-11T11:14:37.424Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 싱어게인2 어제 제일 좋았던 무대.mp4]]></title>
-        <id>https://ppt21.com/spoent/65527?category=2</id>
-        <link href="https://ppt21.com/spoent/65527?category=2"/>
-        <updated>2022-01-11T11:14:37.424Z</updated>
-        <content type="html"><![CDATA[insane]]></content>
     </entry>
 </feed>
