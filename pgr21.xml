@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-14T09:17:59.544Z</updated>
+    <updated>2022-01-14T10:19:28.042Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] ???: 나중에 결혼하면 체육관을 차려야겠어]]></title>
+        <id>https://ppt21.com/spoent/65576?category=2</id>
+        <link href="https://ppt21.com/spoent/65576?category=2"/>
+        <updated>2022-01-14T10:18:58.503Z</updated>
+        <content type="html"><![CDATA[A1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 모모랜드 & 나티 나타샤 'Yummy Yummy Love' M/V]]></title>
         <id>https://ppt21.com/spoent/65574?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65532?category=2"/>
         <updated>2022-01-11T16:26:46.268Z</updated>
         <content type="html"><![CDATA[메자이의 학점약탈자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [아이브] 아마존뮤직 퍼포먼스 비디오 + 인기가요 페이스캠]]></title>
-        <id>https://ppt21.com/spoent/65531?category=2</id>
-        <link href="https://ppt21.com/spoent/65531?category=2"/>
-        <updated>2022-01-11T15:18:09.372Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
