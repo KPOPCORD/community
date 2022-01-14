@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-13T23:17:46.022Z</updated>
+    <updated>2022-01-14T00:59:32.664Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[연예] Kep1er(케플러), 데뷔 10일만에 첫 음방 1위 (+앵콜 직캠) (Pgr21 ─ 연예)]]></title>
@@ -138,6 +138,20 @@
         <content type="html"><![CDATA[Croove]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[빅톤 3rd Single Album [Chronograph] 단체 컨포 - VICTON #Graphein (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2311770237</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2311770237"/>
+        <updated>2022-01-14T00:59:31.906Z</updated>
+        <content type="html"><![CDATA[301023]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엔하이픈 정원 위버스💙 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2311736193</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2311736193"/>
+        <updated>2022-01-14T00:59:31.912Z</updated>
+        <content type="html"><![CDATA[301022]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[리더와 막내가 9살차이나는 걸그룹 (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2311658628</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2311658628"/>
@@ -262,19 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2311247094"/>
         <updated>2022-01-13T11:14:48.330Z</updated>
         <content type="html"><![CDATA[301004]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[MPD직캠] 엔하이픈 BLESSED_CURSED 단체, 개인 @Mcountdown 220113 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2311231549</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2311231549"/>
-        <updated>2022-01-13T11:14:48.332Z</updated>
-        <content type="html"><![CDATA[301003]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다음주 엠카운트다운 갓세븐 뱀뱀 NEXT WEEK (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2311229198</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2311229198"/>
-        <updated>2022-01-13T11:14:48.334Z</updated>
-        <content type="html"><![CDATA[301002]]></content>
     </entry>
 </feed>
