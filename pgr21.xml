@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-14T10:19:28.042Z</updated>
+    <updated>2022-01-14T11:14:48.098Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 오늘자 뮤직뱅크 <모모랜드, 케플러, 우주소녀 쪼꼬미, 효린> 무대영상]]></title>
+        <id>https://ppt21.com/spoent/65578?category=2</id>
+        <link href="https://ppt21.com/spoent/65578?category=2"/>
+        <updated>2022-01-14T11:14:23.297Z</updated>
+        <content type="html"><![CDATA[아롱이다롱이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 신인걸그룹 <Kep1er> 케플러, 뮤직뱅크 1위]]></title>
+        <id>https://ppt21.com/spoent/65577?category=2</id>
+        <link href="https://ppt21.com/spoent/65577?category=2"/>
+        <updated>2022-01-14T11:14:23.298Z</updated>
+        <content type="html"><![CDATA[아롱이다롱이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] ???: 나중에 결혼하면 체육관을 차려야겠어]]></title>
         <id>https://ppt21.com/spoent/65576?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/65538?category=2"/>
         <updated>2022-01-12T04:22:15.669Z</updated>
         <content type="html"><![CDATA[Croove]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 10년간 음반판매 1백만장 넘는 가수.gisa]]></title>
-        <id>https://ppt21.com/spoent/65534?category=2</id>
-        <link href="https://ppt21.com/spoent/65534?category=2"/>
-        <updated>2022-01-11T16:26:46.267Z</updated>
-        <content type="html"><![CDATA[VictoryFood]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [TEASER] 유주(YUJU) - 놀이(Play) M/V #1]]></title>
-        <id>https://ppt21.com/spoent/65532?category=2</id>
-        <link href="https://ppt21.com/spoent/65532?category=2"/>
-        <updated>2022-01-11T16:26:46.268Z</updated>
-        <content type="html"><![CDATA[메자이의 학점약탈자]]></content>
     </entry>
 </feed>
