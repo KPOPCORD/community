@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-14T11:14:48.098Z</updated>
+    <updated>2022-01-14T12:28:07.456Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 케플러 데뷔 후 첫 지상파 1위 앵콜 직캠]]></title>
+        <id>https://ppt21.com/spoent/65579?category=2</id>
+        <link href="https://ppt21.com/spoent/65579?category=2"/>
+        <updated>2022-01-14T12:27:57.629Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 오늘자 뮤직뱅크 <모모랜드, 케플러, 우주소녀 쪼꼬미, 효린> 무대영상]]></title>
         <id>https://ppt21.com/spoent/65578?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65539?category=2"/>
         <updated>2022-01-12T05:17:11.170Z</updated>
         <content type="html"><![CDATA[어강됴리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 연도별 걸그룹(feat.솔로) MV 조회수 top 3]]></title>
-        <id>https://ppt21.com/spoent/65538?category=2</id>
-        <link href="https://ppt21.com/spoent/65538?category=2"/>
-        <updated>2022-01-12T04:22:15.669Z</updated>
-        <content type="html"><![CDATA[Croove]]></content>
     </entry>
 </feed>
