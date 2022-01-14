@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-14T03:19:02.287Z</updated>
+    <updated>2022-01-14T04:22:35.199Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 모모랜드 & 나티 나타샤 'Yummy Yummy Love' M/V]]></title>
+        <id>https://ppt21.com/spoent/65574?category=2</id>
+        <link href="https://ppt21.com/spoent/65574?category=2"/>
+        <updated>2022-01-14T04:22:23.541Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] <지금 우리 학교는> 공식예고편 및 포스터]]></title>
         <id>https://ppt21.com/spoent/65572?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65531?category=2"/>
         <updated>2022-01-11T15:18:09.372Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 사람들이 정말 잘 모르는 유동근 주연 드라마]]></title>
-        <id>https://ppt21.com/spoent/65530?category=2</id>
-        <link href="https://ppt21.com/spoent/65530?category=2"/>
-        <updated>2022-01-11T12:27:18.009Z</updated>
-        <content type="html"><![CDATA[드라고나]]></content>
     </entry>
 </feed>
