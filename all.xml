@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-14T05:17:44.456Z</updated>
+    <updated>2022-01-14T06:20:52.286Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[연예] 모모랜드 & 나티 나타샤 'Yummy Yummy Love' M/V (Pgr21 ─ 연예)]]></title>
@@ -138,6 +138,20 @@
         <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[플리캠 가로 세로 4K] KIM YOHAN 'DESSERT' (김요한 직캠) (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2312055462</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2312055462"/>
+        <updated>2022-01-14T06:20:51.597Z</updated>
+        <content type="html"><![CDATA[301024]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독] 여자친구 출신 비비지, 2월 데뷔 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2312039315</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2312039315"/>
+        <updated>2022-01-14T06:20:51.605Z</updated>
+        <content type="html"><![CDATA[301023]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[제니 ELLE 2월호 6종커버 (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2312013752</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2312013752"/>
@@ -262,19 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2311436574"/>
         <updated>2022-01-13T14:16:02.411Z</updated>
         <content type="html"><![CDATA[301005]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[투바투 휴닝카이 Concept Photo 3: Boys of destiny (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2311406502</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2311406502"/>
-        <updated>2022-01-13T13:25:51.579Z</updated>
-        <content type="html"><![CDATA[301004]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔하이픈(ENHYPEN)_Blessed-Cursed | 1theKILLPO | 원더킬포 | 킬포인트 | Performance | 4K | (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2311282816</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2311282816"/>
-        <updated>2022-01-13T12:28:13.713Z</updated>
-        <content type="html"><![CDATA[301003]]></content>
     </entry>
 </feed>
