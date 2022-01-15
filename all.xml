@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-15T12:26:56.585Z</updated>
+    <updated>2022-01-15T13:23:50.672Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[연예] 자신이 불렀던 이누야샤 OST 'Grip!'을 언급한 서현진 (Pgr21 ─ 연예)]]></title>
@@ -138,6 +138,27 @@
         <content type="html"><![CDATA[강가딘]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[방탄 인스타 진(제이홉 댓글) (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2313488701</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2313488701"/>
+        <updated>2022-01-15T13:23:49.912Z</updated>
+        <content type="html"><![CDATA[301070]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[아이돌 인간극장 - 엔하이픈 편] 새해 덕담하다가 자존심을 건 배틀 시작🔥 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2313485837</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2313485837"/>
+        <updated>2022-01-15T13:23:49.914Z</updated>
+        <content type="html"><![CDATA[301069]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[씨아이엑스 승훈 트위터 업뎃💛 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2313478288</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2313478288"/>
+        <updated>2022-01-15T13:23:49.916Z</updated>
+        <content type="html"><![CDATA[301068]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[김민주 인스타업뎃 (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2313460940</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2313460940"/>
@@ -255,26 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2312955140"/>
         <updated>2022-01-15T03:19:36.597Z</updated>
         <content type="html"><![CDATA[301051]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔하이픈 정원 멤트❣️ (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2312939411</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2312939411"/>
-        <updated>2022-01-15T03:19:36.602Z</updated>
-        <content type="html"><![CDATA[301050]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[선공개] 그는 좋은 토끼였습니다...⭐️ 확실하게 끝을 보는(?) 토끼 사냥꾼 박지훈🐰 | #토닥리즘 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2312875481</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2312875481"/>
-        <updated>2022-01-15T02:11:00.175Z</updated>
-        <content type="html"><![CDATA[301049]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일본방송에 나온 이대휘 영통 팬싸 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2312870260</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2312870260"/>
-        <updated>2022-01-15T02:11:00.182Z</updated>
-        <content type="html"><![CDATA[301048]]></content>
     </entry>
 </feed>
