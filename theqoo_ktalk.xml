@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2022-01-15T13:23:50.669Z</updated>
+    <updated>2022-01-15T14:15:18.353Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[고스트나인의 미니게임 #1│던져던져! 정답을 던져봐 🔊🎧]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2313587145</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2313587145"/>
+        <updated>2022-01-15T14:15:17.576Z</updated>
+        <content type="html"><![CDATA[301073]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[용희 프메💚]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2313576099</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2313576099"/>
+        <updated>2022-01-15T14:15:17.576Z</updated>
+        <content type="html"><![CDATA[301072]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[투바투 Concept Photo 4: Five boys]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2313553541</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2313553541"/>
+        <updated>2022-01-15T14:15:17.576Z</updated>
+        <content type="html"><![CDATA[301071]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[방탄 인스타 진(제이홉 댓글)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2313488701</id>
@@ -123,26 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2313038461"/>
         <updated>2022-01-15T05:17:30.560Z</updated>
         <content type="html"><![CDATA[301054]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비투비 키스더라디오 다람쥐 특집 게스트🐿]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2313037243</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2313037243"/>
-        <updated>2022-01-15T05:17:30.570Z</updated>
-        <content type="html"><![CDATA[301053]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[입덕직캠] 엔하이픈 직캠 4K Blessed-Cursed]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2312968011</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2312968011"/>
-        <updated>2022-01-15T04:23:07.937Z</updated>
-        <content type="html"><![CDATA[301052]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔하이픈 ‘Blessed-Cursed’ Dance Practice]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2312955140</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2312955140"/>
-        <updated>2022-01-15T03:19:36.597Z</updated>
-        <content type="html"><![CDATA[301051]]></content>
     </entry>
 </feed>

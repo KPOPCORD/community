@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-15T13:23:50.666Z</updated>
+    <updated>2022-01-15T14:15:18.350Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [맘마미안] 희대의 불효자 딘딘]]></title>
+        <id>https://ppt21.com/spoent/65595?category=2</id>
+        <link href="https://ppt21.com/spoent/65595?category=2"/>
+        <updated>2022-01-15T14:15:08.283Z</updated>
+        <content type="html"><![CDATA[Croove]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 자신이 불렀던 이누야샤 OST 'Grip!'을 언급한 서현진]]></title>
         <id>https://ppt21.com/spoent/65589?category=2</id>
@@ -129,13 +136,6 @@
         <id>https://ppt21.com/spoent/65547?category=2</id>
         <link href="https://ppt21.com/spoent/65547?category=2"/>
         <updated>2022-01-12T10:19:07.984Z</updated>
-        <content type="html"><![CDATA[강가딘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 런닝맨 식구들이 보고 놀랐다는 드라마 속 전소민]]></title>
-        <id>https://ppt21.com/spoent/65545?category=2</id>
-        <link href="https://ppt21.com/spoent/65545?category=2"/>
-        <updated>2022-01-12T07:17:22.988Z</updated>
         <content type="html"><![CDATA[강가딘]]></content>
     </entry>
 </feed>
