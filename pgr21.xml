@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-16T10:18:43.783Z</updated>
+    <updated>2022-01-16T11:14:00.592Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 개승자 1:1 데스매치 영상들]]></title>
+        <id>https://ppt21.com/spoent/65611?category=2</id>
+        <link href="https://ppt21.com/spoent/65611?category=2"/>
+        <updated>2022-01-16T11:13:49.533Z</updated>
+        <content type="html"><![CDATA[빼사스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 2022년 1월 3주 D-차트 : 아이유 1위! 케플러 2위-갓더비트 9위 진입]]></title>
+        <id>https://ppt21.com/spoent/65610?category=2</id>
+        <link href="https://ppt21.com/spoent/65610?category=2"/>
+        <updated>2022-01-16T11:13:49.533Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 39살 아들에게 결혼하라고 재촉 일절 안하겠다는 기안 84 어머니.jpg]]></title>
+        <id>https://ppt21.com/spoent/65608?category=2</id>
+        <link href="https://ppt21.com/spoent/65608?category=2"/>
+        <updated>2022-01-16T11:13:49.533Z</updated>
+        <content type="html"><![CDATA[insane]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 드레이크, 핫소스 때문에 소송당할 위기]]></title>
         <id>https://ppt21.com/spoent/65607?category=2</id>
@@ -116,26 +137,5 @@
         <link href="https://ppt21.com/spoent/65567?category=2"/>
         <updated>2022-01-13T15:17:48.484Z</updated>
         <content type="html"><![CDATA[A1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 15년만의 Tell me]]></title>
-        <id>https://ppt21.com/spoent/65560?category=2</id>
-        <link href="https://ppt21.com/spoent/65560?category=2"/>
-        <updated>2022-01-13T06:20:44.826Z</updated>
-        <content type="html"><![CDATA[어강됴리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 지난주 골든디스크 걸그룹 무대 모음 (+길치 아이유.gfy)]]></title>
-        <id>https://ppt21.com/spoent/65559?category=2</id>
-        <link href="https://ppt21.com/spoent/65559?category=2"/>
-        <updated>2022-01-13T06:20:44.831Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 넷플릭스 '종말의 바보' 캐스팅 완료]]></title>
-        <id>https://ppt21.com/spoent/65552?category=2</id>
-        <link href="https://ppt21.com/spoent/65552?category=2"/>
-        <updated>2022-01-13T00:59:59.807Z</updated>
-        <content type="html"><![CDATA[카트만두에서만두]]></content>
     </entry>
 </feed>
