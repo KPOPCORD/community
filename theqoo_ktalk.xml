@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2022-01-16T11:14:00.598Z</updated>
+    <updated>2022-01-16T12:26:52.122Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[방탄 제이홉 인스스 업뎃 (feat. 쫜 딸기🍓)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2314547679</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2314547679"/>
+        <updated>2022-01-16T12:26:51.249Z</updated>
+        <content type="html"><![CDATA[301086]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 Weverse Con ‘Frost’ 휴닝카이 SOLO Dance Practice]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2314461132</id>
@@ -104,7 +111,7 @@
         <content type="html"><![CDATA[301072]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[케톡배 수록곡 총선 투표 리스트 가나다순 정리 (최근 수정: 1/16 7:50pm)]]></title>
+        <title type="html"><![CDATA[케톡배 수록곡 총선 투표 리스트 가나다순 정리 (최근 수정: 1/16 9pm)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2313877655</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2313877655"/>
         <updated>2022-01-15T19:13:45.337Z</updated>
@@ -137,12 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2313688346"/>
         <updated>2022-01-15T15:17:46.469Z</updated>
         <content type="html"><![CDATA[301067]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ENHYPEN (엔하이픈) 'Blessed-Cursed' Official MV (Choreography ver.)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2313686878</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2313686878"/>
-        <updated>2022-01-15T15:17:46.469Z</updated>
-        <content type="html"><![CDATA[301066]]></content>
     </entry>
 </feed>

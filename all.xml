@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-16T11:14:00.600Z</updated>
+    <updated>2022-01-16T12:26:52.124Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] 신인걸그룹 "IVE 아이브" 이번주 음악중심, 인기가요 1위 9관왕 달성 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/65613?category=2</id>
+        <link href="https://ppt21.com/spoent/65613?category=2"/>
+        <updated>2022-01-16T12:26:37.969Z</updated>
+        <content type="html"><![CDATA[아롱이다롱이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 드라마에서도  느끼한 쪼로 노래하는 전소민 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/65612?category=2</id>
+        <link href="https://ppt21.com/spoent/65612?category=2"/>
+        <updated>2022-01-16T12:26:37.969Z</updated>
+        <content type="html"><![CDATA[강가딘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 개승자 1:1 데스매치 영상들 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/65611?category=2</id>
@@ -124,18 +138,11 @@
         <content type="html"><![CDATA[빼사스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[연예] Kep1er(케플러), 데뷔 10일만에 첫 음방 1위 (+앵콜 직캠) (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/65568?category=2</id>
-        <link href="https://ppt21.com/spoent/65568?category=2"/>
-        <updated>2022-01-13T15:17:48.484Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 지난주 런닝맨 오프닝 토크와 뜬금없이 떠오른 이야기 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/65567?category=2</id>
-        <link href="https://ppt21.com/spoent/65567?category=2"/>
-        <updated>2022-01-13T15:17:48.484Z</updated>
-        <content type="html"><![CDATA[A1]]></content>
+        <title type="html"><![CDATA[방탄 제이홉 인스스 업뎃 (feat. 쫜 딸기🍓) (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2314547679</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2314547679"/>
+        <updated>2022-01-16T12:26:51.249Z</updated>
+        <content type="html"><![CDATA[301086]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022 Weverse Con ‘Frost’ 휴닝카이 SOLO Dance Practice (더쿠 ─ 케이돌토크)]]></title>
@@ -236,7 +243,7 @@
         <content type="html"><![CDATA[301072]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[케톡배 수록곡 총선 투표 리스트 가나다순 정리 (최근 수정: 1/16 7:50pm) (더쿠 ─ 케이돌토크)]]></title>
+        <title type="html"><![CDATA[케톡배 수록곡 총선 투표 리스트 가나다순 정리 (최근 수정: 1/16 9pm) (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2313877655</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2313877655"/>
         <updated>2022-01-15T19:13:45.337Z</updated>
@@ -269,12 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2313688346"/>
         <updated>2022-01-15T15:17:46.469Z</updated>
         <content type="html"><![CDATA[301067]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ENHYPEN (엔하이픈) 'Blessed-Cursed' Official MV (Choreography ver.) (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2313686878</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2313686878"/>
-        <updated>2022-01-15T15:17:46.469Z</updated>
-        <content type="html"><![CDATA[301066]]></content>
     </entry>
 </feed>
