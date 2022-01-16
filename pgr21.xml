@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-15T23:16:48.007Z</updated>
+    <updated>2022-01-16T01:02:11.629Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [피의게임][선방영 11화스포] 자 이제 최종화만 남았습니다.]]></title>
+        <id>https://ppt21.com/spoent/65603?category=2</id>
+        <link href="https://ppt21.com/spoent/65603?category=2"/>
+        <updated>2022-01-16T01:02:01.575Z</updated>
+        <content type="html"><![CDATA[탈리스만]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [태종이방원]11화. 명으로 떠나게 된 이방원]]></title>
         <id>https://ppt21.com/spoent/65598?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65551?category=2"/>
         <updated>2022-01-13T00:59:59.808Z</updated>
         <content type="html"><![CDATA[카트만두에서만두]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 오징어 게임, SAG 어워즈 4개 부분 노미네이트]]></title>
-        <id>https://ppt21.com/spoent/65549?category=2</id>
-        <link href="https://ppt21.com/spoent/65549?category=2"/>
-        <updated>2022-01-12T16:27:27.312Z</updated>
-        <content type="html"><![CDATA[인사이더]]></content>
     </entry>
 </feed>
