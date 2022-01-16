@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-16T09:16:54.516Z</updated>
+    <updated>2022-01-16T10:18:43.783Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 드레이크, 핫소스 때문에 소송당할 위기]]></title>
+        <id>https://ppt21.com/spoent/65607?category=2</id>
+        <link href="https://ppt21.com/spoent/65607?category=2"/>
+        <updated>2022-01-16T10:18:26.061Z</updated>
+        <content type="html"><![CDATA[파랑파랑]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [피의게임][선방영 11화스포] 자 이제 최종화만 남았습니다.]]></title>
         <id>https://ppt21.com/spoent/65603?category=2</id>
@@ -129,13 +136,6 @@
         <id>https://ppt21.com/spoent/65552?category=2</id>
         <link href="https://ppt21.com/spoent/65552?category=2"/>
         <updated>2022-01-13T00:59:59.807Z</updated>
-        <content type="html"><![CDATA[카트만두에서만두]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 넷플릭스 1월 첫주차 공식 시청시간]]></title>
-        <id>https://ppt21.com/spoent/65551?category=2</id>
-        <link href="https://ppt21.com/spoent/65551?category=2"/>
-        <updated>2022-01-13T00:59:59.808Z</updated>
         <content type="html"><![CDATA[카트만두에서만두]]></content>
     </entry>
 </feed>
