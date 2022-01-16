@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2022-01-16T07:16:18.266Z</updated>
+    <updated>2022-01-16T08:20:55.334Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[🎥] 엡식 박우진 개인자컨 MADE BY JJACK (메이드바이짹) - EP.12 오후의 남자 박우진, 힐링 타임 만들어 봤짹! 🐦🎣]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2314294486</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2314294486"/>
+        <updated>2022-01-16T08:20:54.496Z</updated>
+        <content type="html"><![CDATA[301076]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오랜만에 음중 왕국에 행차해 주신 스노우 프린스 찬희 왕자님과 함께해 더 행복했던 고품격 뮤직 코어! 차니 왕자님~ 언제든지 놀러 오세요♥️ -정우(🐶/첫째왕자), 민주(🦊/막내공주)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2314152846</id>
@@ -34,7 +41,7 @@
         <content type="html"><![CDATA[301072]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[케톡배 수록곡 총선 투표 리스트 가나다순 정리 (최근 수정: 1/16 4pm)]]></title>
+        <title type="html"><![CDATA[케톡배 수록곡 총선 투표 리스트 가나다순 정리 (최근 수정: 1/16 5:05pm)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2313877655</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2313877655"/>
         <updated>2022-01-15T19:13:45.337Z</updated>
@@ -137,12 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2313460940"/>
         <updated>2022-01-15T12:26:55.860Z</updated>
         <content type="html"><![CDATA[301057]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[케톡배 수록곡 총선 총대 인사드릴게용 ( ´͈ ᵕ `͈ )◞♡]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2313404702</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2313404702"/>
-        <updated>2022-01-16T07:16:17.620Z</updated>
-        <content type="html"><![CDATA[301056]]></content>
     </entry>
 </feed>
