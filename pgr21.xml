@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-16T15:17:19.904Z</updated>
+    <updated>2022-01-16T16:25:45.057Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [태종이방원] 소생 하륜이옵니다.gfy]]></title>
+        <id>https://ppt21.com/spoent/65620?category=2</id>
+        <link href="https://ppt21.com/spoent/65620?category=2"/>
+        <updated>2022-01-16T16:25:12.896Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] [태종이방원]이숙번의 등장]]></title>
+        <id>https://ppt21.com/spoent/65619?category=2</id>
+        <link href="https://ppt21.com/spoent/65619?category=2"/>
+        <updated>2022-01-16T16:25:12.905Z</updated>
+        <content type="html"><![CDATA[카루오스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] (이방원) 아픈 엄마 앞에서 동생 돌보기 다짐하는 형]]></title>
         <id>https://ppt21.com/spoent/65617?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/65577?category=2"/>
         <updated>2022-01-14T11:14:23.298Z</updated>
         <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] ???: 나중에 결혼하면 체육관을 차려야겠어]]></title>
-        <id>https://ppt21.com/spoent/65576?category=2</id>
-        <link href="https://ppt21.com/spoent/65576?category=2"/>
-        <updated>2022-01-14T10:18:58.503Z</updated>
-        <content type="html"><![CDATA[A1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 모모랜드 & 나티 나타샤 'Yummy Yummy Love' M/V]]></title>
-        <id>https://ppt21.com/spoent/65574?category=2</id>
-        <link href="https://ppt21.com/spoent/65574?category=2"/>
-        <updated>2022-01-14T04:22:23.541Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
