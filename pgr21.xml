@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-17T15:18:01.474Z</updated>
+    <updated>2022-01-17T16:26:55.835Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 엄마는 아이돌ver - "Next Level" 라이브 무대]]></title>
+        <id>https://ppt21.com/spoent/65639?category=2</id>
+        <link href="https://ppt21.com/spoent/65639?category=2"/>
+        <updated>2022-01-17T16:26:45.397Z</updated>
+        <content type="html"><![CDATA[아롱이다롱이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] '위아래'와 '롤린' 사이에 '오늘부터 우리는'이 있었다.]]></title>
         <id>https://ppt21.com/spoent/65638?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65607?category=2"/>
         <updated>2022-01-16T10:18:26.061Z</updated>
         <content type="html"><![CDATA[파랑파랑]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [피의게임][선방영 11화스포] 자 이제 최종화만 남았습니다.]]></title>
-        <id>https://ppt21.com/spoent/65603?category=2</id>
-        <link href="https://ppt21.com/spoent/65603?category=2"/>
-        <updated>2022-01-16T01:02:01.575Z</updated>
-        <content type="html"><![CDATA[탈리스만]]></content>
     </entry>
 </feed>
