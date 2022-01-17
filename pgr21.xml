@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-17T07:17:03.625Z</updated>
+    <updated>2022-01-17T08:22:07.356Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [런닝맨] 새해 목표를 이룬 하하 & PD 임신시키는 송지효 & 전소민 흑역사]]></title>
+        <id>https://ppt21.com/spoent/65630?category=2</id>
+        <link href="https://ppt21.com/spoent/65630?category=2"/>
+        <updated>2022-01-17T08:21:57.501Z</updated>
+        <content type="html"><![CDATA[A1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [유퀴즈] 이정재님 출연분 (???: 전우야!)]]></title>
         <id>https://ppt21.com/spoent/65628?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65584?category=2"/>
         <updated>2022-01-14T16:23:42.798Z</updated>
         <content type="html"><![CDATA[style]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 케플러 데뷔 후 첫 지상파 1위 앵콜 직캠]]></title>
-        <id>https://ppt21.com/spoent/65579?category=2</id>
-        <link href="https://ppt21.com/spoent/65579?category=2"/>
-        <updated>2022-01-14T12:27:57.629Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
