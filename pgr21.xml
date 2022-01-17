@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-17T14:16:37.905Z</updated>
+    <updated>2022-01-17T15:18:01.474Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] '위아래'와 '롤린' 사이에 '오늘부터 우리는'이 있었다.]]></title>
+        <id>https://ppt21.com/spoent/65638?category=2</id>
+        <link href="https://ppt21.com/spoent/65638?category=2"/>
+        <updated>2022-01-17T15:17:48.796Z</updated>
+        <content type="html"><![CDATA[Zelazny]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 2022년 올해 데뷔 예정인 걸그룹 정리]]></title>
+        <id>https://ppt21.com/spoent/65637?category=2</id>
+        <link href="https://ppt21.com/spoent/65637?category=2"/>
+        <updated>2022-01-17T15:17:48.796Z</updated>
+        <content type="html"><![CDATA[아롱이다롱이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 데뷔 예정인 미야와키 사쿠라가 포함된 걸그룹의 비공개 멤버 사진?]]></title>
         <id>https://ppt21.com/spoent/65636?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/65603?category=2"/>
         <updated>2022-01-16T01:02:01.575Z</updated>
         <content type="html"><![CDATA[탈리스만]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [태종이방원]11화. 명으로 떠나게 된 이방원]]></title>
-        <id>https://ppt21.com/spoent/65598?category=2</id>
-        <link href="https://ppt21.com/spoent/65598?category=2"/>
-        <updated>2022-01-15T16:25:16.760Z</updated>
-        <content type="html"><![CDATA[카루오스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [맘마미안] 희대의 불효자 딘딘]]></title>
-        <id>https://ppt21.com/spoent/65595?category=2</id>
-        <link href="https://ppt21.com/spoent/65595?category=2"/>
-        <updated>2022-01-15T14:15:08.283Z</updated>
-        <content type="html"><![CDATA[Croove]]></content>
     </entry>
 </feed>
