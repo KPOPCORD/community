@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-17T08:22:07.356Z</updated>
+    <updated>2022-01-17T09:18:20.125Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 태연 'Can't Control Myself' M/V]]></title>
+        <id>https://ppt21.com/spoent/65633?category=2</id>
+        <link href="https://ppt21.com/spoent/65633?category=2"/>
+        <updated>2022-01-17T09:18:09.073Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 프로미스나인 'DM' M/V]]></title>
+        <id>https://ppt21.com/spoent/65632?category=2</id>
+        <link href="https://ppt21.com/spoent/65632?category=2"/>
+        <updated>2022-01-17T09:18:09.074Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 최예나 'SMILEY' M/V]]></title>
+        <id>https://ppt21.com/spoent/65631?category=2</id>
+        <link href="https://ppt21.com/spoent/65631?category=2"/>
+        <updated>2022-01-17T09:18:09.074Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [런닝맨] 새해 목표를 이룬 하하 & PD 임신시키는 송지효 & 전소민 흑역사]]></title>
         <id>https://ppt21.com/spoent/65630?category=2</id>
@@ -116,26 +137,5 @@
         <link href="https://ppt21.com/spoent/65589?category=2"/>
         <updated>2022-01-15T09:17:08.202Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] SBS 드라마 악의 마음을 읽는 자들]]></title>
-        <id>https://ppt21.com/spoent/65588?category=2</id>
-        <link href="https://ppt21.com/spoent/65588?category=2"/>
-        <updated>2022-01-15T07:16:19.443Z</updated>
-        <content type="html"><![CDATA[KIMTAEYEON]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] Mixtape Medley Ariana Grande and Kelly Clarkson]]></title>
-        <id>https://ppt21.com/spoent/65587?category=2</id>
-        <link href="https://ppt21.com/spoent/65587?category=2"/>
-        <updated>2022-01-15T03:19:26.843Z</updated>
-        <content type="html"><![CDATA[바스테나]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 출장 십오야 이정재, 정우성 회사 2화]]></title>
-        <id>https://ppt21.com/spoent/65584?category=2</id>
-        <link href="https://ppt21.com/spoent/65584?category=2"/>
-        <updated>2022-01-14T16:23:42.798Z</updated>
-        <content type="html"><![CDATA[style]]></content>
     </entry>
 </feed>
