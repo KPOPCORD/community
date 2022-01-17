@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-17T12:28:31.313Z</updated>
+    <updated>2022-01-17T13:26:37.673Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 데뷔 예정인 미야와키 사쿠라가 포함된 걸그룹의 비공개 멤버 사진?]]></title>
+        <id>https://ppt21.com/spoent/65636?category=2</id>
+        <link href="https://ppt21.com/spoent/65636?category=2"/>
+        <updated>2022-01-17T13:26:27.926Z</updated>
+        <content type="html"><![CDATA[아롱이다롱이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 태연 'Can't Control Myself' M/V]]></title>
         <id>https://ppt21.com/spoent/65633?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65595?category=2"/>
         <updated>2022-01-15T14:15:08.283Z</updated>
         <content type="html"><![CDATA[Croove]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 자신이 불렀던 이누야샤 OST 'Grip!'을 언급한 서현진]]></title>
-        <id>https://ppt21.com/spoent/65589?category=2</id>
-        <link href="https://ppt21.com/spoent/65589?category=2"/>
-        <updated>2022-01-15T09:17:08.202Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
