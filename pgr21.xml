@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-18T00:59:29.518Z</updated>
+    <updated>2022-01-18T02:13:36.576Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 짝퉁’ 휘감은 논란의 송지아, 전참시 아는 형님 어쩌나]]></title>
+        <id>https://ppt21.com/spoent/65644?category=2</id>
+        <link href="https://ppt21.com/spoent/65644?category=2"/>
+        <updated>2022-01-18T02:13:20.197Z</updated>
+        <content type="html"><![CDATA[insane]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 28일 공개하는 넷플릭스 드라마 <지금 우리 학교는> 익무평]]></title>
+        <id>https://ppt21.com/spoent/65642?category=2</id>
+        <link href="https://ppt21.com/spoent/65642?category=2"/>
+        <updated>2022-01-18T02:13:20.199Z</updated>
+        <content type="html"><![CDATA[아롱이다롱이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 엄마는 아이돌ver - "Next Level" 라이브 무대]]></title>
         <id>https://ppt21.com/spoent/65639?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/65610?category=2"/>
         <updated>2022-01-16T11:13:49.533Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 39살 아들에게 결혼하라고 재촉 일절 안하겠다는 기안 84 어머니.jpg]]></title>
-        <id>https://ppt21.com/spoent/65608?category=2</id>
-        <link href="https://ppt21.com/spoent/65608?category=2"/>
-        <updated>2022-01-16T11:13:49.533Z</updated>
-        <content type="html"><![CDATA[insane]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 드레이크, 핫소스 때문에 소송당할 위기]]></title>
-        <id>https://ppt21.com/spoent/65607?category=2</id>
-        <link href="https://ppt21.com/spoent/65607?category=2"/>
-        <updated>2022-01-16T10:18:26.061Z</updated>
-        <content type="html"><![CDATA[파랑파랑]]></content>
     </entry>
 </feed>
