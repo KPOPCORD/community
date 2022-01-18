@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-18T05:18:40.768Z</updated>
+    <updated>2022-01-18T06:18:38.023Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[연예] 넷플릭스 드라마 <종이의 집: 공동경제구역> 넷플릭스 영화<모럴센스> 티저 (Pgr21 ─ 연예)]]></title>
@@ -138,6 +138,13 @@
         <content type="html"><![CDATA[빼사스]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[엔하이픈 정원 멤트❣️ (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2316381846</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2316381846"/>
+        <updated>2022-01-18T06:18:37.349Z</updated>
+        <content type="html"><![CDATA[301145]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[음방 엠씨 정리 (1/18 버전) (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2316281974</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2316281974"/>
@@ -269,12 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2315875127"/>
         <updated>2022-01-17T15:18:00.752Z</updated>
         <content type="html"><![CDATA[301126]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방탄 슈가 트윗 & 위버스 업뎃 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2315827275</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2315827275"/>
-        <updated>2022-01-17T15:18:00.752Z</updated>
-        <content type="html"><![CDATA[301125]]></content>
     </entry>
 </feed>

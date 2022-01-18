@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2022-01-18T05:18:40.797Z</updated>
+    <updated>2022-01-18T06:18:38.020Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[엔하이픈 정원 멤트❣️]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2316381846</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2316381846"/>
+        <updated>2022-01-18T06:18:37.349Z</updated>
+        <content type="html"><![CDATA[301145]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[음방 엠씨 정리 (1/18 버전)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2316281974</id>
@@ -137,12 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2315875127"/>
         <updated>2022-01-17T15:18:00.752Z</updated>
         <content type="html"><![CDATA[301126]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방탄 슈가 트윗 & 위버스 업뎃]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2315827275</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2315827275"/>
-        <updated>2022-01-17T15:18:00.752Z</updated>
-        <content type="html"><![CDATA[301125]]></content>
     </entry>
 </feed>
