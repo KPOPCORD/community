@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-18T22:21:03.839Z</updated>
+    <updated>2022-01-18T23:14:12.780Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [단독] 러블리즈 출신 케이, 기대작 '데스노트' 합류…뮤지컬 열일 행보]]></title>
+        <id>https://ppt21.com/spoent/65664?category=2</id>
+        <link href="https://ppt21.com/spoent/65664?category=2"/>
+        <updated>2022-01-18T23:13:57.370Z</updated>
+        <content type="html"><![CDATA[미원]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 최애 샐럽에게 생일 축하를 받는다면?]]></title>
         <id>https://ppt21.com/spoent/65661?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65625?category=2"/>
         <updated>2022-01-17T04:22:51.028Z</updated>
         <content type="html"><![CDATA[우주전쟁]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [태종이방원] 소생 하륜이옵니다.gfy]]></title>
-        <id>https://ppt21.com/spoent/65620?category=2</id>
-        <link href="https://ppt21.com/spoent/65620?category=2"/>
-        <updated>2022-01-16T16:25:12.896Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
