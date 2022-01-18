@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-18T07:17:10.445Z</updated>
+    <updated>2022-01-18T08:21:54.899Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] [태종이방원] 정태우 간만에 사극 등판 기념 그의 꼬꼬마시절 다시보기 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/65656?category=2</id>
+        <link href="https://ppt21.com/spoent/65656?category=2"/>
+        <updated>2022-01-18T08:21:38.226Z</updated>
+        <content type="html"><![CDATA[v.Serum]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 5인 완전체로 무대에 선 (여자)아이들 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/65654?category=2</id>
@@ -131,11 +138,18 @@
         <content type="html"><![CDATA[길갈]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[연예] 신인걸그룹 "IVE 아이브" 이번주 음악중심, 인기가요 1위 9관왕 달성 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/65613?category=2</id>
-        <link href="https://ppt21.com/spoent/65613?category=2"/>
-        <updated>2022-01-16T12:26:37.969Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
+        <title type="html"><![CDATA[OMEGA X(오메가엑스) 'LOVE ME LIKE' Official MV Performance Ver. (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2316566544</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2316566544"/>
+        <updated>2022-01-18T08:21:54.155Z</updated>
+        <content type="html"><![CDATA[301147]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“음악성 인정받길” 뱀뱀의 색으로 꽉 찬 ‘B’→갓세븐 컴백 예고까지 [종합] (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2316549671</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2316549671"/>
+        <updated>2022-01-18T08:21:54.173Z</updated>
+        <content type="html"><![CDATA[301146]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[박지훈 메이 3주년 기념 오후 7시 브이라이브 (더쿠 ─ 케이돌토크)]]></title>
@@ -262,19 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2315894249"/>
         <updated>2022-01-17T15:18:00.748Z</updated>
         <content type="html"><![CDATA[301128]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TREASURE(트레저) 'THE SECOND STEP : CHAPTER ONE' CONCEPT POSTER 현석 지훈 요시 준규 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2315890620</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2315890620"/>
-        <updated>2022-01-17T15:18:00.748Z</updated>
-        <content type="html"><![CDATA[301127]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[📽] 펜타곤 12th Mini Album [IN:VITE U] 'Feelin' Like' M/V Teaser 1 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2315876797</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2315876797"/>
-        <updated>2022-01-17T15:18:00.749Z</updated>
-        <content type="html"><![CDATA[301126]]></content>
     </entry>
 </feed>

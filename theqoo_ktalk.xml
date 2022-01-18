@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2022-01-18T07:17:10.357Z</updated>
+    <updated>2022-01-18T08:21:54.901Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[OMEGA X(오메가엑스) 'LOVE ME LIKE' Official MV Performance Ver.]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2316566544</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2316566544"/>
+        <updated>2022-01-18T08:21:54.155Z</updated>
+        <content type="html"><![CDATA[301147]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“음악성 인정받길” 뱀뱀의 색으로 꽉 찬 ‘B’→갓세븐 컴백 예고까지 [종합]]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2316549671</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2316549671"/>
+        <updated>2022-01-18T08:21:54.173Z</updated>
+        <content type="html"><![CDATA[301146]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박지훈 메이 3주년 기념 오후 7시 브이라이브]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2316496214</id>
@@ -130,19 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2315894249"/>
         <updated>2022-01-17T15:18:00.748Z</updated>
         <content type="html"><![CDATA[301128]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TREASURE(트레저) 'THE SECOND STEP : CHAPTER ONE' CONCEPT POSTER 현석 지훈 요시 준규]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2315890620</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2315890620"/>
-        <updated>2022-01-17T15:18:00.748Z</updated>
-        <content type="html"><![CDATA[301127]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[📽] 펜타곤 12th Mini Album [IN:VITE U] 'Feelin' Like' M/V Teaser 1]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2315876797</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2315876797"/>
-        <updated>2022-01-17T15:18:00.749Z</updated>
-        <content type="html"><![CDATA[301126]]></content>
     </entry>
 </feed>
