@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-19T03:15:57.189Z</updated>
+    <updated>2022-01-19T04:20:21.653Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] [맘마미안] (스포) ???: 너네 엄마한테 가라! (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/65668?category=2</id>
+        <link href="https://ppt21.com/spoent/65668?category=2"/>
+        <updated>2022-01-19T04:20:11.857Z</updated>
+        <content type="html"><![CDATA[A1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 2022년 넷플릭스 오리지널 신작 라인업 / tv 동시방영 라인업 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/65665?category=2</id>
@@ -131,24 +138,10 @@
         <content type="html"><![CDATA[A1]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[연예] [유퀴즈] 이정재님 출연분 (???: 전우야!) (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/65628?category=2</id>
-        <link href="https://ppt21.com/spoent/65628?category=2"/>
-        <updated>2022-01-17T07:16:53.513Z</updated>
-        <content type="html"><![CDATA[A1]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[원덬 기준 남친짤 잘찍는 아이돌 (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2317386233</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2317386233"/>
         <updated>2022-01-19T03:15:56.358Z</updated>
-        <content type="html"><![CDATA[301138]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신화 앤디 결혼, 아내는 9살 연하 아나운서 [공식] (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2317377461</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2317377461"/>
-        <updated>2022-01-19T03:15:56.365Z</updated>
         <content type="html"><![CDATA[301137]]></content>
     </entry>
     <entry>
@@ -276,5 +269,12 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2316627166"/>
         <updated>2022-01-18T09:17:59.792Z</updated>
         <content type="html"><![CDATA[301119]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TEMPEST 템페스트 COMING SOON 2022.02.21 6PM (KST) (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2316626605</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2316626605"/>
+        <updated>2022-01-19T04:20:21.024Z</updated>
+        <content type="html"><![CDATA[301118]]></content>
     </entry>
 </feed>

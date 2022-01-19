@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2022-01-19T03:15:57.173Z</updated>
+    <updated>2022-01-19T04:20:21.650Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
     <entry>
@@ -10,13 +10,6 @@
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2317386233</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2317386233"/>
         <updated>2022-01-19T03:15:56.358Z</updated>
-        <content type="html"><![CDATA[301138]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신화 앤디 결혼, 아내는 9살 연하 아나운서 [공식]]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2317377461</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2317377461"/>
-        <updated>2022-01-19T03:15:56.365Z</updated>
         <content type="html"><![CDATA[301137]]></content>
     </entry>
     <entry>
@@ -144,5 +137,12 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2316627166"/>
         <updated>2022-01-18T09:17:59.792Z</updated>
         <content type="html"><![CDATA[301119]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TEMPEST 템페스트 COMING SOON 2022.02.21 6PM (KST)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2316626605</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2316626605"/>
+        <updated>2022-01-19T04:20:21.024Z</updated>
+        <content type="html"><![CDATA[301118]]></content>
     </entry>
 </feed>
