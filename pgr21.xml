@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-19T08:20:02.268Z</updated>
+    <updated>2022-01-19T09:16:26.150Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [마마무] 휘인 '오묘해' M/V & 문별 'LUNATIC' M/V]]></title>
+        <id>https://ppt21.com/spoent/65672?category=2</id>
+        <link href="https://ppt21.com/spoent/65672?category=2"/>
+        <updated>2022-01-19T09:16:03.650Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 좋좋소 시즌4 1화]]></title>
+        <id>https://ppt21.com/spoent/65671?category=2</id>
+        <link href="https://ppt21.com/spoent/65671?category=2"/>
+        <updated>2022-01-19T09:16:03.651Z</updated>
+        <content type="html"><![CDATA[style]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] [오마이걸] 비니가 활동명을 본명인 유빈으로 바꿨네요]]></title>
+        <id>https://ppt21.com/spoent/65670?category=2</id>
+        <link href="https://ppt21.com/spoent/65670?category=2"/>
+        <updated>2022-01-19T09:16:03.651Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 넷플릭스 한국 콘텐츠 총괄 강동한 VP 피셜 + 올해 투자액 추가]]></title>
         <id>https://ppt21.com/spoent/65669?category=2</id>
@@ -116,26 +137,5 @@
         <link href="https://ppt21.com/spoent/65636?category=2"/>
         <updated>2022-01-17T13:26:27.926Z</updated>
         <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 태연 'Can't Control Myself' M/V]]></title>
-        <id>https://ppt21.com/spoent/65633?category=2</id>
-        <link href="https://ppt21.com/spoent/65633?category=2"/>
-        <updated>2022-01-17T09:18:09.073Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 프로미스나인 'DM' M/V (+쇼케이스 영상)]]></title>
-        <id>https://ppt21.com/spoent/65632?category=2</id>
-        <link href="https://ppt21.com/spoent/65632?category=2"/>
-        <updated>2022-01-17T09:18:09.074Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 최예나 'SMILEY' M/V (+쇼케이스 무대영상)]]></title>
-        <id>https://ppt21.com/spoent/65631?category=2</id>
-        <link href="https://ppt21.com/spoent/65631?category=2"/>
-        <updated>2022-01-17T09:18:09.074Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
