@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-18T23:14:12.718Z</updated>
+    <updated>2022-01-19T00:52:20.413Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] 2022년 넷플릭스 오리지널 신작 라인업 / tv 동시방영 라인업 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/65665?category=2</id>
+        <link href="https://ppt21.com/spoent/65665?category=2"/>
+        <updated>2022-01-19T00:52:10.061Z</updated>
+        <content type="html"><![CDATA[아롱이다롱이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [단독] 러블리즈 출신 케이, 기대작 '데스노트' 합류…뮤지컬 열일 행보 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/65664?category=2</id>
@@ -131,11 +138,11 @@
         <content type="html"><![CDATA[A1]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[연예] 일본의 천재 감독(?) (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/65625?category=2</id>
-        <link href="https://ppt21.com/spoent/65625?category=2"/>
-        <updated>2022-01-17T04:22:51.028Z</updated>
-        <content type="html"><![CDATA[우주전쟁]]></content>
+        <title type="html"><![CDATA[서가대 시상자 라인업 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2317263033</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2317263033"/>
+        <updated>2022-01-19T00:52:19.618Z</updated>
+        <content type="html"><![CDATA[301159]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TREASURE(트레저) 'THE SECOND STEP : CHAPTER ONE' CONCEPT POSTER 마시호, 윤재혁, 아사히, 방예담 (더쿠 ─ 케이돌토크)]]></title>
@@ -269,12 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2316463508"/>
         <updated>2022-01-18T07:17:09.642Z</updated>
         <content type="html"><![CDATA[301140]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔하이픈 정원 멤트❣️ (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2316381846</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2316381846"/>
-        <updated>2022-01-18T06:18:37.349Z</updated>
-        <content type="html"><![CDATA[301139]]></content>
     </entry>
 </feed>

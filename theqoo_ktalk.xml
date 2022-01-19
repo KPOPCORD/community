@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2022-01-18T23:14:12.741Z</updated>
+    <updated>2022-01-19T00:52:20.421Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[서가대 시상자 라인업]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2317263033</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2317263033"/>
+        <updated>2022-01-19T00:52:19.618Z</updated>
+        <content type="html"><![CDATA[301159]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TREASURE(트레저) 'THE SECOND STEP : CHAPTER ONE' CONCEPT POSTER 마시호, 윤재혁, 아사히, 방예담]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2317043951</id>
@@ -137,12 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2316463508"/>
         <updated>2022-01-18T07:17:09.642Z</updated>
         <content type="html"><![CDATA[301140]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔하이픈 정원 멤트❣️]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2316381846</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2316381846"/>
-        <updated>2022-01-18T06:18:37.349Z</updated>
-        <content type="html"><![CDATA[301139]]></content>
     </entry>
 </feed>
