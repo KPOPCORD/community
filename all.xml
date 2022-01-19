@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-19T22:15:49.950Z</updated>
+    <updated>2022-01-19T23:16:09.894Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] 어쩌다 사장 시즌2 하네요 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/65681?category=2</id>
+        <link href="https://ppt21.com/spoent/65681?category=2"/>
+        <updated>2022-01-19T23:15:58.449Z</updated>
+        <content type="html"><![CDATA[강가딘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [함수] 크리스탈 직캠 모음 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/65677?category=2</id>
@@ -128,13 +135,6 @@
         <id>https://ppt21.com/spoent/65642?category=2</id>
         <link href="https://ppt21.com/spoent/65642?category=2"/>
         <updated>2022-01-18T02:13:20.199Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 엄마는 아이돌ver - "Next Level" 라이브 무대 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/65639?category=2</id>
-        <link href="https://ppt21.com/spoent/65639?category=2"/>
-        <updated>2022-01-17T16:26:45.397Z</updated>
         <content type="html"><![CDATA[아롱이다롱이]]></content>
     </entry>
     <entry>
