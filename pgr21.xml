@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-20T09:18:09.472Z</updated>
+    <updated>2022-01-20T10:17:20.343Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] '태종 이방원' 사과 "말 사망, 책임 깊이 통감"]]></title>
+        <id>https://ppt21.com/spoent/65687?category=2</id>
+        <link href="https://ppt21.com/spoent/65687?category=2"/>
+        <updated>2022-01-20T10:17:10.254Z</updated>
+        <content type="html"><![CDATA[빨간당근]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 송지아, 디올 협찬에 디올짝퉁 가방 논란?]]></title>
         <id>https://ppt21.com/spoent/65686?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65657?category=2"/>
         <updated>2022-01-18T09:17:50.481Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [태종이방원] 정태우 간만에 사극 등판 기념 그의 꼬꼬마시절 다시보기]]></title>
-        <id>https://ppt21.com/spoent/65656?category=2</id>
-        <link href="https://ppt21.com/spoent/65656?category=2"/>
-        <updated>2022-01-18T08:21:38.226Z</updated>
-        <content type="html"><![CDATA[v.Serum]]></content>
     </entry>
 </feed>
