@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-20T03:15:24.007Z</updated>
+    <updated>2022-01-20T04:20:13.401Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] 아마존 프라임 "반지의 제왕" 타이틀 소개 영상 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/65683?category=2</id>
+        <link href="https://ppt21.com/spoent/65683?category=2"/>
+        <updated>2022-01-20T04:20:02.861Z</updated>
+        <content type="html"><![CDATA[우주전쟁]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 태종 이방원 말 학대 논란 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/65682?category=2</id>
@@ -131,11 +138,18 @@
         <content type="html"><![CDATA[아롱이다롱이]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[연예] 짝퉁’ 휘감은 논란의 송지아, 전참시 아는 형님 어쩌나 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/65644?category=2</id>
-        <link href="https://ppt21.com/spoent/65644?category=2"/>
-        <updated>2022-01-18T02:13:20.197Z</updated>
-        <content type="html"><![CDATA[insane]]></content>
+        <title type="html"><![CDATA[진우 씨는 동생이랑 나이가 몇 살 차이 나요?.jpg (feat. 경규옹 of 이름) (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2318602372</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2318602372"/>
+        <updated>2022-01-20T04:20:12.598Z</updated>
+        <content type="html"><![CDATA[301175]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[공식] 빅톤 최병찬, 오늘(20일) '엠카' 스페셜 MC 출격 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2318544092</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2318544092"/>
+        <updated>2022-01-20T04:20:12.599Z</updated>
+        <content type="html"><![CDATA[301174]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[트레저, 예판 60만장 돌파 화려한 컴백 신호탄..데뷔 2년차의 초고속 성장 (더쿠 ─ 케이돌토크)]]></title>
@@ -145,7 +159,7 @@
         <content type="html"><![CDATA[301173]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[KYUHYUN 규현 '연애소설 (Love Story)' MV Teaser #2 (더쿠 ─ 케이돌토크)]]></title>
+        <title type="html"><![CDATA[KYUHYUN 규현 '연애소설 (Love Story)' MV 2차 티저(공명 채수빈) (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2318535802</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2318535802"/>
         <updated>2022-01-20T03:15:23.313Z</updated>
@@ -262,19 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2317951844"/>
         <updated>2022-01-19T12:25:12.584Z</updated>
         <content type="html"><![CDATA[301156]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아스트로 산하 트위터 쇼챔올해첫방💜 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2317942714</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2317942714"/>
-        <updated>2022-01-19T12:25:12.585Z</updated>
-        <content type="html"><![CDATA[301155]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이대휘 멤트업 기다리다 부름ㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠ (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2317929903</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2317929903"/>
-        <updated>2022-01-19T12:25:12.587Z</updated>
-        <content type="html"><![CDATA[301154]]></content>
     </entry>
 </feed>
