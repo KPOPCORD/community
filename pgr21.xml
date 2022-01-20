@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-20T07:15:11.644Z</updated>
+    <updated>2022-01-20T08:19:30.179Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 송지아, 디올 협찬에 디올짝퉁 가방 논란?]]></title>
+        <id>https://ppt21.com/spoent/65686?category=2</id>
+        <link href="https://ppt21.com/spoent/65686?category=2"/>
+        <updated>2022-01-20T08:19:15.111Z</updated>
+        <content type="html"><![CDATA[Leeka]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 다른 K 드라마의 낙마장면을 살펴보자]]></title>
         <id>https://ppt21.com/spoent/65685?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65656?category=2"/>
         <updated>2022-01-18T08:21:38.226Z</updated>
         <content type="html"><![CDATA[v.Serum]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 5인 완전체로 무대에 선 (여자)아이들]]></title>
-        <id>https://ppt21.com/spoent/65654?category=2</id>
-        <link href="https://ppt21.com/spoent/65654?category=2"/>
-        <updated>2022-01-18T07:16:59.413Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
