@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-20T11:14:16.356Z</updated>
+    <updated>2022-01-20T12:25:50.869Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 백지헌의 마지막 교복 챌린지]]></title>
+        <id>https://ppt21.com/spoent/65689?category=2</id>
+        <link href="https://ppt21.com/spoent/65689?category=2"/>
+        <updated>2022-01-20T12:25:38.730Z</updated>
+        <content type="html"><![CDATA[어강됴리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 최예나 엠카운트다운 솔로 데뷔 무대 (+직캠)]]></title>
         <id>https://ppt21.com/spoent/65688?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65664?category=2"/>
         <updated>2022-01-18T23:13:57.370Z</updated>
         <content type="html"><![CDATA[미원]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 최애 샐럽에게 생일 축하를 받는다면?]]></title>
-        <id>https://ppt21.com/spoent/65661?category=2</id>
-        <link href="https://ppt21.com/spoent/65661?category=2"/>
-        <updated>2022-01-18T15:18:02.705Z</updated>
-        <content type="html"><![CDATA[우공이산(愚公移山)]]></content>
     </entry>
 </feed>
