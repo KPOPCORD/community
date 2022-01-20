@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-20T10:17:20.343Z</updated>
+    <updated>2022-01-20T11:14:16.356Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 최예나 엠카운트다운 솔로 데뷔 무대 (+직캠)]]></title>
+        <id>https://ppt21.com/spoent/65688?category=2</id>
+        <link href="https://ppt21.com/spoent/65688?category=2"/>
+        <updated>2022-01-20T11:14:07.133Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] '태종 이방원' 사과 "말 사망, 책임 깊이 통감"]]></title>
         <id>https://ppt21.com/spoent/65687?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65661?category=2"/>
         <updated>2022-01-18T15:18:02.705Z</updated>
         <content type="html"><![CDATA[우공이산(愚公移山)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 유주 '놀이(Play)' M/V]]></title>
-        <id>https://ppt21.com/spoent/65657?category=2</id>
-        <link href="https://ppt21.com/spoent/65657?category=2"/>
-        <updated>2022-01-18T09:17:50.481Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
