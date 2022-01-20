@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-20T04:20:13.415Z</updated>
+    <updated>2022-01-20T05:16:33.821Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 다른 K 드라마의 낙마장면을 살펴보자]]></title>
+        <id>https://ppt21.com/spoent/65685?category=2</id>
+        <link href="https://ppt21.com/spoent/65685?category=2"/>
+        <updated>2022-01-20T05:16:19.117Z</updated>
+        <content type="html"><![CDATA[Leeka]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 태종 이방원 말 학대 논란 근본적인 원인 기사]]></title>
+        <id>https://ppt21.com/spoent/65684?category=2</id>
+        <link href="https://ppt21.com/spoent/65684?category=2"/>
+        <updated>2022-01-20T05:16:19.123Z</updated>
+        <content type="html"><![CDATA[담배상품권]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 아마존 프라임 "반지의 제왕" 타이틀 소개 영상]]></title>
         <id>https://ppt21.com/spoent/65683?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/65654?category=2"/>
         <updated>2022-01-18T07:16:59.413Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 넷플릭스에서 인기 많은 작품 만드는 국가 순위]]></title>
-        <id>https://ppt21.com/spoent/65653?category=2</id>
-        <link href="https://ppt21.com/spoent/65653?category=2"/>
-        <updated>2022-01-18T07:16:59.414Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 넷플릭스 드라마 <종이의 집: 공동경제구역> 넷플릭스 영화<모럴센스> 티저]]></title>
-        <id>https://ppt21.com/spoent/65646?category=2</id>
-        <link href="https://ppt21.com/spoent/65646?category=2"/>
-        <updated>2022-01-18T04:22:46.213Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
     </entry>
 </feed>
