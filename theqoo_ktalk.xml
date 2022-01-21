@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2022-01-21T13:18:48.928Z</updated>
+    <updated>2022-01-21T14:14:52.136Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[그때 그시절 소녀시대와 원더걸스 리더 선예의 친목 모음]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2320303466</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2320303466"/>
+        <updated>2022-01-21T14:14:51.340Z</updated>
+        <content type="html"><![CDATA[301226]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[투바투 범규 네이버 나우/ 최강창민의 프리허그 트윗]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2320301293</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2320301293"/>
+        <updated>2022-01-21T14:14:51.343Z</updated>
+        <content type="html"><![CDATA[301225]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[강다니엘 공트업뎃 <너와 나의 경찰수업> D-5️⃣]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2320232350</id>
@@ -130,19 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2319811869"/>
         <updated>2022-01-21T07:15:55.065Z</updated>
         <content type="html"><![CDATA[301207]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[투바투 연준 인스타 업데이트]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2319799091</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2319799091"/>
-        <updated>2022-01-21T06:19:14.834Z</updated>
-        <content type="html"><![CDATA[301206]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 AB6IX CONCERT 'COMPLETE WITH YOU']]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2319740873</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2319740873"/>
-        <updated>2022-01-21T05:14:28.990Z</updated>
-        <content type="html"><![CDATA[301205]]></content>
     </entry>
 </feed>
