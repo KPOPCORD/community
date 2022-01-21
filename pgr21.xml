@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-21T09:16:32.419Z</updated>
+    <updated>2022-01-21T10:17:13.032Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [트와이스] TTT New Year 2022 2,3화, 사진,움짤 (데이터주의)]]></title>
+        <id>https://ppt21.com/spoent/65707?category=2</id>
+        <link href="https://ppt21.com/spoent/65707?category=2"/>
+        <updated>2022-01-21T10:17:02.817Z</updated>
+        <content type="html"><![CDATA[그10번]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 한국에서 드라마로 리메이크 된다는 스웨덴 영화]]></title>
         <id>https://ppt21.com/spoent/65705?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65677?category=2"/>
         <updated>2022-01-19T16:23:53.262Z</updated>
         <content type="html"><![CDATA[그10번]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] sm 갓더비트 다음주 엠카 출연예고]]></title>
-        <id>https://ppt21.com/spoent/65674?category=2</id>
-        <link href="https://ppt21.com/spoent/65674?category=2"/>
-        <updated>2022-01-19T10:17:20.598Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
     </entry>
 </feed>
