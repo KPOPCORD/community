@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-21T08:20:25.383Z</updated>
+    <updated>2022-01-21T09:16:32.419Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 한국에서 드라마로 리메이크 된다는 스웨덴 영화]]></title>
+        <id>https://ppt21.com/spoent/65705?category=2</id>
+        <link href="https://ppt21.com/spoent/65705?category=2"/>
+        <updated>2022-01-21T09:16:18.901Z</updated>
+        <content type="html"><![CDATA[우주전쟁]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] KBS '태종 이방원' 2주 결방이 결정됐네요]]></title>
         <id>https://ppt21.com/spoent/65704?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65674?category=2"/>
         <updated>2022-01-19T10:17:20.598Z</updated>
         <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] SNL 어쩔티비 저쩔티비]]></title>
-        <id>https://ppt21.com/spoent/65673?category=2</id>
-        <link href="https://ppt21.com/spoent/65673?category=2"/>
-        <updated>2022-01-19T10:17:20.599Z</updated>
-        <content type="html"><![CDATA[바스테나]]></content>
     </entry>
 </feed>
