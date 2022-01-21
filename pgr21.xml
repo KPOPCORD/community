@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-21T00:52:47.818Z</updated>
+    <updated>2022-01-21T01:59:51.547Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 빅뱅 탑, 승리 사진 잘라내며...4인조 컴백 의지]]></title>
+        <id>https://ppt21.com/spoent/65694?category=2</id>
+        <link href="https://ppt21.com/spoent/65694?category=2"/>
+        <updated>2022-01-21T01:59:39.932Z</updated>
+        <content type="html"><![CDATA[원펀치]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 케플러, 엠카에서 3번째 음방 1위 (+앵콜 직캠) + 여러 안무 영상 모음]]></title>
         <id>https://ppt21.com/spoent/65690?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65668?category=2"/>
         <updated>2022-01-19T04:20:11.857Z</updated>
         <content type="html"><![CDATA[A1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 2022년 넷플릭스 오리지널 신작 라인업 / tv 동시방영 라인업]]></title>
-        <id>https://ppt21.com/spoent/65665?category=2</id>
-        <link href="https://ppt21.com/spoent/65665?category=2"/>
-        <updated>2022-01-19T00:52:10.061Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
     </entry>
 </feed>
