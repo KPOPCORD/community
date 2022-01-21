@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-21T04:22:24.233Z</updated>
+    <updated>2022-01-21T05:14:29.769Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 선미&선예의 가시나 무대]]></title>
+        <id>https://ppt21.com/spoent/65700?category=2</id>
+        <link href="https://ppt21.com/spoent/65700?category=2"/>
+        <updated>2022-01-21T05:13:59.624Z</updated>
+        <content type="html"><![CDATA[SNMA]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 신입과 경력의 차이.gif]]></title>
         <id>https://ppt21.com/spoent/65699?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65670?category=2"/>
         <updated>2022-01-19T09:16:03.651Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 넷플릭스 한국 콘텐츠 총괄 강동한 VP 피셜 + 올해 투자액 추가]]></title>
-        <id>https://ppt21.com/spoent/65669?category=2</id>
-        <link href="https://ppt21.com/spoent/65669?category=2"/>
-        <updated>2022-01-19T07:12:28.254Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
     </entry>
 </feed>
