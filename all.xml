@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-22T00:52:07.766Z</updated>
+    <updated>2022-01-22T01:55:02.303Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] [멀리감주의] 개인적으로 꼽는 남자아이돌 최고존엄 무대 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/65717?category=2</id>
+        <link href="https://ppt21.com/spoent/65717?category=2"/>
+        <updated>2022-01-22T01:54:52.309Z</updated>
+        <content type="html"><![CDATA[Rain#1]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 음료 광고 그랜드슬램 달성한 아이유.ytb (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/65716?category=2</id>
+        <link href="https://ppt21.com/spoent/65716?category=2"/>
+        <updated>2022-01-22T01:54:52.310Z</updated>
+        <content type="html"><![CDATA[VictoryFood]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 넷플릭스 <지금 우리 학교는> 공식 트레일러 조회수 1천만 돌파 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/65714?category=2</id>
@@ -122,20 +136,6 @@
         <link href="https://ppt21.com/spoent/65685?category=2"/>
         <updated>2022-01-20T05:16:19.117Z</updated>
         <content type="html"><![CDATA[Leeka]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 태종 이방원 말 학대 논란 근본적인 원인 기사 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/65684?category=2</id>
-        <link href="https://ppt21.com/spoent/65684?category=2"/>
-        <updated>2022-01-20T05:16:19.123Z</updated>
-        <content type="html"><![CDATA[담배상품권]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 아마존 프라임 "반지의 제왕" 타이틀 소개 영상 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/65683?category=2</id>
-        <link href="https://ppt21.com/spoent/65683?category=2"/>
-        <updated>2022-01-20T04:20:02.861Z</updated>
-        <content type="html"><![CDATA[우주전쟁]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[220121 유희열의 스케치북 김요한 직캠 모음🍰❤ (더쿠 ─ 케이돌토크)]]></title>
