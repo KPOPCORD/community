@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2022-01-22T07:14:32.444Z</updated>
+    <updated>2022-01-22T08:18:43.124Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[방탄 인스타 뷔 (위버스댓글)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2320855752</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2320855752"/>
+        <updated>2022-01-22T08:18:42.423Z</updated>
+        <content type="html"><![CDATA[301234]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[업텐션 - 너에게 미쳤었다, MBC 음악중심 l 220122]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2320840219</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2320840219"/>
+        <updated>2022-01-22T08:18:42.423Z</updated>
+        <content type="html"><![CDATA[301233]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[릴레이댄스] 빅톤(VICTON) - Chronograph (4K)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2320784311</id>
@@ -130,19 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2320037508"/>
         <updated>2022-01-21T10:17:12.313Z</updated>
         <content type="html"><![CDATA[301215]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[템페스트 형섭, 태래, 혁 손편지 업데이트]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2320021531</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2320021531"/>
-        <updated>2022-01-21T10:17:12.314Z</updated>
-        <content type="html"><![CDATA[301214]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[K-Fancam] 엔하이픈 단체/개인 직캠 모음 'Blessed-Cursed']]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2320011357</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2320011357"/>
-        <updated>2022-01-21T10:17:12.314Z</updated>
-        <content type="html"><![CDATA[301213]]></content>
     </entry>
 </feed>
