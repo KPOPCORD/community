@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-22T05:13:55.241Z</updated>
+    <updated>2022-01-22T06:18:30.015Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 아이유가 해명하는 골디 시상식 길치유.jpg]]></title>
+        <id>https://ppt21.com/spoent/65721?category=2</id>
+        <link href="https://ppt21.com/spoent/65721?category=2"/>
+        <updated>2022-01-22T06:18:19.347Z</updated>
+        <content type="html"><![CDATA[VictoryFood]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [멀리감주의] 개인적으로 꼽는 남자아이돌 최고존엄 무대]]></title>
         <id>https://ppt21.com/spoent/65717?category=2</id>
@@ -129,13 +136,6 @@
         <id>https://ppt21.com/spoent/65686?category=2</id>
         <link href="https://ppt21.com/spoent/65686?category=2"/>
         <updated>2022-01-20T08:19:15.111Z</updated>
-        <content type="html"><![CDATA[Leeka]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 다른 K 드라마의 낙마장면을 살펴보자]]></title>
-        <id>https://ppt21.com/spoent/65685?category=2</id>
-        <link href="https://ppt21.com/spoent/65685?category=2"/>
-        <updated>2022-01-20T05:16:19.117Z</updated>
         <content type="html"><![CDATA[Leeka]]></content>
     </entry>
 </feed>
