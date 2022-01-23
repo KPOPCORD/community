@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-23T07:15:25.455Z</updated>
+    <updated>2022-01-23T08:18:00.540Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [아이브] 'ELEVEN' 인가 트리플 크라운 & 음방 '11'관왕 달성]]></title>
+        <id>https://ppt21.com/spoent/65737?category=2</id>
+        <link href="https://ppt21.com/spoent/65737?category=2"/>
+        <updated>2022-01-23T08:17:50.715Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 최근 알게된 한국 일본 혼혈 기타리스트]]></title>
         <id>https://ppt21.com/spoent/65733?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65699?category=2"/>
         <updated>2022-01-21T04:22:14.235Z</updated>
         <content type="html"><![CDATA[VictoryFood]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 빅뱅 탑, 승리 사진 잘라내며...4인조 컴백 의지]]></title>
-        <id>https://ppt21.com/spoent/65694?category=2</id>
-        <link href="https://ppt21.com/spoent/65694?category=2"/>
-        <updated>2022-01-21T01:59:39.932Z</updated>
-        <content type="html"><![CDATA[원펀치]]></content>
     </entry>
 </feed>
