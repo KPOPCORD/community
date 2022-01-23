@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-23T02:31:32.755Z</updated>
+    <updated>2022-01-23T03:16:56.453Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 최근 알게된 한국 일본 혼혈 기타리스트]]></title>
+        <id>https://ppt21.com/spoent/65733?category=2</id>
+        <link href="https://ppt21.com/spoent/65733?category=2"/>
+        <updated>2022-01-23T03:16:46.229Z</updated>
+        <content type="html"><![CDATA[랜디존슨]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 개승자 4라운드 2팀 5라운드 2팀 영상]]></title>
+        <id>https://ppt21.com/spoent/65732?category=2</id>
+        <link href="https://ppt21.com/spoent/65732?category=2"/>
+        <updated>2022-01-23T03:16:46.230Z</updated>
+        <content type="html"><![CDATA[빼사스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 신인 그룹 토요태의 첫 데뷔 무대! "Still I Love You"]]></title>
         <id>https://ppt21.com/spoent/65731?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/65694?category=2"/>
         <updated>2022-01-21T01:59:39.932Z</updated>
         <content type="html"><![CDATA[원펀치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 케플러, 엠카에서 3번째 음방 1위 (+앵콜 직캠) + 여러 안무 영상 모음]]></title>
-        <id>https://ppt21.com/spoent/65690?category=2</id>
-        <link href="https://ppt21.com/spoent/65690?category=2"/>
-        <updated>2022-01-20T15:17:51.917Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 백지헌의 마지막 교복 챌린지]]></title>
-        <id>https://ppt21.com/spoent/65689?category=2</id>
-        <link href="https://ppt21.com/spoent/65689?category=2"/>
-        <updated>2022-01-20T12:25:38.730Z</updated>
-        <content type="html"><![CDATA[어강됴리]]></content>
     </entry>
 </feed>
