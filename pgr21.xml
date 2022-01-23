@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-23T15:18:09.710Z</updated>
+    <updated>2022-01-23T16:22:37.950Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] VIVIZ The 1st Mini Album 'Beam Of Prism' Coming Soon]]></title>
+        <id>https://ppt21.com/spoent/65746?category=2</id>
+        <link href="https://ppt21.com/spoent/65746?category=2"/>
+        <updated>2022-01-23T16:22:27.520Z</updated>
+        <content type="html"><![CDATA[메자이의 학점약탈자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 산다라박 엄청난 드레스룸 공개.jpg]]></title>
         <id>https://ppt21.com/spoent/65744?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65707?category=2"/>
         <updated>2022-01-21T10:17:02.817Z</updated>
         <content type="html"><![CDATA[그10번]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 한국에서 드라마로 리메이크 된다는 스웨덴 영화]]></title>
-        <id>https://ppt21.com/spoent/65705?category=2</id>
-        <link href="https://ppt21.com/spoent/65705?category=2"/>
-        <updated>2022-01-21T09:16:18.901Z</updated>
-        <content type="html"><![CDATA[우주전쟁]]></content>
     </entry>
 </feed>
