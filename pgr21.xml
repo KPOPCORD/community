@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-23T08:18:00.540Z</updated>
+    <updated>2022-01-23T09:15:07.759Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 절친 차태현 홍경민도 잘 모른다는 김종국 여자친구의 정체.jpg]]></title>
+        <id>https://ppt21.com/spoent/65738?category=2</id>
+        <link href="https://ppt21.com/spoent/65738?category=2"/>
+        <updated>2022-01-23T09:14:56.960Z</updated>
+        <content type="html"><![CDATA[TWICE쯔위]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [아이브] 'ELEVEN' 인가 트리플 크라운 & 음방 '11'관왕 달성]]></title>
         <id>https://ppt21.com/spoent/65737?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65700?category=2"/>
         <updated>2022-01-21T05:13:59.624Z</updated>
         <content type="html"><![CDATA[SNMA]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 신입과 경력의 차이.gif]]></title>
-        <id>https://ppt21.com/spoent/65699?category=2</id>
-        <link href="https://ppt21.com/spoent/65699?category=2"/>
-        <updated>2022-01-21T04:22:14.235Z</updated>
-        <content type="html"><![CDATA[VictoryFood]]></content>
     </entry>
 </feed>
