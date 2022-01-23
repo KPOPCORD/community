@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-23T01:58:12.408Z</updated>
+    <updated>2022-01-23T02:31:32.755Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 신인 그룹 토요태의 첫 데뷔 무대! "Still I Love You"]]></title>
+        <id>https://ppt21.com/spoent/65731?category=2</id>
+        <link href="https://ppt21.com/spoent/65731?category=2"/>
+        <updated>2022-01-23T02:31:22.204Z</updated>
+        <content type="html"><![CDATA[강가딘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 소시 공계가 일을 한다고?]]></title>
         <id>https://ppt21.com/spoent/65726?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65689?category=2"/>
         <updated>2022-01-20T12:25:38.730Z</updated>
         <content type="html"><![CDATA[어강됴리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 최예나 엠카운트다운 솔로 데뷔 무대 (+직캠)]]></title>
-        <id>https://ppt21.com/spoent/65688?category=2</id>
-        <link href="https://ppt21.com/spoent/65688?category=2"/>
-        <updated>2022-01-20T11:14:07.133Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
