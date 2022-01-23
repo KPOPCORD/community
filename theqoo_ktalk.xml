@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2022-01-23T17:17:52.611Z</updated>
+    <updated>2022-01-23T18:17:58.873Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[엔하이픈 희승 멤트💗]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2322571653</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2322571653"/>
+        <updated>2022-01-23T18:17:58.105Z</updated>
+        <content type="html"><![CDATA[301280]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엔하이픈 제이크 멤트😊🥰]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2322547332</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2322547332"/>
+        <updated>2022-01-23T18:17:58.105Z</updated>
+        <content type="html"><![CDATA[301279]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엔하이픈 제이 멤트😉]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2322537812</id>
@@ -130,19 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2321901018"/>
         <updated>2022-01-23T09:15:06.908Z</updated>
         <content type="html"><![CDATA[301261]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CIX 씨아이엑스 배진영 트위터 인스타그램 업뎃💜]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2321856318</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2321856318"/>
-        <updated>2022-01-23T09:15:06.910Z</updated>
-        <content type="html"><![CDATA[301260]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[220123 KBS N V리그 올스타전／홀리뱅 Cut.1080p.KANON.ts (남바♡)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2321713446</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2321713446"/>
-        <updated>2022-01-23T06:18:45.002Z</updated>
-        <content type="html"><![CDATA[301259]]></content>
     </entry>
 </feed>
