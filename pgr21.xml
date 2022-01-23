@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-23T12:24:26.683Z</updated>
+    <updated>2022-01-23T13:17:31.072Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 산다라박 엄청난 드레스룸 공개.jpg]]></title>
+        <id>https://ppt21.com/spoent/65744?category=2</id>
+        <link href="https://ppt21.com/spoent/65744?category=2"/>
+        <updated>2022-01-23T13:17:06.298Z</updated>
+        <content type="html"><![CDATA[insane]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 2022 제 31회 하이원 서울가요대상 수상 내역]]></title>
+        <id>https://ppt21.com/spoent/65743?category=2</id>
+        <link href="https://ppt21.com/spoent/65743?category=2"/>
+        <updated>2022-01-23T13:17:06.300Z</updated>
+        <content type="html"><![CDATA[KIMTAEYEON]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 영화 해바라기 "이건 기회야" 배우 근황]]></title>
+        <id>https://ppt21.com/spoent/65742?category=2</id>
+        <link href="https://ppt21.com/spoent/65742?category=2"/>
+        <updated>2022-01-23T13:17:06.302Z</updated>
+        <content type="html"><![CDATA[Croove]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 2022년 1월 4주 D-차트 : 엔하이픈 1위! 김민석 2위-김요한 13위]]></title>
+        <id>https://ppt21.com/spoent/65741?category=2</id>
+        <link href="https://ppt21.com/spoent/65741?category=2"/>
+        <updated>2022-01-23T13:17:06.304Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 절친 차태현 홍경민도 잘 모른다는 김종국 여자친구의 정체.jpg]]></title>
         <id>https://ppt21.com/spoent/65738?category=2</id>
@@ -109,33 +137,5 @@
         <link href="https://ppt21.com/spoent/65705?category=2"/>
         <updated>2022-01-21T09:16:18.901Z</updated>
         <content type="html"><![CDATA[우주전쟁]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] KBS '태종 이방원' 2주 결방이 결정됐네요]]></title>
-        <id>https://ppt21.com/spoent/65704?category=2</id>
-        <link href="https://ppt21.com/spoent/65704?category=2"/>
-        <updated>2022-01-21T08:20:16.288Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 유튭 탁사장] 탁재훈, 이수민 하차]]></title>
-        <id>https://ppt21.com/spoent/65702?category=2</id>
-        <link href="https://ppt21.com/spoent/65702?category=2"/>
-        <updated>2022-01-21T08:20:16.288Z</updated>
-        <content type="html"><![CDATA[빼사스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 하이브, JYP, YG 신인걸그룹 데뷔에 대한 기사]]></title>
-        <id>https://ppt21.com/spoent/65701?category=2</id>
-        <link href="https://ppt21.com/spoent/65701?category=2"/>
-        <updated>2022-01-21T08:20:16.288Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 선미&선예의 가시나 무대]]></title>
-        <id>https://ppt21.com/spoent/65700?category=2</id>
-        <link href="https://ppt21.com/spoent/65700?category=2"/>
-        <updated>2022-01-21T05:13:59.624Z</updated>
-        <content type="html"><![CDATA[SNMA]]></content>
     </entry>
 </feed>
