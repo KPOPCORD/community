@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-24T03:19:06.501Z</updated>
+    <updated>2022-01-24T04:21:34.912Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [러블리즈] SK가 선경인지 전혀 몰랐던 지애]]></title>
+        <id>https://ppt21.com/spoent/65757?category=2</id>
+        <link href="https://ppt21.com/spoent/65757?category=2"/>
+        <updated>2022-01-24T04:20:37.968Z</updated>
+        <content type="html"><![CDATA[나의 연인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 최예나 데뷔곡 Smiley 멜론 Top 100 차트 추이.jpg]]></title>
         <id>https://ppt21.com/spoent/65750?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65711?category=2"/>
         <updated>2022-01-21T15:17:16.867Z</updated>
         <content type="html"><![CDATA[A1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 런웨이 시즌1 MC와 시즌2 MC의 만남 (우기&미주 텐션폭발)]]></title>
-        <id>https://ppt21.com/spoent/65710?category=2</id>
-        <link href="https://ppt21.com/spoent/65710?category=2"/>
-        <updated>2022-01-21T13:18:39.630Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
