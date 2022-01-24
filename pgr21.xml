@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-24T08:19:21.316Z</updated>
+    <updated>2022-01-24T09:15:05.999Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] NATURE (네이처) 'RICA RICA' M/V]]></title>
+        <id>https://ppt21.com/spoent/65761?category=2</id>
+        <link href="https://ppt21.com/spoent/65761?category=2"/>
+        <updated>2022-01-24T09:14:43.614Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [러블리즈] SK가 선경인지 전혀 몰랐던 지애]]></title>
         <id>https://ppt21.com/spoent/65757?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65714?category=2"/>
         <updated>2022-01-21T16:21:45.454Z</updated>
         <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [출장십오야] 영화 해적:도깨비 깃발 편]]></title>
-        <id>https://ppt21.com/spoent/65711?category=2</id>
-        <link href="https://ppt21.com/spoent/65711?category=2"/>
-        <updated>2022-01-21T15:17:16.867Z</updated>
-        <content type="html"><![CDATA[A1]]></content>
     </entry>
 </feed>
