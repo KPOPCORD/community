@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2022-01-24T06:22:23.647Z</updated>
+    <updated>2022-01-24T07:18:16.342Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘자 KARD BM (with. 칸예, 퍼렐 윌리엄스, 타일러)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2323086812</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2323086812"/>
+        <updated>2022-01-24T07:18:15.527Z</updated>
+        <content type="html"><![CDATA[301292]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인피니트 이성종 13년 만 울림 전속 계약 종료 [공식]]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2323036273</id>
@@ -137,12 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2322435316"/>
         <updated>2022-01-23T16:22:37.222Z</updated>
         <content type="html"><![CDATA[301273]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VIVIZ (비비지) - The 1st Mini Album 'Beam Of Prism' Coming Soon]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2322399822</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2322399822"/>
-        <updated>2022-01-23T15:18:08.896Z</updated>
-        <content type="html"><![CDATA[301272]]></content>
     </entry>
 </feed>
