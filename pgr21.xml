@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-25T12:26:12.352Z</updated>
+    <updated>2022-01-25T13:19:14.578Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 가수겸 배우 손담비, 전 스피드스케이팅 국가대표 이규혁과 5월 결혼]]></title>
+        <id>https://ppt21.com/spoent/65779?category=2</id>
+        <link href="https://ppt21.com/spoent/65779?category=2"/>
+        <updated>2022-01-25T13:19:03.906Z</updated>
+        <content type="html"><![CDATA[아롱이다롱이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 2022년에도 아이유는 열일합니다.avi]]></title>
         <id>https://ppt21.com/spoent/65778?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65733?category=2"/>
         <updated>2022-01-23T03:16:46.229Z</updated>
         <content type="html"><![CDATA[랜디존슨]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 개승자 4라운드 2팀 5라운드 2팀 영상]]></title>
-        <id>https://ppt21.com/spoent/65732?category=2</id>
-        <link href="https://ppt21.com/spoent/65732?category=2"/>
-        <updated>2022-01-23T03:16:46.230Z</updated>
-        <content type="html"><![CDATA[빼사스]]></content>
     </entry>
 </feed>
