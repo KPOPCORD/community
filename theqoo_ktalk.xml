@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2022-01-24T23:15:43.098Z</updated>
+    <updated>2022-01-25T01:00:08.782Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[하성운, 2월 9일 스페셜 앨범 ‘YOU’ 발매…예약판매 시작]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2323841011</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2323841011"/>
+        <updated>2022-01-25T01:00:08.122Z</updated>
+        <content type="html"><![CDATA[301311]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[📽] 펜타곤 마성의 매력! 상대를 U! HOK!하고 싶다면 지금 당장 #Feelin_Like_Challenge #필린라이크챌린지]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2323645638</id>
@@ -137,12 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2323225122"/>
         <updated>2022-01-24T10:18:33.080Z</updated>
         <content type="html"><![CDATA[301292]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 국가 이미지에 긍정적인 영향을 미친 한국인 top10]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2323223396</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2323223396"/>
-        <updated>2022-01-24T09:15:05.249Z</updated>
-        <content type="html"><![CDATA[301291]]></content>
     </entry>
 </feed>
