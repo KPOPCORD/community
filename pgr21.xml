@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-25T10:17:51.919Z</updated>
+    <updated>2022-01-25T11:13:27.877Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [프로미스나인] 2곡 연속 더쇼 1위 (+입덕직캠, 페이스캠)]]></title>
+        <id>https://ppt21.com/spoent/65777?category=2</id>
+        <link href="https://ppt21.com/spoent/65777?category=2"/>
+        <updated>2022-01-25T11:13:18.577Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 브레이브걸스 메인보컬 "민영" 활동중단]]></title>
         <id>https://ppt21.com/spoent/65774?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65731?category=2"/>
         <updated>2022-01-23T02:31:22.204Z</updated>
         <content type="html"><![CDATA[강가딘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 소시 공계가 일을 한다고?]]></title>
-        <id>https://ppt21.com/spoent/65726?category=2</id>
-        <link href="https://ppt21.com/spoent/65726?category=2"/>
-        <updated>2022-01-22T15:15:30.413Z</updated>
-        <content type="html"><![CDATA[KIMTAEYEON]]></content>
     </entry>
 </feed>
