@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-25T13:19:14.578Z</updated>
+    <updated>2022-01-25T14:14:51.820Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 정예인-Plus n Minus MV]]></title>
+        <id>https://ppt21.com/spoent/65781?category=2</id>
+        <link href="https://ppt21.com/spoent/65781?category=2"/>
+        <updated>2022-01-25T14:14:30.362Z</updated>
+        <content type="html"><![CDATA[류수정]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 가수겸 배우 손담비, 전 스피드스케이팅 국가대표 이규혁과 5월 결혼]]></title>
         <id>https://ppt21.com/spoent/65779?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65737?category=2"/>
         <updated>2022-01-23T08:17:50.715Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 최근 알게된 한국 일본 혼혈 기타리스트]]></title>
-        <id>https://ppt21.com/spoent/65733?category=2</id>
-        <link href="https://ppt21.com/spoent/65733?category=2"/>
-        <updated>2022-01-23T03:16:46.229Z</updated>
-        <content type="html"><![CDATA[랜디존슨]]></content>
     </entry>
 </feed>
