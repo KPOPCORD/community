@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-25T01:00:08.773Z</updated>
+    <updated>2022-01-25T02:08:43.620Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 퀸덤2 MC 태연 발탁]]></title>
+        <id>https://ppt21.com/spoent/65768?category=2</id>
+        <link href="https://ppt21.com/spoent/65768?category=2"/>
+        <updated>2022-01-25T02:08:32.249Z</updated>
+        <content type="html"><![CDATA[Anti-MAGE]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [유퀴즈] 1분이면 유느님을 들었다놨다 할 수 있는 남자]]></title>
         <id>https://ppt21.com/spoent/65766?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65717?category=2"/>
         <updated>2022-01-22T01:54:52.309Z</updated>
         <content type="html"><![CDATA[Rain#1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 음료 광고 그랜드슬램 달성한 아이유.ytb]]></title>
-        <id>https://ppt21.com/spoent/65716?category=2</id>
-        <link href="https://ppt21.com/spoent/65716?category=2"/>
-        <updated>2022-01-22T01:54:52.310Z</updated>
-        <content type="html"><![CDATA[VictoryFood]]></content>
     </entry>
 </feed>

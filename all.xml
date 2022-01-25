@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-25T01:00:08.769Z</updated>
+    <updated>2022-01-25T02:08:43.625Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] 퀸덤2 MC 태연 발탁 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/65768?category=2</id>
+        <link href="https://ppt21.com/spoent/65768?category=2"/>
+        <updated>2022-01-25T02:08:32.249Z</updated>
+        <content type="html"><![CDATA[Anti-MAGE]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [유퀴즈] 1분이면 유느님을 들었다놨다 할 수 있는 남자 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/65766?category=2</id>
@@ -129,13 +136,6 @@
         <link href="https://ppt21.com/spoent/65717?category=2"/>
         <updated>2022-01-22T01:54:52.309Z</updated>
         <content type="html"><![CDATA[Rain#1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 음료 광고 그랜드슬램 달성한 아이유.ytb (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/65716?category=2</id>
-        <link href="https://ppt21.com/spoent/65716?category=2"/>
-        <updated>2022-01-22T01:54:52.310Z</updated>
-        <content type="html"><![CDATA[VictoryFood]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[하성운, 2월 9일 스페셜 앨범 ‘YOU’ 발매…예약판매 시작 (더쿠 ─ 케이돌토크)]]></title>
