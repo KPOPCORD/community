@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-26T05:14:45.096Z</updated>
+    <updated>2022-01-26T06:19:30.527Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [아이브] 동계올림픽 결단식 축하무대 + 데뷔앨범 녹음 비하인드]]></title>
+        <id>https://ppt21.com/spoent/65788?category=2</id>
+        <link href="https://ppt21.com/spoent/65788?category=2"/>
+        <updated>2022-01-26T06:19:19.901Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 넷플릭스 오리지널 드라마 <소년심판> 티저 예고편]]></title>
         <id>https://ppt21.com/spoent/65784?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65742?category=2"/>
         <updated>2022-01-23T13:17:06.302Z</updated>
         <content type="html"><![CDATA[Croove]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 2022년 1월 4주 D-차트 : 엔하이픈 1위! 김민석 2위-김요한 13위]]></title>
-        <id>https://ppt21.com/spoent/65741?category=2</id>
-        <link href="https://ppt21.com/spoent/65741?category=2"/>
-        <updated>2022-01-23T13:17:06.304Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
