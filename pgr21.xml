@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-26T12:24:44.209Z</updated>
+    <updated>2022-01-26T13:18:57.186Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 정창욱 고발 유튜브 2화]]></title>
+        <id>https://ppt21.com/spoent/65792?category=2</id>
+        <link href="https://ppt21.com/spoent/65792?category=2"/>
+        <updated>2022-01-26T13:18:47.262Z</updated>
+        <content type="html"><![CDATA[폰지사기]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [블랙핑크] 젠튭, 돌아온 빙구 제니]]></title>
         <id>https://ppt21.com/spoent/65790?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65746?category=2"/>
         <updated>2022-01-23T16:22:27.520Z</updated>
         <content type="html"><![CDATA[메자이의 학점약탈자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 산다라박 엄청난 드레스룸 공개.jpg]]></title>
-        <id>https://ppt21.com/spoent/65744?category=2</id>
-        <link href="https://ppt21.com/spoent/65744?category=2"/>
-        <updated>2022-01-23T13:17:06.298Z</updated>
-        <content type="html"><![CDATA[insane]]></content>
     </entry>
 </feed>
