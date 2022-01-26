@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2022-01-26T02:09:37.729Z</updated>
+    <updated>2022-01-26T03:16:24.113Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[엔하이픈 폴라럽 빌보드 핫 트렌드 송 15위]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2325002173</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2325002173"/>
+        <updated>2022-01-26T03:16:23.364Z</updated>
+        <content type="html"><![CDATA[301334]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[태연, 정규 3집 ‘INVU’ 2월 14일 발표 [공식]]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2324910883</id>
@@ -137,12 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2324413745"/>
         <updated>2022-01-25T11:13:27.249Z</updated>
         <content type="html"><![CDATA[301315]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독] 위아이 김동한, 코로나19 확진판정…'더블플레이'도 초비상]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2324410880</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2324410880"/>
-        <updated>2022-01-25T11:13:27.249Z</updated>
-        <content type="html"><![CDATA[301314]]></content>
     </entry>
 </feed>
