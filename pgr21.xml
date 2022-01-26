@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-26T15:16:14.981Z</updated>
+    <updated>2022-01-26T16:23:28.950Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [엔믹스] New Frontier: Declaration]]></title>
+        <id>https://ppt21.com/spoent/65798?category=2</id>
+        <link href="https://ppt21.com/spoent/65798?category=2"/>
+        <updated>2022-01-26T16:23:14.561Z</updated>
+        <content type="html"><![CDATA[아롱이다롱이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 예나 멜론 실시간 차트 29위 (feat.BIBI)]]></title>
+        <id>https://ppt21.com/spoent/65797?category=2</id>
+        <link href="https://ppt21.com/spoent/65797?category=2"/>
+        <updated>2022-01-26T16:23:14.562Z</updated>
+        <content type="html"><![CDATA[KenKim]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [에이핑크] 스페셜 앨범 [HORN] 트랙 리스트 + 컨셉 포토 (2월 14일 컴백)]]></title>
         <id>https://ppt21.com/spoent/65794?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/65766?category=2"/>
         <updated>2022-01-25T00:59:52.217Z</updated>
         <content type="html"><![CDATA[A1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] NATURE (네이처) 'RICA RICA' M/V]]></title>
-        <id>https://ppt21.com/spoent/65761?category=2</id>
-        <link href="https://ppt21.com/spoent/65761?category=2"/>
-        <updated>2022-01-24T09:14:43.614Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [러블리즈] SK가 선경인지 전혀 몰랐던 지애]]></title>
-        <id>https://ppt21.com/spoent/65757?category=2</id>
-        <link href="https://ppt21.com/spoent/65757?category=2"/>
-        <updated>2022-01-24T04:20:37.968Z</updated>
-        <content type="html"><![CDATA[나의 연인]]></content>
     </entry>
 </feed>
