@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-26T14:15:00.179Z</updated>
+    <updated>2022-01-26T15:16:14.981Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [에이핑크] 스페셜 앨범 [HORN] 트랙 리스트 + 컨셉 포토 (2월 14일 컴백)]]></title>
+        <id>https://ppt21.com/spoent/65794?category=2</id>
+        <link href="https://ppt21.com/spoent/65794?category=2"/>
+        <updated>2022-01-26T15:16:05.482Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 정예인 'Plus n Minus' 1theK LIVE Special Clip]]></title>
         <id>https://ppt21.com/spoent/65793?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65757?category=2"/>
         <updated>2022-01-24T04:20:37.968Z</updated>
         <content type="html"><![CDATA[나의 연인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 최예나 데뷔곡 Smiley 멜론 Top 100 차트 추이.jpg]]></title>
-        <id>https://ppt21.com/spoent/65750?category=2</id>
-        <link href="https://ppt21.com/spoent/65750?category=2"/>
-        <updated>2022-01-23T17:17:39.806Z</updated>
-        <content type="html"><![CDATA[위르겐클롭]]></content>
     </entry>
 </feed>
