@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-26T08:18:28.330Z</updated>
+    <updated>2022-01-26T09:17:33.180Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] [블랙핑크] 젠튭, 돌아온 빙구 제니 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/65790?category=2</id>
+        <link href="https://ppt21.com/spoent/65790?category=2"/>
+        <updated>2022-01-26T09:17:12.011Z</updated>
+        <content type="html"><![CDATA[헤인즈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 아이돌학교 투표조작 관련 2심 재판 결과가 나왔습니다. (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/65789?category=2</id>
@@ -131,11 +138,25 @@
         <content type="html"><![CDATA[insane]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[연예] 2022 제 31회 하이원 서울가요대상 수상 내역 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/65743?category=2</id>
-        <link href="https://ppt21.com/spoent/65743?category=2"/>
-        <updated>2022-01-23T13:17:06.300Z</updated>
-        <content type="html"><![CDATA[KIMTAEYEON]]></content>
+        <title type="html"><![CDATA[쇼챔피언 문빈, 강민 생일 기념 투샷 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2325408391</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2325408391"/>
+        <updated>2022-01-26T09:17:32.458Z</updated>
+        <content type="html"><![CDATA[301344]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[쇼챔피언 엠씨 착장 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2325387743</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2325387743"/>
+        <updated>2022-01-26T09:17:32.459Z</updated>
+        <content type="html"><![CDATA[301343]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하성운 Special Album [YOU] 컨셉포토2 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2325382587</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2325382587"/>
+        <updated>2022-01-26T09:17:32.459Z</updated>
+        <content type="html"><![CDATA[301342]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[CIX (씨아이엑스) 공식 팬클럽 FIX(픽스) 3기 OFFICIAL FANCLUB KIT 상세 안내 (더쿠 ─ 케이돌토크)]]></title>
@@ -255,26 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2324708545"/>
         <updated>2022-01-25T15:16:50.789Z</updated>
         <content type="html"><![CDATA[301325]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TREASURE(트레저) ‘직진 (JIKJIN)’ VISUAL FILM (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2324708340</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2324708340"/>
-        <updated>2022-01-25T15:16:50.789Z</updated>
-        <content type="html"><![CDATA[301324]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빅마마 2월 10일 컴백 / 에픽하이 2월 14일 컴백 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2324682710</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2324682710"/>
-        <updated>2022-01-25T15:16:50.789Z</updated>
-        <content type="html"><![CDATA[301323]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ENHYPEN(엔하이픈) - Polaroid Love(폴라로이드러브) ✨비주얼캠/4K✨ (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2324651821</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2324651821"/>
-        <updated>2022-01-25T14:14:51.099Z</updated>
-        <content type="html"><![CDATA[301322]]></content>
     </entry>
 </feed>
