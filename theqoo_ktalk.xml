@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2022-01-25T23:17:13.323Z</updated>
+    <updated>2022-01-26T00:59:47.202Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[태연, 정규 3집 ‘INVU’ 2월 14일 발표 [공식]]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2324910883</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2324910883"/>
+        <updated>2022-01-26T00:59:46.344Z</updated>
+        <content type="html"><![CDATA[301333]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JYP, 2022년 신인 걸그룹은 NMIXX(엔믹스)...2월 데뷔]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2324903539</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2324903539"/>
+        <updated>2022-01-26T00:59:46.349Z</updated>
+        <content type="html"><![CDATA[301332]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(여자)아이들 - LION MV 1억뷰 달성🦁🔥❗]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2324893780</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2324893780"/>
+        <updated>2022-01-26T00:59:46.349Z</updated>
+        <content type="html"><![CDATA[301331]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박우진 키스더라디오 비키라 고정게스트 12주차 인스타 셀카🐦📻❤]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2324857981</id>
@@ -123,26 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2324410880"/>
         <updated>2022-01-25T11:13:27.249Z</updated>
         <content type="html"><![CDATA[301314]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[위아이 김동한 코로나 확진]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2324410676</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2324410676"/>
-        <updated>2022-01-25T11:13:27.249Z</updated>
-        <content type="html"><![CDATA[301313]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[📽] 펜타곤 12th Mini Album [IN:VITE U] #Feelin_Like_Challenge]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2324401991</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2324401991"/>
-        <updated>2022-01-25T10:17:51.062Z</updated>
-        <content type="html"><![CDATA[301312]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[🎥] 강다니엘 2022 OFFICIAL SEASON’S GREETINGS Making Film]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2324387843</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2324387843"/>
-        <updated>2022-01-25T10:17:51.072Z</updated>
-        <content type="html"><![CDATA[301311]]></content>
     </entry>
 </feed>
