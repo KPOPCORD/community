@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-27T05:15:28.875Z</updated>
+    <updated>2022-01-27T06:19:41.870Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] RBW, 젝키·핑클 배출 30년 역사의 'DSP미디어' 인수..음원 IP NFT 사업 본격화]]></title>
+        <id>https://ppt21.com/spoent/65802?category=2</id>
+        <link href="https://ppt21.com/spoent/65802?category=2"/>
+        <updated>2022-01-27T06:19:32.031Z</updated>
+        <content type="html"><![CDATA[TWICE쯔위]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [단독] 서현, 넷플릭스 대작 '도적' 여주인공…독립운동가 된다]]></title>
         <id>https://ppt21.com/spoent/65801?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65771?category=2"/>
         <updated>2022-01-25T04:21:32.698Z</updated>
         <content type="html"><![CDATA[묻고 더블로 가!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] JTBC에서 준비중인 농구버전 골때녀(?!)]]></title>
-        <id>https://ppt21.com/spoent/65770?category=2</id>
-        <link href="https://ppt21.com/spoent/65770?category=2"/>
-        <updated>2022-01-25T04:21:32.698Z</updated>
-        <content type="html"><![CDATA[빨간당근]]></content>
     </entry>
 </feed>
