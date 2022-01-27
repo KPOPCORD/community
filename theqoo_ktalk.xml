@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2022-01-27T00:55:02.287Z</updated>
+    <updated>2022-01-27T01:59:58.276Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독]'트리플 밀리언셀러' NCT 드림, 3월 컴백]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2326088514</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2326088514"/>
+        <updated>2022-01-27T01:59:57.150Z</updated>
+        <content type="html"><![CDATA[301375]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[22.02.07 데이식스 원필 솔로 데뷔 앨범 <Pilmography> Reciting Video]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2325862950</id>
@@ -137,12 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2325668238"/>
         <updated>2022-01-26T13:18:56.512Z</updated>
         <content type="html"><![CDATA[301356]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[씨아이엑스 현석 트위터 업뎃❤️]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2325648940</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2325648940"/>
-        <updated>2022-01-26T13:18:56.515Z</updated>
-        <content type="html"><![CDATA[301355]]></content>
     </entry>
 </feed>
