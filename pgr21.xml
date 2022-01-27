@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-27T15:16:46.856Z</updated>
+    <updated>2022-01-27T16:23:49.872Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] JYP 신인 걸그룹 NMIXX (엔믹스) 데뷔 트레일러 영상 (+사진)]]></title>
+        <id>https://ppt21.com/spoent/65814?category=2</id>
+        <link href="https://ppt21.com/spoent/65814?category=2"/>
+        <updated>2022-01-27T16:23:39.816Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [아이유/강승원] Mother Nature (H₂O) MV]]></title>
         <id>https://ppt21.com/spoent/65809?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65784?category=2"/>
         <updated>2022-01-25T18:19:24.353Z</updated>
         <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [NMIXX] NICE TO MIXX YOU (JYP신인 걸그룹)]]></title>
-        <id>https://ppt21.com/spoent/65783?category=2</id>
-        <link href="https://ppt21.com/spoent/65783?category=2"/>
-        <updated>2022-01-25T16:23:51.028Z</updated>
-        <content type="html"><![CDATA[TWICE쯔위]]></content>
     </entry>
 </feed>
