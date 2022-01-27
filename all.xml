@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-27T14:15:11.795Z</updated>
+    <updated>2022-01-27T15:16:46.847Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[연예] [아이유/강승원] Mother Nature (H₂O) MV (Pgr21 ─ 연예)]]></title>
@@ -26,7 +26,7 @@
         <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[연예] 음방 역사에 남을만한 점수차로 결정된 오늘 엠카 1위.jpg (Pgr21 ─ 연예)]]></title>
+        <title type="html"><![CDATA[[연예] 음방 역사에 남을만한 점수차로 결정된 오늘 엠카 1위.jpg (+앵콜 직캠) (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/65805?category=2</id>
         <link href="https://ppt21.com/spoent/65805?category=2"/>
         <updated>2022-01-27T11:13:03.576Z</updated>
@@ -136,6 +136,27 @@
         <link href="https://ppt21.com/spoent/65783?category=2"/>
         <updated>2022-01-25T16:23:51.028Z</updated>
         <content type="html"><![CDATA[TWICE쯔위]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TREASURE(트레저) ‘직진 (JIKJIN)’ LYRIC POSTER 요시 하루토 아사히 방예담 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2327044087</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2327044087"/>
+        <updated>2022-01-27T15:16:45.821Z</updated>
+        <content type="html"><![CDATA[301420]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하성운 Special Album [YOU] Track List (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2327031528</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2327031528"/>
+        <updated>2022-01-27T15:16:45.821Z</updated>
+        <content type="html"><![CDATA[301419]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박지훈 인스타그램 업뎃 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2326994486</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2326994486"/>
+        <updated>2022-01-27T15:16:45.825Z</updated>
+        <content type="html"><![CDATA[301418]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[워너원 하성운 김재환 박지훈 인스타 라방 영상 (더쿠 ─ 케이돌토크)]]></title>
@@ -255,26 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2326723698"/>
         <updated>2022-01-27T11:13:12.744Z</updated>
         <content type="html"><![CDATA[301401]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[MPD직캠] 갓 더 비트 태연 직캠 4K 'Step Back' (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2326715392</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2326715392"/>
-        <updated>2022-01-27T11:13:12.746Z</updated>
-        <content type="html"><![CDATA[301400]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[투바투 범규 위버스 (배경화면 선물) (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2326710100</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2326710100"/>
-        <updated>2022-01-27T11:13:12.747Z</updated>
-        <content type="html"><![CDATA[301399]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[휘영 찬희 사과문 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2326700749</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2326700749"/>
-        <updated>2022-01-27T10:17:30.489Z</updated>
-        <content type="html"><![CDATA[301398]]></content>
     </entry>
 </feed>

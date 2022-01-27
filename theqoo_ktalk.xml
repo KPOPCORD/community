@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2022-01-27T14:15:11.794Z</updated>
+    <updated>2022-01-27T15:16:46.857Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[TREASURE(트레저) ‘직진 (JIKJIN)’ LYRIC POSTER 요시 하루토 아사히 방예담]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2327044087</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2327044087"/>
+        <updated>2022-01-27T15:16:45.821Z</updated>
+        <content type="html"><![CDATA[301420]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하성운 Special Album [YOU] Track List]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2327031528</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2327031528"/>
+        <updated>2022-01-27T15:16:45.821Z</updated>
+        <content type="html"><![CDATA[301419]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박지훈 인스타그램 업뎃]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2326994486</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2326994486"/>
+        <updated>2022-01-27T15:16:45.825Z</updated>
+        <content type="html"><![CDATA[301418]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[워너원 하성운 김재환 박지훈 인스타 라방 영상]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2326949271</id>
@@ -123,26 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2326723698"/>
         <updated>2022-01-27T11:13:12.744Z</updated>
         <content type="html"><![CDATA[301401]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[MPD직캠] 갓 더 비트 태연 직캠 4K 'Step Back']]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2326715392</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2326715392"/>
-        <updated>2022-01-27T11:13:12.746Z</updated>
-        <content type="html"><![CDATA[301400]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[투바투 범규 위버스 (배경화면 선물)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2326710100</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2326710100"/>
-        <updated>2022-01-27T11:13:12.747Z</updated>
-        <content type="html"><![CDATA[301399]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[휘영 찬희 사과문]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2326700749</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2326700749"/>
-        <updated>2022-01-27T10:17:30.489Z</updated>
-        <content type="html"><![CDATA[301398]]></content>
     </entry>
 </feed>
