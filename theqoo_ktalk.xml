@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2022-01-27T04:20:07.913Z</updated>
+    <updated>2022-01-27T05:15:28.882Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[워너원, 오늘(27일) 신곡 음원+MV 공개…드디어 만나는 11人 완전체]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2326323945</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2326323945"/>
+        <updated>2022-01-27T05:15:28.187Z</updated>
+        <content type="html"><![CDATA[301384]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오늘자 ﻿HUGO BOSS 엠버서더 선정된 이민호, KARD BM]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2326307793</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2326307793"/>
+        <updated>2022-01-27T05:15:28.191Z</updated>
+        <content type="html"><![CDATA[301383]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독]케플러 김채현-서영은, 코로나19 확진]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2326288760</id>
@@ -130,19 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2325770825"/>
         <updated>2022-01-26T15:16:14.210Z</updated>
         <content type="html"><![CDATA[301365]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CIX 씨아이엑스 용희 인스타그램 업뎃💚]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2325767457</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2325767457"/>
-        <updated>2022-01-26T15:16:14.211Z</updated>
-        <content type="html"><![CDATA[301364]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[용의자X DRIPPIN(드리핀) 공개 취조! 빌런은 누구?! | Interrogation Room Interview]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2325761162</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2325761162"/>
-        <updated>2022-01-26T15:16:14.212Z</updated>
-        <content type="html"><![CDATA[301363]]></content>
     </entry>
 </feed>
