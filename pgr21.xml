@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-27T10:17:31.360Z</updated>
+    <updated>2022-01-27T11:13:13.473Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 2021 가온차트 뮤직어워드 수상 내역]]></title>
+        <id>https://ppt21.com/spoent/65807?category=2</id>
+        <link href="https://ppt21.com/spoent/65807?category=2"/>
+        <updated>2022-01-27T11:13:03.570Z</updated>
+        <content type="html"><![CDATA[KIMTAEYEON]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 갓더비트 엠카운트다운 스페셜 무대 영상 (+직캠)]]></title>
+        <id>https://ppt21.com/spoent/65806?category=2</id>
+        <link href="https://ppt21.com/spoent/65806?category=2"/>
+        <updated>2022-01-27T11:13:03.571Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 음방 역사에 남을만한 점수차로 결정된 오늘 엠카 1위.jpg]]></title>
+        <id>https://ppt21.com/spoent/65805?category=2</id>
+        <link href="https://ppt21.com/spoent/65805?category=2"/>
+        <updated>2022-01-27T11:13:03.576Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 무한도전의 마지막 불꽃]]></title>
         <id>https://ppt21.com/spoent/65804?category=2</id>
@@ -116,26 +137,5 @@
         <link href="https://ppt21.com/spoent/65781?category=2"/>
         <updated>2022-01-25T14:14:30.362Z</updated>
         <content type="html"><![CDATA[류수정]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 가수겸 배우 손담비, 전 스피드스케이팅 국가대표 이규혁과 5월 결혼]]></title>
-        <id>https://ppt21.com/spoent/65779?category=2</id>
-        <link href="https://ppt21.com/spoent/65779?category=2"/>
-        <updated>2022-01-25T13:19:03.906Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 2022년에도 아이유는 열일합니다.avi]]></title>
-        <id>https://ppt21.com/spoent/65778?category=2</id>
-        <link href="https://ppt21.com/spoent/65778?category=2"/>
-        <updated>2022-01-25T12:25:43.535Z</updated>
-        <content type="html"><![CDATA[얼굴찌푸리지말아요]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [프로미스나인] 2곡 연속 더쇼 1위 (+입덕직캠, 페이스캠)]]></title>
-        <id>https://ppt21.com/spoent/65777?category=2</id>
-        <link href="https://ppt21.com/spoent/65777?category=2"/>
-        <updated>2022-01-25T11:13:18.577Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
