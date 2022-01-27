@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-27T01:59:58.263Z</updated>
+    <updated>2022-01-27T02:35:25.422Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [단독] 서현, 넷플릭스 대작 '도적' 여주인공…독립운동가 된다]]></title>
+        <id>https://ppt21.com/spoent/65801?category=2</id>
+        <link href="https://ppt21.com/spoent/65801?category=2"/>
+        <updated>2022-01-27T02:35:15.912Z</updated>
+        <content type="html"><![CDATA[아롱이다롱이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [VIVIZ] 미니앨범 1집 'Best Of Prism' 컨셉 포토 #1 (2월 9일 데뷔)]]></title>
         <id>https://ppt21.com/spoent/65799?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65770?category=2"/>
         <updated>2022-01-25T04:21:32.698Z</updated>
         <content type="html"><![CDATA[빨간당근]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 퀸덤2 MC 태연 발탁]]></title>
-        <id>https://ppt21.com/spoent/65768?category=2</id>
-        <link href="https://ppt21.com/spoent/65768?category=2"/>
-        <updated>2022-01-25T02:08:32.249Z</updated>
-        <content type="html"><![CDATA[Anti-MAGE]]></content>
     </entry>
 </feed>
