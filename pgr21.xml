@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-27T07:16:09.980Z</updated>
+    <updated>2022-01-27T08:19:22.564Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 단독샷캠 화질 4K로 업그레이드한 인기가요]]></title>
+        <id>https://ppt21.com/spoent/65803?category=2</id>
+        <link href="https://ppt21.com/spoent/65803?category=2"/>
+        <updated>2022-01-27T08:19:13.081Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] RBW, 젝키·핑클 배출 30년 역사의 'DSP미디어' 인수..음원 IP NFT 사업 본격화]]></title>
         <id>https://ppt21.com/spoent/65802?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65774?category=2"/>
         <updated>2022-01-25T08:19:01.225Z</updated>
         <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 어이 루다! 섹스어필은 허세였던 거냐?!]]></title>
-        <id>https://ppt21.com/spoent/65771?category=2</id>
-        <link href="https://ppt21.com/spoent/65771?category=2"/>
-        <updated>2022-01-25T04:21:32.698Z</updated>
-        <content type="html"><![CDATA[묻고 더블로 가!]]></content>
     </entry>
 </feed>
