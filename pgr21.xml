@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-27T08:19:22.564Z</updated>
+    <updated>2022-01-27T09:16:56.226Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 무한도전의 마지막 불꽃]]></title>
+        <id>https://ppt21.com/spoent/65804?category=2</id>
+        <link href="https://ppt21.com/spoent/65804?category=2"/>
+        <updated>2022-01-27T09:16:36.273Z</updated>
+        <content type="html"><![CDATA[니시노 나나세]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 단독샷캠 화질 4K로 업그레이드한 인기가요]]></title>
         <id>https://ppt21.com/spoent/65803?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65777?category=2"/>
         <updated>2022-01-25T11:13:18.577Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 브레이브걸스 메인보컬 "민영" 활동중단]]></title>
-        <id>https://ppt21.com/spoent/65774?category=2</id>
-        <link href="https://ppt21.com/spoent/65774?category=2"/>
-        <updated>2022-01-25T08:19:01.225Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
     </entry>
 </feed>
