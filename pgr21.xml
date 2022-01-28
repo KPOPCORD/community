@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-28T07:15:03.712Z</updated>
+    <updated>2022-01-28T08:19:19.415Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 호텔델루나 이후 3년만에 뜬 아이유 드라마 차기작]]></title>
+        <id>https://ppt21.com/spoent/65823?category=2</id>
+        <link href="https://ppt21.com/spoent/65823?category=2"/>
+        <updated>2022-01-28T08:19:08.362Z</updated>
+        <content type="html"><![CDATA[아름다운이땅에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 어제 엠카에 데뷔(?)한 마마돌 (엄마는 아이돌) 무대 (+직캠)]]></title>
         <id>https://ppt21.com/spoent/65819?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65790?category=2"/>
         <updated>2022-01-26T09:17:12.011Z</updated>
         <content type="html"><![CDATA[헤인즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 아이돌학교 투표조작 관련 2심 재판 결과가 나왔습니다.]]></title>
-        <id>https://ppt21.com/spoent/65789?category=2</id>
-        <link href="https://ppt21.com/spoent/65789?category=2"/>
-        <updated>2022-01-26T07:15:34.542Z</updated>
-        <content type="html"><![CDATA[디쿠아스점안액]]></content>
     </entry>
 </feed>
