@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-28T14:14:54.966Z</updated>
+    <updated>2022-01-28T15:16:33.864Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 완전히 화해한 MC 스나이퍼와 아웃사이더, 12년만에 함께한 'Run & Run']]></title>
+        <id>https://ppt21.com/spoent/65831?category=2</id>
+        <link href="https://ppt21.com/spoent/65831?category=2"/>
+        <updated>2022-01-28T15:16:24.005Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 마마돌 (M.M.D) '우아힙' 퍼포먼스 비디오]]></title>
         <id>https://ppt21.com/spoent/65830?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65798?category=2"/>
         <updated>2022-01-26T16:23:14.561Z</updated>
         <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 예나 멜론 실시간 차트 29위 (feat.BIBI)]]></title>
-        <id>https://ppt21.com/spoent/65797?category=2</id>
-        <link href="https://ppt21.com/spoent/65797?category=2"/>
-        <updated>2022-01-26T16:23:14.562Z</updated>
-        <content type="html"><![CDATA[KenKim]]></content>
     </entry>
 </feed>
