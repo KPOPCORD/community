@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-28T09:16:54.725Z</updated>
+    <updated>2022-01-28T10:17:59.377Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[연예] 호텔델루나 이후 3년만에 뜬 아이유 드라마 차기작 (Pgr21 ─ 연예)]]></title>
@@ -138,6 +138,20 @@
         <content type="html"><![CDATA[헤인즈]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[뮤직뱅크 Feelin’ Like - 펜타곤 (PENTAGON) | KBS 220128 방송 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2327761730</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2327761730"/>
+        <updated>2022-01-28T10:17:58.658Z</updated>
+        <content type="html"><![CDATA[301428]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우즈(조승연)X선예 엄마는아이돌 우아힙 챌린지 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2327752755</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2327752755"/>
+        <updated>2022-01-28T10:17:58.661Z</updated>
+        <content type="html"><![CDATA[301427]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[조세호 돌파감염…방송가 코로나19 확산 우려 커져 (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2327662233</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2327662233"/>
@@ -262,19 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2327385382"/>
         <updated>2022-01-28T03:16:25.373Z</updated>
         <content type="html"><![CDATA[301409]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TREASURE(트레저) - ‘직진 (JIKJIN)’ POSTER BONUS CUT 요시 하루토 아사히 방예담 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2327380902</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2327380902"/>
-        <updated>2022-01-28T03:16:25.401Z</updated>
-        <content type="html"><![CDATA[301408]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[권은비 코로나 확진, 함께 방송한 드리핀 전원 음성 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2327359562</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2327359562"/>
-        <updated>2022-01-28T03:16:25.402Z</updated>
-        <content type="html"><![CDATA[301407]]></content>
     </entry>
 </feed>
