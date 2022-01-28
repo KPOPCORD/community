@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-28T15:16:33.864Z</updated>
+    <updated>2022-01-28T16:23:13.645Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 브레이브걸스 유나, 오마이걸 유빈, 비비즈 엄지 코로나19 확진]]></title>
+        <id>https://ppt21.com/spoent/65832?category=2</id>
+        <link href="https://ppt21.com/spoent/65832?category=2"/>
+        <updated>2022-01-28T16:23:01.877Z</updated>
+        <content type="html"><![CDATA[VictoryFood]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 완전히 화해한 MC 스나이퍼와 아웃사이더, 12년만에 함께한 'Run & Run']]></title>
         <id>https://ppt21.com/spoent/65831?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65799?category=2"/>
         <updated>2022-01-26T17:18:59.378Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [엔믹스] New Frontier: Declaration]]></title>
-        <id>https://ppt21.com/spoent/65798?category=2</id>
-        <link href="https://ppt21.com/spoent/65798?category=2"/>
-        <updated>2022-01-26T16:23:14.561Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
     </entry>
 </feed>
