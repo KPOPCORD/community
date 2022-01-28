@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-28T05:14:30.411Z</updated>
+    <updated>2022-01-28T06:19:55.546Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] 어제 엠카에 데뷔(?)한 마마돌 (엄마는 아이돌) 무대 (+직캠) (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/65819?category=2</id>
+        <link href="https://ppt21.com/spoent/65819?category=2"/>
+        <updated>2022-01-28T06:19:46.091Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 에이프릴 해체 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/65816?category=2</id>
@@ -131,11 +138,25 @@
         <content type="html"><![CDATA[디쿠아스점안액]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[연예] [아이브] 동계올림픽 결단식 축하무대 + 데뷔앨범 녹음 비하인드 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/65788?category=2</id>
-        <link href="https://ppt21.com/spoent/65788?category=2"/>
-        <updated>2022-01-26T06:19:19.901Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
+        <title type="html"><![CDATA[VIVIZ 엄지, 코로나19 확진...은하·신비는 음성 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2327517784</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2327517784"/>
+        <updated>2022-01-28T06:19:54.830Z</updated>
+        <content type="html"><![CDATA[301425]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유튜브 말고 카메라 정보 얻을려면 어떡해야하지? (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2327507970</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2327507970"/>
+        <updated>2022-01-28T06:19:54.832Z</updated>
+        <content type="html"><![CDATA[301424]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[투바투 수빈 마리끌레르 에디터 인스타 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2327507361</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2327507361"/>
+        <updated>2022-01-28T06:19:54.834Z</updated>
+        <content type="html"><![CDATA[301423]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독] 스테이씨, 확진자 밀접접촉..일정 미루고 PCR 검사 (더쿠 ─ 케이돌토크)]]></title>
@@ -255,26 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2327287220"/>
         <updated>2022-01-28T02:01:21.631Z</updated>
         <content type="html"><![CDATA[301406]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독]스테이씨, 2월 컴백…4연타 히트 도전 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2327281812</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2327281812"/>
-        <updated>2022-01-28T02:01:21.633Z</updated>
-        <content type="html"><![CDATA[301405]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강다니엘 코로나19 검사 결과 안내 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2327272035</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2327272035"/>
-        <updated>2022-01-28T00:54:21.487Z</updated>
-        <content type="html"><![CDATA[301404]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더보이즈 주학년, 팀내 4번째 코로나19 확진 판정 [전문] (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2327264214</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2327264214"/>
-        <updated>2022-01-28T00:54:21.494Z</updated>
-        <content type="html"><![CDATA[301403]]></content>
     </entry>
 </feed>
