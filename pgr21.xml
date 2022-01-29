@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-29T02:26:01.515Z</updated>
+    <updated>2022-01-29T03:16:20.187Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [트와이스] TTT New Year EP.04 (알까기편)]]></title>
+        <id>https://ppt21.com/spoent/65836?category=2</id>
+        <link href="https://ppt21.com/spoent/65836?category=2"/>
+        <updated>2022-01-29T03:15:49.579Z</updated>
+        <content type="html"><![CDATA[그10번]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 브레이브걸스 유나, 오마이걸 유빈, 비비즈 엄지 코로나19 확진]]></title>
         <id>https://ppt21.com/spoent/65832?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65801?category=2"/>
         <updated>2022-01-27T02:35:15.912Z</updated>
         <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [VIVIZ] 미니앨범 1집 'Best Of Prism' 컨셉 포토 #1 (2월 9일 데뷔)]]></title>
-        <id>https://ppt21.com/spoent/65799?category=2</id>
-        <link href="https://ppt21.com/spoent/65799?category=2"/>
-        <updated>2022-01-26T17:18:59.378Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
