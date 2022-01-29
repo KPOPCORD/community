@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-29T16:22:22.858Z</updated>
+    <updated>2022-01-29T17:21:42.770Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 원래 JTBC 편성 예정이였던 <지금 우리 학교는>]]></title>
+        <id>https://ppt21.com/spoent/65858?category=2</id>
+        <link href="https://ppt21.com/spoent/65858?category=2"/>
+        <updated>2022-01-29T17:21:30.523Z</updated>
+        <content type="html"><![CDATA[아롱이다롱이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 넷플릭스 <지금 우리 학교는> 한국드라마 역사상 가장 높은 포인트로 첫 진입]]></title>
         <id>https://ppt21.com/spoent/65857?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65819?category=2"/>
         <updated>2022-01-28T06:19:46.091Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 에이프릴 해체]]></title>
-        <id>https://ppt21.com/spoent/65816?category=2</id>
-        <link href="https://ppt21.com/spoent/65816?category=2"/>
-        <updated>2022-01-28T02:01:11.938Z</updated>
-        <content type="html"><![CDATA[호우호우]]></content>
     </entry>
 </feed>
