@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2022-01-29T05:14:25.786Z</updated>
+    <updated>2022-01-29T06:18:40.148Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[펜타곤 Feelin Like 챌린지 With 아스트로 진진 라키]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2328507343</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2328507343"/>
+        <updated>2022-01-29T06:18:39.442Z</updated>
+        <content type="html"><![CDATA[301452]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[음중 공트 우주호]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2328468783</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2328468783"/>
+        <updated>2022-01-29T06:18:39.443Z</updated>
+        <content type="html"><![CDATA[301451]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오마이걸, '비밀정원' 한정판 7인치 바이닐 예약판매]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2328463834</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2328463834"/>
+        <updated>2022-01-29T06:18:39.467Z</updated>
+        <content type="html"><![CDATA[301450]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[펜타곤 Feelin_Like_Challenge (With. 허니제이)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2328455454</id>
@@ -123,26 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2327924414"/>
         <updated>2022-01-28T13:18:32.728Z</updated>
         <content type="html"><![CDATA[301433]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[펜타곤(PENTAGON) - 'Feelin' Like' Choreography Practice Video]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2327886847</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2327886847"/>
-        <updated>2022-01-28T12:24:37.303Z</updated>
-        <content type="html"><![CDATA[301432]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[EN-CORE] #ENHYPEN 정규 1집 리패키지 ‘DIMENSION : ANSWER’ 음악 방송 활동 비하인드 EP.1]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2327877215</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2327877215"/>
-        <updated>2022-01-28T12:24:37.303Z</updated>
-        <content type="html"><![CDATA[301431]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[투바투 휴닝카이 트윗(달다... 너란 과자...)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2327851072</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2327851072"/>
-        <updated>2022-01-28T12:24:37.313Z</updated>
-        <content type="html"><![CDATA[301430]]></content>
     </entry>
 </feed>
