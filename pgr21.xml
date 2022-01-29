@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-29T14:13:46.649Z</updated>
+    <updated>2022-01-29T15:15:25.313Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] "지금 우리 학교는" 일부 해외 언론 평가...]]></title>
+        <id>https://ppt21.com/spoent/65853?category=2</id>
+        <link href="https://ppt21.com/spoent/65853?category=2"/>
+        <updated>2022-01-29T15:15:11.286Z</updated>
+        <content type="html"><![CDATA[우주전쟁]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 넷플릭스 '지금 우리학교는' 첫날 세계 1위로 출발.jpg]]></title>
+        <id>https://ppt21.com/spoent/65851?category=2</id>
+        <link href="https://ppt21.com/spoent/65851?category=2"/>
+        <updated>2022-01-29T15:15:11.290Z</updated>
+        <content type="html"><![CDATA[핑크솔져]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] [놀면뭐하니] 몇 수 앞을 내다 본 유재석.jpg]]></title>
+        <id>https://ppt21.com/spoent/65849?category=2</id>
+        <link href="https://ppt21.com/spoent/65849?category=2"/>
+        <updated>2022-01-29T15:15:11.292Z</updated>
+        <content type="html"><![CDATA[VictoryFood]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 작년부터 광고 많이 찍고 있는 걸그룹 멤버]]></title>
         <id>https://ppt21.com/spoent/65845?category=2</id>
@@ -116,26 +137,5 @@
         <link href="https://ppt21.com/spoent/65807?category=2"/>
         <updated>2022-01-27T11:13:03.570Z</updated>
         <content type="html"><![CDATA[KIMTAEYEON]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 갓더비트 엠카운트다운 스페셜 무대 영상 (+직캠)]]></title>
-        <id>https://ppt21.com/spoent/65806?category=2</id>
-        <link href="https://ppt21.com/spoent/65806?category=2"/>
-        <updated>2022-01-27T11:13:03.571Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 음방 역사에 남을만한 점수차로 결정된 오늘 엠카 1위.jpg (+앵콜 직캠)]]></title>
-        <id>https://ppt21.com/spoent/65805?category=2</id>
-        <link href="https://ppt21.com/spoent/65805?category=2"/>
-        <updated>2022-01-27T11:13:03.576Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 무한도전의 마지막 불꽃]]></title>
-        <id>https://ppt21.com/spoent/65804?category=2</id>
-        <link href="https://ppt21.com/spoent/65804?category=2"/>
-        <updated>2022-01-27T09:16:36.273Z</updated>
-        <content type="html"><![CDATA[니시노 나나세]]></content>
     </entry>
 </feed>
