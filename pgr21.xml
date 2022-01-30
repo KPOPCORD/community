@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-30T14:13:54.789Z</updated>
+    <updated>2022-01-30T15:15:14.903Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 오늘자 넷플릭스 세계 순위]]></title>
+        <id>https://ppt21.com/spoent/65873?category=2</id>
+        <link href="https://ppt21.com/spoent/65873?category=2"/>
+        <updated>2022-01-30T15:14:56.717Z</updated>
+        <content type="html"><![CDATA[카트만두에서만두]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [영상] 예나 LxxK 2 U 오피셜 퍼포먼스 비디오!]]></title>
         <id>https://ppt21.com/spoent/65868?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65832?category=2"/>
         <updated>2022-01-28T16:23:01.877Z</updated>
         <content type="html"><![CDATA[VictoryFood]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 완전히 화해한 MC 스나이퍼와 아웃사이더, 12년만에 함께한 'Run & Run']]></title>
-        <id>https://ppt21.com/spoent/65831?category=2</id>
-        <link href="https://ppt21.com/spoent/65831?category=2"/>
-        <updated>2022-01-28T15:16:24.005Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
