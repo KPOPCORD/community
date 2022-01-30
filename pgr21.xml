@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-30T09:15:34.599Z</updated>
+    <updated>2022-01-30T10:16:01.905Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [영상] 예나 LxxK 2 U 오피셜 퍼포먼스 비디오!]]></title>
+        <id>https://ppt21.com/spoent/65868?category=2</id>
+        <link href="https://ppt21.com/spoent/65868?category=2"/>
+        <updated>2022-01-30T10:15:52.299Z</updated>
+        <content type="html"><![CDATA[KenKim]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 세상에서 자기가 제일 이쁘다는 걸그룹 멤버.JPGIF]]></title>
         <id>https://ppt21.com/spoent/65866?category=2</id>
@@ -129,13 +136,6 @@
         <id>https://ppt21.com/spoent/65831?category=2</id>
         <link href="https://ppt21.com/spoent/65831?category=2"/>
         <updated>2022-01-28T15:16:24.005Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 마마돌 (M.M.D) '우아힙' 퍼포먼스 비디오]]></title>
-        <id>https://ppt21.com/spoent/65830?category=2</id>
-        <link href="https://ppt21.com/spoent/65830?category=2"/>
-        <updated>2022-01-28T14:14:44.941Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
