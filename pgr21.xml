@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-30T00:55:16.334Z</updated>
+    <updated>2022-01-30T01:58:25.906Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] '고요의 바다' 평가를 함에 현타,회의감을 느낀 영화 기자들.jpg]]></title>
+        <id>https://ppt21.com/spoent/65861?category=2</id>
+        <link href="https://ppt21.com/spoent/65861?category=2"/>
+        <updated>2022-01-30T01:58:08.571Z</updated>
+        <content type="html"><![CDATA[핑크솔져]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 원래 JTBC 편성 예정이였던 <지금 우리 학교는>]]></title>
         <id>https://ppt21.com/spoent/65858?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65823?category=2"/>
         <updated>2022-01-28T08:19:08.362Z</updated>
         <content type="html"><![CDATA[아름다운이땅에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 어제 엠카에 데뷔(?)한 마마돌 (엄마는 아이돌) 무대 (+직캠)]]></title>
-        <id>https://ppt21.com/spoent/65819?category=2</id>
-        <link href="https://ppt21.com/spoent/65819?category=2"/>
-        <updated>2022-01-28T06:19:46.091Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
