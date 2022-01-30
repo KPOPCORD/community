@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-30T06:18:03.397Z</updated>
+    <updated>2022-01-30T07:14:53.304Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 불알친구의 도발에 개빡쳐서 몸무게 103KG에서 65KG 까지 감량해버린 남자.JPG]]></title>
+        <id>https://ppt21.com/spoent/65865?category=2</id>
+        <link href="https://ppt21.com/spoent/65865?category=2"/>
+        <updated>2022-01-30T07:14:44.025Z</updated>
+        <content type="html"><![CDATA[insane]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] [놀면뭐하니] 미주를 회사에 진심으로 영입하고 싶었던 하하.jpg]]></title>
+        <id>https://ppt21.com/spoent/65864?category=2</id>
+        <link href="https://ppt21.com/spoent/65864?category=2"/>
+        <updated>2022-01-30T07:14:44.031Z</updated>
+        <content type="html"><![CDATA[나의 연인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] '지금 우리 학교는' 썩토지수...]]></title>
         <id>https://ppt21.com/spoent/65862?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/65828?category=2"/>
         <updated>2022-01-28T13:18:13.012Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [아이브] 금요일에 듣는 금만나 커버 (리즈)]]></title>
-        <id>https://ppt21.com/spoent/65826?category=2</id>
-        <link href="https://ppt21.com/spoent/65826?category=2"/>
-        <updated>2022-01-28T12:24:28.502Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 콘서트 준비차 잠실 주경기장 현장답사하는 아이유.gif]]></title>
-        <id>https://ppt21.com/spoent/65825?category=2</id>
-        <link href="https://ppt21.com/spoent/65825?category=2"/>
-        <updated>2022-01-28T12:24:28.502Z</updated>
-        <content type="html"><![CDATA[VictoryFood]]></content>
     </entry>
 </feed>
