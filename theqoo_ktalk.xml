@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2022-01-30T02:32:33.578Z</updated>
+    <updated>2022-01-30T03:15:42.326Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[네이버now] 이대휘 in 윤상의 '너에게 음악']]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2329247981</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2329247981"/>
+        <updated>2022-01-30T03:15:41.647Z</updated>
+        <content type="html"><![CDATA[301455]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TREASURE(트레저) ‘직진 (JIKJIN)’ VISUAL FILM 마시호 준규 윤재혁 소정환]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2329004267</id>
@@ -137,12 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2328729124"/>
         <updated>2022-01-29T11:14:30.819Z</updated>
         <content type="html"><![CDATA[301436]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[펜타곤 홍석(HONGSEOK) - HONG Seasons #07 'Track 9 / 이소라' with 진호(JINHO)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2328715634</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2328715634"/>
-        <updated>2022-01-29T11:14:30.819Z</updated>
-        <content type="html"><![CDATA[301435]]></content>
     </entry>
 </feed>
