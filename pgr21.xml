@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-30T01:58:25.906Z</updated>
+    <updated>2022-01-30T02:32:33.571Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] '지금 우리 학교는' 썩토지수...]]></title>
+        <id>https://ppt21.com/spoent/65862?category=2</id>
+        <link href="https://ppt21.com/spoent/65862?category=2"/>
+        <updated>2022-01-30T02:32:23.711Z</updated>
+        <content type="html"><![CDATA[우주전쟁]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] '고요의 바다' 평가를 함에 현타,회의감을 느낀 영화 기자들.jpg]]></title>
         <id>https://ppt21.com/spoent/65861?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65825?category=2"/>
         <updated>2022-01-28T12:24:28.502Z</updated>
         <content type="html"><![CDATA[VictoryFood]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 호텔델루나 이후 3년만에 뜬 아이유 드라마 차기작]]></title>
-        <id>https://ppt21.com/spoent/65823?category=2</id>
-        <link href="https://ppt21.com/spoent/65823?category=2"/>
-        <updated>2022-01-28T08:19:08.362Z</updated>
-        <content type="html"><![CDATA[아름다운이땅에]]></content>
     </entry>
 </feed>
