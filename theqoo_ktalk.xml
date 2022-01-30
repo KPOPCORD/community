@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2022-01-30T12:23:31.263Z</updated>
+    <updated>2022-01-30T13:16:39.805Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[THE STAR SEEKERS with TXT (투바투) | Making Film 1]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2329741009</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2329741009"/>
+        <updated>2022-01-30T13:16:39.115Z</updated>
+        <content type="html"><![CDATA[301472]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[붓글씨 하면 내일도 함께하는자들📝 리액션 하면 투모로우바이투게더 MOA👏🏻💕 어서 모이시게🌊⛰🐅]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2329704157</id>
@@ -137,12 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2329247981"/>
         <updated>2022-01-30T03:15:41.647Z</updated>
         <content type="html"><![CDATA[301453]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TREASURE(트레저) ‘직진 (JIKJIN)’ VISUAL FILM 마시호 준규 윤재혁 소정환]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2329004267</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2329004267"/>
-        <updated>2022-01-29T15:15:24.634Z</updated>
-        <content type="html"><![CDATA[301452]]></content>
     </entry>
 </feed>
