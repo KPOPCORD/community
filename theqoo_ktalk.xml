@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2022-01-31T12:24:29.639Z</updated>
+    <updated>2022-01-31T13:19:43.252Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[방과후 설렘 공트 단발 유연 사진]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2330617676</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2330617676"/>
+        <updated>2022-01-31T13:19:42.556Z</updated>
+        <content type="html"><![CDATA[301504]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[FULL] 강다니엘 블랙잭K Ep. 1]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2330578570</id>
@@ -34,7 +41,7 @@
         <content type="html"><![CDATA[301500]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[씨아이엑스 배진영 트위터 인스타그램 업뎃]]></title>
+        <title type="html"><![CDATA[씨아이엑스 배진영 트위터 인스타그램 업뎃💜]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2330517222</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2330517222"/>
         <updated>2022-01-31T11:14:22.713Z</updated>
@@ -137,12 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2330331555"/>
         <updated>2022-01-31T07:16:29.006Z</updated>
         <content type="html"><![CDATA[301485]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[투바투 연준 인스타]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2330257516</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2330257516"/>
-        <updated>2022-01-31T06:19:21.439Z</updated>
-        <content type="html"><![CDATA[301484]]></content>
     </entry>
 </feed>
