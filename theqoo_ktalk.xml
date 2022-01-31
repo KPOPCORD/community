@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2022-01-31T19:12:36.512Z</updated>
+    <updated>2022-01-31T20:16:45.704Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[에이티즈 2022 설날 인사 메시지]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2330914937</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2330914937"/>
+        <updated>2022-01-31T20:16:44.962Z</updated>
+        <content type="html"><![CDATA[301508]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TREASURE(트레저) ‘직진 (JIKJIN)’ VISUAL FILM 지훈 박정우 도영 최현석]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2330753656</id>
@@ -137,12 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2330421762"/>
         <updated>2022-01-31T09:16:43.419Z</updated>
         <content type="html"><![CDATA[301489]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ATEEZ (에이티즈) - 'Don't Stop' Official Music Video PREVIEW (유니버스 신곡)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2330420756</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2330420756"/>
-        <updated>2022-01-31T09:16:43.421Z</updated>
-        <content type="html"><![CDATA[301488]]></content>
     </entry>
 </feed>
