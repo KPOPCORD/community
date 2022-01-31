@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-31T15:16:24.234Z</updated>
+    <updated>2022-01-31T16:22:49.917Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 소주가 너무 써서 잘 못마신다는 여자아이돌.GIF]]></title>
+        <id>https://ppt21.com/spoent/65890?category=2</id>
+        <link href="https://ppt21.com/spoent/65890?category=2"/>
+        <updated>2022-01-31T16:22:39.317Z</updated>
+        <content type="html"><![CDATA[insane]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 넷플릭스 <지금 우리 학교는> 월드랭킹 1위 유지, 포인트는 또 상승]]></title>
         <id>https://ppt21.com/spoent/65888?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65855?category=2"/>
         <updated>2022-01-29T16:22:12.629Z</updated>
         <content type="html"><![CDATA[빼사스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] "지금 우리 학교는" 일부 해외 언론 평가...]]></title>
-        <id>https://ppt21.com/spoent/65853?category=2</id>
-        <link href="https://ppt21.com/spoent/65853?category=2"/>
-        <updated>2022-01-29T15:15:11.286Z</updated>
-        <content type="html"><![CDATA[우주전쟁]]></content>
     </entry>
 </feed>
