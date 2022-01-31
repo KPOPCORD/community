@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-31T00:53:18.158Z</updated>
+    <updated>2022-01-31T01:56:39.219Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 2022년 1월 5주 D-차트 : 프로미스나인 2위-태연 6위-예나 8위]]></title>
+        <id>https://ppt21.com/spoent/65877?category=2</id>
+        <link href="https://ppt21.com/spoent/65877?category=2"/>
+        <updated>2022-01-31T01:56:26.878Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 오늘자 넷플릭스 세계 순위]]></title>
         <id>https://ppt21.com/spoent/65873?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65836?category=2"/>
         <updated>2022-01-29T03:15:49.579Z</updated>
         <content type="html"><![CDATA[그10번]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 브레이브걸스 유나, 오마이걸 유빈, 비비즈 엄지 코로나19 확진]]></title>
-        <id>https://ppt21.com/spoent/65832?category=2</id>
-        <link href="https://ppt21.com/spoent/65832?category=2"/>
-        <updated>2022-01-28T16:23:01.877Z</updated>
-        <content type="html"><![CDATA[VictoryFood]]></content>
     </entry>
 </feed>
