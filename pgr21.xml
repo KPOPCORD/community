@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-01-31T08:19:46.633Z</updated>
+    <updated>2022-01-31T09:16:44.151Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [런닝맨] ???: 노래 못한다는 소리는 해도 축구 못한다는 소리는 하지 마! (고전주의)]]></title>
+        <id>https://ppt21.com/spoent/65884?category=2</id>
+        <link href="https://ppt21.com/spoent/65884?category=2"/>
+        <updated>2022-01-31T09:16:34.292Z</updated>
+        <content type="html"><![CDATA[A1]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] [로켓펀치] 울림식 보안]]></title>
+        <id>https://ppt21.com/spoent/65882?category=2</id>
+        <link href="https://ppt21.com/spoent/65882?category=2"/>
+        <updated>2022-01-31T09:16:34.302Z</updated>
+        <content type="html"><![CDATA[어강됴리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 얼빡샷 찍는 인기가요 카메라감독님 인터뷰]]></title>
         <id>https://ppt21.com/spoent/65881?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/65849?category=2"/>
         <updated>2022-01-29T15:15:11.292Z</updated>
         <content type="html"><![CDATA[VictoryFood]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 작년부터 광고 많이 찍고 있는 걸그룹 멤버]]></title>
-        <id>https://ppt21.com/spoent/65845?category=2</id>
-        <link href="https://ppt21.com/spoent/65845?category=2"/>
-        <updated>2022-01-29T12:23:21.598Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [로켓펀치] 지애한테 새해인사 안한 연희 & 서울깐부투어]]></title>
-        <id>https://ppt21.com/spoent/65843?category=2</id>
-        <link href="https://ppt21.com/spoent/65843?category=2"/>
-        <updated>2022-01-29T09:15:24.720Z</updated>
-        <content type="html"><![CDATA[어강됴리]]></content>
     </entry>
 </feed>
