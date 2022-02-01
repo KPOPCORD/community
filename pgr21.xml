@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-02-01T15:16:39.315Z</updated>
+    <updated>2022-02-01T16:25:02.483Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 설강화 시청자들 외면 속 '눈막귀막'으로 씁쓸한 퇴장]]></title>
+        <id>https://ppt21.com/spoent/65911?category=2</id>
+        <link href="https://ppt21.com/spoent/65911?category=2"/>
+        <updated>2022-02-01T16:24:46.454Z</updated>
+        <content type="html"><![CDATA[미러스엣지]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 넷플릭스 <지금 우리 학교는> 월드랭킹 포인트 또 다시 상승]]></title>
+        <id>https://ppt21.com/spoent/65906?category=2</id>
+        <link href="https://ppt21.com/spoent/65906?category=2"/>
+        <updated>2022-02-01T16:24:46.456Z</updated>
+        <content type="html"><![CDATA[아롱이다롱이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 오랜만의 방송 출연, 재익좌와 송유진]]></title>
         <id>https://ppt21.com/spoent/65904?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/65864?category=2"/>
         <updated>2022-01-30T07:14:44.031Z</updated>
         <content type="html"><![CDATA[나의 연인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] '지금 우리 학교는' 썩토지수...]]></title>
-        <id>https://ppt21.com/spoent/65862?category=2</id>
-        <link href="https://ppt21.com/spoent/65862?category=2"/>
-        <updated>2022-01-30T02:32:23.711Z</updated>
-        <content type="html"><![CDATA[우주전쟁]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] '고요의 바다' 평가를 함에 현타,회의감을 느낀 영화 기자들.jpg]]></title>
-        <id>https://ppt21.com/spoent/65861?category=2</id>
-        <link href="https://ppt21.com/spoent/65861?category=2"/>
-        <updated>2022-01-30T01:58:08.571Z</updated>
-        <content type="html"><![CDATA[핑크솔져]]></content>
     </entry>
 </feed>
