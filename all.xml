@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-01T09:16:35.621Z</updated>
+    <updated>2022-02-01T10:18:11.358Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[연예] 걸그룹 2022 설날 인사 모음 - 연휴 끝까지 잘 보내시길! (Pgr21 ─ 연예)]]></title>
@@ -138,6 +138,27 @@
         <content type="html"><![CDATA[아롱이다롱이]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[드디어 1교시 시작🎉 마음의 준비를 마친 #ENGENE 은 아래 링크를 통해 수업에 참여해주세요😊 #ENHYPEN(엔하이픈) 의 설 맞이 특강 👉레쭈고👈 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2331328769</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2331328769"/>
+        <updated>2022-02-01T10:18:10.542Z</updated>
+        <content type="html"><![CDATA[301531]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[업텐션 U10TV ep 307 - 설 특집 떡국 만들기! 본격, 요알못이 뭉치면 생기는 일 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2331304306</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2331304306"/>
+        <updated>2022-02-01T10:18:10.542Z</updated>
+        <content type="html"><![CDATA[301530]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🎭과몰입장 | AB6IX🎬 우리,,저예산 영화야??? 우리끼리 다해😇 AB6IX만의 리얼막장 하이퍼리즘 드라마가 온다! (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2331302599</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2331302599"/>
+        <updated>2022-02-01T10:18:10.545Z</updated>
+        <content type="html"><![CDATA[301529]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ENHYPEN (엔하이픈) 'DDUDDU School' Teaser (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2331286112</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2331286112"/>
@@ -255,26 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2331043472"/>
         <updated>2022-02-01T03:15:55.838Z</updated>
         <content type="html"><![CDATA[301512]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#ENHYPEN 이 전하는 설 인사🙇 새해 복 많이 받으세요💕 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2331043255</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2331043255"/>
-        <updated>2022-02-01T03:15:55.894Z</updated>
-        <content type="html"><![CDATA[301511]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스키즈 아이엔 인스타그램 업뎃🦊🍞 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2331013729</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2331013729"/>
-        <updated>2022-02-01T03:15:55.894Z</updated>
-        <content type="html"><![CDATA[301510]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTS 지민·비비지 등 10일 동안 30여명 확진…가요계 또 코로나 비상 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2331008949</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2331008949"/>
-        <updated>2022-02-01T03:15:55.896Z</updated>
-        <content type="html"><![CDATA[301509]]></content>
     </entry>
 </feed>
