@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-01T21:13:34.747Z</updated>
+    <updated>2022-02-01T22:15:32.804Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] 1월 마지막 주차 넷플릭스 공식 시청시간 순위!! (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/65917?category=2</id>
+        <link href="https://ppt21.com/spoent/65917?category=2"/>
+        <updated>2022-02-01T22:15:23.849Z</updated>
+        <content type="html"><![CDATA[카트만두에서만두]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 홍진호 근황 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/65916?category=2</id>
@@ -129,13 +136,6 @@
         <link href="https://ppt21.com/spoent/65868?category=2"/>
         <updated>2022-01-30T10:15:52.299Z</updated>
         <content type="html"><![CDATA[KenKim]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 세상에서 자기가 제일 이쁘다는 걸그룹 멤버.JPGIF (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/65866?category=2</id>
-        <link href="https://ppt21.com/spoent/65866?category=2"/>
-        <updated>2022-01-30T08:18:03.844Z</updated>
-        <content type="html"><![CDATA[insane]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[강성훈 코카인.gif (더쿠 ─ 케이돌토크)]]></title>
