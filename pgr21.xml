@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-02-01T02:03:05.806Z</updated>
+    <updated>2022-02-01T03:15:56.585Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 정말 유익했던 만화]]></title>
+        <id>https://ppt21.com/spoent/65895?category=2</id>
+        <link href="https://ppt21.com/spoent/65895?category=2"/>
+        <updated>2022-02-01T03:15:45.117Z</updated>
+        <content type="html"><![CDATA[니시노 나나세]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 소주가 너무 써서 잘 못마신다는 여자아이돌.GIF]]></title>
         <id>https://ppt21.com/spoent/65890?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65856?category=2"/>
         <updated>2022-01-29T16:22:12.627Z</updated>
         <content type="html"><![CDATA[A1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 충격적인 [개승자] 탑6 결정전]]></title>
-        <id>https://ppt21.com/spoent/65855?category=2</id>
-        <link href="https://ppt21.com/spoent/65855?category=2"/>
-        <updated>2022-01-29T16:22:12.629Z</updated>
-        <content type="html"><![CDATA[빼사스]]></content>
     </entry>
 </feed>
