@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-02-01T17:19:12.392Z</updated>
+    <updated>2022-02-01T18:18:57.824Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 2021년 여자가수 전체 음반 판매량 (가온기준) - 스압]]></title>
+        <id>https://ppt21.com/spoent/65915?category=2</id>
+        <link href="https://ppt21.com/spoent/65915?category=2"/>
+        <updated>2022-02-01T18:18:46.393Z</updated>
+        <content type="html"><![CDATA[VictoryFood]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 설강화 시청자들 외면 속 '눈막귀막'으로 씁쓸한 퇴장]]></title>
         <id>https://ppt21.com/spoent/65911?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65865?category=2"/>
         <updated>2022-01-30T07:14:44.025Z</updated>
         <content type="html"><![CDATA[insane]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [놀면뭐하니] 미주를 회사에 진심으로 영입하고 싶었던 하하.jpg]]></title>
-        <id>https://ppt21.com/spoent/65864?category=2</id>
-        <link href="https://ppt21.com/spoent/65864?category=2"/>
-        <updated>2022-01-30T07:14:44.031Z</updated>
-        <content type="html"><![CDATA[나의 연인]]></content>
     </entry>
 </feed>
