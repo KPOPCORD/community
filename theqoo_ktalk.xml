@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2022-02-02T08:19:00.936Z</updated>
+    <updated>2022-02-02T09:15:27.066Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[체리블렛 보라 코로나 확진]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2332098859</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2332098859"/>
+        <updated>2022-02-02T09:15:26.456Z</updated>
+        <content type="html"><![CDATA[301547]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김재환(KIM JAE HWAN) 코로나19 확진 관련 안내]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2332084813</id>
@@ -137,12 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2331368576"/>
         <updated>2022-02-01T11:14:16.821Z</updated>
         <content type="html"><![CDATA[301528]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CIX 씨아이엑스 승훈 인스타그램 업뎃💛]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2331361940</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2331361940"/>
-        <updated>2022-02-01T11:14:16.823Z</updated>
-        <content type="html"><![CDATA[301527]]></content>
     </entry>
 </feed>
