@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-02T22:15:17.034Z</updated>
+    <updated>2022-02-02T23:16:08.114Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[연예] 태연 정규 3집 'INVU' 무드샘플러 (Pgr21 ─ 연예)]]></title>
@@ -138,6 +138,13 @@
         <content type="html"><![CDATA[빼사스]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[비투비, 21일 정규 3집 'Be Together' 컴백 확정[공식] (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2332769030</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2332769030"/>
+        <updated>2022-02-02T23:16:07.415Z</updated>
+        <content type="html"><![CDATA[301568]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[방탄 지민 위버스 포스트 업뎃 2 "걱정 끼쳐서 좌송합니다 하지만 금방 퇴원할 수 있을 것 같아요! 회복도 잘하고 있고 밥도 세끼 다 챙겨 먹었어요 😊 잠깐만 기다려주세요 언능 회복하고 갈게요 !" (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2332599766</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2332599766"/>
@@ -269,12 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2332238454"/>
         <updated>2022-02-02T11:14:08.221Z</updated>
         <content type="html"><![CDATA[301549]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔하이픈 정원 위버스😆 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2332238024</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2332238024"/>
-        <updated>2022-02-02T11:14:08.222Z</updated>
-        <content type="html"><![CDATA[301548]]></content>
     </entry>
 </feed>

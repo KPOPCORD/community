@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2022-02-02T22:15:17.022Z</updated>
+    <updated>2022-02-02T23:16:08.116Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[비투비, 21일 정규 3집 'Be Together' 컴백 확정[공식]]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2332769030</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2332769030"/>
+        <updated>2022-02-02T23:16:07.415Z</updated>
+        <content type="html"><![CDATA[301568]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[방탄 지민 위버스 포스트 업뎃 2 "걱정 끼쳐서 좌송합니다 하지만 금방 퇴원할 수 있을 것 같아요! 회복도 잘하고 있고 밥도 세끼 다 챙겨 먹었어요 😊 잠깐만 기다려주세요 언능 회복하고 갈게요 !"]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2332599766</id>
@@ -137,12 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2332238454"/>
         <updated>2022-02-02T11:14:08.221Z</updated>
         <content type="html"><![CDATA[301549]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔하이픈 정원 위버스😆]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2332238024</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2332238024"/>
-        <updated>2022-02-02T11:14:08.222Z</updated>
-        <content type="html"><![CDATA[301548]]></content>
     </entry>
 </feed>
