@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-02-02T06:19:06.747Z</updated>
+    <updated>2022-02-02T07:15:26.372Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 흥행 냄새를 맡은 넷플릭스??]]></title>
+        <id>https://ppt21.com/spoent/65934?category=2</id>
+        <link href="https://ppt21.com/spoent/65934?category=2"/>
+        <updated>2022-02-02T07:14:46.494Z</updated>
+        <content type="html"><![CDATA[아롱이다롱이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [에스파] 유투브 직캠 썸네일의 중요성]]></title>
         <id>https://ppt21.com/spoent/65930?category=2</id>
@@ -129,13 +136,6 @@
         <id>https://ppt21.com/spoent/65888?category=2</id>
         <link href="https://ppt21.com/spoent/65888?category=2"/>
         <updated>2022-01-31T15:16:10.181Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [영국 가디언] 넷플릭스의 한국 좀비 쇼가 여러분을 놀라게 할 것이다.]]></title>
-        <id>https://ppt21.com/spoent/65885?category=2</id>
-        <link href="https://ppt21.com/spoent/65885?category=2"/>
-        <updated>2022-01-31T11:14:13.159Z</updated>
         <content type="html"><![CDATA[아롱이다롱이]]></content>
     </entry>
 </feed>
