@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-02-02T05:15:47.739Z</updated>
+    <updated>2022-02-02T06:19:06.747Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [에스파] 유투브 직캠 썸네일의 중요성]]></title>
+        <id>https://ppt21.com/spoent/65930?category=2</id>
+        <link href="https://ppt21.com/spoent/65930?category=2"/>
+        <updated>2022-02-02T06:18:56.129Z</updated>
+        <content type="html"><![CDATA[묘이 미나]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [VIVIZ] 미니앨범 1집 'Beam Of Prism' 무드 샘플러 + 트랙 리스트]]></title>
         <id>https://ppt21.com/spoent/65926?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65885?category=2"/>
         <updated>2022-01-31T11:14:13.159Z</updated>
         <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [런닝맨] ???: 노래 못한다는 소리는 해도 축구 못한다는 소리는 하지 마! (고전주의)]]></title>
-        <id>https://ppt21.com/spoent/65884?category=2</id>
-        <link href="https://ppt21.com/spoent/65884?category=2"/>
-        <updated>2022-01-31T09:16:34.292Z</updated>
-        <content type="html"><![CDATA[A1]]></content>
     </entry>
 </feed>
