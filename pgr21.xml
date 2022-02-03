@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-02-03T13:20:15.736Z</updated>
+    <updated>2022-02-03T14:16:55.194Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 3월 31일 퀸덤2가 시작됩니다]]></title>
+        <id>https://ppt21.com/spoent/65957?category=2</id>
+        <link href="https://ppt21.com/spoent/65957?category=2"/>
+        <updated>2022-02-03T14:16:43.981Z</updated>
+        <content type="html"><![CDATA[Gunners]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 공중파 나와서 삼성종신 선언했던 구자욱.mp4]]></title>
         <id>https://ppt21.com/spoent/65955?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65915?category=2"/>
         <updated>2022-02-01T18:18:46.393Z</updated>
         <content type="html"><![CDATA[VictoryFood]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 설강화 시청자들 외면 속 '눈막귀막'으로 씁쓸한 퇴장]]></title>
-        <id>https://ppt21.com/spoent/65911?category=2</id>
-        <link href="https://ppt21.com/spoent/65911?category=2"/>
-        <updated>2022-02-01T16:24:46.454Z</updated>
-        <content type="html"><![CDATA[미러스엣지]]></content>
     </entry>
 </feed>

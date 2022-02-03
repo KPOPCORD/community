@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2022-02-03T13:20:15.739Z</updated>
+    <updated>2022-02-03T14:16:55.197Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[엔하이픈 정원 위버스✌]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2333590234</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2333590234"/>
+        <updated>2022-02-03T14:16:54.425Z</updated>
+        <content type="html"><![CDATA[301592]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CIX 씨아이엑스 승훈 인스타그램 업뎃💛]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2333574809</id>
@@ -137,12 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2333079021"/>
         <updated>2022-02-03T06:19:35.251Z</updated>
         <content type="html"><![CDATA[301573]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YG 측 "위너·아이콘·트레저 코로나19 완치"(공식)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2333065498</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2333065498"/>
-        <updated>2022-02-03T06:19:35.253Z</updated>
-        <content type="html"><![CDATA[301572]]></content>
     </entry>
 </feed>

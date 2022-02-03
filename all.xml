@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-03T13:20:15.848Z</updated>
+    <updated>2022-02-03T14:16:55.204Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] 3월 31일 퀸덤2가 시작됩니다 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/65957?category=2</id>
+        <link href="https://ppt21.com/spoent/65957?category=2"/>
+        <updated>2022-02-03T14:16:43.981Z</updated>
+        <content type="html"><![CDATA[Gunners]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 공중파 나와서 삼성종신 선언했던 구자욱.mp4 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/65955?category=2</id>
@@ -131,11 +138,11 @@
         <content type="html"><![CDATA[VictoryFood]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[연예] 설강화 시청자들 외면 속 '눈막귀막'으로 씁쓸한 퇴장 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/65911?category=2</id>
-        <link href="https://ppt21.com/spoent/65911?category=2"/>
-        <updated>2022-02-01T16:24:46.454Z</updated>
-        <content type="html"><![CDATA[미러스엣지]]></content>
+        <title type="html"><![CDATA[엔하이픈 정원 위버스✌ (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2333590234</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2333590234"/>
+        <updated>2022-02-03T14:16:54.425Z</updated>
+        <content type="html"><![CDATA[301592]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[CIX 씨아이엑스 승훈 인스타그램 업뎃💛 (더쿠 ─ 케이돌토크)]]></title>
@@ -269,12 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2333079021"/>
         <updated>2022-02-03T06:19:35.251Z</updated>
         <content type="html"><![CDATA[301573]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YG 측 "위너·아이콘·트레저 코로나19 완치"(공식) (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2333065498</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2333065498"/>
-        <updated>2022-02-03T06:19:35.253Z</updated>
-        <content type="html"><![CDATA[301572]]></content>
     </entry>
 </feed>
