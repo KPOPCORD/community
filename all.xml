@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-03T09:15:51.614Z</updated>
+    <updated>2022-02-03T10:16:49.460Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] 공중파 나와서 삼성종신 선언했던 구자욱.mp4 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/65955?category=2</id>
+        <link href="https://ppt21.com/spoent/65955?category=2"/>
+        <updated>2022-02-03T10:16:40.299Z</updated>
+        <content type="html"><![CDATA[insane]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [지우학] 어둡고 슬프지만, 아름다운 절비&인간의 Lovely (스포주의) (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/65950?category=2</id>
@@ -131,11 +138,18 @@
         <content type="html"><![CDATA[미러스엣지]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[연예] 넷플릭스 <지금 우리 학교는> 월드랭킹 포인트 또 다시 상승 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/65906?category=2</id>
-        <link href="https://ppt21.com/spoent/65906?category=2"/>
-        <updated>2022-02-01T16:24:46.456Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
+        <title type="html"><![CDATA[펜타곤(PENTAGON) #Feelin_Like 상황극 Ver. 😏 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2333322701</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2333322701"/>
+        <updated>2022-02-03T10:16:48.760Z</updated>
+        <content type="html"><![CDATA[301579]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[EPISODE] 역사적인 2관왕의 순간🏆🏆 선배님과의 훈훈한 장면까지! #ENHYPEN(엔하이픈) #2021AAA (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2333322662</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2333322662"/>
+        <updated>2022-02-03T10:16:48.766Z</updated>
+        <content type="html"><![CDATA[301578]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독샷캠4K] 펜타곤 'Feelin' Like' 단독샷 별도녹화│@SBS Inkigayo_2022.01.30. (더쿠 ─ 케이돌토크)]]></title>
@@ -262,19 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2332599766"/>
         <updated>2022-02-02T15:16:31.675Z</updated>
         <content type="html"><![CDATA[301560]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TREASURE(트레저) ‘THE SECOND STEP : CHAPTER ONE’ TRACKLIST POSTER (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2332583400</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2332583400"/>
-        <updated>2022-02-02T15:16:31.675Z</updated>
-        <content type="html"><![CDATA[301559]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[골든차일드 김지범 생일 축전 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2332582798</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2332582798"/>
-        <updated>2022-02-02T15:16:31.675Z</updated>
-        <content type="html"><![CDATA[301558]]></content>
     </entry>
 </feed>

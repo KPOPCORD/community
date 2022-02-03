@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2022-02-03T09:15:51.628Z</updated>
+    <updated>2022-02-03T10:16:49.456Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[펜타곤(PENTAGON) #Feelin_Like 상황극 Ver. 😏]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2333322701</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2333322701"/>
+        <updated>2022-02-03T10:16:48.760Z</updated>
+        <content type="html"><![CDATA[301579]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[EPISODE] 역사적인 2관왕의 순간🏆🏆 선배님과의 훈훈한 장면까지! #ENHYPEN(엔하이픈) #2021AAA]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2333322662</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2333322662"/>
+        <updated>2022-02-03T10:16:48.766Z</updated>
+        <content type="html"><![CDATA[301578]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독샷캠4K] 펜타곤 'Feelin' Like' 단독샷 별도녹화│@SBS Inkigayo_2022.01.30.]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2333213165</id>
@@ -130,19 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2332599766"/>
         <updated>2022-02-02T15:16:31.675Z</updated>
         <content type="html"><![CDATA[301560]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TREASURE(트레저) ‘THE SECOND STEP : CHAPTER ONE’ TRACKLIST POSTER]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2332583400</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2332583400"/>
-        <updated>2022-02-02T15:16:31.675Z</updated>
-        <content type="html"><![CDATA[301559]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[골든차일드 김지범 생일 축전]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2332582798</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2332582798"/>
-        <updated>2022-02-02T15:16:31.675Z</updated>
-        <content type="html"><![CDATA[301558]]></content>
     </entry>
 </feed>
