@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2022-02-03T14:16:55.197Z</updated>
+    <updated>2022-02-03T15:15:59.382Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[스키즈 리노 인스타 업뎃 🐱]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2333689207</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2333689207"/>
+        <updated>2022-02-03T15:15:58.700Z</updated>
+        <content type="html"><![CDATA[301593]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엔하이픈 정원 위버스✌]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2333590234</id>
@@ -137,12 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2333193318"/>
         <updated>2022-02-03T08:19:09.275Z</updated>
         <content type="html"><![CDATA[301574]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 제19회 한국대중음악상 후보발표 🗓2022-02-09(수) 14:00 한대음 유튜브 생중계]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2333079021</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2333079021"/>
-        <updated>2022-02-03T06:19:35.251Z</updated>
-        <content type="html"><![CDATA[301573]]></content>
     </entry>
 </feed>

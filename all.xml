@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-03T14:16:55.204Z</updated>
+    <updated>2022-02-03T15:15:59.386Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] 넷플릭스 <지금 우리 학교는>지우학, 전날대비 1점 또 상승 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/65959?category=2</id>
+        <link href="https://ppt21.com/spoent/65959?category=2"/>
+        <updated>2022-02-03T15:15:49.990Z</updated>
+        <content type="html"><![CDATA[아롱이다롱이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] I don't play this song anywhere else, except Seoul. (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/65958?category=2</id>
+        <link href="https://ppt21.com/spoent/65958?category=2"/>
+        <updated>2022-02-03T15:15:49.990Z</updated>
+        <content type="html"><![CDATA[FLUXUX]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 3월 31일 퀸덤2가 시작됩니다 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/65957?category=2</id>
@@ -124,18 +138,11 @@
         <content type="html"><![CDATA[카트만두에서만두]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[연예] 홍진호 근황 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/65916?category=2</id>
-        <link href="https://ppt21.com/spoent/65916?category=2"/>
-        <updated>2022-02-01T19:13:44.733Z</updated>
-        <content type="html"><![CDATA[어강됴리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 2021년 여자가수 전체 음반 판매량 (가온기준) - 스압 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/65915?category=2</id>
-        <link href="https://ppt21.com/spoent/65915?category=2"/>
-        <updated>2022-02-01T18:18:46.393Z</updated>
-        <content type="html"><![CDATA[VictoryFood]]></content>
+        <title type="html"><![CDATA[스키즈 리노 인스타 업뎃 🐱 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2333689207</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2333689207"/>
+        <updated>2022-02-03T15:15:58.700Z</updated>
+        <content type="html"><![CDATA[301593]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[엔하이픈 정원 위버스✌ (더쿠 ─ 케이돌토크)]]></title>
@@ -269,12 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2333193318"/>
         <updated>2022-02-03T08:19:09.275Z</updated>
         <content type="html"><![CDATA[301574]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 제19회 한국대중음악상 후보발표 🗓2022-02-09(수) 14:00 한대음 유튜브 생중계 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2333079021</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2333079021"/>
-        <updated>2022-02-03T06:19:35.251Z</updated>
-        <content type="html"><![CDATA[301573]]></content>
     </entry>
 </feed>
