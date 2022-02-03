@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-03T12:26:13.526Z</updated>
+    <updated>2022-02-03T13:20:15.848Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[연예] 공중파 나와서 삼성종신 선언했던 구자욱.mp4 (Pgr21 ─ 연예)]]></title>
@@ -138,6 +138,20 @@
         <content type="html"><![CDATA[미러스엣지]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[CIX 씨아이엑스 승훈 인스타그램 업뎃💛 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2333574809</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2333574809"/>
+        <updated>2022-02-03T13:20:15.065Z</updated>
+        <content type="html"><![CDATA[301591]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CIX 씨아이엑스 BX 이병곤 인스타그램 업뎃💙 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2333559148</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2333559148"/>
+        <updated>2022-02-03T13:20:15.065Z</updated>
+        <content type="html"><![CDATA[301590]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[펜타곤(PENTAGON) - 'Feelin' Like' Recording Behind (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2333477928</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2333477928"/>
@@ -262,19 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2333065498"/>
         <updated>2022-02-03T06:19:35.253Z</updated>
         <content type="html"><![CDATA[301572]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유니버스 라디오 새로운 시리즈 공개 예정! (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2333062702</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2333062702"/>
-        <updated>2022-02-03T06:19:35.255Z</updated>
-        <content type="html"><![CDATA[301571]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[☁️하성운 구름셍 트위터 업뎃 누구세용?!?!?!?❤❤ (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2333024362</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2333024362"/>
-        <updated>2022-02-03T05:15:11.704Z</updated>
-        <content type="html"><![CDATA[301570]]></content>
     </entry>
 </feed>
