@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-02-04T08:15:47.887Z</updated>
+    <updated>2022-02-04T09:14:52.199Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [단독]투표 조작 '프로듀스' CP, 중징계 처분 후 이달 중 업무 복귀]]></title>
+        <id>https://ppt21.com/spoent/65969?category=2</id>
+        <link href="https://ppt21.com/spoent/65969?category=2"/>
+        <updated>2022-02-04T09:14:39.642Z</updated>
+        <content type="html"><![CDATA[Bronx Bombers]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 아니 도대체 깻잎이 뭐라고!!!!!!]]></title>
         <id>https://ppt21.com/spoent/65968?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65925?category=2"/>
         <updated>2022-02-02T03:15:35.485Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 연기 잘하는지 못하는지 이쁜지 안예쁜지 헷갈리는 배우.gif]]></title>
-        <id>https://ppt21.com/spoent/65924?category=2</id>
-        <link href="https://ppt21.com/spoent/65924?category=2"/>
-        <updated>2022-02-02T01:59:50.375Z</updated>
-        <content type="html"><![CDATA[insane]]></content>
     </entry>
 </feed>
