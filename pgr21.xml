@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-02-04T14:14:02.650Z</updated>
+    <updated>2022-02-04T15:14:03.118Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 간만에 무도 캐미 폭발?]]></title>
+        <id>https://ppt21.com/spoent/65979?category=2</id>
+        <link href="https://ppt21.com/spoent/65979?category=2"/>
+        <updated>2022-02-04T15:13:48.375Z</updated>
+        <content type="html"><![CDATA[EZrock]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 넷플릭스 <지금 우리 학교는>지우학,  영국에 이어 미국도 1위등극]]></title>
+        <id>https://ppt21.com/spoent/65978?category=2</id>
+        <link href="https://ppt21.com/spoent/65978?category=2"/>
+        <updated>2022-02-04T15:13:48.378Z</updated>
+        <content type="html"><![CDATA[아롱이다롱이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 뮤직뱅크 K-차트 점수 산정 방식이 바뀝니다.]]></title>
         <id>https://ppt21.com/spoent/65973?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/65934?category=2"/>
         <updated>2022-02-02T07:14:46.494Z</updated>
         <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [에스파] 유투브 직캠 썸네일의 중요성]]></title>
-        <id>https://ppt21.com/spoent/65930?category=2</id>
-        <link href="https://ppt21.com/spoent/65930?category=2"/>
-        <updated>2022-02-02T06:18:56.129Z</updated>
-        <content type="html"><![CDATA[묘이 미나]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [VIVIZ] 미니앨범 1집 'Beam Of Prism' 무드 샘플러 + 트랙 리스트]]></title>
-        <id>https://ppt21.com/spoent/65926?category=2</id>
-        <link href="https://ppt21.com/spoent/65926?category=2"/>
-        <updated>2022-02-02T03:15:35.474Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
