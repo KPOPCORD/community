@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-02-04T02:17:20.717Z</updated>
+    <updated>2022-02-04T03:14:50.607Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [단독] '퀸덤2' 라인업 가닥잡나? 비비지-ITZY-브브걸-케플러 물망]]></title>
+        <id>https://ppt21.com/spoent/65966?category=2</id>
+        <link href="https://ppt21.com/spoent/65966?category=2"/>
+        <updated>2022-02-04T03:14:17.229Z</updated>
+        <content type="html"><![CDATA[Anti-MAGE]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 태연 정규 3집 'INVU' 티저 이미지 (스압주의)]]></title>
         <id>https://ppt21.com/spoent/65960?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65922?category=2"/>
         <updated>2022-02-02T01:59:50.382Z</updated>
         <content type="html"><![CDATA[insane]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [커버뭐하니] 쿨 - 너이길 원했던 이유]]></title>
-        <id>https://ppt21.com/spoent/65919?category=2</id>
-        <link href="https://ppt21.com/spoent/65919?category=2"/>
-        <updated>2022-02-02T00:57:37.244Z</updated>
-        <content type="html"><![CDATA[강가딘]]></content>
     </entry>
 </feed>
