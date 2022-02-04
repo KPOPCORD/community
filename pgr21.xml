@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-02-04T15:14:03.118Z</updated>
+    <updated>2022-02-04T16:20:16.387Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [VIVIZ] 미니앨범 1집 'Beam Of Prism' 개인 콘셉트 비디오]]></title>
+        <id>https://ppt21.com/spoent/65984?category=2</id>
+        <link href="https://ppt21.com/spoent/65984?category=2"/>
+        <updated>2022-02-04T16:20:05.808Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 구라철) 아이돌 뒷얘기]]></title>
+        <id>https://ppt21.com/spoent/65982?category=2</id>
+        <link href="https://ppt21.com/spoent/65982?category=2"/>
+        <updated>2022-02-04T16:20:05.809Z</updated>
+        <content type="html"><![CDATA[어강됴리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 스엠이 스엠했다.]]></title>
+        <id>https://ppt21.com/spoent/65981?category=2</id>
+        <link href="https://ppt21.com/spoent/65981?category=2"/>
+        <updated>2022-02-04T16:20:05.823Z</updated>
+        <content type="html"><![CDATA[KIMTAEYEON]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] (약스포) 지우학에서 많은 분들이 인정하는 닮은꼴 Best.jpg]]></title>
+        <id>https://ppt21.com/spoent/65980?category=2</id>
+        <link href="https://ppt21.com/spoent/65980?category=2"/>
+        <updated>2022-02-04T16:20:05.823Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 간만에 무도 캐미 폭발?]]></title>
         <id>https://ppt21.com/spoent/65979?category=2</id>
@@ -108,34 +136,6 @@
         <id>https://ppt21.com/spoent/65945?category=2</id>
         <link href="https://ppt21.com/spoent/65945?category=2"/>
         <updated>2022-02-02T16:23:11.762Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예]  [NMIXX]  1st Single 'AD MARE' Teaser Poster]]></title>
-        <id>https://ppt21.com/spoent/65944?category=2</id>
-        <link href="https://ppt21.com/spoent/65944?category=2"/>
-        <updated>2022-02-02T16:23:11.768Z</updated>
-        <content type="html"><![CDATA[TWICE쯔위]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [싱어게인2] 64호 히든트랙 feat BTS]]></title>
-        <id>https://ppt21.com/spoent/65941?category=2</id>
-        <link href="https://ppt21.com/spoent/65941?category=2"/>
-        <updated>2022-02-02T12:26:58.841Z</updated>
-        <content type="html"><![CDATA[빼사스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 썩토점수 보정이 들어가고 있는 지우학...]]></title>
-        <id>https://ppt21.com/spoent/65939?category=2</id>
-        <link href="https://ppt21.com/spoent/65939?category=2"/>
-        <updated>2022-02-02T11:13:56.503Z</updated>
-        <content type="html"><![CDATA[우주전쟁]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 흥행 냄새를 맡은 넷플릭스??]]></title>
-        <id>https://ppt21.com/spoent/65934?category=2</id>
-        <link href="https://ppt21.com/spoent/65934?category=2"/>
-        <updated>2022-02-02T07:14:46.494Z</updated>
         <content type="html"><![CDATA[아롱이다롱이]]></content>
     </entry>
 </feed>
