@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2022-02-03T23:14:00.719Z</updated>
+    <updated>2022-02-04T00:54:38.152Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[아스트로 문빈&산하, 3월 컴백 확정 “11일 선공개 싱글 발매”(공식)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2333856476</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2333856476"/>
+        <updated>2022-02-04T00:54:37.441Z</updated>
+        <content type="html"><![CDATA[301596]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[방과후 설렘 오늘 비하인드 사진 📷]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2333752478</id>
@@ -137,12 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2333213165"/>
         <updated>2022-02-03T08:19:09.262Z</updated>
         <content type="html"><![CDATA[301577]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[투바투 범규 트윗🧸 (우리 아빠는 요리사👨‍🍳)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2333207873</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2333207873"/>
-        <updated>2022-02-03T08:19:09.262Z</updated>
-        <content type="html"><![CDATA[301576]]></content>
     </entry>
 </feed>
