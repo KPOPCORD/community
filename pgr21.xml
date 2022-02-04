@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-02-04T06:16:33.394Z</updated>
+    <updated>2022-02-04T07:13:12.942Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[연예] [단독] '퀸덤2' 라인업 가닥잡나? 비비지-ITZY-브브걸-케플러 물망]]></title>
+        <title type="html"><![CDATA[[연예] 아니 도대체 깻잎이 뭐라고!!!!!!]]></title>
+        <id>https://ppt21.com/spoent/65968?category=2</id>
+        <link href="https://ppt21.com/spoent/65968?category=2"/>
+        <updated>2022-02-04T07:13:03.029Z</updated>
+        <content type="html"><![CDATA[강가딘]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 인상적인 장면들을 만들어낸 괴상한 노래 Cherry Bomb]]></title>
+        <id>https://ppt21.com/spoent/65967?category=2</id>
+        <link href="https://ppt21.com/spoent/65967?category=2"/>
+        <updated>2022-02-04T07:13:03.029Z</updated>
+        <content type="html"><![CDATA[Zelazny]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] [단독] '퀸덤2' 라인업 가닥잡나? 비비지-브브걸-케플러 물망]]></title>
         <id>https://ppt21.com/spoent/65966?category=2</id>
         <link href="https://ppt21.com/spoent/65966?category=2"/>
         <updated>2022-02-04T03:14:17.229Z</updated>
@@ -122,20 +136,6 @@
         <id>https://ppt21.com/spoent/65924?category=2</id>
         <link href="https://ppt21.com/spoent/65924?category=2"/>
         <updated>2022-02-02T01:59:50.375Z</updated>
-        <content type="html"><![CDATA[insane]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 넷플릭스<지금 우리 학교는> 3일만에 <고요의 바다>누적시간 추월]]></title>
-        <id>https://ppt21.com/spoent/65923?category=2</id>
-        <link href="https://ppt21.com/spoent/65923?category=2"/>
-        <updated>2022-02-02T01:59:50.382Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 병장 박보검, 군대서 이발사 자격증 땄다]]></title>
-        <id>https://ppt21.com/spoent/65922?category=2</id>
-        <link href="https://ppt21.com/spoent/65922?category=2"/>
-        <updated>2022-02-02T01:59:50.382Z</updated>
         <content type="html"><![CDATA[insane]]></content>
     </entry>
 </feed>
