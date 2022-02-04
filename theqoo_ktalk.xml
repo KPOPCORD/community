@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2022-02-04T00:54:38.152Z</updated>
+    <updated>2022-02-04T01:50:07.321Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[📽] 멍 때리는 아이들 I 티저 I 미적분 - 휴멍비잉 (feat.립제이 유병재 슈화)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2333931764</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2333931764"/>
+        <updated>2022-02-04T01:50:06.482Z</updated>
+        <content type="html"><![CDATA[301598]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대표 그만둔 박재범, JTBC 비보이 예능 ‘쇼다운’ 출연 확정]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2333912031</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2333912031"/>
+        <updated>2022-02-04T01:50:06.494Z</updated>
+        <content type="html"><![CDATA[301597]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아스트로 문빈&산하, 3월 컴백 확정 “11일 선공개 싱글 발매”(공식)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2333856476</id>
@@ -130,19 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2333322701"/>
         <updated>2022-02-03T10:16:48.760Z</updated>
         <content type="html"><![CDATA[301579]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[EPISODE] 역사적인 2관왕의 순간🏆🏆 선배님과의 훈훈한 장면까지! #ENHYPEN(엔하이픈) #2021AAA]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2333322662</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2333322662"/>
-        <updated>2022-02-03T10:16:48.766Z</updated>
-        <content type="html"><![CDATA[301578]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독샷캠4K] 펜타곤 'Feelin' Like' 단독샷 별도녹화│@SBS Inkigayo_2022.01.30.]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2333213165</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2333213165"/>
-        <updated>2022-02-03T08:19:09.262Z</updated>
-        <content type="html"><![CDATA[301577]]></content>
     </entry>
 </feed>
