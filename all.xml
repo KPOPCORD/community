@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-04T03:14:50.701Z</updated>
+    <updated>2022-02-04T04:16:46.583Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[연예] [단독] '퀸덤2' 라인업 가닥잡나? 비비지-ITZY-브브걸-케플러 물망 (Pgr21 ─ 연예)]]></title>
@@ -138,6 +138,13 @@
         <content type="html"><![CDATA[insane]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[‘퀸덤2’ 측 “비비지-ITZY-브브걸-케플러 출연? 확정된 바 없다”(공식입장) (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2334028157</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2334028157"/>
+        <updated>2022-02-04T04:16:45.779Z</updated>
+        <content type="html"><![CDATA[301603]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[단독]전현무·양세형, '전참시' 녹화 불참…코로나19 여파 (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2334017546</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2334017546"/>
@@ -145,7 +152,7 @@
         <content type="html"><![CDATA[301602]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독] '퀸덤2' 라인업 가닥잡나? 비비지-ITZY-브브걸-케플러 물망 (더쿠 ─ 케이돌토크)]]></title>
+        <title type="html"><![CDATA[(+수정) [단독] '퀸덤2' 라인업 가닥잡나? 비비지-브브걸-케플러 물망 (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2333994402</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2333994402"/>
         <updated>2022-02-04T03:14:49.862Z</updated>
@@ -269,12 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2333397715"/>
         <updated>2022-02-03T12:26:12.799Z</updated>
         <content type="html"><![CDATA[301584]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독]정일우, 3차 접종에도 불구… 코로나19 돌파 감염 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2333388739</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2333388739"/>
-        <updated>2022-02-03T11:13:01.201Z</updated>
-        <content type="html"><![CDATA[301583]]></content>
     </entry>
 </feed>
