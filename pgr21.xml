@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-02-04T12:20:47.733Z</updated>
+    <updated>2022-02-04T13:14:10.493Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 뮤직뱅크 K-차트 점수 산정 방식이 바뀝니다.]]></title>
+        <id>https://ppt21.com/spoent/65973?category=2</id>
+        <link href="https://ppt21.com/spoent/65973?category=2"/>
+        <updated>2022-02-04T13:13:59.984Z</updated>
+        <content type="html"><![CDATA[Bronx Bombers]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [단독]투표 조작 '프로듀스' CP, 중징계 처분 후 이달 중 업무 복귀]]></title>
         <id>https://ppt21.com/spoent/65969?category=2</id>
@@ -129,13 +136,6 @@
         <id>https://ppt21.com/spoent/65926?category=2</id>
         <link href="https://ppt21.com/spoent/65926?category=2"/>
         <updated>2022-02-02T03:15:35.474Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [프로미스나인] 'DM' 퍼포먼스 비디오 + 지난주 인기가요 페이스캠]]></title>
-        <id>https://ppt21.com/spoent/65925?category=2</id>
-        <link href="https://ppt21.com/spoent/65925?category=2"/>
-        <updated>2022-02-02T03:15:35.485Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>

@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-04T12:20:47.735Z</updated>
+    <updated>2022-02-04T13:14:10.517Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] 뮤직뱅크 K-차트 점수 산정 방식이 바뀝니다. (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/65973?category=2</id>
+        <link href="https://ppt21.com/spoent/65973?category=2"/>
+        <updated>2022-02-04T13:13:59.984Z</updated>
+        <content type="html"><![CDATA[Bronx Bombers]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [단독]투표 조작 '프로듀스' CP, 중징계 처분 후 이달 중 업무 복귀 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/65969?category=2</id>
@@ -131,11 +138,11 @@
         <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[연예] [프로미스나인] 'DM' 퍼포먼스 비디오 + 지난주 인기가요 페이스캠 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/65925?category=2</id>
-        <link href="https://ppt21.com/spoent/65925?category=2"/>
-        <updated>2022-02-02T03:15:35.485Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
+        <title type="html"><![CDATA[대한민국 입장했엉?? (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2334588685</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2334588685"/>
+        <updated>2022-02-04T13:14:09.823Z</updated>
+        <content type="html"><![CDATA[301618]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[K-Choreo 8K] 펜타곤 직캠 'Feelin' Like' (PENTAGON Choreography) l @MusicBank 220204 (더쿠 ─ 케이돌토크)]]></title>
@@ -269,12 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2333982506"/>
         <updated>2022-02-04T03:14:49.864Z</updated>
         <content type="html"><![CDATA[301599]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코카N버터 가가-리헤이 코로나19 확진 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2333970034</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2333970034"/>
-        <updated>2022-02-04T03:14:49.865Z</updated>
-        <content type="html"><![CDATA[301598]]></content>
     </entry>
 </feed>
