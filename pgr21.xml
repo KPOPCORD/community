@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-02-05T09:14:03.411Z</updated>
+    <updated>2022-02-05T10:14:08.746Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 한국말 한마디도 못 하는 그들이 K-POP을 만드는 이유]]></title>
+        <id>https://ppt21.com/spoent/65994?category=2</id>
+        <link href="https://ppt21.com/spoent/65994?category=2"/>
+        <updated>2022-02-05T10:13:58.829Z</updated>
+        <content type="html"><![CDATA[내설수]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [트와이스] 8K 화질 콘서트 장면들로 구성된 "The Feels" 리믹스 영상]]></title>
         <id>https://ppt21.com/spoent/65991?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65958?category=2"/>
         <updated>2022-02-03T15:15:49.990Z</updated>
         <content type="html"><![CDATA[FLUXUX]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 3월 31일 퀸덤2가 시작됩니다]]></title>
-        <id>https://ppt21.com/spoent/65957?category=2</id>
-        <link href="https://ppt21.com/spoent/65957?category=2"/>
-        <updated>2022-02-03T14:16:43.981Z</updated>
-        <content type="html"><![CDATA[Gunners]]></content>
     </entry>
 </feed>
