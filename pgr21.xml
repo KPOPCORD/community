@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-02-05T03:15:59.507Z</updated>
+    <updated>2022-02-05T04:18:26.945Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [트와이스] 8K 화질 콘서트 장면들로 구성된 "The Feels" 리믹스 영상]]></title>
+        <id>https://ppt21.com/spoent/65991?category=2</id>
+        <link href="https://ppt21.com/spoent/65991?category=2"/>
+        <updated>2022-02-05T04:18:16.574Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 지우학 출연진의 좀비 모의고사 (+조이현 움짤.gfy)]]></title>
         <id>https://ppt21.com/spoent/65987?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65957?category=2"/>
         <updated>2022-02-03T14:16:43.981Z</updated>
         <content type="html"><![CDATA[Gunners]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 공중파 나와서 삼성종신 선언했던 구자욱.mp4]]></title>
-        <id>https://ppt21.com/spoent/65955?category=2</id>
-        <link href="https://ppt21.com/spoent/65955?category=2"/>
-        <updated>2022-02-03T10:16:40.299Z</updated>
-        <content type="html"><![CDATA[insane]]></content>
     </entry>
 </feed>
