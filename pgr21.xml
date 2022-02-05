@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-02-04T23:14:26.909Z</updated>
+    <updated>2022-02-05T00:47:39.938Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 드림캐쳐 퀸덤 스포일러와 외국인의 행복회로]]></title>
+        <id>https://ppt21.com/spoent/65986?category=2</id>
+        <link href="https://ppt21.com/spoent/65986?category=2"/>
+        <updated>2022-02-05T00:47:30.107Z</updated>
+        <content type="html"><![CDATA[Zelazny]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 옷소매 붉은 끝동 항아님 vs 지우학 히발 전도사]]></title>
         <id>https://ppt21.com/spoent/65985?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65950?category=2"/>
         <updated>2022-02-03T04:19:39.720Z</updated>
         <content type="html"><![CDATA[moodoori]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 태연 정규 3집 'INVU' 무드샘플러]]></title>
-        <id>https://ppt21.com/spoent/65946?category=2</id>
-        <link href="https://ppt21.com/spoent/65946?category=2"/>
-        <updated>2022-02-02T16:23:11.756Z</updated>
-        <content type="html"><![CDATA[KIMTAEYEON]]></content>
     </entry>
 </feed>
