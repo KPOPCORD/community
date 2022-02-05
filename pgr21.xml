@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-02-05T02:16:03.570Z</updated>
+    <updated>2022-02-05T03:15:59.507Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 지우학 출연진의 좀비 모의고사 (+조이현 움짤.gfy)]]></title>
+        <id>https://ppt21.com/spoent/65987?category=2</id>
+        <link href="https://ppt21.com/spoent/65987?category=2"/>
+        <updated>2022-02-05T03:15:45.853Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 드림캐쳐 퀸덤 스포일러와 외국인의 행복회로]]></title>
         <id>https://ppt21.com/spoent/65986?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65955?category=2"/>
         <updated>2022-02-03T10:16:40.299Z</updated>
         <content type="html"><![CDATA[insane]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [지우학] 어둡고 슬프지만, 아름다운 절비&인간의 Lovely (스포주의)]]></title>
-        <id>https://ppt21.com/spoent/65950?category=2</id>
-        <link href="https://ppt21.com/spoent/65950?category=2"/>
-        <updated>2022-02-03T04:19:39.720Z</updated>
-        <content type="html"><![CDATA[moodoori]]></content>
     </entry>
 </feed>
