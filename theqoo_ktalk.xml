@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2022-02-06T09:15:45.822Z</updated>
+    <updated>2022-02-06T10:17:23.225Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[📽]펜타곤 #관람차 챌린지 🎡 유토 ver.]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2336469379</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2336469379"/>
+        <updated>2022-02-06T10:17:22.533Z</updated>
+        <content type="html"><![CDATA[301364]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Special Clip] Kim Jae Hwan (김재환) _ 나에게 말해요 (Live ver.)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2336424643</id>
@@ -137,12 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2335403455"/>
         <updated>2022-02-05T09:14:02.705Z</updated>
         <content type="html"><![CDATA[301345]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방탄 진 위버스 댓에서 지민 한잔멤 섭외중 ㅋㅋㅋ (조용 ➡️ 용가리)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2335395626</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2335395626"/>
-        <updated>2022-02-05T09:14:02.708Z</updated>
-        <content type="html"><![CDATA[301344]]></content>
     </entry>
 </feed>
