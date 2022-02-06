@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-02-06T10:17:23.228Z</updated>
+    <updated>2022-02-06T11:12:33.765Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [비비즈] Beam of Prism 앨범 프리뷰]]></title>
+        <id>https://ppt21.com/spoent/66011?category=2</id>
+        <link href="https://ppt21.com/spoent/66011?category=2"/>
+        <updated>2022-02-06T11:12:23.774Z</updated>
+        <content type="html"><![CDATA[기적을행하는왕]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 랩 겁나 잘하는 여자아이돌]]></title>
         <id>https://ppt21.com/spoent/66010?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65979?category=2"/>
         <updated>2022-02-04T15:13:48.375Z</updated>
         <content type="html"><![CDATA[EZrock]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 넷플릭스 <지금 우리 학교는>지우학,  영국에 이어 미국도 1위등극]]></title>
-        <id>https://ppt21.com/spoent/65978?category=2</id>
-        <link href="https://ppt21.com/spoent/65978?category=2"/>
-        <updated>2022-02-04T15:13:48.378Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
     </entry>
 </feed>
