@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2022-02-06T11:12:33.670Z</updated>
+    <updated>2022-02-06T12:23:24.065Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[VIVIZ 코로나19 격리 해제 관련 안내]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2336606264</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2336606264"/>
+        <updated>2022-02-06T12:23:23.352Z</updated>
+        <content type="html"><![CDATA[301365]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[📽]펜타곤 #관람차 챌린지 🎡 유토ver.]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2336469379</id>
@@ -137,12 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2335409980"/>
         <updated>2022-02-05T09:14:02.671Z</updated>
         <content type="html"><![CDATA[301346]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wanna One l 오케워너원 Special '2021 MAMA 대기실 비하인드']]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2335405849</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2335405849"/>
-        <updated>2022-02-05T09:14:02.690Z</updated>
-        <content type="html"><![CDATA[301345]]></content>
     </entry>
 </feed>
