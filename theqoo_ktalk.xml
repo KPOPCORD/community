@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2022-02-06T06:18:30.603Z</updated>
+    <updated>2022-02-06T07:15:13.804Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[팬사에서 돌아온 굿즈파는 agi 모먼트 김요한 볼래?]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2336293987</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2336293987"/>
+        <updated>2022-02-06T07:15:13.060Z</updated>
+        <content type="html"><![CDATA[301361]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[투바투 연준 멤트 ❤️‍🔥❤️‍🔥]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2336193468</id>
@@ -137,12 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2335385378"/>
         <updated>2022-02-05T09:14:02.712Z</updated>
         <content type="html"><![CDATA[301342]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[투바투 수빈 트윗(태현 생일 축하)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2335348669</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2335348669"/>
-        <updated>2022-02-05T08:15:21.466Z</updated>
-        <content type="html"><![CDATA[301341]]></content>
     </entry>
 </feed>

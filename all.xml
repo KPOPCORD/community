@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-06T06:18:30.608Z</updated>
+    <updated>2022-02-06T07:15:13.805Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[연예] <지금 우리 학교는> 공개 8일차 패트롤 점수, 다른 드라마들과 비교 (Pgr21 ─ 연예)]]></title>
@@ -138,6 +138,13 @@
         <content type="html"><![CDATA[Bronx Bombers]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[팬사에서 돌아온 굿즈파는 agi 모먼트 김요한 볼래? (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2336293987</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2336293987"/>
+        <updated>2022-02-06T07:15:13.060Z</updated>
+        <content type="html"><![CDATA[301361]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[투바투 연준 멤트 ❤️‍🔥❤️‍🔥 (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2336193468</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2336193468"/>
@@ -269,12 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2335385378"/>
         <updated>2022-02-05T09:14:02.712Z</updated>
         <content type="html"><![CDATA[301342]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[투바투 수빈 트윗(태현 생일 축하) (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2335348669</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2335348669"/>
-        <updated>2022-02-05T08:15:21.466Z</updated>
-        <content type="html"><![CDATA[301341]]></content>
     </entry>
 </feed>
