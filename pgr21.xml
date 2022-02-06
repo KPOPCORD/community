@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-02-05T23:22:31.499Z</updated>
+    <updated>2022-02-06T01:03:01.845Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [개승자] 파이널 1라운드 6팀 공연]]></title>
+        <id>https://ppt21.com/spoent/66004?category=2</id>
+        <link href="https://ppt21.com/spoent/66004?category=2"/>
+        <updated>2022-02-06T01:02:47.033Z</updated>
+        <content type="html"><![CDATA[빼사스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] JYP 신인 걸그룹 NMIXX(엔믹스)가 2월 22일 데뷔합니다]]></title>
         <id>https://ppt21.com/spoent/66001?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65969?category=2"/>
         <updated>2022-02-04T09:14:39.642Z</updated>
         <content type="html"><![CDATA[Bronx Bombers]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 아니 도대체 깻잎이 뭐라고!!!!!!]]></title>
-        <id>https://ppt21.com/spoent/65968?category=2</id>
-        <link href="https://ppt21.com/spoent/65968?category=2"/>
-        <updated>2022-02-04T07:13:03.029Z</updated>
-        <content type="html"><![CDATA[강가딘]]></content>
     </entry>
 </feed>
