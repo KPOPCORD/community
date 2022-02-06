@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-02-06T12:23:24.159Z</updated>
+    <updated>2022-02-06T13:17:04.410Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 놀토에서 대패삼겹살 처음 본 탱구]]></title>
+        <id>https://ppt21.com/spoent/66014?category=2</id>
+        <link href="https://ppt21.com/spoent/66014?category=2"/>
+        <updated>2022-02-06T13:16:30.593Z</updated>
+        <content type="html"><![CDATA[KIMTAEYEON]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [비비즈] Beam of Prism 앨범 프리뷰]]></title>
         <id>https://ppt21.com/spoent/66011?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65980?category=2"/>
         <updated>2022-02-04T16:20:05.823Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 간만에 무도 캐미 폭발?]]></title>
-        <id>https://ppt21.com/spoent/65979?category=2</id>
-        <link href="https://ppt21.com/spoent/65979?category=2"/>
-        <updated>2022-02-04T15:13:48.375Z</updated>
-        <content type="html"><![CDATA[EZrock]]></content>
     </entry>
 </feed>
