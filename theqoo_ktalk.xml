@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2022-02-06T15:15:30.272Z</updated>
+    <updated>2022-02-06T16:22:53.093Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[투바투 태현 위버스 🌊부산여행🌊]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2336879082</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2336879082"/>
+        <updated>2022-02-06T16:22:52.384Z</updated>
+        <content type="html"><![CDATA[301360]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nct 도영 인스타 업뎃]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2336836157</id>
@@ -137,12 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2335598657"/>
         <updated>2022-02-05T12:19:05.271Z</updated>
         <content type="html"><![CDATA[301341]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[펜타곤(PENTAGON) - 'Feelin' Like' Special Performance Video]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2335589495</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2335589495"/>
-        <updated>2022-02-05T12:19:05.273Z</updated>
-        <content type="html"><![CDATA[301340]]></content>
     </entry>
 </feed>
