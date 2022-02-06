@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2022-02-06T08:17:47.284Z</updated>
+    <updated>2022-02-06T09:15:45.822Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[Special Clip] Kim Jae Hwan (김재환) _ 나에게 말해요 (Live ver.)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2336424643</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2336424643"/>
+        <updated>2022-02-06T09:15:44.991Z</updated>
+        <content type="html"><![CDATA[301363]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[MV] Kim Jae Hwan (김재환) _ 나에게 말해요 [뮤직드라마][사운드트랙#1]]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2336423890</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2336423890"/>
+        <updated>2022-02-06T09:15:44.993Z</updated>
+        <content type="html"><![CDATA[301362]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[팬사에서 돌아온 굿즈파는 agi 모먼트 김요한 볼래?]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2336293987</id>
@@ -130,19 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2335395626"/>
         <updated>2022-02-05T09:14:02.708Z</updated>
         <content type="html"><![CDATA[301344]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[투바투 태현 트윗 (태현 생일 축하)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2335388783</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2335388783"/>
-        <updated>2022-02-05T09:14:02.710Z</updated>
-        <content type="html"><![CDATA[301343]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방탄 위버스 지민글에 진 댓글]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2335385378</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2335385378"/>
-        <updated>2022-02-05T09:14:02.712Z</updated>
-        <content type="html"><![CDATA[301342]]></content>
     </entry>
 </feed>
