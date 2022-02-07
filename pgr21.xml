@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-02-07T15:16:37.026Z</updated>
+    <updated>2022-02-07T16:25:15.460Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 2022년 2월 1주 D-차트 : 김민석 2주 연속 1위! 펜타곤 2위 진입]]></title>
+        <id>https://ppt21.com/spoent/66045?category=2</id>
+        <link href="https://ppt21.com/spoent/66045?category=2"/>
+        <updated>2022-02-07T16:24:50.762Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 엄청난 유지력의 "지우학"]]></title>
+        <id>https://ppt21.com/spoent/66044?category=2</id>
+        <link href="https://ppt21.com/spoent/66044?category=2"/>
+        <updated>2022-02-07T16:24:50.767Z</updated>
+        <content type="html"><![CDATA[아롱이다롱이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [에이핑크] Special Album HORN HIGHLIGHT MEDLEY]]></title>
         <id>https://ppt21.com/spoent/66039?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/65991?category=2"/>
         <updated>2022-02-05T04:18:16.574Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 지우학 출연진의 좀비 모의고사 (+조이현 움짤.gfy)]]></title>
-        <id>https://ppt21.com/spoent/65987?category=2</id>
-        <link href="https://ppt21.com/spoent/65987?category=2"/>
-        <updated>2022-02-05T03:15:45.853Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 드림캐쳐 퀸덤 스포일러와 외국인의 행복회로]]></title>
-        <id>https://ppt21.com/spoent/65986?category=2</id>
-        <link href="https://ppt21.com/spoent/65986?category=2"/>
-        <updated>2022-02-05T00:47:30.107Z</updated>
-        <content type="html"><![CDATA[Zelazny]]></content>
     </entry>
 </feed>
