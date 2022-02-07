@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2022-02-07T11:13:16.422Z</updated>
+    <updated>2022-02-07T12:26:49.522Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[투바투 자체예능 투두 EP.70 얘들아 나 먼저 갈겡! 1편]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2337787945</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2337787945"/>
+        <updated>2022-02-07T12:26:48.782Z</updated>
+        <content type="html"><![CDATA[301379]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스트레이키즈[2 Kids Room(투키즈룸)] Ep.03 리노 X 아이엔]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2337718003</id>
@@ -137,12 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2337236911"/>
         <updated>2022-02-07T03:16:29.654Z</updated>
         <content type="html"><![CDATA[301360]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[투바투, 통산 3번째 1억 뷰 MV 보유…‘9와 4분의 3 승강장에서 너를 기다려 (Run Away)’ MV 1억 뷰 돌파]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2337162438</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2337162438"/>
-        <updated>2022-02-07T01:59:13.267Z</updated>
-        <content type="html"><![CDATA[301359]]></content>
     </entry>
 </feed>
