@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2022-02-07T03:16:30.432Z</updated>
+    <updated>2022-02-07T04:20:32.713Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[펜타곤 Feelin Like Challenge 키노 WITH AB6IX 전웅&조승연]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2337301520</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2337301520"/>
+        <updated>2022-02-07T04:20:31.391Z</updated>
+        <content type="html"><![CDATA[301366]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[강다니엘X바이오힐보] 1등과 1등의 만남👑 시카판을 평정한 판테놀♟ (진정하라고 했지만 심장 진정은 안되는 광고)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2337246787</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2337246787"/>
+        <updated>2022-02-07T04:20:31.392Z</updated>
+        <content type="html"><![CDATA[301365]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JYP 측 “DAY6 원필, 스태프 코로나 확진 여파→컴백 첫주 활동 연기”(공식)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2337236911</id>
@@ -130,19 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2336193468"/>
         <updated>2022-02-06T05:13:49.172Z</updated>
         <content type="html"><![CDATA[301347]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[태연 The 3rd Album [INVU] 🎧 2022.02.14. 6PM KST + 티저사진 고화질 링크]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2335887151</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2335887151"/>
-        <updated>2022-02-05T16:18:27.077Z</updated>
-        <content type="html"><![CDATA[301346]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[원필 1st Album <Pilmography> Live Album Sampler]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2335837032</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2335837032"/>
-        <updated>2022-02-05T15:13:22.701Z</updated>
-        <content type="html"><![CDATA[301345]]></content>
     </entry>
 </feed>
