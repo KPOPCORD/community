@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-02-08T03:16:04.676Z</updated>
+    <updated>2022-02-08T04:19:45.242Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [트와이스] 다현 "PROMISE" Vocal & Piano Cover]]></title>
+        <id>https://ppt21.com/spoent/66053?category=2</id>
+        <link href="https://ppt21.com/spoent/66053?category=2"/>
+        <updated>2022-02-08T04:19:34.291Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 학동뮤지션 (예나X성민) '낙하' 커버 영상]]></title>
         <id>https://ppt21.com/spoent/66052?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65998?category=2"/>
         <updated>2022-02-05T16:18:16.814Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] it's Live에서 DM을 부른 프로미스나인]]></title>
-        <id>https://ppt21.com/spoent/65996?category=2</id>
-        <link href="https://ppt21.com/spoent/65996?category=2"/>
-        <updated>2022-02-05T11:13:37.911Z</updated>
-        <content type="html"><![CDATA[니시무라 호노카]]></content>
     </entry>
 </feed>
