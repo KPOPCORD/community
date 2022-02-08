@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-02-08T10:17:15.992Z</updated>
+    <updated>2022-02-08T11:14:27.031Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 유재석이 악성 우결충이 되버린 이유]]></title>
+        <id>https://ppt21.com/spoent/66059?category=2</id>
+        <link href="https://ppt21.com/spoent/66059?category=2"/>
+        <updated>2022-02-08T11:14:08.149Z</updated>
+        <content type="html"><![CDATA[Rain#1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] ?? 뒤늦게 <지우학>을 홍보하기 시작한 미국 넷플릭스]]></title>
         <id>https://ppt21.com/spoent/66056?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/66000?category=2"/>
         <updated>2022-02-05T17:12:19.003Z</updated>
         <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 태연 정규 3집 'INVU' 2일,3일차 티저 이미지]]></title>
-        <id>https://ppt21.com/spoent/65999?category=2</id>
-        <link href="https://ppt21.com/spoent/65999?category=2"/>
-        <updated>2022-02-05T16:18:16.807Z</updated>
-        <content type="html"><![CDATA[KIMTAEYEON]]></content>
     </entry>
 </feed>
