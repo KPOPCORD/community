@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-02-08T13:19:06.856Z</updated>
+    <updated>2022-02-08T14:15:45.658Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 올해 아카데미 작품상 후보들...]]></title>
+        <id>https://ppt21.com/spoent/66064?category=2</id>
+        <link href="https://ppt21.com/spoent/66064?category=2"/>
+        <updated>2022-02-08T14:15:36.053Z</updated>
+        <content type="html"><![CDATA[우주전쟁]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] [VIVIZ] 'BOP BOP!' M/V Teaser #2 (데뷔 D-1)]]></title>
+        <id>https://ppt21.com/spoent/66062?category=2</id>
+        <link href="https://ppt21.com/spoent/66062?category=2"/>
+        <updated>2022-02-08T14:15:36.054Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 유재석이 악성 우결충이 되버린 이유]]></title>
         <id>https://ppt21.com/spoent/66059?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/66004?category=2"/>
         <updated>2022-02-06T01:02:47.033Z</updated>
         <content type="html"><![CDATA[빼사스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] JYP 신인 걸그룹 NMIXX(엔믹스)가 2월 22일 데뷔합니다]]></title>
-        <id>https://ppt21.com/spoent/66001?category=2</id>
-        <link href="https://ppt21.com/spoent/66001?category=2"/>
-        <updated>2022-02-05T17:12:19.001Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 넷플릭스 <지금 우리 학교는> "지우학", 전날 대비 5점 상승]]></title>
-        <id>https://ppt21.com/spoent/66000?category=2</id>
-        <link href="https://ppt21.com/spoent/66000?category=2"/>
-        <updated>2022-02-05T17:12:19.003Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
     </entry>
 </feed>
