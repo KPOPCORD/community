@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-02-08T02:02:16.070Z</updated>
+    <updated>2022-02-08T03:16:04.676Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 학동뮤지션 (예나X성민) '낙하' 커버 영상]]></title>
+        <id>https://ppt21.com/spoent/66052?category=2</id>
+        <link href="https://ppt21.com/spoent/66052?category=2"/>
+        <updated>2022-02-08T03:15:54.495Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [싱어게인2] TOP10 선발전 직캠 영상]]></title>
         <id>https://ppt21.com/spoent/66050?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/65996?category=2"/>
         <updated>2022-02-05T11:13:37.911Z</updated>
         <content type="html"><![CDATA[니시무라 호노카]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 한국말 한마디도 못 하는 그들이 K-POP을 만드는 이유]]></title>
-        <id>https://ppt21.com/spoent/65994?category=2</id>
-        <link href="https://ppt21.com/spoent/65994?category=2"/>
-        <updated>2022-02-05T10:13:58.829Z</updated>
-        <content type="html"><![CDATA[내설수]]></content>
     </entry>
 </feed>
