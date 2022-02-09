@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-02-09T02:09:04.288Z</updated>
+    <updated>2022-02-09T03:16:20.169Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] <지우학> 2주차 시청시간과 누적시간, 그리고 역대 순위]]></title>
+        <id>https://ppt21.com/spoent/66070?category=2</id>
+        <link href="https://ppt21.com/spoent/66070?category=2"/>
+        <updated>2022-02-09T03:16:09.251Z</updated>
+        <content type="html"><![CDATA[아롱이다롱이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 드디어 만난 나미춘과 꼰지애]]></title>
+        <id>https://ppt21.com/spoent/66069?category=2</id>
+        <link href="https://ppt21.com/spoent/66069?category=2"/>
+        <updated>2022-02-09T03:16:09.257Z</updated>
+        <content type="html"><![CDATA[강가딘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [NMIXX] 첫 싱글 <AD MARE> 콘셉트 포토 'N' (설윤, 해원)]]></title>
         <id>https://ppt21.com/spoent/66065?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/66011?category=2"/>
         <updated>2022-02-06T11:12:23.774Z</updated>
         <content type="html"><![CDATA[기적을행하는왕]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 랩 겁나 잘하는 여자아이돌]]></title>
-        <id>https://ppt21.com/spoent/66010?category=2</id>
-        <link href="https://ppt21.com/spoent/66010?category=2"/>
-        <updated>2022-02-06T10:17:11.997Z</updated>
-        <content type="html"><![CDATA[시]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] <지금 우리 학교는> 공개 8일차 패트롤 점수, 다른 드라마들과 비교]]></title>
-        <id>https://ppt21.com/spoent/66006?category=2</id>
-        <link href="https://ppt21.com/spoent/66006?category=2"/>
-        <updated>2022-02-06T04:19:45.146Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
     </entry>
 </feed>
