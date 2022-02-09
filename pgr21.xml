@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-02-09T09:16:19.847Z</updated>
+    <updated>2022-02-09T10:17:34.056Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [비비지] - 'BOP BOP!' MV]]></title>
+        <id>https://ppt21.com/spoent/66075?category=2</id>
+        <link href="https://ppt21.com/spoent/66075?category=2"/>
+        <updated>2022-02-09T10:17:17.998Z</updated>
+        <content type="html"><![CDATA[VictoryFood]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 취소 후 다시 살아 돌아온 태연 하라클#1]]></title>
+        <id>https://ppt21.com/spoent/66074?category=2</id>
+        <link href="https://ppt21.com/spoent/66074?category=2"/>
+        <updated>2022-02-09T10:17:17.999Z</updated>
+        <content type="html"><![CDATA[KIMTAEYEON]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 오늘 공개된 넷플릭스 <소년심판> 메인 포스터 & 공식 예고편]]></title>
         <id>https://ppt21.com/spoent/66072?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/66020?category=2"/>
         <updated>2022-02-07T01:59:03.476Z</updated>
         <content type="html"><![CDATA[껌정]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 엔믹스 트랙리스트,스테이씨 미니2집 티저]]></title>
-        <id>https://ppt21.com/spoent/66016?category=2</id>
-        <link href="https://ppt21.com/spoent/66016?category=2"/>
-        <updated>2022-02-06T16:22:43.451Z</updated>
-        <content type="html"><![CDATA[KIMTAEYEON]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 놀토에서 대패삼겹살 처음 본 탱구]]></title>
-        <id>https://ppt21.com/spoent/66014?category=2</id>
-        <link href="https://ppt21.com/spoent/66014?category=2"/>
-        <updated>2022-02-06T13:16:30.593Z</updated>
-        <content type="html"><![CDATA[KIMTAEYEON]]></content>
     </entry>
 </feed>
