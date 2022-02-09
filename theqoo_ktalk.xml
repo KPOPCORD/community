@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2022-02-09T15:16:39.442Z</updated>
+    <updated>2022-02-09T16:23:58.745Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[투바투 수빈 트윗]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2340615426</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2340615426"/>
+        <updated>2022-02-09T16:23:58.098Z</updated>
+        <content type="html"><![CDATA[301422]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[태연 'INVU' Clip #2 그런 밤]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2340574211</id>
@@ -137,12 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2340105691"/>
         <updated>2022-02-09T09:16:19.178Z</updated>
         <content type="html"><![CDATA[301403]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔하이픈 제이크 멤트 (정원 생일 축하) 🎉]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2340104695</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2340104695"/>
-        <updated>2022-02-09T09:16:19.192Z</updated>
-        <content type="html"><![CDATA[301402]]></content>
     </entry>
 </feed>

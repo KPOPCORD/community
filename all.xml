@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-09T15:16:39.443Z</updated>
+    <updated>2022-02-09T16:23:58.749Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] [NMIXX] 첫 싱글 <AD MARE> 콘셉트 포토 'N' (지니, 배이) (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/66085?category=2</id>
+        <link href="https://ppt21.com/spoent/66085?category=2"/>
+        <updated>2022-02-09T16:23:49.426Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 유퀴즈 조세호 대타 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/66080?category=2</id>
@@ -131,11 +138,11 @@
         <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[연예] ‘지우학’ 이재규 감독 “시즌2 나온다면 좀비 생존기” (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/66024?category=2</id>
-        <link href="https://ppt21.com/spoent/66024?category=2"/>
-        <updated>2022-02-07T07:15:10.997Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
+        <title type="html"><![CDATA[투바투 수빈 트윗 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2340615426</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2340615426"/>
+        <updated>2022-02-09T16:23:58.098Z</updated>
+        <content type="html"><![CDATA[301422]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[태연 'INVU' Clip #2 그런 밤 (더쿠 ─ 케이돌토크)]]></title>
@@ -269,12 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2340105691"/>
         <updated>2022-02-09T09:16:19.178Z</updated>
         <content type="html"><![CDATA[301403]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔하이픈 제이크 멤트 (정원 생일 축하) 🎉 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2340104695</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2340104695"/>
-        <updated>2022-02-09T09:16:19.192Z</updated>
-        <content type="html"><![CDATA[301402]]></content>
     </entry>
 </feed>
