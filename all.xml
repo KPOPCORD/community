@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-09T00:59:47.795Z</updated>
+    <updated>2022-02-09T02:09:04.291Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[연예] [NMIXX] 첫 싱글 <AD MARE> 콘셉트 포토 'N' (설윤, 해원) (Pgr21 ─ 연예)]]></title>
@@ -138,6 +138,13 @@
         <content type="html"><![CDATA[아롱이다롱이]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[위클리, 3월 컴백 카운트다운..분위기 반전 돋보이는 신규 엠블럼 모션 공개[공식] (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2339623615</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2339623615"/>
+        <updated>2022-02-09T02:09:03.526Z</updated>
+        <content type="html"><![CDATA[301393]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[단독] '불가살' 김우석, 가수로 컴백 "MV 촬영 마쳐" (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2339564462</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2339564462"/>
@@ -269,12 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2338105058"/>
         <updated>2022-02-07T15:16:36.303Z</updated>
         <content type="html"><![CDATA[301374]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎂HAPPY BIRTHDAY WOOHYUN 🎂 인피니트 우현의 생일을 축하합니다🎉 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2338089045</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2338089045"/>
-        <updated>2022-02-07T15:16:36.305Z</updated>
-        <content type="html"><![CDATA[301373]]></content>
     </entry>
 </feed>
