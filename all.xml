@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-09T04:20:16.707Z</updated>
+    <updated>2022-02-09T05:14:13.892Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[연예] <지우학> 2주차 시청시간과 누적시간, 그리고 역대 순위 (Pgr21 ─ 연예)]]></title>
@@ -138,6 +138,20 @@
         <content type="html"><![CDATA[기적을행하는왕]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[한대음 팝/케이팝 후보 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2339849899</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2339849899"/>
+        <updated>2022-02-09T05:14:13.145Z</updated>
+        <content type="html"><![CDATA[301395]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엔하이픈 제이 멤트 (정원 생일 축하) 🥳 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2339835303</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2339835303"/>
+        <updated>2022-02-09T05:14:13.145Z</updated>
+        <content type="html"><![CDATA[301394]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[드리핀 격리 해제 (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2339782433</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2339782433"/>
@@ -262,19 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2339012499"/>
         <updated>2022-02-08T10:17:15.201Z</updated>
         <content type="html"><![CDATA[301376]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이진혁 인스타그램 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2338972216</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2338972216"/>
-        <updated>2022-02-08T10:17:15.210Z</updated>
-        <content type="html"><![CDATA[301375]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔하이픈 정원 멤트😁✌ (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2338684510</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2338684510"/>
-        <updated>2022-02-08T05:14:22.314Z</updated>
-        <content type="html"><![CDATA[301374]]></content>
     </entry>
 </feed>
