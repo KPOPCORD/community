@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-02-10T15:16:32.783Z</updated>
+    <updated>2022-02-10T16:23:02.820Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 완전체로 컴백하는 에픽하이 '그래서 그래' 티저.ytb]]></title>
+        <id>https://ppt21.com/spoent/66103?category=2</id>
+        <link href="https://ppt21.com/spoent/66103?category=2"/>
+        <updated>2022-02-10T16:22:53.133Z</updated>
+        <content type="html"><![CDATA[VictoryFood]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 최예나, 엠카에서 솔로데뷔 후 첫 음방 1위 (+앵콜 직캠)]]></title>
         <id>https://ppt21.com/spoent/66101?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/66062?category=2"/>
         <updated>2022-02-08T14:15:36.054Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 유재석이 악성 우결충이 되버린 이유]]></title>
-        <id>https://ppt21.com/spoent/66059?category=2</id>
-        <link href="https://ppt21.com/spoent/66059?category=2"/>
-        <updated>2022-02-08T11:14:08.149Z</updated>
-        <content type="html"><![CDATA[Rain#1]]></content>
     </entry>
 </feed>
