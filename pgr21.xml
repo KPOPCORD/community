@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-02-10T10:17:43.681Z</updated>
+    <updated>2022-02-10T11:13:54.799Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 야구선수 황재균 - 티아라 지연 결혼]]></title>
+        <id>https://ppt21.com/spoent/66096?category=2</id>
+        <link href="https://ppt21.com/spoent/66096?category=2"/>
+        <updated>2022-02-10T11:13:18.125Z</updated>
+        <content type="html"><![CDATA[껌정]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 김종국·양세찬 확진-지석진 키트 양성]]></title>
+        <id>https://ppt21.com/spoent/66095?category=2</id>
+        <link href="https://ppt21.com/spoent/66095?category=2"/>
+        <updated>2022-02-10T11:13:18.130Z</updated>
+        <content type="html"><![CDATA[반니스텔루이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] [엠카]NEXT WEEK  태연,에이핑크]]></title>
+        <id>https://ppt21.com/spoent/66093?category=2</id>
+        <link href="https://ppt21.com/spoent/66093?category=2"/>
+        <updated>2022-02-10T11:13:18.130Z</updated>
+        <content type="html"><![CDATA[KIMTAEYEON]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 태연 'INVU' Clip #2, #3 , 티저 이미지]]></title>
         <id>https://ppt21.com/spoent/66092?category=2</id>
@@ -116,26 +137,5 @@
         <link href="https://ppt21.com/spoent/66052?category=2"/>
         <updated>2022-02-08T03:15:54.495Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [싱어게인2] TOP10 선발전 직캠 영상]]></title>
-        <id>https://ppt21.com/spoent/66050?category=2</id>
-        <link href="https://ppt21.com/spoent/66050?category=2"/>
-        <updated>2022-02-08T02:02:05.841Z</updated>
-        <content type="html"><![CDATA[빼사스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 2022년 2월 1주 D-차트 : 김민석 2주 연속 1위! 펜타곤 2위 진입]]></title>
-        <id>https://ppt21.com/spoent/66045?category=2</id>
-        <link href="https://ppt21.com/spoent/66045?category=2"/>
-        <updated>2022-02-07T16:24:50.762Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 엄청난 유지력의 "지우학"]]></title>
-        <id>https://ppt21.com/spoent/66044?category=2</id>
-        <link href="https://ppt21.com/spoent/66044?category=2"/>
-        <updated>2022-02-07T16:24:50.767Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
     </entry>
 </feed>
