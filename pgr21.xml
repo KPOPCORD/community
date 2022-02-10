@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-02-10T12:26:40.111Z</updated>
+    <updated>2022-02-10T13:18:57.517Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 최예나, 엠카에서 솔로데뷔 후 첫 음방 1위 (+앵콜 직캠)]]></title>
+        <id>https://ppt21.com/spoent/66101?category=2</id>
+        <link href="https://ppt21.com/spoent/66101?category=2"/>
+        <updated>2022-02-10T13:18:36.692Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] [VIVIZ] 엠카운트다운 음방 데뷔 무대 (+직캠 영상)]]></title>
+        <id>https://ppt21.com/spoent/66100?category=2</id>
+        <link href="https://ppt21.com/spoent/66100?category=2"/>
+        <updated>2022-02-10T13:18:36.692Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 현빈 - 손예진 커플 결혼]]></title>
         <id>https://ppt21.com/spoent/66098?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/66059?category=2"/>
         <updated>2022-02-08T11:14:08.149Z</updated>
         <content type="html"><![CDATA[Rain#1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] ?? 뒤늦게 <지우학>을 홍보하기 시작한 미국 넷플릭스]]></title>
-        <id>https://ppt21.com/spoent/66056?category=2</id>
-        <link href="https://ppt21.com/spoent/66056?category=2"/>
-        <updated>2022-02-08T06:19:18.096Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [트와이스] 다현 "PROMISE" Vocal & Piano Cover]]></title>
-        <id>https://ppt21.com/spoent/66053?category=2</id>
-        <link href="https://ppt21.com/spoent/66053?category=2"/>
-        <updated>2022-02-08T04:19:34.291Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
