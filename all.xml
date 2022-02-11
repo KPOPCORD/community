@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-11T07:15:12.465Z</updated>
+    <updated>2022-02-11T08:18:37.494Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[연예] [NMIXX] 첫 싱글 <AD MARE> 콘셉트 포토 'N' (릴리, 지우, 규진) (Pgr21 ─ 연예)]]></title>
@@ -138,6 +138,20 @@
         <content type="html"><![CDATA[우주전쟁]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[🎬] Blackstreet - Don't Leave Me (cover by 김재환) (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2342341599</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2342341599"/>
+        <updated>2022-02-11T08:18:36.671Z</updated>
+        <content type="html"><![CDATA[301460]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하하 소속사 관계자 "코로나19 확진 NO..아직 검사 결과 안나와" (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2342304193</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2342304193"/>
+        <updated>2022-02-11T08:18:36.672Z</updated>
+        <content type="html"><![CDATA[301459]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[하하, 코로나19 확진…자가키트 ‘음성’→PCR ‘양성’ (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2342277892</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2342277892"/>
@@ -262,19 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2341695148"/>
         <updated>2022-02-10T15:16:32.097Z</updated>
         <content type="html"><![CDATA[301441]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김종국 양세찬 코로나확진 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2341667984</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2341667984"/>
-        <updated>2022-02-10T14:15:00.265Z</updated>
-        <content type="html"><![CDATA[301440]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에이핑크 Apink Special Album [HORN] Concept Photo #Black (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2341665687</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2341665687"/>
-        <updated>2022-02-10T14:15:00.316Z</updated>
-        <content type="html"><![CDATA[301439]]></content>
     </entry>
 </feed>
