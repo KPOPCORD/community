@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-02-11T14:16:14.563Z</updated>
+    <updated>2022-02-11T15:16:06.425Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 다음주 유퀴즈에 나오는 [그해 우리는]의 원작 EBS 1등과 꼴찌]]></title>
+        <id>https://ppt21.com/spoent/66121?category=2</id>
+        <link href="https://ppt21.com/spoent/66121?category=2"/>
+        <updated>2022-02-11T15:15:56.510Z</updated>
+        <content type="html"><![CDATA[빼사스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] [에이핑크] 'Dilemma' M/V Teaser #1]]></title>
+        <id>https://ppt21.com/spoent/66119?category=2</id>
+        <link href="https://ppt21.com/spoent/66119?category=2"/>
+        <updated>2022-02-11T15:15:56.511Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [NMIXX] 첫 싱글 <AD MARE> 콘셉트 포토 'N' (릴리, 지우, 규진)]]></title>
         <id>https://ppt21.com/spoent/66112?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/66069?category=2"/>
         <updated>2022-02-09T03:16:09.257Z</updated>
         <content type="html"><![CDATA[강가딘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [NMIXX] 첫 싱글 <AD MARE> 콘셉트 포토 'N' (설윤, 해원)]]></title>
-        <id>https://ppt21.com/spoent/66065?category=2</id>
-        <link href="https://ppt21.com/spoent/66065?category=2"/>
-        <updated>2022-02-08T17:18:21.604Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 올해 아카데미 작품상 후보들...]]></title>
-        <id>https://ppt21.com/spoent/66064?category=2</id>
-        <link href="https://ppt21.com/spoent/66064?category=2"/>
-        <updated>2022-02-08T14:15:36.053Z</updated>
-        <content type="html"><![CDATA[우주전쟁]]></content>
     </entry>
 </feed>
