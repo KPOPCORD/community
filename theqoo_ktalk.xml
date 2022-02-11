@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2022-02-11T01:01:23.742Z</updated>
+    <updated>2022-02-11T02:07:23.506Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[지석진, 코로나19 확진 판정]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2342002543</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2342002543"/>
+        <updated>2022-02-11T02:07:22.792Z</updated>
+        <content type="html"><![CDATA[301451]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독]조권, 코로나19 확진… 2AM 콘서트 취소 결정]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2341996406</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2341996406"/>
+        <updated>2022-02-11T02:07:22.793Z</updated>
+        <content type="html"><![CDATA[301450]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IST엔터 새 보이그룹 탄생한다…카카오TV, 26일 '디 오리진' 공개]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2341981165</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2341981165"/>
+        <updated>2022-02-11T02:07:22.793Z</updated>
+        <content type="html"><![CDATA[301449]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[얼굴합 맛집은 역시]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2341876462</id>
@@ -123,26 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2341397402"/>
         <updated>2022-02-10T11:13:54.025Z</updated>
         <content type="html"><![CDATA[301432]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[문빈&산하(ASTRO) <Ghost Town> M/V Teaser 👻]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2341389977</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2341389977"/>
-        <updated>2022-02-10T10:17:42.980Z</updated>
-        <content type="html"><![CDATA[301431]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[펜타곤(PENTAGON) #관람차 (#Sparkling_Night)🎡 진호, 키노ver.]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2341385714</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2341385714"/>
-        <updated>2022-02-10T10:17:42.980Z</updated>
-        <content type="html"><![CDATA[301430]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지석진 측 "자가진단키트 결과 양성…PCR 받고 기다리는 중"]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2341250932</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2341250932"/>
-        <updated>2022-02-10T08:18:54.470Z</updated>
-        <content type="html"><![CDATA[301429]]></content>
     </entry>
 </feed>
