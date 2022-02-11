@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-02-11T04:20:25.931Z</updated>
+    <updated>2022-02-11T05:14:31.282Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [NMIXX] 첫 싱글 <AD MARE> 콘셉트 포토 'N' (릴리, 지우, 규진)]]></title>
+        <id>https://ppt21.com/spoent/66112?category=2</id>
+        <link href="https://ppt21.com/spoent/66112?category=2"/>
+        <updated>2022-02-11T05:14:21.656Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 완전체로 컴백하는 에픽하이 '그래서 그래' 티저.ytb]]></title>
         <id>https://ppt21.com/spoent/66103?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/66064?category=2"/>
         <updated>2022-02-08T14:15:36.053Z</updated>
         <content type="html"><![CDATA[우주전쟁]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [VIVIZ] 'BOP BOP!' M/V Teaser #2 (데뷔 D-1)]]></title>
-        <id>https://ppt21.com/spoent/66062?category=2</id>
-        <link href="https://ppt21.com/spoent/66062?category=2"/>
-        <updated>2022-02-08T14:15:36.054Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
