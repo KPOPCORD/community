@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-12T01:00:52.499Z</updated>
+    <updated>2022-02-12T02:08:10.415Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[연예] 다음주 유퀴즈에 나오는 [그해 우리는]의 원작 EBS 1등과 꼴찌 (Pgr21 ─ 연예)]]></title>
@@ -138,6 +138,13 @@
         <content type="html"><![CDATA[강가딘]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[나 문통 별로 안좋아하지만, 노통이랑 같은길을 가게하고싶지는 않아서... (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2343058848</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2343058848"/>
+        <updated>2022-02-12T02:08:09.624Z</updated>
+        <content type="html"><![CDATA[301472]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[#BTS #제이홉, 아시아 최초 “솔로곡 전곡 스포티파이 브라질 톱송 차트 진입” (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2343050563</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2343050563"/>
@@ -269,12 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2342378068"/>
         <updated>2022-02-11T09:17:37.052Z</updated>
         <content type="html"><![CDATA[301453]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[프로미스나인 - “한 페이지가 될 수 있게(by DAY6)” Band LIVE Concert [잇츠라이브] (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2342361791</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2342361791"/>
-        <updated>2022-02-11T09:17:37.053Z</updated>
-        <content type="html"><![CDATA[301452]]></content>
     </entry>
 </feed>

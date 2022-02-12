@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2022-02-12T01:00:52.501Z</updated>
+    <updated>2022-02-12T02:08:10.317Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[나 문통 별로 안좋아하지만, 노통이랑 같은길을 가게하고싶지는 않아서...]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2343058848</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2343058848"/>
+        <updated>2022-02-12T02:08:09.624Z</updated>
+        <content type="html"><![CDATA[301472]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#BTS #제이홉, 아시아 최초 “솔로곡 전곡 스포티파이 브라질 톱송 차트 진입”]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2343050563</id>
@@ -137,12 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2342378068"/>
         <updated>2022-02-11T09:17:37.052Z</updated>
         <content type="html"><![CDATA[301453]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[프로미스나인 - “한 페이지가 될 수 있게(by DAY6)” Band LIVE Concert [잇츠라이브]]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2342361791</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2342361791"/>
-        <updated>2022-02-11T09:17:37.053Z</updated>
-        <content type="html"><![CDATA[301452]]></content>
     </entry>
 </feed>
