@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2022-02-12T14:13:57.930Z</updated>
+    <updated>2022-02-12T15:16:40.759Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[빌리(Billlie) 2nd Mini ALBUM [the collective soul and unconscious: chapter one] | letter from B]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2343848818</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2343848818"/>
+        <updated>2022-02-12T15:16:39.404Z</updated>
+        <content type="html"><![CDATA[301480]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TREASURE(트레저) - ‘THE SECOND STEP : CHAPTER ONE’ SAMPLER 최현석 지훈 요시 준규 마시호 윤재혁]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2343844944</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2343844944"/>
+        <updated>2022-02-12T15:16:39.406Z</updated>
+        <content type="html"><![CDATA[301479]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[씨아이엑스 배진영 트위터 업뎃💜]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2343766985</id>
@@ -130,19 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2342478623"/>
         <updated>2022-02-11T11:13:42.189Z</updated>
         <content type="html"><![CDATA[301461]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[데이식스 원필 브이로그 [WONPIL's vlog : ePILog] #1]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2342474072</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2342474072"/>
-        <updated>2022-02-11T11:13:42.190Z</updated>
-        <content type="html"><![CDATA[301460]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔하이픈 정원 위버스😝😁]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2342467814</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2342467814"/>
-        <updated>2022-02-11T11:13:42.191Z</updated>
-        <content type="html"><![CDATA[301459]]></content>
     </entry>
 </feed>
