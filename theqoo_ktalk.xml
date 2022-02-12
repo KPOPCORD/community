@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2022-02-12T11:13:23.350Z</updated>
+    <updated>2022-02-12T12:23:58.762Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[TXT & EN-] BACKSTAGE: TXT x EN- DOCUMENTARY Teaser]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2343616171</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2343616171"/>
+        <updated>2022-02-12T12:23:58.093Z</updated>
+        <content type="html"><![CDATA[301478]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[크래비티, 7명 무더기 코로나19 확진…앨범 발매 연기(공식)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2343580511</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2343580511"/>
+        <updated>2022-02-12T12:23:58.097Z</updated>
+        <content type="html"><![CDATA[301477]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CNBLUE 정용화 코로나 19 검사 결과 안내]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2343569339</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2343569339"/>
+        <updated>2022-02-12T12:23:58.097Z</updated>
+        <content type="html"><![CDATA[301476]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[강다니엘 공트업뎃💙]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2343506602</id>
@@ -123,26 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2342462648"/>
         <updated>2022-02-11T10:17:06.454Z</updated>
         <content type="html"><![CDATA[301459]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AB6IX (에이비식스) 필링캠프 - 브랜뉴 음악대 EP.3]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2342460512</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2342460512"/>
-        <updated>2022-02-11T10:17:06.490Z</updated>
-        <content type="html"><![CDATA[301458]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[릴레이댄스] 펜타곤(PENTAGON) - Feelin' Like (4K)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2342453464</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2342453464"/>
-        <updated>2022-02-11T10:17:06.492Z</updated>
-        <content type="html"><![CDATA[301457]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[EPISODE] 춤짱이픈의 전설의 칼군무 녹화현장👍 글로벌 라이징 아티스트 #ENHYPEN(엔하이픈) 의 첫 MMA 시상식 현장!]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2342418755</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2342418755"/>
-        <updated>2022-02-11T10:17:06.495Z</updated>
-        <content type="html"><![CDATA[301456]]></content>
     </entry>
 </feed>
