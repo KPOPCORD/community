@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-12T09:16:31.067Z</updated>
+    <updated>2022-02-12T10:16:17.924Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] 라디오스타 김소현의 학력드립 최근 근황 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/66128?category=2</id>
+        <link href="https://ppt21.com/spoent/66128?category=2"/>
+        <updated>2022-02-12T10:15:49.081Z</updated>
+        <content type="html"><![CDATA[style]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] TV광고로 선공개 된 태연 3집 타이틀곡 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/66126?category=2</id>
@@ -129,13 +136,6 @@
         <link href="https://ppt21.com/spoent/66075?category=2"/>
         <updated>2022-02-09T10:17:17.998Z</updated>
         <content type="html"><![CDATA[VictoryFood]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 취소 후 다시 살아 돌아온 태연 하라클#1 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/66074?category=2</id>
-        <link href="https://ppt21.com/spoent/66074?category=2"/>
-        <updated>2022-02-09T10:17:17.999Z</updated>
-        <content type="html"><![CDATA[KIMTAEYEON]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[엔하이픈 정원 위버스👌 (더쿠 ─ 케이돌토크)]]></title>
