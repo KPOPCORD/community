@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-02-12T15:16:40.752Z</updated>
+    <updated>2022-02-12T16:22:12.359Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [맘마미안] 8화 방송분 방송국 시점 vs 승우아빠 시점 (이원일 셰프 편)]]></title>
+        <id>https://ppt21.com/spoent/66135?category=2</id>
+        <link href="https://ppt21.com/spoent/66135?category=2"/>
+        <updated>2022-02-12T16:21:41.501Z</updated>
+        <content type="html"><![CDATA[A1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 2022년 2월 2주 D-차트 : 김민석 3주 연속 1위! 예나는 3위까지 상승]]></title>
         <id>https://ppt21.com/spoent/66132?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/66085?category=2"/>
         <updated>2022-02-09T16:23:49.426Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 유퀴즈 조세호 대타]]></title>
-        <id>https://ppt21.com/spoent/66080?category=2</id>
-        <link href="https://ppt21.com/spoent/66080?category=2"/>
-        <updated>2022-02-09T14:14:33.243Z</updated>
-        <content type="html"><![CDATA[껌정]]></content>
     </entry>
 </feed>
