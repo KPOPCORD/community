@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2022-02-12T08:18:40.460Z</updated>
+    <updated>2022-02-12T09:16:31.065Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[엔하이픈 정원 위버스👌]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2343411336</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2343411336"/>
+        <updated>2022-02-12T09:16:30.135Z</updated>
+        <content type="html"><![CDATA[301474]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[📽] 펜타곤 #Feelin_Like_Challenge (With. #업텐션 #쿤 @UP10TION)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2343231395</id>
@@ -137,12 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2342413934"/>
         <updated>2022-02-11T10:17:06.497Z</updated>
         <content type="html"><![CDATA[301455]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[태연 정규3집 [INVU] 3차 공구 안내]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2342406541</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2342406541"/>
-        <updated>2022-02-11T09:17:37.040Z</updated>
-        <content type="html"><![CDATA[301454]]></content>
     </entry>
 </feed>
