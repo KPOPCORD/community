@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-13T10:16:28.305Z</updated>
+    <updated>2022-02-13T11:13:29.084Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[연예] 오늘부터 운동뚱 시즌2 티저 (Pgr21 ─ 연예)]]></title>
@@ -138,6 +138,20 @@
         <content type="html"><![CDATA[KIMTAEYEON]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[투바투 수빈 멤트⭐️ (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2344537168</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2344537168"/>
+        <updated>2022-02-13T11:13:28.405Z</updated>
+        <content type="html"><![CDATA[301493]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[투바투 범규 멤트 🧸🧸 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2344518229</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2344518229"/>
+        <updated>2022-02-13T11:13:28.405Z</updated>
+        <content type="html"><![CDATA[301492]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[웅답하라 1997 - EP.13 ZAYN, Taylor Swift 'I Don’t Wanna Live Forever' | Cover by 전웅 (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2344431141</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2344431141"/>
@@ -262,19 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2343411336"/>
         <updated>2022-02-12T09:16:30.135Z</updated>
         <content type="html"><![CDATA[301474]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[📽] 펜타곤 #Feelin_Like_Challenge (With. #업텐션 #쿤 @UP10TION) (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2343231395</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2343231395"/>
-        <updated>2022-02-12T05:14:01.602Z</updated>
-        <content type="html"><![CDATA[301473]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나 문통 별로 안좋아하지만, 노통이랑 같은길을 가게하고싶지는 않아서... (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2343058848</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2343058848"/>
-        <updated>2022-02-12T02:08:09.624Z</updated>
-        <content type="html"><![CDATA[301472]]></content>
     </entry>
 </feed>
