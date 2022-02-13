@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-02-13T11:13:29.079Z</updated>
+    <updated>2022-02-13T12:23:36.325Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 2022년 1월 여자가수 음반판매량(가온기준)]]></title>
+        <id>https://ppt21.com/spoent/66141?category=2</id>
+        <link href="https://ppt21.com/spoent/66141?category=2"/>
+        <updated>2022-02-13T12:23:26.794Z</updated>
+        <content type="html"><![CDATA[VictoryFood]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 오늘부터 운동뚱 시즌2 티저]]></title>
         <id>https://ppt21.com/spoent/66139?category=2</id>
@@ -129,13 +136,6 @@
         <id>https://ppt21.com/spoent/66093?category=2</id>
         <link href="https://ppt21.com/spoent/66093?category=2"/>
         <updated>2022-02-10T11:13:18.130Z</updated>
-        <content type="html"><![CDATA[KIMTAEYEON]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 태연 'INVU' Clip #2, #3 , 티저 이미지]]></title>
-        <id>https://ppt21.com/spoent/66092?category=2</id>
-        <link href="https://ppt21.com/spoent/66092?category=2"/>
-        <updated>2022-02-10T10:17:30.681Z</updated>
         <content type="html"><![CDATA[KIMTAEYEON]]></content>
     </entry>
 </feed>
