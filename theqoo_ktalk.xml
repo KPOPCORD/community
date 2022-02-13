@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2022-02-13T14:14:17.056Z</updated>
+    <updated>2022-02-13T15:16:23.992Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[씨아이엑스 승훈 트위터 업뎃💛]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2344859280</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2344859280"/>
+        <updated>2022-02-13T15:16:23.290Z</updated>
+        <content type="html"><![CDATA[301497]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대한체육회 인스타 (with 황대헌 박장혁 이준서 곽윤기 김동욱 빙둔둔)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2344838762</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2344838762"/>
+        <updated>2022-02-13T15:16:23.293Z</updated>
+        <content type="html"><![CDATA[301496]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Apink Special Album [HORN] 'Dilemma' MV Teaser 2]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2344781239</id>
@@ -130,19 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2343766985"/>
         <updated>2022-02-12T14:13:57.256Z</updated>
         <content type="html"><![CDATA[301478]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[TXT & EN-] BACKSTAGE: TXT x EN- DOCUMENTARY Teaser]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2343616171</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2343616171"/>
-        <updated>2022-02-12T12:23:58.093Z</updated>
-        <content type="html"><![CDATA[301477]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[크래비티, 7명 무더기 코로나19 확진…앨범 발매 연기(공식)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2343580511</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2343580511"/>
-        <updated>2022-02-12T12:23:58.097Z</updated>
-        <content type="html"><![CDATA[301476]]></content>
     </entry>
 </feed>
