@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-02-14T12:25:26.732Z</updated>
+    <updated>2022-02-14T13:18:34.165Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 악성 우결충 모음집]]></title>
+        <id>https://ppt21.com/spoent/66160?category=2</id>
+        <link href="https://ppt21.com/spoent/66160?category=2"/>
+        <updated>2022-02-14T13:18:18.477Z</updated>
+        <content type="html"><![CDATA[마이스타일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [태연] 'INVU' M/V]]></title>
         <id>https://ppt21.com/spoent/66155?category=2</id>
@@ -128,13 +135,6 @@
         <title type="html"><![CDATA[[연예] 최예나, 엠카에서 솔로데뷔 후 첫 음방 1위 (+앵콜 직캠)]]></title>
         <id>https://ppt21.com/spoent/66101?category=2</id>
         <link href="https://ppt21.com/spoent/66101?category=2"/>
-        <updated>2022-02-10T13:18:36.692Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [VIVIZ] 엠카운트다운 음방 데뷔 무대 (+직캠 영상)]]></title>
-        <id>https://ppt21.com/spoent/66100?category=2</id>
-        <link href="https://ppt21.com/spoent/66100?category=2"/>
         <updated>2022-02-10T13:18:36.692Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
