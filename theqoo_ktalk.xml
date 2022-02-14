@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2022-02-14T14:15:44.994Z</updated>
+    <updated>2022-02-14T15:17:20.402Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[TREASURE(트레저)‘THE SECOND STEP : CHAPTER ONE’ D-DAY POSTER]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2346010692</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2346010692"/>
+        <updated>2022-02-14T15:17:19.670Z</updated>
+        <content type="html"><![CDATA[301520]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(Teaser) [BE ORIGINAL] Apink(에이핑크) 'Dilemma' (4K)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2345938793</id>
@@ -137,12 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2345161232"/>
         <updated>2022-02-14T02:27:24.431Z</updated>
         <content type="html"><![CDATA[301501]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 문체부 한류실태조사 가수부문 TOP10]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2345102145</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2345102145"/>
-        <updated>2022-02-14T00:54:45.704Z</updated>
-        <content type="html"><![CDATA[301500]]></content>
     </entry>
 </feed>

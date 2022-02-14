@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-14T14:15:44.998Z</updated>
+    <updated>2022-02-14T15:17:20.406Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] 강호동 따라하기 원탑 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/66162?category=2</id>
+        <link href="https://ppt21.com/spoent/66162?category=2"/>
+        <updated>2022-02-14T15:17:10.942Z</updated>
+        <content type="html"><![CDATA[로사]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] [싱어게인] 파이널 10인의 자기 노래 영상 (스포) (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/66161?category=2</id>
+        <link href="https://ppt21.com/spoent/66161?category=2"/>
+        <updated>2022-02-14T15:17:10.944Z</updated>
+        <content type="html"><![CDATA[빼사스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 악성 우결충 모음집 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/66160?category=2</id>
@@ -124,18 +138,11 @@
         <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[연예] 완전체로 컴백하는 에픽하이 '그래서 그래' 티저.ytb (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/66103?category=2</id>
-        <link href="https://ppt21.com/spoent/66103?category=2"/>
-        <updated>2022-02-10T16:22:53.133Z</updated>
-        <content type="html"><![CDATA[VictoryFood]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 최예나, 엠카에서 솔로데뷔 후 첫 음방 1위 (+앵콜 직캠) (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/66101?category=2</id>
-        <link href="https://ppt21.com/spoent/66101?category=2"/>
-        <updated>2022-02-10T13:18:36.692Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
+        <title type="html"><![CDATA[TREASURE(트레저)‘THE SECOND STEP : CHAPTER ONE’ D-DAY POSTER (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2346010692</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2346010692"/>
+        <updated>2022-02-14T15:17:19.670Z</updated>
+        <content type="html"><![CDATA[301520]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(Teaser) [BE ORIGINAL] Apink(에이핑크) 'Dilemma' (4K) (더쿠 ─ 케이돌토크)]]></title>
@@ -269,12 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2345161232"/>
         <updated>2022-02-14T02:27:24.431Z</updated>
         <content type="html"><![CDATA[301501]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 문체부 한류실태조사 가수부문 TOP10 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2345102145</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2345102145"/>
-        <updated>2022-02-14T00:54:45.704Z</updated>
-        <content type="html"><![CDATA[301500]]></content>
     </entry>
 </feed>
