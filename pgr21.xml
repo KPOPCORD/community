@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-02-14T08:19:30.633Z</updated>
+    <updated>2022-02-14T09:16:03.316Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [태연] 'INVU' M/V]]></title>
+        <id>https://ppt21.com/spoent/66155?category=2</id>
+        <link href="https://ppt21.com/spoent/66155?category=2"/>
+        <updated>2022-02-14T09:15:30.902Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] [에이핑크] 'Dilemma' M/V]]></title>
+        <id>https://ppt21.com/spoent/66154?category=2</id>
+        <link href="https://ppt21.com/spoent/66154?category=2"/>
+        <updated>2022-02-14T09:15:30.909Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 에픽하이 '그래서 그래 (Feat. 윤하)' M/V]]></title>
+        <id>https://ppt21.com/spoent/66153?category=2</id>
+        <link href="https://ppt21.com/spoent/66153?category=2"/>
+        <updated>2022-02-14T09:15:30.915Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 오늘자 미국판 토토가.jpg]]></title>
         <id>https://ppt21.com/spoent/66149?category=2</id>
@@ -116,26 +137,5 @@
         <link href="https://ppt21.com/spoent/66100?category=2"/>
         <updated>2022-02-10T13:18:36.692Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 현빈 - 손예진 커플 결혼]]></title>
-        <id>https://ppt21.com/spoent/66098?category=2</id>
-        <link href="https://ppt21.com/spoent/66098?category=2"/>
-        <updated>2022-02-10T12:26:29.203Z</updated>
-        <content type="html"><![CDATA[나의 연인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 야구선수 황재균 - 티아라 지연 결혼]]></title>
-        <id>https://ppt21.com/spoent/66096?category=2</id>
-        <link href="https://ppt21.com/spoent/66096?category=2"/>
-        <updated>2022-02-10T11:13:18.125Z</updated>
-        <content type="html"><![CDATA[껌정]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 김종국·양세찬 확진-지석진 키트 양성]]></title>
-        <id>https://ppt21.com/spoent/66095?category=2</id>
-        <link href="https://ppt21.com/spoent/66095?category=2"/>
-        <updated>2022-02-10T11:13:18.130Z</updated>
-        <content type="html"><![CDATA[반니스텔루이]]></content>
     </entry>
 </feed>
