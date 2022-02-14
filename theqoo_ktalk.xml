@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2022-02-14T01:57:20.152Z</updated>
+    <updated>2022-02-14T02:27:25.103Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[투바투 휴닝카이 틱톡 (발렌타인데이)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2345161232</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2345161232"/>
+        <updated>2022-02-14T02:27:24.431Z</updated>
+        <content type="html"><![CDATA[301506]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 문체부 한류실태조사 가수부문 TOP10]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2345102145</id>
@@ -137,12 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2344173267"/>
         <updated>2022-02-13T04:20:03.476Z</updated>
         <content type="html"><![CDATA[301487]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방과후 설렘 [데뷔조 자리뺏기 리허설-미방분] 김리원 vs 원지민 full ver.]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2344125351</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2344125351"/>
-        <updated>2022-02-13T03:17:02.654Z</updated>
-        <content type="html"><![CDATA[301486]]></content>
     </entry>
 </feed>
