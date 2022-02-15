@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2022-02-15T12:26:20.440Z</updated>
+    <updated>2022-02-15T13:20:34.833Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[방탄 뷔 코로나19 확진]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2346906728</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2346906728"/>
+        <updated>2022-02-15T13:20:34.096Z</updated>
+        <content type="html"><![CDATA[301540]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독] 이승기, 코로나19 확진..자택 격리]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2346879847</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2346879847"/>
+        <updated>2022-02-15T13:20:34.108Z</updated>
+        <content type="html"><![CDATA[301539]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[방탄 지민 위버스 모먼트 업뎃 "v" (제이홉 댓글)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2346875823</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2346875823"/>
+        <updated>2022-02-15T13:20:34.109Z</updated>
+        <content type="html"><![CDATA[301538]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(Teaser) [BE ORIGINAL] TAEYEON(태연) 'INVU' (4K)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2346752343</id>
@@ -123,26 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2346193730"/>
         <updated>2022-02-15T01:04:10.955Z</updated>
         <content type="html"><![CDATA[301521]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[태연이 용안으로 눈호강&짤줍하고 가.gif (움짤 많음)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2346095705</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2346095705"/>
-        <updated>2022-02-14T17:15:23.098Z</updated>
-        <content type="html"><![CDATA[301520]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비투비 (BTOB) - 3rd Album [Be Together] Mood Sampler : Dear. BLUE]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2346074284</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2346074284"/>
-        <updated>2022-02-14T16:22:37.175Z</updated>
-        <content type="html"><![CDATA[301519]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빌리(Billlie) the collective soul and unconscious: chapter one bhind the scenes #1 - soul]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2346035257</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2346035257"/>
-        <updated>2022-02-14T16:22:37.175Z</updated>
-        <content type="html"><![CDATA[301518]]></content>
     </entry>
 </feed>
