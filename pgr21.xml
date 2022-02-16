@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-02-15T23:17:02.176Z</updated>
+    <updated>2022-02-16T00:59:37.841Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 응애 나 애기 보아]]></title>
+        <id>https://ppt21.com/spoent/66177?category=2</id>
+        <link href="https://ppt21.com/spoent/66177?category=2"/>
+        <updated>2022-02-16T00:59:27.336Z</updated>
+        <content type="html"><![CDATA[어강됴리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [로켓펀치] 2.28 컴백]]></title>
         <id>https://ppt21.com/spoent/66172?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/66128?category=2"/>
         <updated>2022-02-12T10:15:49.081Z</updated>
         <content type="html"><![CDATA[style]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] TV광고로 선공개 된 태연 3집 타이틀곡]]></title>
-        <id>https://ppt21.com/spoent/66126?category=2</id>
-        <link href="https://ppt21.com/spoent/66126?category=2"/>
-        <updated>2022-02-12T05:13:52.242Z</updated>
-        <content type="html"><![CDATA[KIMTAEYEON]]></content>
     </entry>
 </feed>
