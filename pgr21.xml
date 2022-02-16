@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-02-16T11:15:01.941Z</updated>
+    <updated>2022-02-16T12:24:53.088Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [고전] 이태원 클라쓰 흔한 입사지원자]]></title>
+        <id>https://ppt21.com/spoent/66187?category=2</id>
+        <link href="https://ppt21.com/spoent/66187?category=2"/>
+        <updated>2022-02-16T12:24:42.920Z</updated>
+        <content type="html"><![CDATA[Croove]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] [VIVIZ] 데뷔 일주일만에 첫 음방 1위한 신인(?) 걸그룹]]></title>
+        <id>https://ppt21.com/spoent/66186?category=2</id>
+        <link href="https://ppt21.com/spoent/66186?category=2"/>
+        <updated>2022-02-16T12:24:42.922Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [로켓펀치] CHIQUITA 티져]]></title>
         <id>https://ppt21.com/spoent/66185?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/66149?category=2"/>
         <updated>2022-02-14T05:15:11.021Z</updated>
         <content type="html"><![CDATA[캬라]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 2022년 1월 여자가수 음반판매량(가온기준)]]></title>
-        <id>https://ppt21.com/spoent/66141?category=2</id>
-        <link href="https://ppt21.com/spoent/66141?category=2"/>
-        <updated>2022-02-13T12:23:26.794Z</updated>
-        <content type="html"><![CDATA[VictoryFood]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 오늘부터 운동뚱 시즌2 티저]]></title>
-        <id>https://ppt21.com/spoent/66139?category=2</id>
-        <link href="https://ppt21.com/spoent/66139?category=2"/>
-        <updated>2022-02-13T08:18:18.142Z</updated>
-        <content type="html"><![CDATA[츠라빈스카야]]></content>
     </entry>
 </feed>

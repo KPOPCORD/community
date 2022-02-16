@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-16T11:15:01.947Z</updated>
+    <updated>2022-02-16T12:24:52.998Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] [고전] 이태원 클라쓰 흔한 입사지원자 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/66187?category=2</id>
+        <link href="https://ppt21.com/spoent/66187?category=2"/>
+        <updated>2022-02-16T12:24:42.920Z</updated>
+        <content type="html"><![CDATA[Croove]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] [VIVIZ] 데뷔 일주일만에 첫 음방 1위한 신인(?) 걸그룹 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/66186?category=2</id>
+        <link href="https://ppt21.com/spoent/66186?category=2"/>
+        <updated>2022-02-16T12:24:42.922Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [로켓펀치] CHIQUITA 티져 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/66185?category=2</id>
@@ -124,18 +138,32 @@
         <content type="html"><![CDATA[캬라]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[연예] 2022년 1월 여자가수 음반판매량(가온기준) (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/66141?category=2</id>
-        <link href="https://ppt21.com/spoent/66141?category=2"/>
-        <updated>2022-02-13T12:23:26.794Z</updated>
-        <content type="html"><![CDATA[VictoryFood]]></content>
+        <title type="html"><![CDATA[투바투 태현 멤트 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2347989573</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2347989573"/>
+        <updated>2022-02-16T12:24:52.284Z</updated>
+        <content type="html"><![CDATA[301528]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[연예] 오늘부터 운동뚱 시즌2 티저 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/66139?category=2</id>
-        <link href="https://ppt21.com/spoent/66139?category=2"/>
-        <updated>2022-02-13T08:18:18.142Z</updated>
-        <content type="html"><![CDATA[츠라빈스카야]]></content>
+        <title type="html"><![CDATA[투바투 휴강즈 틱톡 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2347977757</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2347977757"/>
+        <updated>2022-02-16T12:24:52.285Z</updated>
+        <content type="html"><![CDATA[301527]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[케돌 일본 주간 음원 다운로드 & 스트리밍 차트 (2월 둘째주) (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2347940725</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2347940725"/>
+        <updated>2022-02-16T12:24:52.287Z</updated>
+        <content type="html"><![CDATA[301526]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엔하이픈 제이 틱톡🕺🏻 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2347931273</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2347931273"/>
+        <updated>2022-02-16T12:24:52.289Z</updated>
+        <content type="html"><![CDATA[301525]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[씨아이엑스 승훈 트위터 업뎃💛 (더쿠 ─ 케이돌토크)]]></title>
@@ -248,33 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2347361659"/>
         <updated>2022-02-16T02:12:01.062Z</updated>
         <content type="html"><![CDATA[301509]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['연애혁명'→'멀푸봄' 박지훈, '약한영웅' 타이틀롤…1년만 컴백 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2347338208</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2347338208"/>
-        <updated>2022-02-16T02:12:01.082Z</updated>
-        <content type="html"><![CDATA[301508]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[공식] 방탄소년단, 3월 10·12·13일 서울콘서트 전격 개최 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2347321555</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2347321555"/>
-        <updated>2022-02-16T02:12:01.085Z</updated>
-        <content type="html"><![CDATA[301507]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임시완·권상우·주지훈·엑소 온다..웨이브 '2022 라인업' (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2347282884</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2347282884"/>
-        <updated>2022-02-16T00:59:37.111Z</updated>
-        <content type="html"><![CDATA[301506]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비투비 (BTOB) - 3rd Album [Be Together] Audio Snippet (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2347150956</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2347150956"/>
-        <updated>2022-02-15T16:19:43.750Z</updated>
-        <content type="html"><![CDATA[301505]]></content>
     </entry>
 </feed>
