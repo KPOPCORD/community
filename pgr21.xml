@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-02-16T16:21:41.712Z</updated>
+    <updated>2022-02-16T17:16:17.452Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [걸그룹 대전] 줄줄이 컴백 또는 데뷔 예정인 걸그룹들]]></title>
+        <id>https://ppt21.com/spoent/66196?category=2</id>
+        <link href="https://ppt21.com/spoent/66196?category=2"/>
+        <updated>2022-02-16T17:16:07.024Z</updated>
+        <content type="html"><![CDATA[아롱이다롱이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [스테이씨] 'RUN2U' M/V Teaser #1]]></title>
         <id>https://ppt21.com/spoent/66193?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/66160?category=2"/>
         <updated>2022-02-14T13:18:18.477Z</updated>
         <content type="html"><![CDATA[마이스타일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [태연] 'INVU' M/V]]></title>
-        <id>https://ppt21.com/spoent/66155?category=2</id>
-        <link href="https://ppt21.com/spoent/66155?category=2"/>
-        <updated>2022-02-14T09:15:30.902Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
