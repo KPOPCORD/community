@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2022-02-16T20:16:34.340Z</updated>
+    <updated>2022-02-16T21:15:57.852Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[방탄 제이홉 인스스 (feat. 쫜의 생일선물 🍓🎂🎁)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2348411548</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2348411548"/>
+        <updated>2022-02-16T21:15:57.127Z</updated>
+        <content type="html"><![CDATA[301538]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[태민이가 연기하고 태연이가 노래한 일본 OST 곡]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2348400610</id>
@@ -137,12 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2347633007"/>
         <updated>2022-02-16T07:15:29.160Z</updated>
         <content type="html"><![CDATA[301519]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[있지 채령 코로나19 확진]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2347543089</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2347543089"/>
-        <updated>2022-02-16T05:15:00.873Z</updated>
-        <content type="html"><![CDATA[301518]]></content>
     </entry>
 </feed>
