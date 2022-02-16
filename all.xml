@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-16T07:15:29.844Z</updated>
+    <updated>2022-02-16T08:18:52.412Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[연예] 넷플릭스 주차 시청시간 / 누적 시청시간 업데이트 (Pgr21 ─ 연예)]]></title>
@@ -138,6 +138,13 @@
         <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[김재환(KIM JAE HWAN) - 슈퍼마리오│with 릴트(ALILT) Live Clip (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2347728014</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2347728014"/>
+        <updated>2022-02-16T08:18:51.658Z</updated>
+        <content type="html"><![CDATA[301520]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[안산 선수 인별스토리 - 샤이니 키 봤나봐 (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2347633007</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2347633007"/>
@@ -269,12 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2346879847"/>
         <updated>2022-02-15T13:20:34.108Z</updated>
         <content type="html"><![CDATA[301501]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방탄 지민 위버스 모먼트 업뎃 "v" (제이홉 댓글) (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2346875823</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2346875823"/>
-        <updated>2022-02-15T13:20:34.109Z</updated>
-        <content type="html"><![CDATA[301500]]></content>
     </entry>
 </feed>
