@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2022-02-16T04:20:41.073Z</updated>
+    <updated>2022-02-16T05:15:01.715Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[있지 채령 코로나19 확진]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2347543089</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2347543089"/>
+        <updated>2022-02-16T05:15:00.873Z</updated>
+        <content type="html"><![CDATA[301519]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AB6IX 박우진 코로나 19 확진 안내]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2347491836</id>
@@ -137,12 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2346752343"/>
         <updated>2022-02-15T11:14:19.571Z</updated>
         <content type="html"><![CDATA[301500]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AB6IX 멤버 코로나19 검사 관련 안내]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2346700134</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2346700134"/>
-        <updated>2022-02-15T10:17:50.203Z</updated>
-        <content type="html"><![CDATA[301499]]></content>
     </entry>
 </feed>
