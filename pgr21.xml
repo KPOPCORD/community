@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-02-17T08:18:59.118Z</updated>
+    <updated>2022-02-17T10:17:56.855Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [유퀴즈] 눈 감아요 조셉... - 제작진 일동-]]></title>
+        <id>https://ppt21.com/spoent/66206?category=2</id>
+        <link href="https://ppt21.com/spoent/66206?category=2"/>
+        <updated>2022-02-17T10:17:46.983Z</updated>
+        <content type="html"><![CDATA[시린비]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [있지] 유나의 졸업 브이로그.ytb (feat. 마기꾼?)]]></title>
         <id>https://ppt21.com/spoent/66200?category=2</id>
@@ -129,13 +136,6 @@
         <id>https://ppt21.com/spoent/66163?category=2</id>
         <link href="https://ppt21.com/spoent/66163?category=2"/>
         <updated>2022-02-14T16:22:18.025Z</updated>
-        <content type="html"><![CDATA[빼사스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [싱어게인] 파이널 10인의 자기 노래 영상 (스포)]]></title>
-        <id>https://ppt21.com/spoent/66161?category=2</id>
-        <link href="https://ppt21.com/spoent/66161?category=2"/>
-        <updated>2022-02-14T15:17:10.944Z</updated>
         <content type="html"><![CDATA[빼사스]]></content>
     </entry>
 </feed>
