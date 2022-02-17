@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-02-17T00:53:05.105Z</updated>
+    <updated>2022-02-17T01:55:09.839Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [있지] 유나의 졸업 브이로그.ytb (feat. 마기꾼?)]]></title>
+        <id>https://ppt21.com/spoent/66200?category=2</id>
+        <link href="https://ppt21.com/spoent/66200?category=2"/>
+        <updated>2022-02-17T01:54:59.626Z</updated>
+        <content type="html"><![CDATA[VictoryFood]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [걸그룹 대전] 줄줄이 컴백 또는 데뷔 예정인 걸그룹들]]></title>
         <id>https://ppt21.com/spoent/66196?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/66161?category=2"/>
         <updated>2022-02-14T15:17:10.944Z</updated>
         <content type="html"><![CDATA[빼사스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 악성 우결충 모음집]]></title>
-        <id>https://ppt21.com/spoent/66160?category=2</id>
-        <link href="https://ppt21.com/spoent/66160?category=2"/>
-        <updated>2022-02-14T13:18:18.477Z</updated>
-        <content type="html"><![CDATA[마이스타일]]></content>
     </entry>
 </feed>
