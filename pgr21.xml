@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-02-18T13:19:38.467Z</updated>
+    <updated>2022-02-18T14:15:14.697Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [태연] 'INVU' 스튜디오 춤 퍼포먼스 영상]]></title>
+        <id>https://ppt21.com/spoent/66235?category=2</id>
+        <link href="https://ppt21.com/spoent/66235?category=2"/>
+        <updated>2022-02-18T14:14:56.710Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [트와이스] TTT '트둥 투어' EP.01 (완전체! 완전체!)]]></title>
         <id>https://ppt21.com/spoent/66232?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/66200?category=2"/>
         <updated>2022-02-17T01:54:59.626Z</updated>
         <content type="html"><![CDATA[VictoryFood]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [걸그룹 대전] 줄줄이 컴백 또는 데뷔 예정인 걸그룹들]]></title>
-        <id>https://ppt21.com/spoent/66196?category=2</id>
-        <link href="https://ppt21.com/spoent/66196?category=2"/>
-        <updated>2022-02-16T17:16:07.024Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
     </entry>
 </feed>
