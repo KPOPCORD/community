@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-02-18T17:16:14.228Z</updated>
+    <updated>2022-02-18T18:19:04.777Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 1. (제 귀엔)듣기 좋았던 (1년 이내)걸그룹&여자 솔로 노래]]></title>
+        <id>https://ppt21.com/spoent/66239?category=2</id>
+        <link href="https://ppt21.com/spoent/66239?category=2"/>
+        <updated>2022-02-18T18:18:55.616Z</updated>
+        <content type="html"><![CDATA[별빛정원]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 성소 최근 모습]]></title>
         <id>https://ppt21.com/spoent/66236?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/66208?category=2"/>
         <updated>2022-02-17T11:13:09.419Z</updated>
         <content type="html"><![CDATA[강가딘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [유퀴즈] 눈 감아요 조셉... - 제작진 일동-]]></title>
-        <id>https://ppt21.com/spoent/66206?category=2</id>
-        <link href="https://ppt21.com/spoent/66206?category=2"/>
-        <updated>2022-02-17T10:17:46.983Z</updated>
-        <content type="html"><![CDATA[시린비]]></content>
     </entry>
 </feed>
