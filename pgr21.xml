@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-02-18T02:31:42.045Z</updated>
+    <updated>2022-02-18T04:21:27.862Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 3월은 여자아이돌 전쟁이겠네요 + 퀸덤2까지]]></title>
+        <id>https://ppt21.com/spoent/66223?category=2</id>
+        <link href="https://ppt21.com/spoent/66223?category=2"/>
+        <updated>2022-02-18T04:20:56.250Z</updated>
+        <content type="html"><![CDATA[Gunners]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] Charlie Puth(찰리 푸스) - Light Switch(라이트 스위치)]]></title>
+        <id>https://ppt21.com/spoent/66222?category=2</id>
+        <link href="https://ppt21.com/spoent/66222?category=2"/>
+        <updated>2022-02-18T04:20:56.257Z</updated>
+        <content type="html"><![CDATA[별빛정원]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 2022년 2월 22일 22시에 콩이 배텐 생녹방을 진행합니다]]></title>
         <id>https://ppt21.com/spoent/66218?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/66180?category=2"/>
         <updated>2022-02-16T03:17:00.535Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [방탄] 오프라인콘서트 일정 나왔습니다!]]></title>
-        <id>https://ppt21.com/spoent/66179?category=2</id>
-        <link href="https://ppt21.com/spoent/66179?category=2"/>
-        <updated>2022-02-16T02:11:51.400Z</updated>
-        <content type="html"><![CDATA[로즈마리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 응애 나 애기 보아]]></title>
-        <id>https://ppt21.com/spoent/66177?category=2</id>
-        <link href="https://ppt21.com/spoent/66177?category=2"/>
-        <updated>2022-02-16T00:59:27.336Z</updated>
-        <content type="html"><![CDATA[어강됴리]]></content>
     </entry>
 </feed>
