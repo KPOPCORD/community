@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-02-18T10:18:23.066Z</updated>
+    <updated>2022-02-18T11:13:42.427Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 킬링보이스에 태연이 나옵니다.]]></title>
+        <id>https://ppt21.com/spoent/66231?category=2</id>
+        <link href="https://ppt21.com/spoent/66231?category=2"/>
+        <updated>2022-02-18T11:13:16.312Z</updated>
+        <content type="html"><![CDATA[KIMTAEYEON]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] Weeekly(위클리) : 1st Single Album [Play Game : AWAKE] Prologue Film]]></title>
+        <id>https://ppt21.com/spoent/66230?category=2</id>
+        <link href="https://ppt21.com/spoent/66230?category=2"/>
+        <updated>2022-02-18T11:13:16.313Z</updated>
+        <content type="html"><![CDATA[아롱이다롱이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [로켓펀치] 양털 엔터테인먼트]]></title>
         <id>https://ppt21.com/spoent/66229?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/66193?category=2"/>
         <updated>2022-02-16T16:21:28.839Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [에이핑크] 데뷔 후 첫(!) 스튜디오 춤 퍼포먼스 영상]]></title>
-        <id>https://ppt21.com/spoent/66192?category=2</id>
-        <link href="https://ppt21.com/spoent/66192?category=2"/>
-        <updated>2022-02-16T14:16:20.999Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 넷플릭스에서 제작된다는 게임 기반 영화...]]></title>
-        <id>https://ppt21.com/spoent/66189?category=2</id>
-        <link href="https://ppt21.com/spoent/66189?category=2"/>
-        <updated>2022-02-16T13:18:37.079Z</updated>
-        <content type="html"><![CDATA[우주전쟁]]></content>
     </entry>
 </feed>
