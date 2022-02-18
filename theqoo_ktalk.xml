@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2022-02-18T15:16:57.648Z</updated>
+    <updated>2022-02-18T16:22:46.816Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
     <entry>
@@ -10,41 +10,34 @@
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2350384335</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2350384335"/>
         <updated>2022-02-18T15:16:56.985Z</updated>
-        <content type="html"><![CDATA[301577]]></content>
+        <content type="html"><![CDATA[301576]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[BE ORIGINAL] TAEYEON(태연) 'INVU' (4K) 스춤]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2350318366</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2350318366"/>
         <updated>2022-02-18T14:15:13.981Z</updated>
-        <content type="html"><![CDATA[301576]]></content>
+        <content type="html"><![CDATA[301575]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[방탄 트위터 제이홉]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2350281892</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2350281892"/>
         <updated>2022-02-18T14:15:13.982Z</updated>
-        <content type="html"><![CDATA[301575]]></content>
+        <content type="html"><![CDATA[301574]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[근데 콘푸 사건(?)보면서 남일에 과몰입 심하게 하는 사람 많다 싶음ㅋㅋ]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2350249286</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2350249286"/>
         <updated>2022-02-18T13:19:37.746Z</updated>
-        <content type="html"><![CDATA[301574]]></content>
+        <content type="html"><![CDATA[301573]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[펜타곤(PENTAGON) - 'Feelin' Like' Choreography Practice Video (Special Ver.)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2350184552</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2350184552"/>
         <updated>2022-02-18T12:26:00.395Z</updated>
-        <content type="html"><![CDATA[301573]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강성훈 OOO 입고 제로투.gif]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2350172532</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2350172532"/>
-        <updated>2022-02-18T12:26:00.401Z</updated>
         <content type="html"><![CDATA[301572]]></content>
     </entry>
     <entry>
@@ -144,5 +137,12 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2349788304"/>
         <updated>2022-02-18T05:14:50.436Z</updated>
         <content type="html"><![CDATA[301558]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[방탄 알엠 트윗 업뎃 #호비생일ㅊㅋ 마이프렌드 생일겁나추카혀~~]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2349783658</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2349783658"/>
+        <updated>2022-02-18T16:22:46.133Z</updated>
+        <content type="html"><![CDATA[301557]]></content>
     </entry>
 </feed>
