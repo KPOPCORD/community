@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-02-18T14:15:14.697Z</updated>
+    <updated>2022-02-18T15:16:57.651Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 성소 최근 모습]]></title>
+        <id>https://ppt21.com/spoent/66236?category=2</id>
+        <link href="https://ppt21.com/spoent/66236?category=2"/>
+        <updated>2022-02-18T15:16:47.727Z</updated>
+        <content type="html"><![CDATA[묻고 더블로 가!]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [태연] 'INVU' 스튜디오 춤 퍼포먼스 영상]]></title>
         <id>https://ppt21.com/spoent/66235?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/66206?category=2"/>
         <updated>2022-02-17T10:17:46.983Z</updated>
         <content type="html"><![CDATA[시린비]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [있지] 유나의 졸업 브이로그.ytb (feat. 마기꾼?)]]></title>
-        <id>https://ppt21.com/spoent/66200?category=2</id>
-        <link href="https://ppt21.com/spoent/66200?category=2"/>
-        <updated>2022-02-17T01:54:59.626Z</updated>
-        <content type="html"><![CDATA[VictoryFood]]></content>
     </entry>
 </feed>
