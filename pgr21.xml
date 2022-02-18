@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-02-18T06:20:37.581Z</updated>
+    <updated>2022-02-18T08:20:06.119Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 올림픽 중계로 인해 오늘 결방하는 뮤직뱅크 차트 순위 발표]]></title>
+        <id>https://ppt21.com/spoent/66227?category=2</id>
+        <link href="https://ppt21.com/spoent/66227?category=2"/>
+        <updated>2022-02-18T08:19:56.773Z</updated>
+        <content type="html"><![CDATA[아롱이다롱이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] JYP 신인 걸그룹 "엔믹스", 데뷔 쇼케이스 다음달 1일로 연기]]></title>
         <id>https://ppt21.com/spoent/66226?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/66187?category=2"/>
         <updated>2022-02-16T12:24:42.920Z</updated>
         <content type="html"><![CDATA[Croove]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [VIVIZ] 데뷔 일주일만에 첫 음방 1위한 신인(?) 걸그룹]]></title>
-        <id>https://ppt21.com/spoent/66186?category=2</id>
-        <link href="https://ppt21.com/spoent/66186?category=2"/>
-        <updated>2022-02-16T12:24:42.922Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
