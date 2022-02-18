@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-02-18T05:14:51.099Z</updated>
+    <updated>2022-02-18T06:20:37.581Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] JYP 신인 걸그룹 "엔믹스", 데뷔 쇼케이스 다음달 1일로 연기]]></title>
+        <id>https://ppt21.com/spoent/66226?category=2</id>
+        <link href="https://ppt21.com/spoent/66226?category=2"/>
+        <updated>2022-02-18T06:20:27.932Z</updated>
+        <content type="html"><![CDATA[아롱이다롱이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 출산만 아니었어도 골때녀 나갔을거란 정순주아나]]></title>
         <id>https://ppt21.com/spoent/66225?category=2</id>
@@ -13,7 +20,7 @@
         <content type="html"><![CDATA[강가딘]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[연예] 레드벨벳도 걸그룹 대전에 합류, sm측 3월 발매목표로 앨범준비중]]></title>
+        <title type="html"><![CDATA[[연예] 레드벨벳도 걸그룹대전에 합류, sm측 3월 발매목표로 앨범준비중]]></title>
         <id>https://ppt21.com/spoent/66224?category=2</id>
         <link href="https://ppt21.com/spoent/66224?category=2"/>
         <updated>2022-02-18T05:14:41.414Z</updated>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/66186?category=2"/>
         <updated>2022-02-16T12:24:42.922Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [로켓펀치] CHIQUITA 티져]]></title>
-        <id>https://ppt21.com/spoent/66185?category=2</id>
-        <link href="https://ppt21.com/spoent/66185?category=2"/>
-        <updated>2022-02-16T11:14:30.166Z</updated>
-        <content type="html"><![CDATA[어강됴리]]></content>
     </entry>
 </feed>
