@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-02-19T02:04:39.340Z</updated>
+    <updated>2022-02-19T03:17:05.008Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [해축] PL 빅6 이적료 TOP10]]></title>
+        <id>https://ppt21.com/spoent/66244?category=2</id>
+        <link href="https://ppt21.com/spoent/66244?category=2"/>
+        <updated>2022-02-19T03:16:55.709Z</updated>
+        <content type="html"><![CDATA[어강됴리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] jyp 신인걸그룹 엔믹스 데뷔 싱글, 스테이씨 미니 2집 하이라이트 메들리]]></title>
         <id>https://ppt21.com/spoent/66240?category=2</id>
@@ -129,13 +136,6 @@
         <id>https://ppt21.com/spoent/66211?category=2</id>
         <link href="https://ppt21.com/spoent/66211?category=2"/>
         <updated>2022-02-17T13:18:37.633Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [에이핑크] 엠카운트다운 컴백무대 영상 모음 (+유닛 무대, 직캠)]]></title>
-        <id>https://ppt21.com/spoent/66210?category=2</id>
-        <link href="https://ppt21.com/spoent/66210?category=2"/>
-        <updated>2022-02-17T13:18:37.639Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
