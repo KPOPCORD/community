@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-02-19T13:17:29.532Z</updated>
+    <updated>2022-02-19T14:14:40.350Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [트와이스] oh my god~]]></title>
+        <id>https://ppt21.com/spoent/66256?category=2</id>
+        <link href="https://ppt21.com/spoent/66256?category=2"/>
+        <updated>2022-02-19T14:14:27.894Z</updated>
+        <content type="html"><![CDATA[그10번]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [태연] 'INVU' 엠카 컴백무대 입덕직캠]]></title>
         <id>https://ppt21.com/spoent/66255?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/66222?category=2"/>
         <updated>2022-02-18T04:20:56.257Z</updated>
         <content type="html"><![CDATA[별빛정원]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 2022년 2월 22일 22시에 콩이 배텐 생녹방을 진행합니다]]></title>
-        <id>https://ppt21.com/spoent/66218?category=2</id>
-        <link href="https://ppt21.com/spoent/66218?category=2"/>
-        <updated>2022-02-17T23:15:47.122Z</updated>
-        <content type="html"><![CDATA[강가딘]]></content>
     </entry>
 </feed>
