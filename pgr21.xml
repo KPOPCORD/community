@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-02-19T10:17:21.046Z</updated>
+    <updated>2022-02-19T11:14:07.483Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [태연] 'INVU' 엠카 컴백무대 입덕직캠]]></title>
+        <id>https://ppt21.com/spoent/66255?category=2</id>
+        <link href="https://ppt21.com/spoent/66255?category=2"/>
+        <updated>2022-02-19T11:13:57.035Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 바프의 새로운 모델이 된 한소희]]></title>
+        <id>https://ppt21.com/spoent/66254?category=2</id>
+        <link href="https://ppt21.com/spoent/66254?category=2"/>
+        <updated>2022-02-19T11:13:57.037Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 나는 주말마다 고유림(보나)을 보러 간다.jpgif]]></title>
         <id>https://ppt21.com/spoent/66253?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/66218?category=2"/>
         <updated>2022-02-17T23:15:47.122Z</updated>
         <content type="html"><![CDATA[강가딘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [NMIXX] 데뷔곡 "O.O" M/V Teaser]]></title>
-        <id>https://ppt21.com/spoent/66215?category=2</id>
-        <link href="https://ppt21.com/spoent/66215?category=2"/>
-        <updated>2022-02-17T15:16:57.685Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 태연 엠카 컴백무대]]></title>
-        <id>https://ppt21.com/spoent/66212?category=2</id>
-        <link href="https://ppt21.com/spoent/66212?category=2"/>
-        <updated>2022-02-17T14:15:22.581Z</updated>
-        <content type="html"><![CDATA[KIMTAEYEON]]></content>
     </entry>
 </feed>
