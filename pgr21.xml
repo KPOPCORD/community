@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-02-19T16:22:24.070Z</updated>
+    <updated>2022-02-19T17:15:00.652Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [개승자] 파이널 2라운드 전반부 6팀 공연]]></title>
+        <id>https://ppt21.com/spoent/66261?category=2</id>
+        <link href="https://ppt21.com/spoent/66261?category=2"/>
+        <updated>2022-02-19T17:14:46.029Z</updated>
+        <content type="html"><![CDATA[빼사스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [트와이스] oh my god~]]></title>
         <id>https://ppt21.com/spoent/66256?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/66223?category=2"/>
         <updated>2022-02-18T04:20:56.250Z</updated>
         <content type="html"><![CDATA[Gunners]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] Charlie Puth(찰리 푸스) - Light Switch(라이트 스위치)]]></title>
-        <id>https://ppt21.com/spoent/66222?category=2</id>
-        <link href="https://ppt21.com/spoent/66222?category=2"/>
-        <updated>2022-02-18T04:20:56.257Z</updated>
-        <content type="html"><![CDATA[별빛정원]]></content>
     </entry>
 </feed>
