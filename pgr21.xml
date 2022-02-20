@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-02-20T11:15:35.500Z</updated>
+    <updated>2022-02-20T12:25:54.654Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [로켓펀치] YELLOW PUNCH 포토타임]]></title>
+        <id>https://ppt21.com/spoent/66273?category=2</id>
+        <link href="https://ppt21.com/spoent/66273?category=2"/>
+        <updated>2022-02-20T12:25:44.658Z</updated>
+        <content type="html"><![CDATA[어강됴리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 태연 'INVU' 인기가요 직캠]]></title>
         <id>https://ppt21.com/spoent/66270?category=2</id>
@@ -129,13 +136,6 @@
         <id>https://ppt21.com/spoent/66227?category=2</id>
         <link href="https://ppt21.com/spoent/66227?category=2"/>
         <updated>2022-02-18T08:19:56.773Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] JYP 신인 걸그룹 "엔믹스", 데뷔 쇼케이스 다음달 1일로 연기]]></title>
-        <id>https://ppt21.com/spoent/66226?category=2</id>
-        <link href="https://ppt21.com/spoent/66226?category=2"/>
-        <updated>2022-02-18T06:20:27.932Z</updated>
         <content type="html"><![CDATA[아롱이다롱이]]></content>
     </entry>
 </feed>
