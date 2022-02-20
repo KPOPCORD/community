@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2022-02-20T01:03:58.056Z</updated>
+    <updated>2022-02-20T02:30:45.735Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2022년 2월 걸그룹 개인 브랜드평판]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2351545274</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2351545274"/>
+        <updated>2022-02-20T02:30:44.964Z</updated>
+        <content type="html"><![CDATA[301586]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[트레저 - '직진 (JIKJIN)' SPECIAL STAGE]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2351355682</id>
@@ -137,12 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2350184552"/>
         <updated>2022-02-18T12:26:00.395Z</updated>
         <content type="html"><![CDATA[301567]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AB6IX (에이비식스) 필링캠프 - 브랜뉴 음악대 EP.4]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2350172386</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2350172386"/>
-        <updated>2022-02-18T12:26:00.402Z</updated>
-        <content type="html"><![CDATA[301566]]></content>
     </entry>
 </feed>
