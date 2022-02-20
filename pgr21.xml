@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-02-20T13:17:30.301Z</updated>
+    <updated>2022-02-20T14:14:54.964Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 2022년 2월 3주 D-차트 : 김민석 4주 연속 1위! VIVIZ는 3위로 진입]]></title>
+        <id>https://ppt21.com/spoent/66274?category=2</id>
+        <link href="https://ppt21.com/spoent/66274?category=2"/>
+        <updated>2022-02-20T14:14:32.829Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [로켓펀치] YELLOW PUNCH 포토타임]]></title>
         <id>https://ppt21.com/spoent/66273?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/66229?category=2"/>
         <updated>2022-02-18T10:18:08.107Z</updated>
         <content type="html"><![CDATA[어강됴리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 올림픽 중계로 인해 오늘 결방하는 뮤직뱅크 차트 순위 발표]]></title>
-        <id>https://ppt21.com/spoent/66227?category=2</id>
-        <link href="https://ppt21.com/spoent/66227?category=2"/>
-        <updated>2022-02-18T08:19:56.773Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
     </entry>
 </feed>
