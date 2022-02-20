@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-02-20T03:17:24.797Z</updated>
+    <updated>2022-02-20T04:20:46.838Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [김먀오] AKB48 연극에서 졸업세레모니한 미야자키 미호]]></title>
+        <id>https://ppt21.com/spoent/66264?category=2</id>
+        <link href="https://ppt21.com/spoent/66264?category=2"/>
+        <updated>2022-02-20T04:20:28.313Z</updated>
+        <content type="html"><![CDATA[VictoryFood]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [개승자] 파이널 2라운드 전반부 6팀 공연]]></title>
         <id>https://ppt21.com/spoent/66261?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/66224?category=2"/>
         <updated>2022-02-18T05:14:41.414Z</updated>
         <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 3월은 여자아이돌 전쟁이겠네요 + 퀸덤2까지]]></title>
-        <id>https://ppt21.com/spoent/66223?category=2</id>
-        <link href="https://ppt21.com/spoent/66223?category=2"/>
-        <updated>2022-02-18T04:20:56.250Z</updated>
-        <content type="html"><![CDATA[Gunners]]></content>
     </entry>
 </feed>
