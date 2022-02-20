@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-20T04:20:46.735Z</updated>
+    <updated>2022-02-20T05:14:22.899Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] 아직도 1호가 탄생하지 않은 걸그룹 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/66266?category=2</id>
+        <link href="https://ppt21.com/spoent/66266?category=2"/>
+        <updated>2022-02-20T05:14:12.162Z</updated>
+        <content type="html"><![CDATA[묻고 더블로 가!]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [김먀오] AKB48 연극에서 졸업세레모니한 미야자키 미호 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/66264?category=2</id>
@@ -129,13 +136,6 @@
         <link href="https://ppt21.com/spoent/66225?category=2"/>
         <updated>2022-02-18T05:14:41.413Z</updated>
         <content type="html"><![CDATA[강가딘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 레드벨벳도 걸그룹대전에 합류, sm측 3월 발매목표로 앨범준비중 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/66224?category=2</id>
-        <link href="https://ppt21.com/spoent/66224?category=2"/>
-        <updated>2022-02-18T05:14:41.414Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[투바투 엘르코리아 (더쿠 ─ 케이돌토크)]]></title>
