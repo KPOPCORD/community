@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-21T02:01:17.126Z</updated>
+    <updated>2022-02-21T02:35:11.651Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] 퀸덤2 라인업 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/66278?category=2</id>
+        <link href="https://ppt21.com/spoent/66278?category=2"/>
+        <updated>2022-02-21T02:35:01.761Z</updated>
+        <content type="html"><![CDATA[위르겐클롭]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 1-번외편. 취향은 아니었는데, 어떤 이유로 자주 듣게 된 곡들 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/66277?category=2</id>
@@ -131,11 +138,11 @@
         <content type="html"><![CDATA[KIMTAEYEON]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[연예] Weeekly(위클리) : 1st Single Album [Play Game : AWAKE] Prologue Film (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/66230?category=2</id>
-        <link href="https://ppt21.com/spoent/66230?category=2"/>
-        <updated>2022-02-18T11:13:16.313Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
+        <title type="html"><![CDATA[‘퀸덤2’ 브레이브걸스→효린까지, 여섯 걸그룹 라인업 공개(공식입장) (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2352694478</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2352694478"/>
+        <updated>2022-02-21T02:35:10.977Z</updated>
+        <content type="html"><![CDATA[301530]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[김요한 인스타 👨‍💼(수트요한) (더쿠 ─ 케이돌토크)]]></title>
@@ -269,12 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2351322469"/>
         <updated>2022-02-19T15:16:55.479Z</updated>
         <content type="html"><![CDATA[301511]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[로켓펀치 COLOR COLLECTION 4TH MINI ALBUM [YELLOW PUNCH] PHOTO TIME (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2351320741</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2351320741"/>
-        <updated>2022-02-19T15:16:55.480Z</updated>
-        <content type="html"><![CDATA[301510]]></content>
     </entry>
 </feed>
