@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-02-21T08:19:43.735Z</updated>
+    <updated>2022-02-21T09:18:37.799Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [STAYC] 'RUN2U' M/V (+쇼케이스 무대 영상)]]></title>
+        <id>https://ppt21.com/spoent/66288?category=2</id>
+        <link href="https://ppt21.com/spoent/66288?category=2"/>
+        <updated>2022-02-21T09:18:04.887Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [단독] '실종설' 판빙빙, 극비 내한 한국 드라마 촬영]]></title>
         <id>https://ppt21.com/spoent/66283?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/66240?category=2"/>
         <updated>2022-02-18T21:14:33.605Z</updated>
         <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 1. 듣기 좋았던 (1년 이내)걸그룹&여자 솔로 노래(밝은 곡 위주)]]></title>
-        <id>https://ppt21.com/spoent/66239?category=2</id>
-        <link href="https://ppt21.com/spoent/66239?category=2"/>
-        <updated>2022-02-18T18:18:55.616Z</updated>
-        <content type="html"><![CDATA[별빛정원]]></content>
     </entry>
 </feed>
