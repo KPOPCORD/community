@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-02-21T00:57:21.545Z</updated>
+    <updated>2022-02-21T02:01:17.116Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 1-번외편. 취향은 아니었는데, 어떤 이유로 자주 듣게 된 곡들]]></title>
+        <id>https://ppt21.com/spoent/66277?category=2</id>
+        <link href="https://ppt21.com/spoent/66277?category=2"/>
+        <updated>2022-02-21T02:01:06.368Z</updated>
+        <content type="html"><![CDATA[별빛정원]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 2022년 2월 3주 D-차트 : 김민석 4주 연속 1위! VIVIZ는 3위로 진입]]></title>
         <id>https://ppt21.com/spoent/66274?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/66230?category=2"/>
         <updated>2022-02-18T11:13:16.313Z</updated>
         <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [로켓펀치] 양털 엔터테인먼트]]></title>
-        <id>https://ppt21.com/spoent/66229?category=2</id>
-        <link href="https://ppt21.com/spoent/66229?category=2"/>
-        <updated>2022-02-18T10:18:08.107Z</updated>
-        <content type="html"><![CDATA[어강됴리]]></content>
     </entry>
 </feed>
