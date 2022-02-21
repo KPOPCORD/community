@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-21T15:18:45.368Z</updated>
+    <updated>2022-02-21T16:22:55.447Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] Billlie 'GingaMingaYo (the strange world)' M/V Teaser (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/66299?category=2</id>
+        <link href="https://ppt21.com/spoent/66299?category=2"/>
+        <updated>2022-02-21T16:22:43.507Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] [싱어게인2] 탑6 결정전 영상 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/66298?category=2</id>
+        <link href="https://ppt21.com/spoent/66298?category=2"/>
+        <updated>2022-02-21T16:22:43.513Z</updated>
+        <content type="html"><![CDATA[빼사스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 입짧은햇님과 진짜 입짧은탱구 + 페이스캠 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/66295?category=2</id>
@@ -122,20 +136,6 @@
         <link href="https://ppt21.com/spoent/66261?category=2"/>
         <updated>2022-02-19T17:14:46.029Z</updated>
         <content type="html"><![CDATA[빼사스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [트와이스] oh my god~ (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/66256?category=2</id>
-        <link href="https://ppt21.com/spoent/66256?category=2"/>
-        <updated>2022-02-19T14:14:27.894Z</updated>
-        <content type="html"><![CDATA[그10번]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [태연] 'INVU' 엠카 컴백무대 입덕직캠 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/66255?category=2</id>
-        <link href="https://ppt21.com/spoent/66255?category=2"/>
-        <updated>2022-02-19T11:13:57.035Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[트레저 직진 (Valentine Ver.) | 트메 마음으로 직진💝🏁 | 블라블라 | blah blah | 블립 (더쿠 ─ 케이돌토크)]]></title>
