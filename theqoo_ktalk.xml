@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2022-02-21T06:20:54.882Z</updated>
+    <updated>2022-02-21T07:15:51.968Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[WOODZ(조승연) COVID-19 확진 안내]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2352979986</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2352979986"/>
+        <updated>2022-02-21T07:15:51.243Z</updated>
+        <content type="html"><![CDATA[301525]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[레드벨벳, 3월 콘서트 온&오프라인 동시 진행…2년3개월만(공식)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2352943899</id>
@@ -137,12 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2351613303"/>
         <updated>2022-02-20T03:17:24.082Z</updated>
         <content type="html"><![CDATA[301506]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[📢] 크래비티 우빈 코로나19 확진 관련 안내 (멤버 9명 모두 확진..)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2351583884</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2351583884"/>
-        <updated>2022-02-20T03:17:24.082Z</updated>
-        <content type="html"><![CDATA[301505]]></content>
     </entry>
 </feed>
