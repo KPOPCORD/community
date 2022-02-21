@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-02-21T11:14:13.727Z</updated>
+    <updated>2022-02-21T12:27:00.144Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 입짧은햇님과 진짜 입짧은탱구 + 페이스캠]]></title>
+        <id>https://ppt21.com/spoent/66295?category=2</id>
+        <link href="https://ppt21.com/spoent/66295?category=2"/>
+        <updated>2022-02-21T12:26:50.698Z</updated>
+        <content type="html"><![CDATA[KIMTAEYEON]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 김민종 - "긴 밤 (Endless Night)" MV (여자친구출신 "김소정" 출연)]]></title>
         <id>https://ppt21.com/spoent/66294?category=2</id>
@@ -129,13 +136,6 @@
         <id>https://ppt21.com/spoent/66255?category=2</id>
         <link href="https://ppt21.com/spoent/66255?category=2"/>
         <updated>2022-02-19T11:13:57.035Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 바프의 새로운 모델이 된 한소희]]></title>
-        <id>https://ppt21.com/spoent/66254?category=2</id>
-        <link href="https://ppt21.com/spoent/66254?category=2"/>
-        <updated>2022-02-19T11:13:57.037Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
