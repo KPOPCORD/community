@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-02-21T04:21:42.665Z</updated>
+    <updated>2022-02-21T05:15:35.281Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [단독] '실종설' 판빙빙, 극비 내한 한국 드라마 촬영]]></title>
+        <id>https://ppt21.com/spoent/66283?category=2</id>
+        <link href="https://ppt21.com/spoent/66283?category=2"/>
+        <updated>2022-02-21T05:15:25.622Z</updated>
+        <content type="html"><![CDATA[아롱이다롱이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 내달 방탄소년단 콘서트 1만5천명 규모 승인..코로나 이후 최대]]></title>
         <id>https://ppt21.com/spoent/66282?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/66239?category=2"/>
         <updated>2022-02-18T18:18:55.616Z</updated>
         <content type="html"><![CDATA[별빛정원]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 성소 최근 모습]]></title>
-        <id>https://ppt21.com/spoent/66236?category=2</id>
-        <link href="https://ppt21.com/spoent/66236?category=2"/>
-        <updated>2022-02-18T15:16:47.727Z</updated>
-        <content type="html"><![CDATA[묻고 더블로 가!]]></content>
     </entry>
 </feed>
