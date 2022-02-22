@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-02-22T09:16:47.963Z</updated>
+    <updated>2022-02-22T10:18:39.083Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 태연 킬링보이스]]></title>
+        <id>https://ppt21.com/spoent/66313?category=2</id>
+        <link href="https://ppt21.com/spoent/66313?category=2"/>
+        <updated>2022-02-22T10:18:28.337Z</updated>
+        <content type="html"><![CDATA[껌정]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] [우주소녀] 다원 활동중단]]></title>
+        <id>https://ppt21.com/spoent/66312?category=2</id>
+        <link href="https://ppt21.com/spoent/66312?category=2"/>
+        <updated>2022-02-22T10:18:28.337Z</updated>
+        <content type="html"><![CDATA[TWICE쯔위]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [NMIXX] 데뷔곡 "O.O" M/V (+주간아이돌 선공개 영상)]]></title>
         <id>https://ppt21.com/spoent/66311?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/66281?category=2"/>
         <updated>2022-02-21T03:17:38.531Z</updated>
         <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] jyp 엔믹스 데뷔 타이틀곡 오오 뮤비티저2, 위클리 단체 컨셉포토]]></title>
-        <id>https://ppt21.com/spoent/66280?category=2</id>
-        <link href="https://ppt21.com/spoent/66280?category=2"/>
-        <updated>2022-02-21T03:17:38.535Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 퀸덤2 라인업]]></title>
-        <id>https://ppt21.com/spoent/66278?category=2</id>
-        <link href="https://ppt21.com/spoent/66278?category=2"/>
-        <updated>2022-02-21T02:35:01.761Z</updated>
-        <content type="html"><![CDATA[위르겐클롭]]></content>
     </entry>
 </feed>
