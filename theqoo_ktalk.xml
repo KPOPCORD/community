@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2022-02-22T16:23:40.446Z</updated>
+    <updated>2022-02-22T17:17:43.093Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[엔하이픈 선우 멤트]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2354725679</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2354725679"/>
+        <updated>2022-02-22T17:17:42.377Z</updated>
+        <content type="html"><![CDATA[301574]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[salem ilese, 투바투 - PS5 (Feat. Alan Walker)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2354678179</id>
@@ -137,12 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2354378295"/>
         <updated>2022-02-22T12:28:20.587Z</updated>
         <content type="html"><![CDATA[301555]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔믹스 좋은 부분]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2354296769</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2354296769"/>
-        <updated>2022-02-22T10:18:38.404Z</updated>
-        <content type="html"><![CDATA[301554]]></content>
     </entry>
 </feed>
