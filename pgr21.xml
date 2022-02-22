@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-02-22T10:18:39.083Z</updated>
+    <updated>2022-02-22T11:15:15.546Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 이게 인간이야? 인형이야?]]></title>
+        <id>https://ppt21.com/spoent/66316?category=2</id>
+        <link href="https://ppt21.com/spoent/66316?category=2"/>
+        <updated>2022-02-22T11:14:41.961Z</updated>
+        <content type="html"><![CDATA[현혹]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] [에이핑크] 데뷔 12년차에 음방 1위하는 걸그룹 (+어쩔티비)]]></title>
+        <id>https://ppt21.com/spoent/66315?category=2</id>
+        <link href="https://ppt21.com/spoent/66315?category=2"/>
+        <updated>2022-02-22T11:14:41.966Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] [STAYC] 'RUN2U' 퍼포먼스 영상 (공식 유튜브+원더케이)]]></title>
+        <id>https://ppt21.com/spoent/66314?category=2</id>
+        <link href="https://ppt21.com/spoent/66314?category=2"/>
+        <updated>2022-02-22T11:14:41.967Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 태연 킬링보이스]]></title>
         <id>https://ppt21.com/spoent/66313?category=2</id>
@@ -116,26 +137,5 @@
         <link href="https://ppt21.com/spoent/66288?category=2"/>
         <updated>2022-02-21T09:18:04.887Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [단독] '실종설' 판빙빙, 극비 내한 한국 드라마 촬영]]></title>
-        <id>https://ppt21.com/spoent/66283?category=2</id>
-        <link href="https://ppt21.com/spoent/66283?category=2"/>
-        <updated>2022-02-21T05:15:25.622Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 내달 방탄소년단 콘서트 1만5천명 규모 승인..코로나 이후 최대]]></title>
-        <id>https://ppt21.com/spoent/66282?category=2</id>
-        <link href="https://ppt21.com/spoent/66282?category=2"/>
-        <updated>2022-02-21T03:17:38.529Z</updated>
-        <content type="html"><![CDATA[로즈마리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] '가수 데뷔 30주년' 김민종, 오늘(21일) 신곡 '긴 밤' 공개]]></title>
-        <id>https://ppt21.com/spoent/66281?category=2</id>
-        <link href="https://ppt21.com/spoent/66281?category=2"/>
-        <updated>2022-02-21T03:17:38.531Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
     </entry>
 </feed>
