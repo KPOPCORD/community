@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-02-22T05:15:01.471Z</updated>
+    <updated>2022-02-22T06:19:51.603Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [트와이스] 2WICE의 데이2 (2WICE’s DATE) TEASER]]></title>
+        <id>https://ppt21.com/spoent/66308?category=2</id>
+        <link href="https://ppt21.com/spoent/66308?category=2"/>
+        <updated>2022-02-22T06:19:42.080Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 넷플릭스 오리지널 드라마 <소년심판> 제작발표회 요약 정리]]></title>
+        <id>https://ppt21.com/spoent/66307?category=2</id>
+        <link href="https://ppt21.com/spoent/66307?category=2"/>
+        <updated>2022-02-22T06:19:42.080Z</updated>
+        <content type="html"><![CDATA[아롱이다롱이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 영스 진행중 라이브하는 웬디 모음]]></title>
         <id>https://ppt21.com/spoent/66306?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/66277?category=2"/>
         <updated>2022-02-21T02:01:06.368Z</updated>
         <content type="html"><![CDATA[별빛정원]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 2022년 2월 3주 D-차트 : 김민석 4주 연속 1위! VIVIZ는 3위로 진입]]></title>
-        <id>https://ppt21.com/spoent/66274?category=2</id>
-        <link href="https://ppt21.com/spoent/66274?category=2"/>
-        <updated>2022-02-20T14:14:32.829Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [로켓펀치] YELLOW PUNCH 포토타임]]></title>
-        <id>https://ppt21.com/spoent/66273?category=2</id>
-        <link href="https://ppt21.com/spoent/66273?category=2"/>
-        <updated>2022-02-20T12:25:44.658Z</updated>
-        <content type="html"><![CDATA[어강됴리]]></content>
     </entry>
 </feed>
