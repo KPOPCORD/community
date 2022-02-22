@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-02-22T03:18:29.842Z</updated>
+    <updated>2022-02-22T04:20:51.470Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] '아스달 연대기' 3년만에 돌아온다…"시즌2 제작 확정" [공식]]]></title>
+        <id>https://ppt21.com/spoent/66302?category=2</id>
+        <link href="https://ppt21.com/spoent/66302?category=2"/>
+        <updated>2022-02-22T04:20:42.112Z</updated>
+        <content type="html"><![CDATA[너]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 걸그룹 로켓펀치 미니 4집 YELLOW PUNCH 하이라이트 메들리]]></title>
         <id>https://ppt21.com/spoent/66300?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/66266?category=2"/>
         <updated>2022-02-20T05:14:12.162Z</updated>
         <content type="html"><![CDATA[묻고 더블로 가!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [김먀오] AKB48 연극에서 졸업세레모니한 미야자키 미호]]></title>
-        <id>https://ppt21.com/spoent/66264?category=2</id>
-        <link href="https://ppt21.com/spoent/66264?category=2"/>
-        <updated>2022-02-20T04:20:28.313Z</updated>
-        <content type="html"><![CDATA[VictoryFood]]></content>
     </entry>
 </feed>
