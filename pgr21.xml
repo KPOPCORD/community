@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-02-22T17:17:43.087Z</updated>
+    <updated>2022-02-22T18:21:04.865Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [AKB48] 59th 싱글발표 소식입니다.]]></title>
+        <id>https://ppt21.com/spoent/66324?category=2</id>
+        <link href="https://ppt21.com/spoent/66324?category=2"/>
+        <updated>2022-02-22T18:20:53.897Z</updated>
+        <content type="html"><![CDATA[LiXiangfei]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [로켓펀치] 'CHIQUITA' M/V Teaser]]></title>
         <id>https://ppt21.com/spoent/66323?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/66298?category=2"/>
         <updated>2022-02-21T16:22:43.513Z</updated>
         <content type="html"><![CDATA[빼사스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 입짧은햇님과 진짜 입짧은탱구 + 페이스캠]]></title>
-        <id>https://ppt21.com/spoent/66295?category=2</id>
-        <link href="https://ppt21.com/spoent/66295?category=2"/>
-        <updated>2022-02-21T12:26:50.698Z</updated>
-        <content type="html"><![CDATA[KIMTAEYEON]]></content>
     </entry>
 </feed>

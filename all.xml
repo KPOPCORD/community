@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-22T17:17:43.091Z</updated>
+    <updated>2022-02-22T18:21:04.870Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] [AKB48] 59th 싱글발표 소식입니다. (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/66324?category=2</id>
+        <link href="https://ppt21.com/spoent/66324?category=2"/>
+        <updated>2022-02-22T18:20:53.897Z</updated>
+        <content type="html"><![CDATA[LiXiangfei]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [로켓펀치] 'CHIQUITA' M/V Teaser (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/66323?category=2</id>
@@ -129,13 +136,6 @@
         <link href="https://ppt21.com/spoent/66298?category=2"/>
         <updated>2022-02-21T16:22:43.513Z</updated>
         <content type="html"><![CDATA[빼사스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 입짧은햇님과 진짜 입짧은탱구 + 페이스캠 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/66295?category=2</id>
-        <link href="https://ppt21.com/spoent/66295?category=2"/>
-        <updated>2022-02-21T12:26:50.698Z</updated>
-        <content type="html"><![CDATA[KIMTAEYEON]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[엔하이픈 선우 멤트 (더쿠 ─ 케이돌토크)]]></title>
