@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-23T08:19:17.241Z</updated>
+    <updated>2022-02-23T09:14:44.196Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] Billlie 'GingaMingaYo (the strange world)' M/V (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/66329?category=2</id>
+        <link href="https://ppt21.com/spoent/66329?category=2"/>
+        <updated>2022-02-23T09:14:26.370Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 주관적으로 가장 좋아하는 성시경 노래 5곡입니다. (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/66327?category=2</id>
@@ -131,150 +138,143 @@
         <content type="html"><![CDATA[아롱이다롱이]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[연예] Billlie 'GingaMingaYo (the strange world)' M/V Teaser (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/66299?category=2</id>
-        <link href="https://ppt21.com/spoent/66299?category=2"/>
-        <updated>2022-02-21T16:22:43.507Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
+        <title type="html"><![CDATA[빌리 긴가민가요 MV (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2355342055</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2355342055"/>
+        <updated>2022-02-23T09:14:43.485Z</updated>
+        <content type="html"><![CDATA[301579]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독] '식스센스3' 제시, 이상엽·미주 이어 코로나19 확진 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2355302603</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2355302603"/>
+        <updated>2022-02-23T09:14:43.485Z</updated>
+        <content type="html"><![CDATA[301578]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[방탄 인스타 뷔 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2355292059</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2355292059"/>
+        <updated>2022-02-23T09:14:43.486Z</updated>
+        <content type="html"><![CDATA[301577]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독]이미주, 코로나19 확진…'식스센스3' 비상 (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2355266494</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2355266494"/>
         <updated>2022-02-23T08:19:16.447Z</updated>
-        <content type="html"><![CDATA[301579]]></content>
+        <content type="html"><![CDATA[301576]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[방탄 인스타 진 (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2355243030</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2355243030"/>
         <updated>2022-02-23T08:19:16.447Z</updated>
-        <content type="html"><![CDATA[301578]]></content>
+        <content type="html"><![CDATA[301575]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[케이돌 일본 주간 음원 다운로드 & 스트리밍 차트 (2월 셋째주) (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2355240165</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2355240165"/>
         <updated>2022-02-23T08:19:16.447Z</updated>
-        <content type="html"><![CDATA[301577]]></content>
+        <content type="html"><![CDATA[301574]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Billlie(빌리) 코로나19 검사 결과 안내 (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2355236670</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2355236670"/>
         <updated>2022-02-23T08:19:16.458Z</updated>
-        <content type="html"><![CDATA[301576]]></content>
+        <content type="html"><![CDATA[301573]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[EP.1] 골든차일드의 2022 '골림픽🏃' | 2022 Golden Child Olympic (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2354995992</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2354995992"/>
         <updated>2022-02-23T04:20:38.384Z</updated>
-        <content type="html"><![CDATA[301575]]></content>
+        <content type="html"><![CDATA[301572]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['식스센스3' 이상엽-정철민 PD, 코로나19 확진…첫 방송 연기 (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2354984920</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2354984920"/>
         <updated>2022-02-23T03:17:27.938Z</updated>
-        <content type="html"><![CDATA[301574]]></content>
+        <content type="html"><![CDATA[301571]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[김우석 KIM WOO SEOK ‘3RD DESIRE [Reve]’ CONCEPT PHOTO I : Bibbidi (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2354977411</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2354977411"/>
         <updated>2022-02-23T03:17:27.939Z</updated>
-        <content type="html"><![CDATA[301573]]></content>
+        <content type="html"><![CDATA[301570]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[퀸덤2] 세상을 이끄는 QUEEN, 바로 너야! | 3/31(목) 밤 9시 20분 첫방송 #퀸덤2 EP.0 (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2354975967</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2354975967"/>
         <updated>2022-02-23T03:17:27.945Z</updated>
-        <content type="html"><![CDATA[301572]]></content>
+        <content type="html"><![CDATA[301569]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오마이걸 효정 확진 안내 (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2354905140</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2354905140"/>
         <updated>2022-02-23T02:33:28.561Z</updated>
-        <content type="html"><![CDATA[301571]]></content>
+        <content type="html"><![CDATA[301568]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[NCT 해찬, ‘플렌즈 서연대 22학번 편’ OST 참여..토이 ‘좋은 사람’ 리메이크 (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2354885143</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2354885143"/>
         <updated>2022-02-23T02:33:28.568Z</updated>
-        <content type="html"><![CDATA[301570]]></content>
+        <content type="html"><![CDATA[301567]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[펜타곤 진호 코로나19 확진 안내 (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2354879156</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2354879156"/>
         <updated>2022-02-23T02:33:28.571Z</updated>
-        <content type="html"><![CDATA[301569]]></content>
+        <content type="html"><![CDATA[301566]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TOMORROW X TOGETHER 연준 코로나19 완치 판정 및 격리 해제 안내 (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2354861939</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2354861939"/>
         <updated>2022-02-23T01:06:26.275Z</updated>
-        <content type="html"><![CDATA[301568]]></content>
+        <content type="html"><![CDATA[301565]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[엔하이픈 선우 멤트 (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2354725679</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2354725679"/>
         <updated>2022-02-22T17:17:42.377Z</updated>
-        <content type="html"><![CDATA[301567]]></content>
+        <content type="html"><![CDATA[301564]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[salem ilese, 투바투 - PS5 (Feat. Alan Walker) (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2354678179</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2354678179"/>
         <updated>2022-02-22T16:23:39.775Z</updated>
-        <content type="html"><![CDATA[301566]]></content>
+        <content type="html"><![CDATA[301563]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[알렌워커 투바투 태현 트윗에 멘션🎮 (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2354658578</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2354658578"/>
         <updated>2022-02-22T16:23:39.776Z</updated>
-        <content type="html"><![CDATA[301565]]></content>
+        <content type="html"><![CDATA[301562]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[몬스타엑스 기현 KIHYUN The 1st Single Album [VOYAGER] TRACKLIST Release on 2022.03.15 6PM (KST) (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2354642271</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2354642271"/>
         <updated>2022-02-22T15:18:02.407Z</updated>
-        <content type="html"><![CDATA[301564]]></content>
+        <content type="html"><![CDATA[301561]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🎂HAPPY BIRTHDAY DONGHYUN 🎂 골든차일드 동현의 생일을 축하합니다🎉 (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2354640679</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2354640679"/>
         <updated>2022-02-22T15:18:02.413Z</updated>
-        <content type="html"><![CDATA[301563]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빌리(Billlie) the collective soul and unconscious: chapter one | B-side spoiler 2022. 02. 23. 6PM KST Title - GingaMingaYo (the strange world) (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2354639153</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2354639153"/>
-        <updated>2022-02-22T15:18:02.440Z</updated>
-        <content type="html"><![CDATA[301562]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[M/V Teaser] 로켓펀치(Rocket Punch) 'CHIQUITA' (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2354635019</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2354635019"/>
-        <updated>2022-02-22T15:18:02.441Z</updated>
-        <content type="html"><![CDATA[301561]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cherry Bullet 2nd Mini Album [Cherry Wish] Concept Photo - Fascinate ver. (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2354633344</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2354633344"/>
-        <updated>2022-02-22T15:18:02.442Z</updated>
         <content type="html"><![CDATA[301560]]></content>
     </entry>
 </feed>
