@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-23T04:20:39.155Z</updated>
+    <updated>2022-02-23T05:15:19.589Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] 주관적으로 가장 좋아하는 성시경 노래 5곡입니다. (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/66327?category=2</id>
+        <link href="https://ppt21.com/spoent/66327?category=2"/>
+        <updated>2022-02-23T05:15:08.830Z</updated>
+        <content type="html"><![CDATA[대단하다대단해]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [AKB48] 59th 싱글발표 소식입니다. (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/66324?category=2</id>
@@ -129,13 +136,6 @@
         <link href="https://ppt21.com/spoent/66299?category=2"/>
         <updated>2022-02-21T16:22:43.507Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [싱어게인2] 탑6 결정전 영상 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/66298?category=2</id>
-        <link href="https://ppt21.com/spoent/66298?category=2"/>
-        <updated>2022-02-21T16:22:43.513Z</updated>
-        <content type="html"><![CDATA[빼사스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[EP.1] 골든차일드의 2022 '골림픽🏃' | 2022 Golden Child Olympic (더쿠 ─ 케이돌토크)]]></title>
