@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-02-23T14:15:50.886Z</updated>
+    <updated>2022-02-23T15:17:47.224Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [전참시] 소녀시대 막냉이 근황]]></title>
+        <id>https://ppt21.com/spoent/66331?category=2</id>
+        <link href="https://ppt21.com/spoent/66331?category=2"/>
+        <updated>2022-02-23T15:17:37.346Z</updated>
+        <content type="html"><![CDATA[Croove]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [NMIXX] "O.O" 주간아이돌 직캠 (+응원법 영상)]]></title>
         <id>https://ppt21.com/spoent/66330?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/66304?category=2"/>
         <updated>2022-02-22T05:14:49.779Z</updated>
         <content type="html"><![CDATA[강가딘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] '아스달 연대기' 3년만에 돌아온다…"시즌2 제작 확정" [공식]]]></title>
-        <id>https://ppt21.com/spoent/66302?category=2</id>
-        <link href="https://ppt21.com/spoent/66302?category=2"/>
-        <updated>2022-02-22T04:20:42.112Z</updated>
-        <content type="html"><![CDATA[너]]></content>
     </entry>
 </feed>
