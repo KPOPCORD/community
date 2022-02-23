@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-02-23T12:27:56.638Z</updated>
+    <updated>2022-02-23T13:20:47.590Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [NMIXX] "O.O" 주간아이돌 직캠]]></title>
+        <id>https://ppt21.com/spoent/66330?category=2</id>
+        <link href="https://ppt21.com/spoent/66330?category=2"/>
+        <updated>2022-02-23T13:20:37.444Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] Billlie 'GingaMingaYo (the strange world)' M/V (+퍼포먼스 비디오)]]></title>
         <id>https://ppt21.com/spoent/66329?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/66302?category=2"/>
         <updated>2022-02-22T04:20:42.112Z</updated>
         <content type="html"><![CDATA[너]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 걸그룹 로켓펀치 미니 4집 YELLOW PUNCH 하이라이트 메들리]]></title>
-        <id>https://ppt21.com/spoent/66300?category=2</id>
-        <link href="https://ppt21.com/spoent/66300?category=2"/>
-        <updated>2022-02-22T02:03:10.288Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
     </entry>
 </feed>
