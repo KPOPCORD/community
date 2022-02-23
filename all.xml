@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-23T03:17:28.636Z</updated>
+    <updated>2022-02-23T04:20:39.155Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[연예] [AKB48] 59th 싱글발표 소식입니다. (Pgr21 ─ 연예)]]></title>
@@ -138,6 +138,13 @@
         <content type="html"><![CDATA[빼사스]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[EP.1] 골든차일드의 2022 '골림픽🏃' | 2022 Golden Child Olympic (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2354995992</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2354995992"/>
+        <updated>2022-02-23T04:20:38.384Z</updated>
+        <content type="html"><![CDATA[301579]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['식스센스3' 이상엽-정철민 PD, 코로나19 확진…첫 방송 연기 (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2354984920</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2354984920"/>
@@ -269,12 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2354588864"/>
         <updated>2022-02-22T15:18:02.444Z</updated>
         <content type="html"><![CDATA[301560]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비투비 BTOB 3rd Album [Be Together] Launching Live (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2354570979</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2354570979"/>
-        <updated>2022-02-22T14:15:24.309Z</updated>
-        <content type="html"><![CDATA[301559]]></content>
     </entry>
 </feed>
