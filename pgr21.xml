@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-02-24T15:19:15.349Z</updated>
+    <updated>2022-02-24T16:23:25.088Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 22년전 관중텐션]]></title>
+        <id>https://ppt21.com/spoent/66344?category=2</id>
+        <link href="https://ppt21.com/spoent/66344?category=2"/>
+        <updated>2022-02-24T16:22:52.995Z</updated>
+        <content type="html"><![CDATA[나스닥]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] [(여자)아이들] 컴백 트레일러 : [I NEVER DIE] (3월 14일 컴백)]]></title>
+        <id>https://ppt21.com/spoent/66343?category=2</id>
+        <link href="https://ppt21.com/spoent/66343?category=2"/>
+        <updated>2022-02-24T16:22:52.996Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [에이핑크] 신문화를 접한 또다른 걸그룹.ytb]]></title>
         <id>https://ppt21.com/spoent/66342?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/66316?category=2"/>
         <updated>2022-02-22T11:14:41.961Z</updated>
         <content type="html"><![CDATA[현혹]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [에이핑크] 데뷔 12년차에 음방 1위하는 걸그룹 (+어쩔티비)]]></title>
-        <id>https://ppt21.com/spoent/66315?category=2</id>
-        <link href="https://ppt21.com/spoent/66315?category=2"/>
-        <updated>2022-02-22T11:14:41.966Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [STAYC] 'RUN2U' 퍼포먼스 영상 (공식 유튜브+원더케이)]]></title>
-        <id>https://ppt21.com/spoent/66314?category=2</id>
-        <link href="https://ppt21.com/spoent/66314?category=2"/>
-        <updated>2022-02-22T11:14:41.967Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
