@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-02-24T11:13:44.598Z</updated>
+    <updated>2022-02-24T13:21:17.441Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 유튜브 썸네일의 중요성(2).ytb]]></title>
+        <id>https://ppt21.com/spoent/66340?category=2</id>
+        <link href="https://ppt21.com/spoent/66340?category=2"/>
+        <updated>2022-02-24T13:20:38.076Z</updated>
+        <content type="html"><![CDATA[발적화]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 유튜브 썸네일의 중요성.ytb]]></title>
+        <id>https://ppt21.com/spoent/66339?category=2</id>
+        <link href="https://ppt21.com/spoent/66339?category=2"/>
+        <updated>2022-02-24T13:20:38.076Z</updated>
+        <content type="html"><![CDATA[VictoryFood]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 체리블렛 'Love In Space'  티져]]></title>
         <id>https://ppt21.com/spoent/66338?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/66312?category=2"/>
         <updated>2022-02-22T10:18:28.337Z</updated>
         <content type="html"><![CDATA[TWICE쯔위]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [NMIXX] 데뷔곡 "O.O" M/V (+주간아이돌 선공개 영상)]]></title>
-        <id>https://ppt21.com/spoent/66311?category=2</id>
-        <link href="https://ppt21.com/spoent/66311?category=2"/>
-        <updated>2022-02-22T09:16:16.454Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [트와이스] 2WICE의 데이2 (2WICE’s DATE) TEASER]]></title>
-        <id>https://ppt21.com/spoent/66308?category=2</id>
-        <link href="https://ppt21.com/spoent/66308?category=2"/>
-        <updated>2022-02-22T06:19:42.080Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
