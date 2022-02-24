@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-02-24T10:18:13.180Z</updated>
+    <updated>2022-02-24T11:13:44.598Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 체리블렛 'Love In Space'  티져]]></title>
+        <id>https://ppt21.com/spoent/66338?category=2</id>
+        <link href="https://ppt21.com/spoent/66338?category=2"/>
+        <updated>2022-02-24T11:13:33.247Z</updated>
+        <content type="html"><![CDATA[어강됴리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] [성시경 유튜브] 이~윽고~]]></title>
+        <id>https://ppt21.com/spoent/66337?category=2</id>
+        <link href="https://ppt21.com/spoent/66337?category=2"/>
+        <updated>2022-02-24T11:13:33.248Z</updated>
+        <content type="html"><![CDATA[A1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 닮은꼴 부자인 송영주해설]]></title>
         <id>https://ppt21.com/spoent/66336?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/66308?category=2"/>
         <updated>2022-02-22T06:19:42.080Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 넷플릭스 오리지널 드라마 <소년심판> 제작발표회 요약 정리]]></title>
-        <id>https://ppt21.com/spoent/66307?category=2</id>
-        <link href="https://ppt21.com/spoent/66307?category=2"/>
-        <updated>2022-02-22T06:19:42.080Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 영스 진행중 라이브하는 웬디 모음]]></title>
-        <id>https://ppt21.com/spoent/66306?category=2</id>
-        <link href="https://ppt21.com/spoent/66306?category=2"/>
-        <updated>2022-02-22T05:14:49.773Z</updated>
-        <content type="html"><![CDATA[강가딘]]></content>
     </entry>
 </feed>
