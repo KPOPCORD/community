@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-02-24T13:21:17.441Z</updated>
+    <updated>2022-02-24T14:16:11.724Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [에이핑크] 신문화를 접한 또다른 걸그룹.ytb]]></title>
+        <id>https://ppt21.com/spoent/66342?category=2</id>
+        <link href="https://ppt21.com/spoent/66342?category=2"/>
+        <updated>2022-02-24T14:16:02.541Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] [비비지] 신문화(단독샷캠)에 놀라는 엄지.ytb]]></title>
+        <id>https://ppt21.com/spoent/66341?category=2</id>
+        <link href="https://ppt21.com/spoent/66341?category=2"/>
+        <updated>2022-02-24T14:16:02.542Z</updated>
+        <content type="html"><![CDATA[VictoryFood]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 유튜브 썸네일의 중요성(2).ytb]]></title>
         <id>https://ppt21.com/spoent/66340?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/66314?category=2"/>
         <updated>2022-02-22T11:14:41.967Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 태연 킬링보이스]]></title>
-        <id>https://ppt21.com/spoent/66313?category=2</id>
-        <link href="https://ppt21.com/spoent/66313?category=2"/>
-        <updated>2022-02-22T10:18:28.337Z</updated>
-        <content type="html"><![CDATA[껌정]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [우주소녀] 다원 활동중단]]></title>
-        <id>https://ppt21.com/spoent/66312?category=2</id>
-        <link href="https://ppt21.com/spoent/66312?category=2"/>
-        <updated>2022-02-22T10:18:28.337Z</updated>
-        <content type="html"><![CDATA[TWICE쯔위]]></content>
     </entry>
 </feed>
