@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-24T04:20:48.900Z</updated>
+    <updated>2022-02-24T05:15:46.986Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[연예] [전참시] 소녀시대 막냉이 근황 (Pgr21 ─ 연예)]]></title>
@@ -138,6 +138,13 @@
         <content type="html"><![CDATA[강가딘]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[단독] '여고추리반 시즌3 제작확정'... "더 큰 스케일로 돌아올 것" (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2356203733</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2356203733"/>
+        <updated>2022-02-24T05:15:46.213Z</updated>
+        <content type="html"><![CDATA[301601]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[투바투 2022 드림위크 모아 프로덕션 Concept Poster & Timetable 🎬🧑🏻‍💻🗓 (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2356111831</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2356111831"/>
@@ -269,12 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2355512077"/>
         <updated>2022-02-23T12:27:55.892Z</updated>
         <content type="html"><![CDATA[301582]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[💜제 3회 태연 노래 총선 중간집계💜 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2355490010</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2355490010"/>
-        <updated>2022-02-23T12:27:55.898Z</updated>
-        <content type="html"><![CDATA[301581]]></content>
     </entry>
 </feed>

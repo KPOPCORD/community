@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2022-02-24T04:20:48.899Z</updated>
+    <updated>2022-02-24T05:15:46.984Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독] '여고추리반 시즌3 제작확정'... "더 큰 스케일로 돌아올 것"]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2356203733</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2356203733"/>
+        <updated>2022-02-24T05:15:46.213Z</updated>
+        <content type="html"><![CDATA[301601]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[투바투 2022 드림위크 모아 프로덕션 Concept Poster & Timetable 🎬🧑🏻‍💻🗓]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2356111831</id>
@@ -137,12 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2355512077"/>
         <updated>2022-02-23T12:27:55.892Z</updated>
         <content type="html"><![CDATA[301582]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[💜제 3회 태연 노래 총선 중간집계💜]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2355490010</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2355490010"/>
-        <updated>2022-02-23T12:27:55.898Z</updated>
-        <content type="html"><![CDATA[301581]]></content>
     </entry>
 </feed>
