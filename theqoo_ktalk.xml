@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2022-02-23T23:18:14.542Z</updated>
+    <updated>2022-02-24T01:02:46.739Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[TREASURE - '직진 (JIKJIN)' DANCE PERFORMANCE VIDEO]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2355905284</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2355905284"/>
+        <updated>2022-02-24T01:02:45.952Z</updated>
+        <content type="html"><![CDATA[301600]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[씨아이엑스 승훈 트위터 업뎃💛]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2355742032</id>
@@ -137,12 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2355347921"/>
         <updated>2022-02-23T10:18:16.484Z</updated>
         <content type="html"><![CDATA[301581]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빌리 긴가민가요 MV]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2355342055</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2355342055"/>
-        <updated>2022-02-23T09:14:43.485Z</updated>
-        <content type="html"><![CDATA[301580]]></content>
     </entry>
 </feed>
