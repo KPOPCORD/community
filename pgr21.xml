@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-02-26T17:17:25.840Z</updated>
+    <updated>2022-02-26T18:18:48.724Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 파혼한 전남친이 신혼집에 대해 반띵을 요구하네요(드라마)]]></title>
+        <id>https://ppt21.com/spoent/66368?category=2</id>
+        <link href="https://ppt21.com/spoent/66368?category=2"/>
+        <updated>2022-02-26T18:18:39.392Z</updated>
+        <content type="html"><![CDATA[VictoryFood]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 태연 오피셜 공식 계정 첫 영상]]></title>
         <id>https://ppt21.com/spoent/66364?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/66329?category=2"/>
         <updated>2022-02-23T09:14:26.370Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 주관적으로 가장 좋아하는 성시경 노래 5곡입니다.]]></title>
-        <id>https://ppt21.com/spoent/66327?category=2</id>
-        <link href="https://ppt21.com/spoent/66327?category=2"/>
-        <updated>2022-02-23T05:15:08.830Z</updated>
-        <content type="html"><![CDATA[대단하다대단해]]></content>
     </entry>
 </feed>
