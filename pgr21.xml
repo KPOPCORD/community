@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-02-26T08:19:06.189Z</updated>
+    <updated>2022-02-26T09:15:09.081Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 오늘 6주만에 방송 재개되는 태종 이방원]]></title>
+        <id>https://ppt21.com/spoent/66363?category=2</id>
+        <link href="https://ppt21.com/spoent/66363?category=2"/>
+        <updated>2022-02-26T09:14:50.317Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 컨셉이 아니라 실제 능력]]></title>
         <id>https://ppt21.com/spoent/66361?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/66324?category=2"/>
         <updated>2022-02-22T18:20:53.897Z</updated>
         <content type="html"><![CDATA[LiXiangfei]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [로켓펀치] 'CHIQUITA' M/V Teaser]]></title>
-        <id>https://ppt21.com/spoent/66323?category=2</id>
-        <link href="https://ppt21.com/spoent/66323?category=2"/>
-        <updated>2022-02-22T16:23:30.537Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
