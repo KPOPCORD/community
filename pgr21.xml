@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-02-26T10:17:27.060Z</updated>
+    <updated>2022-02-26T13:18:23.268Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 태연 오피셜 공식 계정 첫 영상]]></title>
+        <id>https://ppt21.com/spoent/66364?category=2</id>
+        <link href="https://ppt21.com/spoent/66364?category=2"/>
+        <updated>2022-02-26T13:18:13.367Z</updated>
+        <content type="html"><![CDATA[KIMTAEYEON]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 오늘 6주만에 방송 재개되는 태종 이방원]]></title>
         <id>https://ppt21.com/spoent/66363?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/66327?category=2"/>
         <updated>2022-02-23T05:15:08.830Z</updated>
         <content type="html"><![CDATA[대단하다대단해]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [AKB48] 59th 싱글발표 소식입니다.]]></title>
-        <id>https://ppt21.com/spoent/66324?category=2</id>
-        <link href="https://ppt21.com/spoent/66324?category=2"/>
-        <updated>2022-02-22T18:20:53.897Z</updated>
-        <content type="html"><![CDATA[LiXiangfei]]></content>
     </entry>
 </feed>
