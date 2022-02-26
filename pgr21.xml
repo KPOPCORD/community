@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-02-26T05:14:51.732Z</updated>
+    <updated>2022-02-26T06:21:01.946Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 컨셉이 아니라 실제 능력]]></title>
+        <id>https://ppt21.com/spoent/66361?category=2</id>
+        <link href="https://ppt21.com/spoent/66361?category=2"/>
+        <updated>2022-02-26T06:20:52.109Z</updated>
+        <content type="html"><![CDATA[니시노 나나세]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 솔로 데뷔후 첫 차트 올킬 성공한 태연]]></title>
+        <id>https://ppt21.com/spoent/66359?category=2</id>
+        <link href="https://ppt21.com/spoent/66359?category=2"/>
+        <updated>2022-02-26T06:20:52.109Z</updated>
+        <content type="html"><![CDATA[KIMTAEYEON]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] '해버지 박지성'을 만난 맨유 팬 오하영!!]]></title>
         <id>https://ppt21.com/spoent/66358?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/66323?category=2"/>
         <updated>2022-02-22T16:23:30.537Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [(여자)아이들] 이무진과 민니의 콜라보 무대 (+태국어 버전 신호등!)]]></title>
-        <id>https://ppt21.com/spoent/66322?category=2</id>
-        <link href="https://ppt21.com/spoent/66322?category=2"/>
-        <updated>2022-02-22T16:23:30.539Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 드림캐쳐, 정규앨범으로 돌아온다..'4월 컴백']]></title>
-        <id>https://ppt21.com/spoent/66318?category=2</id>
-        <link href="https://ppt21.com/spoent/66318?category=2"/>
-        <updated>2022-02-22T12:28:11.788Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
     </entry>
 </feed>
