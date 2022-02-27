@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-02-27T11:14:40.052Z</updated>
+    <updated>2022-02-27T12:25:38.965Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 태연 레코딩 비하인드]]></title>
+        <id>https://ppt21.com/spoent/66387?category=2</id>
+        <link href="https://ppt21.com/spoent/66387?category=2"/>
+        <updated>2022-02-27T12:25:28.506Z</updated>
+        <content type="html"><![CDATA[KIMTAEYEON]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] [런닝맨] 진입 타이밍 예술인 런닝맨 예고편]]></title>
+        <id>https://ppt21.com/spoent/66386?category=2</id>
+        <link href="https://ppt21.com/spoent/66386?category=2"/>
+        <updated>2022-02-27T12:25:28.514Z</updated>
+        <content type="html"><![CDATA[A1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [유퀴즈] 돌아온 조셉과 황석희 번역가님]]></title>
         <id>https://ppt21.com/spoent/66379?category=2</id>
@@ -122,20 +136,6 @@
         <id>https://ppt21.com/spoent/66341?category=2</id>
         <link href="https://ppt21.com/spoent/66341?category=2"/>
         <updated>2022-02-24T14:16:02.542Z</updated>
-        <content type="html"><![CDATA[VictoryFood]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 유튜브 썸네일의 중요성(2).ytb]]></title>
-        <id>https://ppt21.com/spoent/66340?category=2</id>
-        <link href="https://ppt21.com/spoent/66340?category=2"/>
-        <updated>2022-02-24T13:20:38.076Z</updated>
-        <content type="html"><![CDATA[발적화]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 유튜브 썸네일의 중요성.ytb]]></title>
-        <id>https://ppt21.com/spoent/66339?category=2</id>
-        <link href="https://ppt21.com/spoent/66339?category=2"/>
-        <updated>2022-02-24T13:20:38.076Z</updated>
         <content type="html"><![CDATA[VictoryFood]]></content>
     </entry>
 </feed>
