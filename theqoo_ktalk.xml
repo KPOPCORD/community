@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2022-02-27T02:32:37.206Z</updated>
+    <updated>2022-02-27T03:17:12.693Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[아형✪하라] 💙BORN TO B↗️ 히트곡 메들리💙 모두 아형 보~면서 박수 쳐~!! 〈아는 형님〉 | JTBC 220226 방송]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2359343952</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2359343952"/>
+        <updated>2022-02-27T03:17:12.023Z</updated>
+        <content type="html"><![CDATA[301627]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[아형✪하라] 고요 속의 외침은 못 참지(ง🔥Д🔥)ง 5년 만에 나와서 레전드 찍고 간 비투비🤣〈아는 형님〉 | JTBC 220226 방송]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2359343307</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2359343307"/>
+        <updated>2022-02-27T03:17:12.025Z</updated>
+        <content type="html"><![CDATA[301626]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[투바투 태현 틱톡🎮]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2359271569</id>
@@ -130,19 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2358749148"/>
         <updated>2022-02-26T13:18:22.534Z</updated>
         <content type="html"><![CDATA[301608]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔피언/MC모음] 2월 4주차 ♥얼굴챔피언♡ MC딴콩민]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2358743566</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2358743566"/>
-        <updated>2022-02-26T13:18:22.536Z</updated>
-        <content type="html"><![CDATA[301607]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[투바투 연준 트윗]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2358732749</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2358732749"/>
-        <updated>2022-02-26T13:18:22.539Z</updated>
-        <content type="html"><![CDATA[301606]]></content>
     </entry>
 </feed>
