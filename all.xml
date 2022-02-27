@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-27T18:19:14.160Z</updated>
+    <updated>2022-02-27T19:13:06.256Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] 주문을 외워보자~ 했더니 엄마가 따라 불러서 놀램 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/66394?category=2</id>
+        <link href="https://ppt21.com/spoent/66394?category=2"/>
+        <updated>2022-02-27T19:12:55.529Z</updated>
+        <content type="html"><![CDATA[VictoryFood]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 걸그룹 앨범 시장에서 남초 팬덤 보다 여초 팬덤이 중요한 이유. (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/66393?category=2</id>
@@ -129,13 +136,6 @@
         <link href="https://ppt21.com/spoent/66359?category=2"/>
         <updated>2022-02-26T06:20:52.109Z</updated>
         <content type="html"><![CDATA[KIMTAEYEON]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] '해버지 박지성'을 만난 맨유 팬 오하영!! (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/66358?category=2</id>
-        <link href="https://ppt21.com/spoent/66358?category=2"/>
-        <updated>2022-02-26T05:14:41.858Z</updated>
-        <content type="html"><![CDATA[강가딘]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[엔하이픈 정원 위버스♥️ (더쿠 ─ 케이돌토크)]]></title>
