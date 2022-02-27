@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-02-27T08:18:49.028Z</updated>
+    <updated>2022-02-27T09:15:54.710Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [유퀴즈] 돌아온 조셉과 황석희 번역가님]]></title>
+        <id>https://ppt21.com/spoent/66379?category=2</id>
+        <link href="https://ppt21.com/spoent/66379?category=2"/>
+        <updated>2022-02-27T09:15:39.323Z</updated>
+        <content type="html"><![CDATA[A1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 스토브리그이후 오랜만에 보는 tv드라마 스물다섯 스물하나(약스포)]]></title>
         <id>https://ppt21.com/spoent/66378?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/66339?category=2"/>
         <updated>2022-02-24T13:20:38.076Z</updated>
         <content type="html"><![CDATA[VictoryFood]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 체리블렛 'Love In Space'  티져]]></title>
-        <id>https://ppt21.com/spoent/66338?category=2</id>
-        <link href="https://ppt21.com/spoent/66338?category=2"/>
-        <updated>2022-02-24T11:13:33.247Z</updated>
-        <content type="html"><![CDATA[어강됴리]]></content>
     </entry>
 </feed>
