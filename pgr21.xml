@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-02-27T15:16:55.118Z</updated>
+    <updated>2022-02-27T16:22:29.573Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 급 생각나서 쓰는 휘성 수록곡들 1집~4집 (스압주의)]]></title>
+        <id>https://ppt21.com/spoent/66392?category=2</id>
+        <link href="https://ppt21.com/spoent/66392?category=2"/>
+        <updated>2022-02-27T16:21:58.406Z</updated>
+        <content type="html"><![CDATA[A1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [오피셜] MBC 오디션 프로그램 "방과후 설렘" 최종 데뷔조, 그룹명 확정]]></title>
         <id>https://ppt21.com/spoent/66391?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/66353?category=2"/>
         <updated>2022-02-25T14:15:16.557Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 22년전 관중텐션]]></title>
-        <id>https://ppt21.com/spoent/66344?category=2</id>
-        <link href="https://ppt21.com/spoent/66344?category=2"/>
-        <updated>2022-02-24T16:22:52.995Z</updated>
-        <content type="html"><![CDATA[나스닥]]></content>
     </entry>
 </feed>
