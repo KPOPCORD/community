@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-02-27T13:20:15.091Z</updated>
+    <updated>2022-02-27T14:15:43.484Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [오피셜] MBC 오디션 프로그램 "방과후 설렘" 최종 데뷔조, 그룹명 확정]]></title>
+        <id>https://ppt21.com/spoent/66391?category=2</id>
+        <link href="https://ppt21.com/spoent/66391?category=2"/>
+        <updated>2022-02-27T14:15:26.281Z</updated>
+        <content type="html"><![CDATA[아롱이다롱이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 윤아 실물보면 나오는 현실적인 반응]]></title>
+        <id>https://ppt21.com/spoent/66389?category=2</id>
+        <link href="https://ppt21.com/spoent/66389?category=2"/>
+        <updated>2022-02-27T14:15:26.281Z</updated>
+        <content type="html"><![CDATA[Croove]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 시점의 예술가 윤종신(스압 주의)]]></title>
         <id>https://ppt21.com/spoent/66388?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/66344?category=2"/>
         <updated>2022-02-24T16:22:52.995Z</updated>
         <content type="html"><![CDATA[나스닥]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [(여자)아이들] 컴백 트레일러 : [I NEVER DIE] (3월 14일 컴백)]]></title>
-        <id>https://ppt21.com/spoent/66343?category=2</id>
-        <link href="https://ppt21.com/spoent/66343?category=2"/>
-        <updated>2022-02-24T16:22:52.996Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [에이핑크] 신문화를 접한 또다른 걸그룹.ytb]]></title>
-        <id>https://ppt21.com/spoent/66342?category=2</id>
-        <link href="https://ppt21.com/spoent/66342?category=2"/>
-        <updated>2022-02-24T14:16:02.541Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2022-02-27T13:20:15.092Z</updated>
+    <updated>2022-02-27T14:15:43.487Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[엡식 박우진 콘서트 인스타& fns업 (행복한 시간..너무 행복했다) 🐦🎤❤️]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2360007190</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2360007190"/>
+        <updated>2022-02-27T14:15:42.749Z</updated>
+        <content type="html"><![CDATA[301623]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[NMIXX] "O.O" Dance Practice]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2359932889</id>
@@ -137,12 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2359065863"/>
         <updated>2022-02-26T16:22:18.105Z</updated>
         <content type="html"><![CDATA[301604]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[날아라 BTOB 💙입수파티💙 비투비의 '(나만)위험한 초대' I 본투비투비 EP.08 하이라이트 I Born TO BTOB]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2359065425</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2359065425"/>
-        <updated>2022-02-26T16:22:18.107Z</updated>
-        <content type="html"><![CDATA[301603]]></content>
     </entry>
 </feed>

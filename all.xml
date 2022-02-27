@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-27T13:20:15.080Z</updated>
+    <updated>2022-02-27T14:15:43.489Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] [오피셜] MBC 오디션 프로그램 "방과후 설렘" 최종 데뷔조, 그룹명 확정 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/66391?category=2</id>
+        <link href="https://ppt21.com/spoent/66391?category=2"/>
+        <updated>2022-02-27T14:15:26.281Z</updated>
+        <content type="html"><![CDATA[아롱이다롱이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 윤아 실물보면 나오는 현실적인 반응 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/66389?category=2</id>
+        <link href="https://ppt21.com/spoent/66389?category=2"/>
+        <updated>2022-02-27T14:15:26.281Z</updated>
+        <content type="html"><![CDATA[Croove]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 시점의 예술가 윤종신(스압 주의) (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/66388?category=2</id>
@@ -124,18 +138,11 @@
         <content type="html"><![CDATA[나스닥]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[연예] [(여자)아이들] 컴백 트레일러 : [I NEVER DIE] (3월 14일 컴백) (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/66343?category=2</id>
-        <link href="https://ppt21.com/spoent/66343?category=2"/>
-        <updated>2022-02-24T16:22:52.996Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [에이핑크] 신문화를 접한 또다른 걸그룹.ytb (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/66342?category=2</id>
-        <link href="https://ppt21.com/spoent/66342?category=2"/>
-        <updated>2022-02-24T14:16:02.541Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
+        <title type="html"><![CDATA[엡식 박우진 콘서트 인스타& fns업 (행복한 시간..너무 행복했다) 🐦🎤❤️ (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2360007190</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2360007190"/>
+        <updated>2022-02-27T14:15:42.749Z</updated>
+        <content type="html"><![CDATA[301623]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[NMIXX] "O.O" Dance Practice (더쿠 ─ 케이돌토크)]]></title>
@@ -269,12 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2359065863"/>
         <updated>2022-02-26T16:22:18.105Z</updated>
         <content type="html"><![CDATA[301604]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[날아라 BTOB 💙입수파티💙 비투비의 '(나만)위험한 초대' I 본투비투비 EP.08 하이라이트 I Born TO BTOB (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2359065425</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2359065425"/>
-        <updated>2022-02-26T16:22:18.107Z</updated>
-        <content type="html"><![CDATA[301603]]></content>
     </entry>
 </feed>
