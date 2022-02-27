@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-02-27T05:15:37.067Z</updated>
+    <updated>2022-02-27T07:16:01.402Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 스토브리그이후 오랜만에 보는 tv드라마 스물다섯 스물하나(약스포)]]></title>
+        <id>https://ppt21.com/spoent/66378?category=2</id>
+        <link href="https://ppt21.com/spoent/66378?category=2"/>
+        <updated>2022-02-27T07:15:40.486Z</updated>
+        <content type="html"><![CDATA[대단하다대단해]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] [개승자] 파이널 2라운드 후반부 6팀 공연]]></title>
+        <id>https://ppt21.com/spoent/66377?category=2</id>
+        <link href="https://ppt21.com/spoent/66377?category=2"/>
+        <updated>2022-02-27T07:15:40.486Z</updated>
+        <content type="html"><![CDATA[빼사스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [SNL코리아] 김지석편 - 럭키짱패러디]]></title>
         <id>https://ppt21.com/spoent/66374?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/66338?category=2"/>
         <updated>2022-02-24T11:13:33.247Z</updated>
         <content type="html"><![CDATA[어강됴리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [성시경 유튜브] 이~윽고~]]></title>
-        <id>https://ppt21.com/spoent/66337?category=2</id>
-        <link href="https://ppt21.com/spoent/66337?category=2"/>
-        <updated>2022-02-24T11:13:33.248Z</updated>
-        <content type="html"><![CDATA[A1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 닮은꼴 부자인 송영주해설]]></title>
-        <id>https://ppt21.com/spoent/66336?category=2</id>
-        <link href="https://ppt21.com/spoent/66336?category=2"/>
-        <updated>2022-02-24T09:16:34.835Z</updated>
-        <content type="html"><![CDATA[강가딘]]></content>
     </entry>
 </feed>
