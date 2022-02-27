@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2022-02-27T10:17:55.680Z</updated>
+    <updated>2022-02-27T11:14:40.055Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[태연 ‘Siren’ Recording Behind The Scenes]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2359799625</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2359799625"/>
+        <updated>2022-02-27T11:14:39.368Z</updated>
+        <content type="html"><![CDATA[301628]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아스트로 문빈 인스타 업뎃]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2359768778</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2359768778"/>
+        <updated>2022-02-27T11:14:39.368Z</updated>
+        <content type="html"><![CDATA[301627]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[태연 공트 업뎃]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2359756974</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2359756974"/>
+        <updated>2022-02-27T11:14:39.379Z</updated>
+        <content type="html"><![CDATA[301626]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[트레저 인기가요 컴백무대 '직진' 개인직캠]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2359698841</id>
@@ -123,26 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2358982610"/>
         <updated>2022-02-26T15:16:43.436Z</updated>
         <content type="html"><![CDATA[301609]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[투바투 연준 틱톡 업데이트 (TAEHYUN!! PS5 OR ME??? (DC: ME 🙂))]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2358941538</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2358941538"/>
-        <updated>2022-02-26T14:16:13.455Z</updated>
-        <content type="html"><![CDATA[301608]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[씨아이엑스 승훈 트위터 업뎃💛]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2358939362</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2358939362"/>
-        <updated>2022-02-26T14:16:13.472Z</updated>
-        <content type="html"><![CDATA[301607]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[씨아이엑스 현석 트위터 업뎃❤️]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2358906271</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2358906271"/>
-        <updated>2022-02-26T14:16:13.482Z</updated>
-        <content type="html"><![CDATA[301606]]></content>
     </entry>
 </feed>
