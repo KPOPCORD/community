@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2022-02-28T15:19:18.790Z</updated>
+    <updated>2022-02-28T16:24:54.034Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[TREASURE(트레저) - [T.M.I] EP.22 '직진 (JIKJIN)' DANCE PRACTICE Behind The Scenes]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2361287008</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2361287008"/>
+        <updated>2022-02-28T16:24:53.264Z</updated>
+        <content type="html"><![CDATA[301655]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[빅톤 임세준 태국 현지에서 코로나 확진 판정]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2361258476</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2361258476"/>
+        <updated>2022-02-28T16:24:53.265Z</updated>
+        <content type="html"><![CDATA[301654]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엔하이픈 정원 위버스😝]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2361218720</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2361218720"/>
+        <updated>2022-02-28T16:24:53.269Z</updated>
+        <content type="html"><![CDATA[301653]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이진혁 인스타그램(유미쌤 응원)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2361205048</id>
@@ -123,26 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2360479190"/>
         <updated>2022-02-28T04:21:23.293Z</updated>
         <content type="html"><![CDATA[301636]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이진혁 코로나 확진]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2360461437</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2360461437"/>
-        <updated>2022-02-28T04:21:23.298Z</updated>
-        <content type="html"><![CDATA[301635]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[SPECIAL FILM] 2022 GOLDEN CHILD 'PLAY' | CONCERT BEHIND]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2360446558</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2360446558"/>
-        <updated>2022-02-28T04:21:23.299Z</updated>
-        <content type="html"><![CDATA[301634]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[슈퍼스타 오마이걸 사전예약 오픈]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2360420953</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2360420953"/>
-        <updated>2022-02-28T03:18:08.060Z</updated>
-        <content type="html"><![CDATA[301633]]></content>
     </entry>
 </feed>
