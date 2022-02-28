@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-02-28T01:04:15.805Z</updated>
+    <updated>2022-02-28T02:33:09.307Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 이정재 미국 배우조합상 남우주연상, 정호연 여우주연상]]></title>
+        <id>https://ppt21.com/spoent/66397?category=2</id>
+        <link href="https://ppt21.com/spoent/66397?category=2"/>
+        <updated>2022-02-28T02:32:59.526Z</updated>
+        <content type="html"><![CDATA[껌정]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 집에서 혼자 첼시 경기 보면서 욕한다는 첼지현]]></title>
         <id>https://ppt21.com/spoent/66396?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/66363?category=2"/>
         <updated>2022-02-26T09:14:50.317Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 컨셉이 아니라 실제 능력]]></title>
-        <id>https://ppt21.com/spoent/66361?category=2</id>
-        <link href="https://ppt21.com/spoent/66361?category=2"/>
-        <updated>2022-02-26T06:20:52.109Z</updated>
-        <content type="html"><![CDATA[니시노 나나세]]></content>
     </entry>
 </feed>
