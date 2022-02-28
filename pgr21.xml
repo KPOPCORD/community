@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-02-28T05:15:54.089Z</updated>
+    <updated>2022-02-28T06:20:42.884Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [STAYC] 유튜브 주간차트 1위 + 데뷔 후 첫 입덕직캠]]></title>
+        <id>https://ppt21.com/spoent/66401?category=2</id>
+        <link href="https://ppt21.com/spoent/66401?category=2"/>
+        <updated>2022-02-28T06:20:33.701Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 2022년 2월 4주 D-차트 : 태연 1위! 트레저 3위-에이핑크 5위 진입]]></title>
         <id>https://ppt21.com/spoent/66399?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/66368?category=2"/>
         <updated>2022-02-26T18:18:39.392Z</updated>
         <content type="html"><![CDATA[VictoryFood]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 태연 오피셜 공식 계정 첫 영상]]></title>
-        <id>https://ppt21.com/spoent/66364?category=2</id>
-        <link href="https://ppt21.com/spoent/66364?category=2"/>
-        <updated>2022-02-26T13:18:13.367Z</updated>
-        <content type="html"><![CDATA[KIMTAEYEON]]></content>
     </entry>
 </feed>
