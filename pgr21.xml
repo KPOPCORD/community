@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-02-28T14:15:50.527Z</updated>
+    <updated>2022-02-28T15:19:18.811Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 개인적인 이승환님 곡 리메이크 최강자]]></title>
+        <id>https://ppt21.com/spoent/66410?category=2</id>
+        <link href="https://ppt21.com/spoent/66410?category=2"/>
+        <updated>2022-02-28T15:19:07.396Z</updated>
+        <content type="html"><![CDATA[A1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [M/V] 내 마음이 사랑입니다 - 김종국]]></title>
         <id>https://ppt21.com/spoent/66407?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/66379?category=2"/>
         <updated>2022-02-27T09:15:39.323Z</updated>
         <content type="html"><![CDATA[A1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 스토브리그이후 오랜만에 보는 tv드라마 스물다섯 스물하나(약스포)]]></title>
-        <id>https://ppt21.com/spoent/66378?category=2</id>
-        <link href="https://ppt21.com/spoent/66378?category=2"/>
-        <updated>2022-02-27T07:15:40.486Z</updated>
-        <content type="html"><![CDATA[대단하다대단해]]></content>
     </entry>
 </feed>
