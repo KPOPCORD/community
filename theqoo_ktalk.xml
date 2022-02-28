@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2022-02-28T07:16:24.588Z</updated>
+    <updated>2022-02-28T08:20:27.894Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뉴이스트 전속계약종료]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2360699372</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2360699372"/>
+        <updated>2022-02-28T08:20:27.179Z</updated>
+        <content type="html"><![CDATA[301642]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Apink 정은지, 오하영 코로나19 관련 안내]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2360605567</id>
@@ -137,12 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2360086976"/>
         <updated>2022-02-27T15:16:54.512Z</updated>
         <content type="html"><![CDATA[301623]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김우석 KIM WOO SEOK ‘3RD DESIRE [Reve]’ TRACKLIST]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2360086918</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2360086918"/>
-        <updated>2022-02-27T15:16:54.515Z</updated>
-        <content type="html"><![CDATA[301622]]></content>
     </entry>
 </feed>
