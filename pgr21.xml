@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-02-28T11:14:40.727Z</updated>
+    <updated>2022-02-28T12:28:43.479Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [M/V] 내 마음이 사랑입니다 - 김종국]]></title>
+        <id>https://ppt21.com/spoent/66407?category=2</id>
+        <link href="https://ppt21.com/spoent/66407?category=2"/>
+        <updated>2022-02-28T12:28:31.960Z</updated>
+        <content type="html"><![CDATA[강가딘]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] [태종이방원]하드캐리하는 민씨]]></title>
+        <id>https://ppt21.com/spoent/66406?category=2</id>
+        <link href="https://ppt21.com/spoent/66406?category=2"/>
+        <updated>2022-02-28T12:28:31.960Z</updated>
+        <content type="html"><![CDATA[카루오스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [뉴이스트] 플레디스 "뉴이스트 3월 계약 종료, 백호∙민현 재계약"]]></title>
         <id>https://ppt21.com/spoent/66404?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/66378?category=2"/>
         <updated>2022-02-27T07:15:40.486Z</updated>
         <content type="html"><![CDATA[대단하다대단해]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [개승자] 파이널 2라운드 후반부 6팀 공연]]></title>
-        <id>https://ppt21.com/spoent/66377?category=2</id>
-        <link href="https://ppt21.com/spoent/66377?category=2"/>
-        <updated>2022-02-27T07:15:40.486Z</updated>
-        <content type="html"><![CDATA[빼사스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [SNL코리아] 김지석편 - 럭키짱패러디]]></title>
-        <id>https://ppt21.com/spoent/66374?category=2</id>
-        <link href="https://ppt21.com/spoent/66374?category=2"/>
-        <updated>2022-02-27T05:15:26.083Z</updated>
-        <content type="html"><![CDATA[탈리스만]]></content>
     </entry>
 </feed>

@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-28T11:14:40.633Z</updated>
+    <updated>2022-02-28T12:28:43.480Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] [M/V] 내 마음이 사랑입니다 - 김종국 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/66407?category=2</id>
+        <link href="https://ppt21.com/spoent/66407?category=2"/>
+        <updated>2022-02-28T12:28:31.960Z</updated>
+        <content type="html"><![CDATA[강가딘]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] [태종이방원]하드캐리하는 민씨 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/66406?category=2</id>
+        <link href="https://ppt21.com/spoent/66406?category=2"/>
+        <updated>2022-02-28T12:28:31.960Z</updated>
+        <content type="html"><![CDATA[카루오스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [뉴이스트] 플레디스 "뉴이스트 3월 계약 종료, 백호∙민현 재계약" (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/66404?category=2</id>
@@ -124,18 +138,18 @@
         <content type="html"><![CDATA[대단하다대단해]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[연예] [개승자] 파이널 2라운드 후반부 6팀 공연 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/66377?category=2</id>
-        <link href="https://ppt21.com/spoent/66377?category=2"/>
-        <updated>2022-02-27T07:15:40.486Z</updated>
-        <content type="html"><![CDATA[빼사스]]></content>
+        <title type="html"><![CDATA[크래비티 NEW 컴백 스케줄러 (3/22 컴백) (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2360984142</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2360984142"/>
+        <updated>2022-02-28T12:28:42.671Z</updated>
+        <content type="html"><![CDATA[301649]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[연예] [SNL코리아] 김지석편 - 럭키짱패러디 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/66374?category=2</id>
-        <link href="https://ppt21.com/spoent/66374?category=2"/>
-        <updated>2022-02-27T05:15:26.083Z</updated>
-        <content type="html"><![CDATA[탈리스만]]></content>
+        <title type="html"><![CDATA[투바투 자체예능 투두 EP.73 천하제일 봄의 요정 선발대회 2편 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2360971003</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2360971003"/>
+        <updated>2022-02-28T12:28:42.671Z</updated>
+        <content type="html"><![CDATA[301648]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[스키즈 [2 Kids Room(투키즈룸)] Ep.06 필릭스 X 승민 (더쿠 ─ 케이돌토크)]]></title>
@@ -262,19 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2360299083"/>
         <updated>2022-02-28T01:04:15.146Z</updated>
         <content type="html"><![CDATA[301630]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독]이달의 소녀, 3명 코로나19 확진… "'퀸덤' 첫 경연 불참" (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2360298502</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2360298502"/>
-        <updated>2022-02-28T01:04:15.146Z</updated>
-        <content type="html"><![CDATA[301629]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔하이픈 정원 위버스♥️ (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2360115672</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2360115672"/>
-        <updated>2022-02-27T16:22:28.902Z</updated>
-        <content type="html"><![CDATA[301628]]></content>
     </entry>
 </feed>

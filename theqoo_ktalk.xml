@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2022-02-28T11:14:40.638Z</updated>
+    <updated>2022-02-28T12:28:43.476Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[크래비티 NEW 컴백 스케줄러 (3/22 컴백)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2360984142</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2360984142"/>
+        <updated>2022-02-28T12:28:42.671Z</updated>
+        <content type="html"><![CDATA[301649]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[투바투 자체예능 투두 EP.73 천하제일 봄의 요정 선발대회 2편]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2360971003</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2360971003"/>
+        <updated>2022-02-28T12:28:42.671Z</updated>
+        <content type="html"><![CDATA[301648]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스키즈 [2 Kids Room(투키즈룸)] Ep.06 필릭스 X 승민]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2360905235</id>
@@ -130,19 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2360299083"/>
         <updated>2022-02-28T01:04:15.146Z</updated>
         <content type="html"><![CDATA[301630]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독]이달의 소녀, 3명 코로나19 확진… "'퀸덤' 첫 경연 불참"]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2360298502</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2360298502"/>
-        <updated>2022-02-28T01:04:15.146Z</updated>
-        <content type="html"><![CDATA[301629]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔하이픈 정원 위버스♥️]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2360115672</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2360115672"/>
-        <updated>2022-02-27T16:22:28.902Z</updated>
-        <content type="html"><![CDATA[301628]]></content>
     </entry>
 </feed>
