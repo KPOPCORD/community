@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-03-01T09:16:23.836Z</updated>
+    <updated>2022-03-01T10:18:40.059Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [트와이스] 성공적으로 북미투어를 마치고 돌아왔습니다.]]></title>
+        <id>https://ppt21.com/spoent/66416?category=2</id>
+        <link href="https://ppt21.com/spoent/66416?category=2"/>
+        <updated>2022-03-01T10:18:30.364Z</updated>
+        <content type="html"><![CDATA[발적화]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [에이핑크] 후배들 하는 건 다 해보고 싶었던 모양]]></title>
         <id>https://ppt21.com/spoent/66415?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/66387?category=2"/>
         <updated>2022-02-27T12:25:28.506Z</updated>
         <content type="html"><![CDATA[KIMTAEYEON]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [런닝맨] 진입 타이밍 예술인 런닝맨 예고편]]></title>
-        <id>https://ppt21.com/spoent/66386?category=2</id>
-        <link href="https://ppt21.com/spoent/66386?category=2"/>
-        <updated>2022-02-27T12:25:28.514Z</updated>
-        <content type="html"><![CDATA[A1]]></content>
     </entry>
 </feed>
