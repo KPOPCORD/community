@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-03-01T11:14:48.110Z</updated>
+    <updated>2022-03-01T12:27:40.574Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 19회 한국대중음악상 수상 결과]]></title>
+        <id>https://ppt21.com/spoent/66421?category=2</id>
+        <link href="https://ppt21.com/spoent/66421?category=2"/>
+        <updated>2022-03-01T12:27:30.622Z</updated>
+        <content type="html"><![CDATA[KIMTAEYEON]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [STAYC] 오늘 더쇼에서 통산 4번째 음방 1위 (+앵콜을 함께한 제7의 멤버?)]]></title>
         <id>https://ppt21.com/spoent/66420?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/66391?category=2"/>
         <updated>2022-02-27T14:15:26.281Z</updated>
         <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 윤아 실물보면 나오는 현실적인 반응]]></title>
-        <id>https://ppt21.com/spoent/66389?category=2</id>
-        <link href="https://ppt21.com/spoent/66389?category=2"/>
-        <updated>2022-02-27T14:15:26.281Z</updated>
-        <content type="html"><![CDATA[Croove]]></content>
     </entry>
 </feed>
