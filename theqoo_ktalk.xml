@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2022-03-01T05:15:50.483Z</updated>
+    <updated>2022-03-01T06:20:31.510Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[전참시] "아이돌이라고 안 믿겠는데?😂" 근데.. 혹시 민혁이는 빼줄 수 있어?🙃 비글미 잃지 않고 돌아온 비투비😍 MBC220226방송]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2361740405</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2361740405"/>
+        <updated>2022-03-01T06:20:30.820Z</updated>
+        <content type="html"><![CDATA[301629]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엔믹스 쇼케 기사사진]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2361724260</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2361724260"/>
+        <updated>2022-03-01T06:20:30.833Z</updated>
+        <content type="html"><![CDATA[301628]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에이핑크 박초롱, 윤보미, 김남주 코로나19 관련 안내]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2361715465</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2361715465"/>
+        <updated>2022-03-01T06:20:30.852Z</updated>
+        <content type="html"><![CDATA[301627]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[브랜뉴뮤직 소속 아티스트 한해 코로나19 확진 판정 및 조치 안내]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2361596806</id>
@@ -123,26 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2360837288"/>
         <updated>2022-02-28T10:19:04.369Z</updated>
         <content type="html"><![CDATA[301610]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[위클리 신지윤 건강 상태 및 향후 활동 관련 안내]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2360823273</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2360823273"/>
-        <updated>2022-02-28T10:19:04.394Z</updated>
-        <content type="html"><![CDATA[301609]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비투비의 힐링 라이프 '비툽세끼' 3월 Coming Soon!]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2360773957</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2360773957"/>
-        <updated>2022-02-28T10:19:04.397Z</updated>
-        <content type="html"><![CDATA[301608]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[슈퍼주니어 SUPER JUNIOR Special Single Album 'Callin'' MV]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2360768659</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2360768659"/>
-        <updated>2022-02-28T10:19:04.399Z</updated>
-        <content type="html"><![CDATA[301607]]></content>
     </entry>
 </feed>
