@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2022-03-01T15:19:30.667Z</updated>
+    <updated>2022-03-01T16:23:55.242Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[엔하이픈 성훈 멤트]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2362355043</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2362355043"/>
+        <updated>2022-03-01T16:23:54.541Z</updated>
+        <content type="html"><![CDATA[301648]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(G)I-DLE 1st Full Album [I NEVER DIE] RiSKY Ver. Concept Image 1]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2362336633</id>
@@ -137,12 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2361876972"/>
         <updated>2022-03-01T09:16:23.160Z</updated>
         <content type="html"><![CDATA[301629]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[전참시] "아이돌이라고 안 믿겠는데?😂" 근데.. 혹시 민혁이는 빼줄 수 있어?🙃 비글미 잃지 않고 돌아온 비투비😍 MBC220226방송]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2361740405</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2361740405"/>
-        <updated>2022-03-01T06:20:30.820Z</updated>
-        <content type="html"><![CDATA[301628]]></content>
     </entry>
 </feed>
