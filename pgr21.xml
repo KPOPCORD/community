@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-03-01T14:16:16.774Z</updated>
+    <updated>2022-03-01T15:19:30.664Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 최근 조회수 급상승 중인 직캠]]></title>
+        <id>https://ppt21.com/spoent/66423?category=2</id>
+        <link href="https://ppt21.com/spoent/66423?category=2"/>
+        <updated>2022-03-01T15:19:18.570Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 19회 한국대중음악상 수상 결과]]></title>
         <id>https://ppt21.com/spoent/66421?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/66392?category=2"/>
         <updated>2022-02-27T16:21:58.406Z</updated>
         <content type="html"><![CDATA[A1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [오피셜] MBC 오디션 프로그램 "방과후 설렘" 최종 데뷔조, 그룹명 확정]]></title>
-        <id>https://ppt21.com/spoent/66391?category=2</id>
-        <link href="https://ppt21.com/spoent/66391?category=2"/>
-        <updated>2022-02-27T14:15:26.281Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
     </entry>
 </feed>
