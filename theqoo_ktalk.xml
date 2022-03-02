@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2022-03-01T23:17:11.196Z</updated>
+    <updated>2022-03-02T01:06:12.848Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[눈물버튼 된 뉴종현의 행운을 빌어줘 영상]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2362542433</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2362542433"/>
+        <updated>2022-03-02T01:06:12.147Z</updated>
+        <content type="html"><![CDATA[301651]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(여자)아이들 (G)I-DLE 1st Full Album [I NEVER DIE] RiSKY (Clean) Ver. Concept Image 1 2022.03.14 18:00 (KST)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2362518707</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2362518707"/>
+        <updated>2022-03-02T01:06:12.150Z</updated>
+        <content type="html"><![CDATA[301650]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독]박봄, 봄과 함께 전격 컴백…김민석 참여 신곡 발표]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2362517332</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2362517332"/>
+        <updated>2022-03-02T01:06:12.150Z</updated>
+        <content type="html"><![CDATA[301649]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021 글로벌 음반 판매량 top10]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2362511663</id>
@@ -123,26 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2362005924"/>
         <updated>2022-03-01T11:14:47.319Z</updated>
         <content type="html"><![CDATA[301632]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[리무진서비스] EP02. 스트레이 키즈 승민 | Stray Kids SEUNGMIN | 바람, 이별 뒷면, 취중진담, 희재, 아이와 나의 바다]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2361915687</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2361915687"/>
-        <updated>2022-03-01T09:16:23.152Z</updated>
-        <content type="html"><![CDATA[301631]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[원필 솔로 콘서트 ‘Pilmography’🍀 Concert Prologue Pilm]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2361914530</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2361914530"/>
-        <updated>2022-03-01T09:16:23.155Z</updated>
-        <content type="html"><![CDATA[301630]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방탄 위버스 지민]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2361892301</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2361892301"/>
-        <updated>2022-03-01T09:16:23.159Z</updated>
-        <content type="html"><![CDATA[301629]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-03-01T23:17:11.190Z</updated>
+    <updated>2022-03-02T01:06:12.863Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 3월 아티스트 컴백 일정 정리]]></title>
+        <id>https://ppt21.com/spoent/66424?category=2</id>
+        <link href="https://ppt21.com/spoent/66424?category=2"/>
+        <updated>2022-03-02T01:06:03.261Z</updated>
+        <content type="html"><![CDATA[현혹]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 최근 조회수 급상승 중인 직캠]]></title>
         <id>https://ppt21.com/spoent/66423?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/66393?category=2"/>
         <updated>2022-02-27T17:15:32.067Z</updated>
         <content type="html"><![CDATA[피지알맨]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 급 생각나서 쓰는 휘성 수록곡들 1집~4집 (스압주의)]]></title>
-        <id>https://ppt21.com/spoent/66392?category=2</id>
-        <link href="https://ppt21.com/spoent/66392?category=2"/>
-        <updated>2022-02-27T16:21:58.406Z</updated>
-        <content type="html"><![CDATA[A1]]></content>
     </entry>
 </feed>
