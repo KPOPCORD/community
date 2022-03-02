@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-02T22:16:56.684Z</updated>
+    <updated>2022-03-02T23:16:51.566Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] 17년 전 오늘 나온 노래.jpg (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/66438?category=2</id>
+        <link href="https://ppt21.com/spoent/66438?category=2"/>
+        <updated>2022-03-02T23:16:41.861Z</updated>
+        <content type="html"><![CDATA[KOS-MOS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [위클리] 'Ven Para' M/V Teaser (+하이라이트 메들리) (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/66437?category=2</id>
@@ -129,13 +136,6 @@
         <link href="https://ppt21.com/spoent/66407?category=2"/>
         <updated>2022-02-28T12:28:31.960Z</updated>
         <content type="html"><![CDATA[강가딘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [태종이방원]하드캐리하는 민씨 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/66406?category=2</id>
-        <link href="https://ppt21.com/spoent/66406?category=2"/>
-        <updated>2022-02-28T12:28:31.960Z</updated>
-        <content type="html"><![CDATA[카루오스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[투모로우바이투게더의 바로 지금 #ELLEman (더쿠 ─ 케이돌토크)]]></title>
