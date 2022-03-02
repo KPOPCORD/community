@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2022-03-02T06:20:57.673Z</updated>
+    <updated>2022-03-02T07:16:01.237Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[이대휘, '심플리 케이팝' 새 MC 확정]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2362898389</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2362898389"/>
+        <updated>2022-03-02T07:16:00.468Z</updated>
+        <content type="html"><![CDATA[301652]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CIX 1st Concert <REBEL> in Seoul 일정 : 2022.04.15 - 04.17 장소 : BLUESQUARE Mastercard Hall]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2362885017</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2362885017"/>
+        <updated>2022-03-02T07:16:00.476Z</updated>
+        <content type="html"><![CDATA[301651]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CIX 씨아이엑스 용희 인스타그램 업뎃💚 with 승훈💛]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2362847687</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2362847687"/>
+        <updated>2022-03-02T07:16:00.476Z</updated>
+        <content type="html"><![CDATA[301650]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[샤이니 키, 코로나19 확진…"스케줄 중단" [공식]]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2362835755</id>
@@ -123,26 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2362324646"/>
         <updated>2022-03-01T15:19:29.992Z</updated>
         <content type="html"><![CDATA[301633]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KIM WOO SEOK (김우석) ‘3RD DESIRE [Reve]’ MOOD FILM : Bobbidi ver.]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2362323379</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2362323379"/>
-        <updated>2022-03-01T15:19:29.993Z</updated>
-        <content type="html"><![CDATA[301632]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스키즈 승민 인스타그램🐶🍒 #리무진서비스]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2362228278</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2362228278"/>
-        <updated>2022-03-01T14:16:16.033Z</updated>
-        <content type="html"><![CDATA[301631]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔믹스 설윤 인스타그램❤️]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2362223679</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2362223679"/>
-        <updated>2022-03-01T14:16:16.048Z</updated>
-        <content type="html"><![CDATA[301630]]></content>
     </entry>
 </feed>
