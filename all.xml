@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-02T15:17:56.973Z</updated>
+    <updated>2022-03-02T16:24:26.778Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] [위클리] 'Ven Para' M/V Teaser (+하이라이트 메들리) (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/66437?category=2</id>
+        <link href="https://ppt21.com/spoent/66437?category=2"/>
+        <updated>2022-03-02T16:24:17.051Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 대략 10년 전에 조장혁 님의 매력을 다시 알게 했던 곡 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/66436?category=2</id>
@@ -129,13 +136,6 @@
         <link href="https://ppt21.com/spoent/66406?category=2"/>
         <updated>2022-02-28T12:28:31.960Z</updated>
         <content type="html"><![CDATA[카루오스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [뉴이스트] 플레디스 "뉴이스트 3월 계약 종료, 백호∙민현 재계약" (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/66404?category=2</id>
-        <link href="https://ppt21.com/spoent/66404?category=2"/>
-        <updated>2022-02-28T10:18:55.010Z</updated>
-        <content type="html"><![CDATA[아르타니스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Stray Kids(스트레이 키즈) <ODDINARY> TRACK LIST 2022.03.18 FRI 1PM (KST) | 0AM (EST) (더쿠 ─ 케이돌토크)]]></title>
