@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-03-02T05:15:13.162Z</updated>
+    <updated>2022-03-02T06:20:57.764Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 지금 우리 학교는 넷플릭스 28일 시청시간 역대 5위]]></title>
+        <id>https://ppt21.com/spoent/66430?category=2</id>
+        <link href="https://ppt21.com/spoent/66430?category=2"/>
+        <updated>2022-03-02T06:20:47.080Z</updated>
+        <content type="html"><![CDATA[카트만두에서만두]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] [WJSN] 퀸덤에 보나는 출연하지 않는거 같네요]]></title>
+        <id>https://ppt21.com/spoent/66429?category=2</id>
+        <link href="https://ppt21.com/spoent/66429?category=2"/>
+        <updated>2022-03-02T06:20:47.087Z</updated>
+        <content type="html"><![CDATA[바보영구]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 3월 아티스트 컴백 일정 정리]]></title>
         <id>https://ppt21.com/spoent/66424?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/66396?category=2"/>
         <updated>2022-02-28T01:04:06.624Z</updated>
         <content type="html"><![CDATA[강가딘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 주문을 외워보자~ 했더니 엄마가 따라 불러서 놀램]]></title>
-        <id>https://ppt21.com/spoent/66394?category=2</id>
-        <link href="https://ppt21.com/spoent/66394?category=2"/>
-        <updated>2022-02-27T19:12:55.529Z</updated>
-        <content type="html"><![CDATA[VictoryFood]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 걸그룹 앨범 시장에서 남초 팬덤 보다 여초 팬덤이 중요한 이유.]]></title>
-        <id>https://ppt21.com/spoent/66393?category=2</id>
-        <link href="https://ppt21.com/spoent/66393?category=2"/>
-        <updated>2022-02-27T17:15:32.067Z</updated>
-        <content type="html"><![CDATA[피지알맨]]></content>
     </entry>
 </feed>
