@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-03-03T01:06:04.649Z</updated>
+    <updated>2022-03-03T02:42:18.864Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 최철호, 술 취해 회사 대표 집 찾아가 난동 부리다 체포]]></title>
+        <id>https://ppt21.com/spoent/66440?category=2</id>
+        <link href="https://ppt21.com/spoent/66440?category=2"/>
+        <updated>2022-03-03T02:42:08.109Z</updated>
+        <content type="html"><![CDATA[TWICE쯔위]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 17년 전 오늘 나온 노래.jpg]]></title>
         <id>https://ppt21.com/spoent/66438?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/66410?category=2"/>
         <updated>2022-02-28T15:19:07.396Z</updated>
         <content type="html"><![CDATA[A1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [M/V] 내 마음이 사랑입니다 - 김종국]]></title>
-        <id>https://ppt21.com/spoent/66407?category=2</id>
-        <link href="https://ppt21.com/spoent/66407?category=2"/>
-        <updated>2022-02-28T12:28:31.960Z</updated>
-        <content type="html"><![CDATA[강가딘]]></content>
     </entry>
 </feed>
