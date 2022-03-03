@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-03-03T10:18:53.521Z</updated>
+    <updated>2022-03-03T11:13:41.947Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 같은 날 음방활동 시작한 체리블렛 & 로켓펀치 컴백무대 (+직캠)]]></title>
+        <id>https://ppt21.com/spoent/66446?category=2</id>
+        <link href="https://ppt21.com/spoent/66446?category=2"/>
+        <updated>2022-03-03T11:13:32.971Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] [NMIXX] 2.22에 데뷔해 3.3에 첫 출연한 음방 데뷔무대 (+개인직캠 포함)]]></title>
+        <id>https://ppt21.com/spoent/66445?category=2</id>
+        <link href="https://ppt21.com/spoent/66445?category=2"/>
+        <updated>2022-03-03T11:13:32.971Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [브레이브걸스] 미니 6집 [THANK YOU] 컴백 타임테이블 (3월 14일 컴백)]]></title>
         <id>https://ppt21.com/spoent/66444?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/66420?category=2"/>
         <updated>2022-03-01T11:14:36.485Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 에듀윌 광고 찍더니 공인중개사 합격한 서경석]]></title>
-        <id>https://ppt21.com/spoent/66419?category=2</id>
-        <link href="https://ppt21.com/spoent/66419?category=2"/>
-        <updated>2022-03-01T11:14:36.486Z</updated>
-        <content type="html"><![CDATA[강가딘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [트와이스] 성공적으로 북미투어를 마치고 돌아왔습니다.]]></title>
-        <id>https://ppt21.com/spoent/66416?category=2</id>
-        <link href="https://ppt21.com/spoent/66416?category=2"/>
-        <updated>2022-03-01T10:18:30.364Z</updated>
-        <content type="html"><![CDATA[발적화]]></content>
     </entry>
 </feed>
