@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-03-03T11:13:41.947Z</updated>
+    <updated>2022-03-03T12:28:10.775Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [스물다섯 스물하나] 공중전화 매달리기]]></title>
+        <id>https://ppt21.com/spoent/66449?category=2</id>
+        <link href="https://ppt21.com/spoent/66449?category=2"/>
+        <updated>2022-03-03T12:27:51.065Z</updated>
+        <content type="html"><![CDATA[moodoori]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 태연의 INVlogU 1편,2편]]></title>
+        <id>https://ppt21.com/spoent/66448?category=2</id>
+        <link href="https://ppt21.com/spoent/66448?category=2"/>
+        <updated>2022-03-03T12:27:51.065Z</updated>
+        <content type="html"><![CDATA[KIMTAEYEON]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] BTS 콘서트 예매 성공하셨나요?]]></title>
+        <id>https://ppt21.com/spoent/66447?category=2</id>
+        <link href="https://ppt21.com/spoent/66447?category=2"/>
+        <updated>2022-03-03T12:27:51.067Z</updated>
+        <content type="html"><![CDATA[달리와]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 같은 날 음방활동 시작한 체리블렛 & 로켓펀치 컴백무대 (+직캠)]]></title>
         <id>https://ppt21.com/spoent/66446?category=2</id>
@@ -116,26 +137,5 @@
         <link href="https://ppt21.com/spoent/66424?category=2"/>
         <updated>2022-03-02T01:06:03.261Z</updated>
         <content type="html"><![CDATA[현혹]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 최근 조회수 급상승 중인 직캠]]></title>
-        <id>https://ppt21.com/spoent/66423?category=2</id>
-        <link href="https://ppt21.com/spoent/66423?category=2"/>
-        <updated>2022-03-01T15:19:18.570Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 19회 한국대중음악상 수상 결과]]></title>
-        <id>https://ppt21.com/spoent/66421?category=2</id>
-        <link href="https://ppt21.com/spoent/66421?category=2"/>
-        <updated>2022-03-01T12:27:30.622Z</updated>
-        <content type="html"><![CDATA[KIMTAEYEON]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [STAYC] 오늘 더쇼에서 통산 4번째 음방 1위 (+앵콜을 함께한 제7의 멤버?)]]></title>
-        <id>https://ppt21.com/spoent/66420?category=2</id>
-        <link href="https://ppt21.com/spoent/66420?category=2"/>
-        <updated>2022-03-01T11:14:36.485Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
