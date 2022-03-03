@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-03-03T17:18:54.332Z</updated>
+    <updated>2022-03-03T18:20:02.978Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [위클리] 콘셉트 변화를 말하기 위해 다큐까지 만든 위클리]]></title>
+        <id>https://ppt21.com/spoent/66451?category=2</id>
+        <link href="https://ppt21.com/spoent/66451?category=2"/>
+        <updated>2022-03-03T18:19:45.858Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [에이핑크] 리얼리티 장인들의 새로운 리얼리티]]></title>
         <id>https://ppt21.com/spoent/66450?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/66430?category=2"/>
         <updated>2022-03-02T06:20:47.080Z</updated>
         <content type="html"><![CDATA[카트만두에서만두]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [WJSN] 퀸덤에 보나는 출연하지 않는거 같네요]]></title>
-        <id>https://ppt21.com/spoent/66429?category=2</id>
-        <link href="https://ppt21.com/spoent/66429?category=2"/>
-        <updated>2022-03-02T06:20:47.087Z</updated>
-        <content type="html"><![CDATA[바보영구]]></content>
     </entry>
 </feed>
