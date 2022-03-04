@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2022-03-04T15:18:26.063Z</updated>
+    <updated>2022-03-04T16:23:52.872Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[KIM WOO SEOK (김우석) ‘3RD DESIRE [Reve]’ MUSIC THUMBNAIL]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2366101086</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2366101086"/>
+        <updated>2022-03-04T16:23:52.185Z</updated>
+        <content type="html"><![CDATA[301452]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[씨아이엑스 용희 트위터 업뎃💚 BX 이병곤 생축💙]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2366075380</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2366075380"/>
+        <updated>2022-03-04T16:23:52.186Z</updated>
+        <content type="html"><![CDATA[301451]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엔하이픈 정원 위버스 과거사진😻]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2366070185</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2366070185"/>
+        <updated>2022-03-04T16:23:52.187Z</updated>
+        <content type="html"><![CDATA[301450]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[씨아이엑스 승훈 트위터 업뎃💛 BX 이병곤 생축💙]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2366055393</id>
@@ -41,7 +62,7 @@
         <content type="html"><![CDATA[301445]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NU'EST The Best Album 'Needle & Bubble' Official Photo 🪄🔮 #JR (뉴종현)]]></title>
+        <title type="html"><![CDATA[뉴이스트 NU'EST The Best Album 'Needle & Bubble' Official Photo 🪄🔮 #JR (뉴종현)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2366043366</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2366043366"/>
         <updated>2022-03-04T15:18:25.365Z</updated>
@@ -123,26 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2365631344"/>
         <updated>2022-03-04T11:14:15.418Z</updated>
         <content type="html"><![CDATA[301433]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비투비 (BTOB) - 비투비의 힐링 라이프 '비툽세끼' I 예고편 (ENG)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2365620312</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2365620312"/>
-        <updated>2022-03-04T11:14:15.419Z</updated>
-        <content type="html"><![CDATA[301432]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우주소녀 설아, 연정 코로나19 확진 관련 안내]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2365615930</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2365615930"/>
-        <updated>2022-03-04T11:14:15.430Z</updated>
-        <content type="html"><![CDATA[301431]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[문빈&산하(ASTRO) 2nd Mini Album <REFUGE> Concept Photo 🔮 THE WEST ver.]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2365612497</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2365612497"/>
-        <updated>2022-03-04T11:14:15.431Z</updated>
-        <content type="html"><![CDATA[301430]]></content>
     </entry>
 </feed>
