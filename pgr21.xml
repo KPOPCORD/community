@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-03-03T23:18:51.955Z</updated>
+    <updated>2022-03-04T01:11:56.037Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 배성재의 텐 꼰묘꼰묘해 with : 지애 (부제-배성재의 격동 45년)]]></title>
+        <id>https://ppt21.com/spoent/66453?category=2</id>
+        <link href="https://ppt21.com/spoent/66453?category=2"/>
+        <updated>2022-03-04T01:11:18.547Z</updated>
+        <content type="html"><![CDATA[강가딘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [위클리] 콘셉트 변화를 말하기 위해 다큐까지 만든 위클리]]></title>
         <id>https://ppt21.com/spoent/66451?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/66431?category=2"/>
         <updated>2022-03-02T07:15:51.354Z</updated>
         <content type="html"><![CDATA[묻고 더블로 가!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 지금 우리 학교는 넷플릭스 28일 시청시간 역대 5위]]></title>
-        <id>https://ppt21.com/spoent/66430?category=2</id>
-        <link href="https://ppt21.com/spoent/66430?category=2"/>
-        <updated>2022-03-02T06:20:47.080Z</updated>
-        <content type="html"><![CDATA[카트만두에서만두]]></content>
     </entry>
 </feed>
