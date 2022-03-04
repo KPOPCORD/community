@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2022-03-04T12:27:47.759Z</updated>
+    <updated>2022-03-04T13:21:01.590Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[이재명으로 한배탄 라인업 최종본 완성이래]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2365908000</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2365908000"/>
+        <updated>2022-03-04T13:21:00.879Z</updated>
+        <content type="html"><![CDATA[301445]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PICK NMIXX] EP.01 엔믹스 자기들의 우당탕탕 키워드 인터뷰👭🎤]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2365820758</id>
@@ -137,12 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2365135717"/>
         <updated>2022-03-04T03:19:34.560Z</updated>
         <content type="html"><![CDATA[301426]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[투바투 연준 멤트 ❤️]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2365079084</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2365079084"/>
-        <updated>2022-03-04T02:43:12.918Z</updated>
-        <content type="html"><![CDATA[301425]]></content>
     </entry>
 </feed>
