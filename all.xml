@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-04T01:11:56.125Z</updated>
+    <updated>2022-03-04T02:43:13.714Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[연예] 배성재의 텐 꼰묘꼰묘해 with : 지애 (부제-배성재의 격동 45년) (Pgr21 ─ 연예)]]></title>
@@ -138,6 +138,27 @@
         <content type="html"><![CDATA[묻고 더블로 가!]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[투바투 연준 멤트 ❤️ (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2365079084</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2365079084"/>
+        <updated>2022-03-04T02:43:12.918Z</updated>
+        <content type="html"><![CDATA[301431]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[야생돌 TAN (탄) Fix You (Preview & Concept Trailer) Official (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2365048120</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2365048120"/>
+        <updated>2022-03-04T02:43:12.919Z</updated>
+        <content type="html"><![CDATA[301430]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하이헷 주식회사, 정식 출범…2023·24년 글로벌 아이돌 론칭 목표 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2365040117</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2365040117"/>
+        <updated>2022-03-04T02:43:12.924Z</updated>
+        <content type="html"><![CDATA[301429]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[엔하이픈 정원 위버스♥️ (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2364964980</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2364964980"/>
@@ -255,26 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2364498434"/>
         <updated>2022-03-03T12:28:10.084Z</updated>
         <content type="html"><![CDATA[301412]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[MPD직캠] 비투비 직캠 8K '노래 (The Song)' (BTOB FanCam) | @MCOUNTDOWN_2022.3.3 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2364497906</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2364497906"/>
-        <updated>2022-03-03T12:28:10.085Z</updated>
-        <content type="html"><![CDATA[301411]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[NMIXX] 마지막 등굣길🏫 LILY & HAEWON Graduation VLOG #MIXXTORY | "잘 봐 이게 언니들 VLOG다" (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2364490420</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2364490420"/>
-        <updated>2022-03-03T12:28:10.085Z</updated>
-        <content type="html"><![CDATA[301410]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[태연 킬링보이스 연습과 촬영 비하인드🎙🎥 + INVU 인기가요🏹 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2364453238</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2364453238"/>
-        <updated>2022-03-03T12:28:10.087Z</updated>
-        <content type="html"><![CDATA[301409]]></content>
     </entry>
 </feed>
