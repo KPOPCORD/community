@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-03-05T13:19:03.381Z</updated>
+    <updated>2022-03-05T14:17:41.509Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [M/V] 김소연(싱어게인2 '7호 가수') - 홀로 피고 진 꽃 (악의 마음을 읽는 자들 OST)]]></title>
+        <id>https://ppt21.com/spoent/66476?category=2</id>
+        <link href="https://ppt21.com/spoent/66476?category=2"/>
+        <updated>2022-03-05T14:17:31.800Z</updated>
+        <content type="html"><![CDATA[BTS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 성시경이 부르는 나윤권의 나였으면]]></title>
         <id>https://ppt21.com/spoent/66474?category=2</id>
@@ -128,13 +135,6 @@
         <title type="html"><![CDATA[[연예] 같은 날 음방활동 시작한 체리블렛 & 로켓펀치 컴백무대 (+직캠)]]></title>
         <id>https://ppt21.com/spoent/66446?category=2</id>
         <link href="https://ppt21.com/spoent/66446?category=2"/>
-        <updated>2022-03-03T11:13:32.971Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [NMIXX] 2.22에 데뷔해 3.3에 첫 출연한 음방 데뷔무대 (+개인직캠 포함)]]></title>
-        <id>https://ppt21.com/spoent/66445?category=2</id>
-        <link href="https://ppt21.com/spoent/66445?category=2"/>
         <updated>2022-03-03T11:13:32.971Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>

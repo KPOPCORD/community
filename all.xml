@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-05T13:19:03.469Z</updated>
+    <updated>2022-03-05T14:17:41.607Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] [M/V] 김소연(싱어게인2 '7호 가수') - 홀로 피고 진 꽃 (악의 마음을 읽는 자들 OST) (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/66476?category=2</id>
+        <link href="https://ppt21.com/spoent/66476?category=2"/>
+        <updated>2022-03-05T14:17:31.800Z</updated>
+        <content type="html"><![CDATA[BTS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 성시경이 부르는 나윤권의 나였으면 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/66474?category=2</id>
@@ -131,11 +138,18 @@
         <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[연예] [NMIXX] 2.22에 데뷔해 3.3에 첫 출연한 음방 데뷔무대 (+개인직캠 포함) (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/66445?category=2</id>
-        <link href="https://ppt21.com/spoent/66445?category=2"/>
-        <updated>2022-03-03T11:13:32.971Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
+        <title type="html"><![CDATA[투바투 태현 멤트❣ (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2367201408</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2367201408"/>
+        <updated>2022-03-05T14:17:40.753Z</updated>
+        <content type="html"><![CDATA[301465]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#오늘의TXT] 220305 꿈만 같은 TXT와 MOA의 시간 영원히 함께일 거야✨ 사랑하고 또 사랑합니다 MOA💕 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2367167101</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2367167101"/>
+        <updated>2022-03-05T14:17:40.753Z</updated>
+        <content type="html"><![CDATA[301464]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이재명 더쿠 영상 댓글 모아봄ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ (더쿠 ─ 케이돌토크)]]></title>
@@ -262,19 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2366775102"/>
         <updated>2022-03-05T09:15:03.727Z</updated>
         <content type="html"><![CDATA[301446]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[릴레이댄스] NMIXX(엔믹스) - O.O (4K) (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2366746366</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2366746366"/>
-        <updated>2022-03-05T08:19:17.156Z</updated>
-        <content type="html"><![CDATA[301445]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔믹스 설윤 인스타그램 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2366740320</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2366740320"/>
-        <updated>2022-03-05T08:19:17.157Z</updated>
-        <content type="html"><![CDATA[301444]]></content>
     </entry>
 </feed>
