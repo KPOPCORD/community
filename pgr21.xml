@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-03-05T01:04:56.676Z</updated>
+    <updated>2022-03-05T02:36:30.659Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 군인 집안 출신 아이돌의 견착 자세]]></title>
+        <id>https://ppt21.com/spoent/66464?category=2</id>
+        <link href="https://ppt21.com/spoent/66464?category=2"/>
+        <updated>2022-03-05T02:36:08.992Z</updated>
+        <content type="html"><![CDATA[BTS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 패닉의 이적, '달팽이' 표절 소문에 패닉]]></title>
         <id>https://ppt21.com/spoent/66463?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/66437?category=2"/>
         <updated>2022-03-02T16:24:17.051Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 대략 10년 전에 조장혁 님의 매력을 다시 알게 했던 곡]]></title>
-        <id>https://ppt21.com/spoent/66436?category=2</id>
-        <link href="https://ppt21.com/spoent/66436?category=2"/>
-        <updated>2022-03-02T12:28:57.362Z</updated>
-        <content type="html"><![CDATA[A1]]></content>
     </entry>
 </feed>
