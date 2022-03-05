@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-03-05T02:36:30.659Z</updated>
+    <updated>2022-03-05T04:20:48.515Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 트랩바 또는 헥스바 하면 떠오르는 장면]]></title>
+        <id>https://ppt21.com/spoent/66466?category=2</id>
+        <link href="https://ppt21.com/spoent/66466?category=2"/>
+        <updated>2022-03-05T04:20:37.935Z</updated>
+        <content type="html"><![CDATA[나스닥]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 군인 집안 출신 아이돌의 견착 자세]]></title>
         <id>https://ppt21.com/spoent/66464?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/66438?category=2"/>
         <updated>2022-03-02T23:16:41.861Z</updated>
         <content type="html"><![CDATA[KOS-MOS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [위클리] 'Ven Para' M/V Teaser (+하이라이트 메들리)]]></title>
-        <id>https://ppt21.com/spoent/66437?category=2</id>
-        <link href="https://ppt21.com/spoent/66437?category=2"/>
-        <updated>2022-03-02T16:24:17.051Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
