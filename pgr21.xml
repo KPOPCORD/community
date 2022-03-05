@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-03-05T09:15:04.407Z</updated>
+    <updated>2022-03-05T11:15:09.923Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [엔믹스] 데뷔 후 첫 입덕직캠 (해원, 설윤, 지니, 규진)]]></title>
+        <id>https://ppt21.com/spoent/66473?category=2</id>
+        <link href="https://ppt21.com/spoent/66473?category=2"/>
+        <updated>2022-03-05T11:15:00.278Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] '(여자)아이들 출신' 서수진, 큐브 전속계약 해지.."학폭 논란 결과 불송치"[공식입장]]]></title>
         <id>https://ppt21.com/spoent/66469?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/66444?category=2"/>
         <updated>2022-03-03T06:20:22.427Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [STAYC] 대중픽을 받는 듯한 모양새인 RUN2U]]></title>
-        <id>https://ppt21.com/spoent/66443?category=2</id>
-        <link href="https://ppt21.com/spoent/66443?category=2"/>
-        <updated>2022-03-03T05:15:23.882Z</updated>
-        <content type="html"><![CDATA[미원]]></content>
     </entry>
 </feed>
