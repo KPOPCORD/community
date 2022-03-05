@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-03-05T11:15:09.923Z</updated>
+    <updated>2022-03-05T12:25:08.228Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 성시경이 부르는 나윤권의 나였으면]]></title>
+        <id>https://ppt21.com/spoent/66474?category=2</id>
+        <link href="https://ppt21.com/spoent/66474?category=2"/>
+        <updated>2022-03-05T12:24:57.239Z</updated>
+        <content type="html"><![CDATA[A1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [엔믹스] 데뷔 후 첫 입덕직캠 (해원, 설윤, 지니, 규진)]]></title>
         <id>https://ppt21.com/spoent/66473?category=2</id>
@@ -129,13 +136,6 @@
         <id>https://ppt21.com/spoent/66445?category=2</id>
         <link href="https://ppt21.com/spoent/66445?category=2"/>
         <updated>2022-03-03T11:13:32.971Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [브레이브걸스] 미니 6집 [THANK YOU] 컴백 타임테이블 (3월 14일 컴백)]]></title>
-        <id>https://ppt21.com/spoent/66444?category=2</id>
-        <link href="https://ppt21.com/spoent/66444?category=2"/>
-        <updated>2022-03-03T06:20:22.427Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
