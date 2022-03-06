@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-06T16:22:47.118Z</updated>
+    <updated>2022-03-06T18:18:51.193Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[연예] [태종이방원]속보 정도전 사망 (Pgr21 ─ 연예)]]></title>
@@ -138,6 +138,34 @@
         <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[중앙 조선 연합 한국경제는 기사 좋아요 취소해 (링크있음) + 추천해야할 기사 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2368731602</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2368731602"/>
+        <updated>2022-03-06T18:18:50.472Z</updated>
+        <content type="html"><![CDATA[301506]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이제 마지막이야~힘내ㅠ (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2368725045</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2368725045"/>
+        <updated>2022-03-06T18:18:50.474Z</updated>
+        <content type="html"><![CDATA[301505]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[🦷] 대장동 뉴스 new 기사들 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2368704568</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2368704568"/>
+        <updated>2022-03-06T18:18:50.475Z</updated>
+        <content type="html"><![CDATA[301504]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내 갤러리 상태... 너덬들은 어떰 ㅋㅋㅋ큐ㅠㅠㅠㅠ (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2368696018</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2368696018"/>
+        <updated>2022-03-06T18:18:50.484Z</updated>
+        <content type="html"><![CDATA[301503]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[투표확인증 없는 덬들 이거 뽑아 가 (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2368669941</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2368669941"/>
@@ -248,33 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2368551598"/>
         <updated>2022-03-06T15:16:46.662Z</updated>
         <content type="html"><![CDATA[301487]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카톡으로 뉴스보도 제보도 가능함!!! (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2368549523</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2368549523"/>
-        <updated>2022-03-06T15:16:46.663Z</updated>
-        <content type="html"><![CDATA[301486]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[투바투 연준 트윗❤️ (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2368536331</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2368536331"/>
-        <updated>2022-03-06T15:16:46.664Z</updated>
-        <content type="html"><![CDATA[301485]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[📢 대장동 관련 기사 영상 링크들 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2368526263</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2368526263"/>
-        <updated>2022-03-06T15:16:46.665Z</updated>
-        <content type="html"><![CDATA[301484]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤석열 시장 상인한테 남은 음식 주는 짤 부탁해 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2368452266</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2368452266"/>
-        <updated>2022-03-06T14:14:59.912Z</updated>
-        <content type="html"><![CDATA[301483]]></content>
     </entry>
 </feed>
