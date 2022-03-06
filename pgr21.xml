@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-03-06T03:17:23.641Z</updated>
+    <updated>2022-03-06T04:20:55.024Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [태종이방원]왕자들을 압박하는 정도전]]></title>
+        <id>https://ppt21.com/spoent/66483?category=2</id>
+        <link href="https://ppt21.com/spoent/66483?category=2"/>
+        <updated>2022-03-06T04:20:44.495Z</updated>
+        <content type="html"><![CDATA[카루오스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [개승자] 파이널 3라운드 영상]]></title>
         <id>https://ppt21.com/spoent/66482?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/66450?category=2"/>
         <updated>2022-03-03T15:17:16.296Z</updated>
         <content type="html"><![CDATA[무적LG오지환]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [스물다섯 스물하나] 공중전화 매달리기]]></title>
-        <id>https://ppt21.com/spoent/66449?category=2</id>
-        <link href="https://ppt21.com/spoent/66449?category=2"/>
-        <updated>2022-03-03T12:27:51.065Z</updated>
-        <content type="html"><![CDATA[moodoori]]></content>
     </entry>
 </feed>
