@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2022-03-06T05:15:04.498Z</updated>
+    <updated>2022-03-06T06:19:31.511Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[탄(TAN) 1st Mini Album <1TAN>CONCEPT PHOTO]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2367858056</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2367858056"/>
+        <updated>2022-03-06T06:19:30.821Z</updated>
+        <content type="html"><![CDATA[301473]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아스트로 노래실력 실체.avi (+몬엑 리액션)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2367734261</id>
@@ -137,12 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2366952269"/>
         <updated>2022-03-05T11:15:09.222Z</updated>
         <content type="html"><![CDATA[301454]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더쿠재명 브이앱 로고 박아봄 . jpg]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2366940479</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2366940479"/>
-        <updated>2022-03-05T11:15:09.222Z</updated>
-        <content type="html"><![CDATA[301453]]></content>
     </entry>
 </feed>
