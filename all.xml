@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-06T08:19:18.543Z</updated>
+    <updated>2022-03-06T09:15:02.916Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[연예] [태종이방원]왕자들을 압박하는 정도전 (Pgr21 ─ 연예)]]></title>
@@ -138,6 +138,13 @@
         <content type="html"><![CDATA[무적LG오지환]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[무반주 LIVE] 좋은 사람(2022) - 해찬 of NCT (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2368066613</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2368066613"/>
+        <updated>2022-03-06T09:15:02.169Z</updated>
+        <content type="html"><![CDATA[301474]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[안방1열 직캠4K] 로켓펀치 'CHIQUITA' 풀캠 (Rocket Punch Full Cam)│@SBS Inkigayo_2022.03.06. (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2367992250</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2367992250"/>
@@ -269,12 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2366966920"/>
         <updated>2022-03-05T12:25:07.552Z</updated>
         <content type="html"><![CDATA[301455]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[🦷] 울컥하는 이재명 유튜브 더보기란 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2366965389</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2366965389"/>
-        <updated>2022-03-05T12:25:07.564Z</updated>
-        <content type="html"><![CDATA[301454]]></content>
     </entry>
 </feed>
