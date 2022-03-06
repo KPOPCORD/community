@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2022-03-06T21:14:35.914Z</updated>
+    <updated>2022-03-06T22:16:09.353Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
     <entry>
@@ -10,34 +10,27 @@
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2368829300</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2368829300"/>
         <updated>2022-03-06T21:14:35.103Z</updated>
-        <content type="html"><![CDATA[301510]]></content>
+        <content type="html"><![CDATA[301509]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[스밍의 민족, 가보자구💙]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2368807599</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2368807599"/>
         <updated>2022-03-06T21:14:35.117Z</updated>
-        <content type="html"><![CDATA[301509]]></content>
+        <content type="html"><![CDATA[301508]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[기사들 8시에 3시간 전 반응으로 메인 갈리나봐]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2368807407</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2368807407"/>
         <updated>2022-03-06T21:14:35.118Z</updated>
-        <content type="html"><![CDATA[301508]]></content>
+        <content type="html"><![CDATA[301507]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ytn 떴다]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2368794983</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2368794983"/>
         <updated>2022-03-06T19:13:03.369Z</updated>
-        <content type="html"><![CDATA[301507]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중앙 조선 연합 한국경제는 기사 좋아요 취소해 (링크있음) + 추천해야할 기사]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2368731602</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2368731602"/>
-        <updated>2022-03-06T18:18:50.472Z</updated>
         <content type="html"><![CDATA[301506]]></content>
     </entry>
     <entry>
@@ -144,5 +137,12 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2368560270"/>
         <updated>2022-03-06T15:16:46.655Z</updated>
         <content type="html"><![CDATA[301491]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(여자)아이들((G)I-DLE) - 1st Full Album "I NEVER DIE" Audio Snippet]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2368553197</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2368553197"/>
+        <updated>2022-03-06T22:16:08.732Z</updated>
+        <content type="html"><![CDATA[301490]]></content>
     </entry>
 </feed>
