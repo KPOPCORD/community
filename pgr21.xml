@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-03-06T12:28:25.824Z</updated>
+    <updated>2022-03-06T14:15:00.606Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [태종이방원]속보 정도전 사망]]></title>
+        <id>https://ppt21.com/spoent/66491?category=2</id>
+        <link href="https://ppt21.com/spoent/66491?category=2"/>
+        <updated>2022-03-06T14:14:50.448Z</updated>
+        <content type="html"><![CDATA[카루오스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 노래 한 곡 추천합니다. Yuuri - LEO]]></title>
         <id>https://ppt21.com/spoent/66489?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/66458?category=2"/>
         <updated>2022-03-04T11:13:42.231Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 절망적인데 행복한 장면]]></title>
-        <id>https://ppt21.com/spoent/66457?category=2</id>
-        <link href="https://ppt21.com/spoent/66457?category=2"/>
-        <updated>2022-03-04T11:13:42.231Z</updated>
-        <content type="html"><![CDATA[나스닥]]></content>
     </entry>
 </feed>
