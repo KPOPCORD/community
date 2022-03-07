@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-03-07T07:16:43.821Z</updated>
+    <updated>2022-03-07T10:18:28.084Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] Jay Park feat.IU 'GANADARA']]></title>
+        <id>https://ppt21.com/spoent/66504?category=2</id>
+        <link href="https://ppt21.com/spoent/66504?category=2"/>
+        <updated>2022-03-07T10:18:18.030Z</updated>
+        <content type="html"><![CDATA[KIMTAEYEON]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] [엔믹스] 설윤 'O.O' 페이스캠(인기가요) + 세로직캠(스튜디오 춤)]]></title>
+        <id>https://ppt21.com/spoent/66503?category=2</id>
+        <link href="https://ppt21.com/spoent/66503?category=2"/>
+        <updated>2022-03-07T10:18:18.036Z</updated>
+        <content type="html"><![CDATA[BTS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] [위클리] 'Ven Para' M/V (+쇼케이스 무대 영상)]]></title>
+        <id>https://ppt21.com/spoent/66502?category=2</id>
+        <link href="https://ppt21.com/spoent/66502?category=2"/>
+        <updated>2022-03-07T10:18:18.036Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 베이식+조광일+키츠요지 - 08베이식]]></title>
+        <id>https://ppt21.com/spoent/66500?category=2</id>
+        <link href="https://ppt21.com/spoent/66500?category=2"/>
+        <updated>2022-03-07T10:18:18.037Z</updated>
+        <content type="html"><![CDATA[다시마두장]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 침착맨이 유퀴즈에 이어 놀면 뭐하니에도 나오는군요]]></title>
+        <id>https://ppt21.com/spoent/66499?category=2</id>
+        <link href="https://ppt21.com/spoent/66499?category=2"/>
+        <updated>2022-03-07T10:18:18.038Z</updated>
+        <content type="html"><![CDATA[강가딘]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 2022년 3월 1주 D-차트 : 그.아.탱! 스테이씨 2위-비투비 3위-엔믹스 5위]]></title>
+        <id>https://ppt21.com/spoent/66498?category=2</id>
+        <link href="https://ppt21.com/spoent/66498?category=2"/>
+        <updated>2022-03-07T10:18:18.039Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [태종이방원]속보 정도전 사망(영상추가)]]></title>
         <id>https://ppt21.com/spoent/66491?category=2</id>
@@ -94,48 +136,6 @@
         <id>https://ppt21.com/spoent/66468?category=2</id>
         <link href="https://ppt21.com/spoent/66468?category=2"/>
         <updated>2022-03-05T07:15:49.730Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 트랩바 또는 헥스바 하면 떠오르는 장면]]></title>
-        <id>https://ppt21.com/spoent/66466?category=2</id>
-        <link href="https://ppt21.com/spoent/66466?category=2"/>
-        <updated>2022-03-05T04:20:37.935Z</updated>
-        <content type="html"><![CDATA[나스닥]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 군인 집안 출신 아이돌의 견착 자세]]></title>
-        <id>https://ppt21.com/spoent/66464?category=2</id>
-        <link href="https://ppt21.com/spoent/66464?category=2"/>
-        <updated>2022-03-05T02:36:08.992Z</updated>
-        <content type="html"><![CDATA[BTS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 패닉의 이적, '달팽이' 표절 소문에 패닉]]></title>
-        <id>https://ppt21.com/spoent/66463?category=2</id>
-        <link href="https://ppt21.com/spoent/66463?category=2"/>
-        <updated>2022-03-05T01:04:46.231Z</updated>
-        <content type="html"><![CDATA[BTS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 김태리와 보나의 살벌한 싸움.gif]]></title>
-        <id>https://ppt21.com/spoent/66461?category=2</id>
-        <link href="https://ppt21.com/spoent/66461?category=2"/>
-        <updated>2022-03-04T14:15:18.205Z</updated>
-        <content type="html"><![CDATA[길가메시]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 데뷔 후 첫 지상파 음방 1위를 차지한 스테이씨 (+앵콜 직캠&인가 단독샷캠)]]></title>
-        <id>https://ppt21.com/spoent/66460?category=2</id>
-        <link href="https://ppt21.com/spoent/66460?category=2"/>
-        <updated>2022-03-04T13:20:51.744Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [트와이스] TTT '트둥 투어' EP.02 & EP.03]]></title>
-        <id>https://ppt21.com/spoent/66458?category=2</id>
-        <link href="https://ppt21.com/spoent/66458?category=2"/>
-        <updated>2022-03-04T11:13:42.231Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
