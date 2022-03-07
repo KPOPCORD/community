@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-03-07T13:21:54.864Z</updated>
+    <updated>2022-03-07T15:17:36.827Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [오마이걸] (오피셜) 3월 28일 정규 2집으로 컴백하네요]]></title>
+        <id>https://ppt21.com/spoent/66506?category=2</id>
+        <link href="https://ppt21.com/spoent/66506?category=2"/>
+        <updated>2022-03-07T15:17:26.172Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [로켓펀치] 브랜드 모델이긴 한데 하..]]></title>
         <id>https://ppt21.com/spoent/66505?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/66473?category=2"/>
         <updated>2022-03-05T11:15:00.278Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] '(여자)아이들 출신' 서수진, 큐브 전속계약 해지.."학폭 논란 결과 불송치"[공식입장]]]></title>
-        <id>https://ppt21.com/spoent/66469?category=2</id>
-        <link href="https://ppt21.com/spoent/66469?category=2"/>
-        <updated>2022-03-05T07:15:49.730Z</updated>
-        <content type="html"><![CDATA[TWICE쯔위]]></content>
     </entry>
 </feed>
