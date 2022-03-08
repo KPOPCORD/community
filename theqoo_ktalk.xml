@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2022-03-08T06:20:36.178Z</updated>
+    <updated>2022-03-08T08:20:32.770Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[NCT 도영, 산불 피해 주민들 위해 3천만 원 기부 선행[공식]]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2370576876</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2370576876"/>
+        <updated>2022-03-08T08:20:32.082Z</updated>
+        <content type="html"><![CDATA[301556]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[더쿠재묭 인기가요 퇴근길.jpg]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2370550837</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2370550837"/>
+        <updated>2022-03-08T08:20:32.089Z</updated>
+        <content type="html"><![CDATA[301555]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[속보] 원희룡 "고심 끝에 '더쿠' 해체"]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2370469110</id>
@@ -130,19 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2369808398"/>
         <updated>2022-03-07T15:17:36.122Z</updated>
         <content type="html"><![CDATA[301537]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[투바투 자체예능 투두 EP.74 승부사들 1편]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2369642856</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2369642856"/>
-        <updated>2022-03-07T12:27:56.720Z</updated>
-        <content type="html"><![CDATA[301536]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박우진 블라블라 아이돌블라썸 인스타]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2369633823</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2369633823"/>
-        <updated>2022-03-07T12:27:56.720Z</updated>
-        <content type="html"><![CDATA[301535]]></content>
     </entry>
 </feed>
