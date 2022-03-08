@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-03-08T01:03:46.506Z</updated>
+    <updated>2022-03-08T02:35:04.790Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 구준엽 근황]]></title>
+        <id>https://ppt21.com/spoent/66514?category=2</id>
+        <link href="https://ppt21.com/spoent/66514?category=2"/>
+        <updated>2022-03-08T02:34:49.414Z</updated>
+        <content type="html"><![CDATA[TWICE쯔위]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [(여자)아이들] 정규 1집 하라메 + 'MY BAG' 트랙 비디오]]></title>
         <id>https://ppt21.com/spoent/66510?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/66476?category=2"/>
         <updated>2022-03-05T14:17:31.800Z</updated>
         <content type="html"><![CDATA[BTS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 성시경이 부르는 나윤권의 나였으면]]></title>
-        <id>https://ppt21.com/spoent/66474?category=2</id>
-        <link href="https://ppt21.com/spoent/66474?category=2"/>
-        <updated>2022-03-05T12:24:57.239Z</updated>
-        <content type="html"><![CDATA[A1]]></content>
     </entry>
 </feed>
