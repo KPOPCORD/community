@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2022-03-08T08:20:32.770Z</updated>
+    <updated>2022-03-08T10:18:25.766Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[김우석과 같이 듣는 3RD DESIRE [Reve] 🎧 feat. 반려견 뽀뽀]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2370746667</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2370746667"/>
+        <updated>2022-03-08T10:18:25.126Z</updated>
+        <content type="html"><![CDATA[301558]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[강승윤 (KANG SEUNG YOON) 'BORN TO LOVE YOU’ COUNTDOWN LIVE 📺 2022.03.14 5PM(KST) on WINNER Youtube channel]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2370700107</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2370700107"/>
+        <updated>2022-03-08T10:18:25.128Z</updated>
+        <content type="html"><![CDATA[301557]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NCT 도영, 산불 피해 주민들 위해 3천만 원 기부 선행[공식]]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2370576876</id>
@@ -130,19 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2369868755"/>
         <updated>2022-03-07T15:17:36.111Z</updated>
         <content type="html"><![CDATA[301539]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아스트로 문빈, 윤산하 코로나19 확진 관련 안내]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2369859433</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2369859433"/>
-        <updated>2022-03-07T15:17:36.112Z</updated>
-        <content type="html"><![CDATA[301538]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김우석 인스타그램 스토리]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2369808398</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2369808398"/>
-        <updated>2022-03-07T15:17:36.122Z</updated>
-        <content type="html"><![CDATA[301537]]></content>
     </entry>
 </feed>
