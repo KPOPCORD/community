@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-03-08T15:18:11.071Z</updated>
+    <updated>2022-03-08T16:25:04.229Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [미스터선샤인] 꿀케미 하면 관수와나으리 조합 아니겠습니까?]]></title>
+        <id>https://ppt21.com/spoent/66525?category=2</id>
+        <link href="https://ppt21.com/spoent/66525?category=2"/>
+        <updated>2022-03-08T16:24:50.115Z</updated>
+        <content type="html"><![CDATA[v.Serum]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [단독] 결혼발표 구준엽 “영상통화로 프러포즈, 20년 만에 만나러 갑니다” (인터뷰)]]></title>
         <id>https://ppt21.com/spoent/66522?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/66487?category=2"/>
         <updated>2022-03-06T11:13:37.011Z</updated>
         <content type="html"><![CDATA[Anti-MAGE]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [태종이방원]왕자들을 압박하는 정도전]]></title>
-        <id>https://ppt21.com/spoent/66483?category=2</id>
-        <link href="https://ppt21.com/spoent/66483?category=2"/>
-        <updated>2022-03-06T04:20:44.495Z</updated>
-        <content type="html"><![CDATA[카루오스]]></content>
     </entry>
 </feed>
