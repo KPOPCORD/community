@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-03-08T11:14:21.429Z</updated>
+    <updated>2022-03-08T12:28:11.080Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [미스터션샤인] 그쪽은 술 값 언제 낼거요...?]]></title>
+        <id>https://ppt21.com/spoent/66520?category=2</id>
+        <link href="https://ppt21.com/spoent/66520?category=2"/>
+        <updated>2022-03-08T12:27:59.927Z</updated>
+        <content type="html"><![CDATA[TAEYEON]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 한 그룹안에서 두 명이 다른 방송사 라디오 스페셯DJ흫 맡았네요]]></title>
         <id>https://ppt21.com/spoent/66515?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/66479?category=2"/>
         <updated>2022-03-05T19:13:34.536Z</updated>
         <content type="html"><![CDATA[어강됴리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 조보아 새 드라마 군검사 도베르만]]></title>
-        <id>https://ppt21.com/spoent/66477?category=2</id>
-        <link href="https://ppt21.com/spoent/66477?category=2"/>
-        <updated>2022-03-05T15:16:34.595Z</updated>
-        <content type="html"><![CDATA[Croove]]></content>
     </entry>
 </feed>
