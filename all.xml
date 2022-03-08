@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-08T05:15:22.276Z</updated>
+    <updated>2022-03-08T06:20:36.182Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] 한 그룹안에서 두 명이 다른 방송사 라디오 스페셯DJ흫 맡았네요 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/66515?category=2</id>
+        <link href="https://ppt21.com/spoent/66515?category=2"/>
+        <updated>2022-03-08T06:20:21.246Z</updated>
+        <content type="html"><![CDATA[강가딘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 구준엽 근황 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/66514?category=2</id>
@@ -131,11 +138,18 @@
         <content type="html"><![CDATA[Croove]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[연예] [M/V] 김소연(싱어게인2 '7호 가수') - 홀로 피고 진 꽃 (악의 마음을 읽는 자들 OST) (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/66476?category=2</id>
-        <link href="https://ppt21.com/spoent/66476?category=2"/>
-        <updated>2022-03-05T14:17:31.800Z</updated>
-        <content type="html"><![CDATA[BTS]]></content>
+        <title type="html"><![CDATA[[속보] 원희룡 "고심 끝에 '더쿠' 해체" (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2370469110</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2370469110"/>
+        <updated>2022-03-08T06:20:35.292Z</updated>
+        <content type="html"><![CDATA[301554]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[권영세, "비밀리에 성범죄물을 주고받은 n번방 수법을 그대로 사용한 '더불어n번방'이라고 할 수 있다." (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2370458920</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2370458920"/>
+        <updated>2022-03-08T06:20:35.296Z</updated>
+        <content type="html"><![CDATA[301553]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[소통재명 실시간 브이앱 (더쿠 ─ 케이돌토크)]]></title>
@@ -262,19 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2369633823"/>
         <updated>2022-03-07T12:27:56.720Z</updated>
         <content type="html"><![CDATA[301535]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〖7llin’ in our Youth〗 The Sun is Setting & We’re Still DREAMin’ ➫ 2022.03.11 - 2022.03.26 (6 Episodes) (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2369580688</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2369580688"/>
-        <updated>2022-03-07T12:27:56.720Z</updated>
-        <content type="html"><![CDATA[301534]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[DINO'S DANCEOLOGY] Charlie Puth - Cheating on You (with SEUNGKWAN) (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2369569457</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2369569457"/>
-        <updated>2022-03-07T12:27:56.722Z</updated>
-        <content type="html"><![CDATA[301533]]></content>
     </entry>
 </feed>
