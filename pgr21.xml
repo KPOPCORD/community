@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-03-09T08:20:08.055Z</updated>
+    <updated>2022-03-09T09:16:39.395Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 구준엽이 대만에 도착했네요]]></title>
+        <id>https://ppt21.com/spoent/66531?category=2</id>
+        <link href="https://ppt21.com/spoent/66531?category=2"/>
+        <updated>2022-03-09T09:16:14.587Z</updated>
+        <content type="html"><![CDATA[아리어우]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [미스터선샤인] 꿀케미 하면 관수와나으리 조합 아니겠습니까?]]></title>
         <id>https://ppt21.com/spoent/66525?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/66488?category=2"/>
         <updated>2022-03-06T11:13:37.008Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 창고에 재고가 쌓일정도로 인기가 없었던 숄뎌백.jpg]]></title>
-        <id>https://ppt21.com/spoent/66487?category=2</id>
-        <link href="https://ppt21.com/spoent/66487?category=2"/>
-        <updated>2022-03-06T11:13:37.011Z</updated>
-        <content type="html"><![CDATA[Anti-MAGE]]></content>
     </entry>
 </feed>
