@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-03-09T12:29:10.453Z</updated>
+    <updated>2022-03-09T13:21:18.896Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 로켓펀치X체리블렛]]></title>
+        <id>https://ppt21.com/spoent/66534?category=2</id>
+        <link href="https://ppt21.com/spoent/66534?category=2"/>
+        <updated>2022-03-09T13:21:09.321Z</updated>
+        <content type="html"><![CDATA[어강됴리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 러블리즈X우주소녀]]></title>
+        <id>https://ppt21.com/spoent/66533?category=2</id>
+        <link href="https://ppt21.com/spoent/66533?category=2"/>
+        <updated>2022-03-09T13:21:09.323Z</updated>
+        <content type="html"><![CDATA[어강됴리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] (속보) 김종국 개발 인정]]></title>
         <id>https://ppt21.com/spoent/66532?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/66498?category=2"/>
         <updated>2022-03-07T10:18:18.039Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [태종이방원]속보 정도전 사망(영상추가)]]></title>
-        <id>https://ppt21.com/spoent/66491?category=2</id>
-        <link href="https://ppt21.com/spoent/66491?category=2"/>
-        <updated>2022-03-06T14:14:50.448Z</updated>
-        <content type="html"><![CDATA[카루오스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 노래 한 곡 추천합니다. Yuuri - LEO]]></title>
-        <id>https://ppt21.com/spoent/66489?category=2</id>
-        <link href="https://ppt21.com/spoent/66489?category=2"/>
-        <updated>2022-03-06T11:13:37.007Z</updated>
-        <content type="html"><![CDATA[란팡]]></content>
     </entry>
 </feed>
