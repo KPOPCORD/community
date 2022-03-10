@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-09T23:17:02.495Z</updated>
+    <updated>2022-03-10T01:09:05.033Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] 장기하 - 2022년 2월 22일 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/66538?category=2</id>
+        <link href="https://ppt21.com/spoent/66538?category=2"/>
+        <updated>2022-03-10T01:08:58.390Z</updated>
+        <content type="html"><![CDATA[강가딘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 로켓펀치X체리블렛 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/66534?category=2</id>
@@ -129,12 +136,5 @@
         <link href="https://ppt21.com/spoent/66499?category=2"/>
         <updated>2022-03-07T10:18:18.038Z</updated>
         <content type="html"><![CDATA[강가딘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 2022년 3월 1주 D-차트 : 그.아.탱! 스테이씨 2위-비투비 3위-엔믹스 5위 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/66498?category=2</id>
-        <link href="https://ppt21.com/spoent/66498?category=2"/>
-        <updated>2022-03-07T10:18:18.039Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
