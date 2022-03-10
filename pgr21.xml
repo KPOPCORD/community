@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-03-10T15:20:41.827Z</updated>
+    <updated>2022-03-10T16:24:28.229Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [아이유] 흔한 피자광고 움짤.gif]]></title>
+        <id>https://ppt21.com/spoent/66555?category=2</id>
+        <link href="https://ppt21.com/spoent/66555?category=2"/>
+        <updated>2022-03-10T16:24:18.248Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] [스테이씨] 케이블 음방 올킬과 함께 'RUN2U' 어느새 음방 5관왕]]></title>
+        <id>https://ppt21.com/spoent/66554?category=2</id>
+        <link href="https://ppt21.com/spoent/66554?category=2"/>
+        <updated>2022-03-10T16:24:18.254Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 박재범 - 'GANADARA Feat. 아이유 MV 티저]]></title>
         <id>https://ppt21.com/spoent/66553?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/66522?category=2"/>
         <updated>2022-03-08T13:22:07.193Z</updated>
         <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 캐스팅이 수상한 드라마]]></title>
-        <id>https://ppt21.com/spoent/66521?category=2</id>
-        <link href="https://ppt21.com/spoent/66521?category=2"/>
-        <updated>2022-03-08T13:22:07.193Z</updated>
-        <content type="html"><![CDATA[어강됴리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [미스터션샤인] 그쪽은 술 값 언제 낼거요...?]]></title>
-        <id>https://ppt21.com/spoent/66520?category=2</id>
-        <link href="https://ppt21.com/spoent/66520?category=2"/>
-        <updated>2022-03-08T12:27:59.927Z</updated>
-        <content type="html"><![CDATA[TAEYEON]]></content>
     </entry>
 </feed>
