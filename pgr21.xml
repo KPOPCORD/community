@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-03-10T14:15:45.647Z</updated>
+    <updated>2022-03-10T15:20:41.827Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 박재범 - 'GANADARA Feat. 아이유 MV 티저]]></title>
+        <id>https://ppt21.com/spoent/66553?category=2</id>
+        <link href="https://ppt21.com/spoent/66553?category=2"/>
+        <updated>2022-03-10T15:20:31.847Z</updated>
+        <content type="html"><![CDATA[KIMTAEYEON]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 수지와 신기할 정도로 목소리가 같은 아이돌]]></title>
+        <id>https://ppt21.com/spoent/66552?category=2</id>
+        <link href="https://ppt21.com/spoent/66552?category=2"/>
+        <updated>2022-03-10T15:20:31.848Z</updated>
+        <content type="html"><![CDATA[어강됴리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [엔믹스] 남다른 직캠 조회수 + 엔딩요정 원픽으로 떠오른 멤버]]></title>
         <id>https://ppt21.com/spoent/66549?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/66520?category=2"/>
         <updated>2022-03-08T12:27:59.927Z</updated>
         <content type="html"><![CDATA[TAEYEON]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 한 그룹안에서 두 명이 다른 방송사 라디오 스페셯DJ흫 맡았네요]]></title>
-        <id>https://ppt21.com/spoent/66515?category=2</id>
-        <link href="https://ppt21.com/spoent/66515?category=2"/>
-        <updated>2022-03-08T06:20:21.246Z</updated>
-        <content type="html"><![CDATA[강가딘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 구준엽 근황]]></title>
-        <id>https://ppt21.com/spoent/66514?category=2</id>
-        <link href="https://ppt21.com/spoent/66514?category=2"/>
-        <updated>2022-03-08T02:34:49.414Z</updated>
-        <content type="html"><![CDATA[TWICE쯔위]]></content>
     </entry>
 </feed>
