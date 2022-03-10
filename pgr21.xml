@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-03-10T07:16:22.056Z</updated>
+    <updated>2022-03-10T08:20:10.696Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [엔믹스] 데뷔 후 첫 단독샷캠 + '占 (TANK)' 스튜디오 춤 티저]]></title>
+        <id>https://ppt21.com/spoent/66544?category=2</id>
+        <link href="https://ppt21.com/spoent/66544?category=2"/>
+        <updated>2022-03-10T08:20:01.614Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] [체리블렛] 인기가요 단독샷캠 + 지원&메이 페이스캠]]></title>
+        <id>https://ppt21.com/spoent/66543?category=2</id>
+        <link href="https://ppt21.com/spoent/66543?category=2"/>
+        <updated>2022-03-10T08:20:01.614Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 서희원 母 "딸 사과 안 하면 사위 구준엽 안 볼 것"]]></title>
+        <id>https://ppt21.com/spoent/66542?category=2</id>
+        <link href="https://ppt21.com/spoent/66542?category=2"/>
+        <updated>2022-03-10T08:20:01.614Z</updated>
+        <content type="html"><![CDATA[아롱이다롱이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 오비완 케노비 티저 예고편]]></title>
         <id>https://ppt21.com/spoent/66540?category=2</id>
@@ -116,26 +137,5 @@
         <link href="https://ppt21.com/spoent/66504?category=2"/>
         <updated>2022-03-07T10:18:18.030Z</updated>
         <content type="html"><![CDATA[KIMTAEYEON]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [엔믹스] 설윤 'O.O' 페이스캠(인기가요) + 세로직캠(스튜디오 춤)]]></title>
-        <id>https://ppt21.com/spoent/66503?category=2</id>
-        <link href="https://ppt21.com/spoent/66503?category=2"/>
-        <updated>2022-03-07T10:18:18.036Z</updated>
-        <content type="html"><![CDATA[BTS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [위클리] 'Ven Para' M/V (+쇼케이스 무대 영상 / 원더케이 수트댄스)]]></title>
-        <id>https://ppt21.com/spoent/66502?category=2</id>
-        <link href="https://ppt21.com/spoent/66502?category=2"/>
-        <updated>2022-03-07T10:18:18.036Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 베이식+조광일+키츠요지 - 08베이식]]></title>
-        <id>https://ppt21.com/spoent/66500?category=2</id>
-        <link href="https://ppt21.com/spoent/66500?category=2"/>
-        <updated>2022-03-07T10:18:18.037Z</updated>
-        <content type="html"><![CDATA[다시마두장]]></content>
     </entry>
 </feed>
