@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-03-10T13:23:02.346Z</updated>
+    <updated>2022-03-10T14:15:45.647Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [엔믹스] 남다른 직캠 조회수 + 엔딩요정 원픽으로 떠오른 멤버]]></title>
+        <id>https://ppt21.com/spoent/66549?category=2</id>
+        <link href="https://ppt21.com/spoent/66549?category=2"/>
+        <updated>2022-03-10T14:15:33.631Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 중국 여배우들 사이에 한국인 수지]]></title>
         <id>https://ppt21.com/spoent/66548?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/66514?category=2"/>
         <updated>2022-03-08T02:34:49.414Z</updated>
         <content type="html"><![CDATA[TWICE쯔위]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [(여자)아이들] 정규 1집 하라메 + 'MY BAG' 트랙 비디오]]></title>
-        <id>https://ppt21.com/spoent/66510?category=2</id>
-        <link href="https://ppt21.com/spoent/66510?category=2"/>
-        <updated>2022-03-07T16:23:41.771Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
