@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-03-10T05:15:29.366Z</updated>
+    <updated>2022-03-10T06:21:35.996Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 오비완 케노비 티저 예고편]]></title>
+        <id>https://ppt21.com/spoent/66540?category=2</id>
+        <link href="https://ppt21.com/spoent/66540?category=2"/>
+        <updated>2022-03-10T06:21:25.367Z</updated>
+        <content type="html"><![CDATA[제3지대]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 장기하 - 2022년 2월 22일]]></title>
         <id>https://ppt21.com/spoent/66538?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/66500?category=2"/>
         <updated>2022-03-07T10:18:18.037Z</updated>
         <content type="html"><![CDATA[다시마두장]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 침착맨이 유퀴즈에 이어 놀면 뭐하니에도 나오는군요]]></title>
-        <id>https://ppt21.com/spoent/66499?category=2</id>
-        <link href="https://ppt21.com/spoent/66499?category=2"/>
-        <updated>2022-03-07T10:18:18.038Z</updated>
-        <content type="html"><![CDATA[강가딘]]></content>
     </entry>
 </feed>
