@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-03-11T15:18:23.014Z</updated>
+    <updated>2022-03-11T16:25:00.466Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 급 떠올라서 공유하는 81~82년생 가수들 곡]]></title>
+        <id>https://ppt21.com/spoent/66575?category=2</id>
+        <link href="https://ppt21.com/spoent/66575?category=2"/>
+        <updated>2022-03-11T16:24:49.817Z</updated>
+        <content type="html"><![CDATA[A1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [(여자)아이들] 'TOMBOY' M/V Teaser #1, #2]]></title>
         <id>https://ppt21.com/spoent/66574?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/66549?category=2"/>
         <updated>2022-03-10T14:15:33.631Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 중국 여배우들 사이에 한국인 수지]]></title>
-        <id>https://ppt21.com/spoent/66548?category=2</id>
-        <link href="https://ppt21.com/spoent/66548?category=2"/>
-        <updated>2022-03-10T11:14:59.345Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
     </entry>
 </feed>
