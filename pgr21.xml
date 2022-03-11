@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-03-11T01:09:17.357Z</updated>
+    <updated>2022-03-11T02:43:07.491Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 카카오 SM엔터테인먼트 인수]]></title>
+        <id>https://ppt21.com/spoent/66559?category=2</id>
+        <link href="https://ppt21.com/spoent/66559?category=2"/>
+        <updated>2022-03-11T02:42:57.905Z</updated>
+        <content type="html"><![CDATA[저스디스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] [트와이스] 오랜만에 이해못하는 한국어를 접한 사나]]></title>
+        <id>https://ppt21.com/spoent/66558?category=2</id>
+        <link href="https://ppt21.com/spoent/66558?category=2"/>
+        <updated>2022-03-11T02:42:57.911Z</updated>
+        <content type="html"><![CDATA[그10번]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [아이유] 흔한 피자광고 움짤.gif]]></title>
         <id>https://ppt21.com/spoent/66555?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/66531?category=2"/>
         <updated>2022-03-09T09:16:14.587Z</updated>
         <content type="html"><![CDATA[아리어우]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [미스터선샤인] 꿀케미 하면 관수와나으리 조합 아니겠습니까?]]></title>
-        <id>https://ppt21.com/spoent/66525?category=2</id>
-        <link href="https://ppt21.com/spoent/66525?category=2"/>
-        <updated>2022-03-08T16:24:50.115Z</updated>
-        <content type="html"><![CDATA[v.Serum]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [단독] 결혼발표 구준엽 “영상통화로 프러포즈, 20년 만에 만나러 갑니다” (인터뷰)]]></title>
-        <id>https://ppt21.com/spoent/66522?category=2</id>
-        <link href="https://ppt21.com/spoent/66522?category=2"/>
-        <updated>2022-03-08T13:22:07.193Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
     </entry>
 </feed>
