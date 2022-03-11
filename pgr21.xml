@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-03-11T14:15:55.574Z</updated>
+    <updated>2022-03-11T15:18:23.014Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [(여자)아이들] 'TOMBOY' M/V Teaser #1, #2]]></title>
+        <id>https://ppt21.com/spoent/66574?category=2</id>
+        <link href="https://ppt21.com/spoent/66574?category=2"/>
+        <updated>2022-03-11T15:18:12.577Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] [엔믹스]  '占 (TANK)' 스튜디오 춤 퍼포먼스 영상 (+오늘 'O.O' 뮤직뱅크 무대)]]></title>
+        <id>https://ppt21.com/spoent/66573?category=2</id>
+        <link href="https://ppt21.com/spoent/66573?category=2"/>
+        <updated>2022-03-11T15:18:12.583Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 생각보다 잘 어울려서 킹받는 2차 창작]]></title>
         <id>https://ppt21.com/spoent/66572?category=2</id>
@@ -122,20 +136,6 @@
         <id>https://ppt21.com/spoent/66548?category=2</id>
         <link href="https://ppt21.com/spoent/66548?category=2"/>
         <updated>2022-03-10T11:14:59.345Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [로켓펀치] 3년만의 팬미팅]]></title>
-        <id>https://ppt21.com/spoent/66547?category=2</id>
-        <link href="https://ppt21.com/spoent/66547?category=2"/>
-        <updated>2022-03-10T10:18:27.329Z</updated>
-        <content type="html"><![CDATA[어강됴리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예]  '블랙 팬서' 감독, 현금 인출하려다 은행강도 오인 '체포'…인종차별 논란]]></title>
-        <id>https://ppt21.com/spoent/66545?category=2</id>
-        <link href="https://ppt21.com/spoent/66545?category=2"/>
-        <updated>2022-03-10T09:16:46.742Z</updated>
         <content type="html"><![CDATA[아롱이다롱이]]></content>
     </entry>
 </feed>
