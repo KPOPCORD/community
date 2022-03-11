@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-03-11T02:43:07.491Z</updated>
+    <updated>2022-03-11T04:22:58.741Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [브레이브걸스] 'THANK YOU' M/V Teaser #1, #2 + 미니 6집 하라메]]></title>
+        <id>https://ppt21.com/spoent/66562?category=2</id>
+        <link href="https://ppt21.com/spoent/66562?category=2"/>
+        <updated>2022-03-11T04:22:49.121Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 성캐가 중계가 뭉처야 한타로 돌아옵니다]]></title>
+        <id>https://ppt21.com/spoent/66560?category=2</id>
+        <link href="https://ppt21.com/spoent/66560?category=2"/>
+        <updated>2022-03-11T04:22:49.121Z</updated>
+        <content type="html"><![CDATA[강가딘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 카카오 SM엔터테인먼트 인수]]></title>
         <id>https://ppt21.com/spoent/66559?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/66533?category=2"/>
         <updated>2022-03-09T13:21:09.323Z</updated>
         <content type="html"><![CDATA[어강됴리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] (속보) 김종국 개발 인정]]></title>
-        <id>https://ppt21.com/spoent/66532?category=2</id>
-        <link href="https://ppt21.com/spoent/66532?category=2"/>
-        <updated>2022-03-09T11:14:34.708Z</updated>
-        <content type="html"><![CDATA[A1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 구준엽이 대만에 도착했네요]]></title>
-        <id>https://ppt21.com/spoent/66531?category=2</id>
-        <link href="https://ppt21.com/spoent/66531?category=2"/>
-        <updated>2022-03-09T09:16:14.587Z</updated>
-        <content type="html"><![CDATA[아리어우]]></content>
     </entry>
 </feed>
