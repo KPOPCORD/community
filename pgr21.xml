@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-03-11T06:22:50.819Z</updated>
+    <updated>2022-03-11T07:16:14.708Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 식스센스3 예고]]></title>
+        <id>https://ppt21.com/spoent/66565?category=2</id>
+        <link href="https://ppt21.com/spoent/66565?category=2"/>
+        <updated>2022-03-11T07:16:04.937Z</updated>
+        <content type="html"><![CDATA[강가딘]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 한국힙합 어워즈 KHA 2022 수상작]]></title>
+        <id>https://ppt21.com/spoent/66564?category=2</id>
+        <link href="https://ppt21.com/spoent/66564?category=2"/>
+        <updated>2022-03-11T07:16:04.940Z</updated>
+        <content type="html"><![CDATA[칰칰폭폭]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 블랙핑크 지수, 메이플스토리 앰배서더 발탁]]></title>
         <id>https://ppt21.com/spoent/66563?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/66540?category=2"/>
         <updated>2022-03-10T06:21:25.367Z</updated>
         <content type="html"><![CDATA[제3지대]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 장기하 - 2022년 2월 22일]]></title>
-        <id>https://ppt21.com/spoent/66538?category=2</id>
-        <link href="https://ppt21.com/spoent/66538?category=2"/>
-        <updated>2022-03-10T01:08:58.390Z</updated>
-        <content type="html"><![CDATA[강가딘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 로켓펀치X체리블렛]]></title>
-        <id>https://ppt21.com/spoent/66534?category=2</id>
-        <link href="https://ppt21.com/spoent/66534?category=2"/>
-        <updated>2022-03-09T13:21:09.321Z</updated>
-        <content type="html"><![CDATA[어강됴리]]></content>
     </entry>
 </feed>
