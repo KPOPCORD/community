@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-03-11T09:17:13.264Z</updated>
+    <updated>2022-03-11T10:18:59.964Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 스테이씨 'RUN2U' 6관왕 / 체리블렛 뮤직뱅크 3위]]></title>
+        <id>https://ppt21.com/spoent/66571?category=2</id>
+        <link href="https://ppt21.com/spoent/66571?category=2"/>
+        <updated>2022-03-11T10:18:50.218Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 박재범 - ‘GANADARA (Feat. 아이유 IU)’ Official Music Video]]></title>
+        <id>https://ppt21.com/spoent/66569?category=2</id>
+        <link href="https://ppt21.com/spoent/66569?category=2"/>
+        <updated>2022-03-11T10:18:50.234Z</updated>
+        <content type="html"><![CDATA[BTS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [러블리즈/우주소녀] 아이돌 작사 아이돌 작곡 '아작아작' 1화]]></title>
         <id>https://ppt21.com/spoent/66567?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/66544?category=2"/>
         <updated>2022-03-10T08:20:01.614Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [체리블렛] 인기가요 단독샷캠 + 지원&메이 페이스캠]]></title>
-        <id>https://ppt21.com/spoent/66543?category=2</id>
-        <link href="https://ppt21.com/spoent/66543?category=2"/>
-        <updated>2022-03-10T08:20:01.614Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 서희원 母 "딸 사과 안 하면 사위 구준엽 안 볼 것"]]></title>
-        <id>https://ppt21.com/spoent/66542?category=2</id>
-        <link href="https://ppt21.com/spoent/66542?category=2"/>
-        <updated>2022-03-10T08:20:01.614Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
     </entry>
 </feed>
