@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-03-11T05:17:02.850Z</updated>
+    <updated>2022-03-11T06:22:50.819Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 블랙핑크 지수, 메이플스토리 앰배서더 발탁]]></title>
+        <id>https://ppt21.com/spoent/66563?category=2</id>
+        <link href="https://ppt21.com/spoent/66563?category=2"/>
+        <updated>2022-03-11T06:22:32.526Z</updated>
+        <content type="html"><![CDATA[묻고 더블로 가!]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [브레이브걸스] 'THANK YOU' M/V Teaser #1, #2 + 미니 6집 하라메]]></title>
         <id>https://ppt21.com/spoent/66562?category=2</id>
@@ -129,13 +136,6 @@
         <id>https://ppt21.com/spoent/66534?category=2</id>
         <link href="https://ppt21.com/spoent/66534?category=2"/>
         <updated>2022-03-09T13:21:09.321Z</updated>
-        <content type="html"><![CDATA[어강됴리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 러블리즈X우주소녀]]></title>
-        <id>https://ppt21.com/spoent/66533?category=2</id>
-        <link href="https://ppt21.com/spoent/66533?category=2"/>
-        <updated>2022-03-09T13:21:09.323Z</updated>
         <content type="html"><![CDATA[어강됴리]]></content>
     </entry>
 </feed>
