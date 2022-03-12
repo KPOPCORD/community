@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-03-12T05:14:59.596Z</updated>
+    <updated>2022-03-12T06:20:18.035Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 에스파의 'Dreams Come True' M/V를 본 바다&유진의 반응]]></title>
+        <id>https://ppt21.com/spoent/66580?category=2</id>
+        <link href="https://ppt21.com/spoent/66580?category=2"/>
+        <updated>2022-03-12T06:20:08.492Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 김선신 짝사랑한거 아니냐는 댓글에 대한 정용검의 반응]]></title>
         <id>https://ppt21.com/spoent/66579?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/66553?category=2"/>
         <updated>2022-03-10T15:20:31.847Z</updated>
         <content type="html"><![CDATA[KIMTAEYEON]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 수지와 신기할 정도로 목소리가 같은 아이돌]]></title>
-        <id>https://ppt21.com/spoent/66552?category=2</id>
-        <link href="https://ppt21.com/spoent/66552?category=2"/>
-        <updated>2022-03-10T15:20:31.848Z</updated>
-        <content type="html"><![CDATA[어강됴리]]></content>
     </entry>
 </feed>
