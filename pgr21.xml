@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-03-12T14:14:55.061Z</updated>
+    <updated>2022-03-12T15:16:55.088Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 배우 하도권의 햅 실력]]></title>
+        <id>https://ppt21.com/spoent/66587?category=2</id>
+        <link href="https://ppt21.com/spoent/66587?category=2"/>
+        <updated>2022-03-12T15:16:29.236Z</updated>
+        <content type="html"><![CDATA[강가딘]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 개인적으로 뽑는 K-pop 뮤비 레전드]]></title>
+        <id>https://ppt21.com/spoent/66586?category=2</id>
+        <link href="https://ppt21.com/spoent/66586?category=2"/>
+        <updated>2022-03-12T15:16:29.237Z</updated>
+        <content type="html"><![CDATA[니시노 나나세]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] SUE- SOMEDAY]]></title>
         <id>https://ppt21.com/spoent/66584?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/66558?category=2"/>
         <updated>2022-03-11T02:42:57.911Z</updated>
         <content type="html"><![CDATA[그10번]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [아이유] 흔한 피자광고 움짤.gif]]></title>
-        <id>https://ppt21.com/spoent/66555?category=2</id>
-        <link href="https://ppt21.com/spoent/66555?category=2"/>
-        <updated>2022-03-10T16:24:18.248Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [스테이씨] 케이블 음방 올킬과 함께 'RUN2U' 어느새 음방 5관왕]]></title>
-        <id>https://ppt21.com/spoent/66554?category=2</id>
-        <link href="https://ppt21.com/spoent/66554?category=2"/>
-        <updated>2022-03-10T16:24:18.254Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
