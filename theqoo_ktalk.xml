@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2022-03-12T09:15:55.792Z</updated>
+    <updated>2022-03-12T10:19:57.376Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[투바투 수빈 위버스]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2377388111</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2377388111"/>
+        <updated>2022-03-12T10:19:56.625Z</updated>
+        <content type="html"><![CDATA[301533]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[씨아이엑스 현석 트위터 업뎃💖]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2377353149</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2377353149"/>
+        <updated>2022-03-12T10:19:56.680Z</updated>
+        <content type="html"><![CDATA[301532]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 멜론 24시간 이용자수 (1위 new)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2377326191</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2377326191"/>
+        <updated>2022-03-12T10:19:56.683Z</updated>
+        <content type="html"><![CDATA[301531]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[브레이브걸스 멤버 코로나19 확진 판정 안내 및 추후 일정 안내]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2377224434</id>
@@ -123,26 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2375937889"/>
         <updated>2022-03-11T11:14:32.961Z</updated>
         <content type="html"><![CDATA[301514]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[릴레이댄스] 김우석(KIM WOOSEOK) - Switch (4K)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2375911692</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2375911692"/>
-        <updated>2022-03-11T10:18:59.177Z</updated>
-        <content type="html"><![CDATA[301513]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박재범 - GANADARA (feat. 아이유) MV]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2375907646</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2375907646"/>
-        <updated>2022-03-11T10:18:59.178Z</updated>
-        <content type="html"><![CDATA[301512]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[문빈&산하(ASTRO) 'WHO' M/V Teaser 1 🔮]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2375896690</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2375896690"/>
-        <updated>2022-03-11T10:18:59.179Z</updated>
-        <content type="html"><![CDATA[301511]]></content>
     </entry>
 </feed>
