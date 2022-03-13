@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-03-13T07:16:33.891Z</updated>
+    <updated>2022-03-13T08:19:33.673Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
     <entry>
@@ -27,7 +27,7 @@
         <content type="html"><![CDATA[카루오스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[연예] 배우 하도권의 햅 실력]]></title>
+        <title type="html"><![CDATA[[연예] 배우 하도권의 랩 실력]]></title>
         <id>https://ppt21.com/spoent/66587?category=2</id>
         <link href="https://ppt21.com/spoent/66587?category=2"/>
         <updated>2022-03-12T15:16:29.236Z</updated>
