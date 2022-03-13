@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-12T23:18:03.119Z</updated>
+    <updated>2022-03-13T01:02:35.155Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] 호평 받고 있는 애플TV 플러스 드라마 "파친코" (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/66590?category=2</id>
+        <link href="https://ppt21.com/spoent/66590?category=2"/>
+        <updated>2022-03-13T01:02:25.053Z</updated>
+        <content type="html"><![CDATA[우주전쟁]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [태종이방원] 정리 들어가는 이방원 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/66588?category=2</id>
@@ -131,11 +138,18 @@
         <content type="html"><![CDATA[강가딘]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[연예] 카카오 SM엔터테인먼트 인수 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/66559?category=2</id>
-        <link href="https://ppt21.com/spoent/66559?category=2"/>
-        <updated>2022-03-11T02:42:57.905Z</updated>
-        <content type="html"><![CDATA[저스디스]]></content>
+        <title type="html"><![CDATA[어쩌다 어른 이재명 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2378141878</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2378141878"/>
+        <updated>2022-03-13T01:02:34.456Z</updated>
+        <content type="html"><![CDATA[301548]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ㅋㅋㅋ 지금 이렇게 난리치는거 한달도 안갈듯... (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2378124245</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2378124245"/>
+        <updated>2022-03-13T01:02:34.457Z</updated>
+        <content type="html"><![CDATA[301547]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[윤 당선인의 사법개혁 공약은 검찰권 강화가 핵심 기조다. 법무부 장관의 수사지휘권을 폐지해 검찰 독립성과 중립성을 강화한다는 내용이 담겼다. 검찰총장이 법무부를 거치지 않고 직접 검찰청 예산을 기획재정부에 요구할 수 있도록 하는 검찰 독자 예산편성권도 있다. (더쿠 ─ 케이돌토크)]]></title>
@@ -262,19 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2377500730"/>
         <updated>2022-03-12T18:19:09.668Z</updated>
         <content type="html"><![CDATA[301529]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Behind] 은비의 'ON AIR' (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2377462848</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2377462848"/>
-        <updated>2022-03-12T18:19:09.670Z</updated>
-        <content type="html"><![CDATA[301528]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우주소녀 루다 코로나 확진 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2377412867</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2377412867"/>
-        <updated>2022-03-12T18:19:09.673Z</updated>
-        <content type="html"><![CDATA[301527]]></content>
     </entry>
 </feed>
