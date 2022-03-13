@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-03-13T15:17:13.495Z</updated>
+    <updated>2022-03-13T16:23:40.320Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [개승자] 최종 라운드]]></title>
+        <id>https://ppt21.com/spoent/66599?category=2</id>
+        <link href="https://ppt21.com/spoent/66599?category=2"/>
+        <updated>2022-03-13T16:23:26.851Z</updated>
+        <content type="html"><![CDATA[빼사스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [태종이방원]이방원에게 독설을 내뱉는 이성계]]></title>
         <id>https://ppt21.com/spoent/66597?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/66567?category=2"/>
         <updated>2022-03-11T09:16:58.589Z</updated>
         <content type="html"><![CDATA[리노]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 식스센스3 예고]]></title>
-        <id>https://ppt21.com/spoent/66565?category=2</id>
-        <link href="https://ppt21.com/spoent/66565?category=2"/>
-        <updated>2022-03-11T07:16:04.937Z</updated>
-        <content type="html"><![CDATA[강가딘]]></content>
     </entry>
 </feed>
