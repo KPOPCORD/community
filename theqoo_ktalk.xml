@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2022-03-14T15:19:15.986Z</updated>
+    <updated>2022-03-14T16:24:40.016Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[EPEX 3rd EP Album Prelude of Anxiety Chapter 1. ‘21st Century Boys’]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2380886484</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2380886484"/>
+        <updated>2022-03-14T16:24:39.242Z</updated>
+        <content type="html"><![CDATA[301536]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[💜아스트로 진진 생일 축전💜]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2380825548</id>
@@ -137,12 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2380234128"/>
         <updated>2022-03-14T09:19:21.798Z</updated>
         <content type="html"><![CDATA[301517]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(여자)아이들((G)I-DLE) - 'TOMBOY' Official Music Video]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2380227673</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2380227673"/>
-        <updated>2022-03-14T09:19:21.799Z</updated>
-        <content type="html"><![CDATA[301516]]></content>
     </entry>
 </feed>
