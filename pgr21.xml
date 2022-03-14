@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-03-13T23:17:42.855Z</updated>
+    <updated>2022-03-14T01:08:04.974Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 사쿠라와 김채원의 계약 오피셜이 떴습니다.]]></title>
+        <id>https://ppt21.com/spoent/66603?category=2</id>
+        <link href="https://ppt21.com/spoent/66603?category=2"/>
+        <updated>2022-03-14T01:07:54.761Z</updated>
+        <content type="html"><![CDATA[Old Moon]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 배우 윌리엄 허트(MCU 썬더볼트 로스 장군) 향년 71세로 타계]]></title>
+        <id>https://ppt21.com/spoent/66602?category=2</id>
+        <link href="https://ppt21.com/spoent/66602?category=2"/>
+        <updated>2022-03-14T01:07:54.768Z</updated>
+        <content type="html"><![CDATA[츠라빈스카야]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [개승자] 최종 라운드]]></title>
         <id>https://ppt21.com/spoent/66599?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/66571?category=2"/>
         <updated>2022-03-11T10:18:50.218Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 박재범 - ‘GANADARA (Feat. 아이유 IU)’ Official Music Video]]></title>
-        <id>https://ppt21.com/spoent/66569?category=2</id>
-        <link href="https://ppt21.com/spoent/66569?category=2"/>
-        <updated>2022-03-11T10:18:50.234Z</updated>
-        <content type="html"><![CDATA[BTS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [러블리즈/우주소녀] 아이돌 작사 아이돌 작곡 '아작아작' 1화]]></title>
-        <id>https://ppt21.com/spoent/66567?category=2</id>
-        <link href="https://ppt21.com/spoent/66567?category=2"/>
-        <updated>2022-03-11T09:16:58.589Z</updated>
-        <content type="html"><![CDATA[리노]]></content>
     </entry>
 </feed>
