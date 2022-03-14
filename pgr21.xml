@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-03-14T16:24:40.047Z</updated>
+    <updated>2022-03-14T17:17:34.707Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] BERRY(빛베리) 'Berry Peri' M/V]]></title>
+        <id>https://ppt21.com/spoent/66626?category=2</id>
+        <link href="https://ppt21.com/spoent/66626?category=2"/>
+        <updated>2022-03-14T17:17:24.739Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 일본공영방송의 한국어라디오 방송에 출연하는 일본그룹에서 활동하는 한국인 아이돌]]></title>
         <id>https://ppt21.com/spoent/66625?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/66596?category=2"/>
         <updated>2022-03-13T14:16:09.567Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 멤버들 반응에 부끄러운 박지원]]></title>
-        <id>https://ppt21.com/spoent/66595?category=2</id>
-        <link href="https://ppt21.com/spoent/66595?category=2"/>
-        <updated>2022-03-13T14:16:09.569Z</updated>
-        <content type="html"><![CDATA[style]]></content>
     </entry>
 </feed>
