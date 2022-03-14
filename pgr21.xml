@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-03-14T13:22:28.717Z</updated>
+    <updated>2022-03-14T14:16:33.326Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 이건 참을 수 없습니다. [보이비, 개코, 정상수 신보]]]></title>
+        <id>https://ppt21.com/spoent/66623?category=2</id>
+        <link href="https://ppt21.com/spoent/66623?category=2"/>
+        <updated>2022-03-14T14:16:22.608Z</updated>
+        <content type="html"><![CDATA[MADE]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 용의눈물과 태종이방원 경순공주 삭발식]]></title>
         <id>https://ppt21.com/spoent/66622?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/66590?category=2"/>
         <updated>2022-03-13T01:02:25.053Z</updated>
         <content type="html"><![CDATA[우주전쟁]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [태종이방원] 정리 들어가는 이방원]]></title>
-        <id>https://ppt21.com/spoent/66588?category=2</id>
-        <link href="https://ppt21.com/spoent/66588?category=2"/>
-        <updated>2022-03-12T16:22:28.198Z</updated>
-        <content type="html"><![CDATA[카루오스]]></content>
     </entry>
 </feed>
