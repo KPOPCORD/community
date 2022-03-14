@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-03-14T11:15:05.118Z</updated>
+    <updated>2022-03-14T12:27:59.235Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 김채원 + 방시혁 + 사쿠라]]></title>
+        <id>https://ppt21.com/spoent/66619?category=2</id>
+        <link href="https://ppt21.com/spoent/66619?category=2"/>
+        <updated>2022-03-14T12:27:43.089Z</updated>
+        <content type="html"><![CDATA[Gunners]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 모로코의 꽃미남 아이돌 뮤비]]></title>
         <id>https://ppt21.com/spoent/66618?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/66586?category=2"/>
         <updated>2022-03-12T15:16:29.237Z</updated>
         <content type="html"><![CDATA[니시노 나나세]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] SUE- SOMEDAY]]></title>
-        <id>https://ppt21.com/spoent/66584?category=2</id>
-        <link href="https://ppt21.com/spoent/66584?category=2"/>
-        <updated>2022-03-12T14:14:45.258Z</updated>
-        <content type="html"><![CDATA[마바라]]></content>
     </entry>
 </feed>
