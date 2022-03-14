@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-03-14T07:16:48.756Z</updated>
+    <updated>2022-03-14T08:20:31.153Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 동창들을 만난 박보영]]></title>
+        <id>https://ppt21.com/spoent/66613?category=2</id>
+        <link href="https://ppt21.com/spoent/66613?category=2"/>
+        <updated>2022-03-14T08:20:19.081Z</updated>
+        <content type="html"><![CDATA[퍼블레인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 오늘 아침 생방송 중 위험한 방송사고가 발생했네요]]></title>
         <id>https://ppt21.com/spoent/66610?category=2</id>
@@ -129,13 +136,6 @@
         <id>https://ppt21.com/spoent/66574?category=2</id>
         <link href="https://ppt21.com/spoent/66574?category=2"/>
         <updated>2022-03-11T15:18:12.577Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [엔믹스]  '占 (TANK)' 스튜디오 춤 퍼포먼스 영상 (+오늘 'O.O' 뮤직뱅크 무대)]]></title>
-        <id>https://ppt21.com/spoent/66573?category=2</id>
-        <link href="https://ppt21.com/spoent/66573?category=2"/>
-        <updated>2022-03-11T15:18:12.583Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>

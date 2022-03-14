@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-14T07:16:48.665Z</updated>
+    <updated>2022-03-14T08:20:31.156Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] 동창들을 만난 박보영 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/66613?category=2</id>
+        <link href="https://ppt21.com/spoent/66613?category=2"/>
+        <updated>2022-03-14T08:20:19.081Z</updated>
+        <content type="html"><![CDATA[퍼블레인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 오늘 아침 생방송 중 위험한 방송사고가 발생했네요 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/66610?category=2</id>
@@ -131,13 +138,6 @@
         <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[연예] [엔믹스]  '占 (TANK)' 스튜디오 춤 퍼포먼스 영상 (+오늘 'O.O' 뮤직뱅크 무대) (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/66573?category=2</id>
-        <link href="https://ppt21.com/spoent/66573?category=2"/>
-        <updated>2022-03-11T15:18:12.583Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[라잇썸 나영 인스타 업로드 (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2380063031</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2380063031"/>
@@ -229,52 +229,52 @@
         <content type="html"><![CDATA[301525]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[오늘 한시 문자 총공 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2379653772</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2379653772"/>
-        <updated>2022-03-14T03:19:47.879Z</updated>
-        <content type="html"><![CDATA[301524]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[아이즈원 출신 사쿠라·김채원, 쏘스뮤직 전속계약…걸그룹 데뷔(공식) (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2379591234</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2379591234"/>
         <updated>2022-03-14T01:08:04.264Z</updated>
-        <content type="html"><![CDATA[301523]]></content>
+        <content type="html"><![CDATA[301524]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[방탄 정국 인스타 업뎃 (사진 많음) (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2379441637</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2379441637"/>
         <updated>2022-03-13T18:19:14.974Z</updated>
-        <content type="html"><![CDATA[301522]]></content>
+        <content type="html"><![CDATA[301523]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[방탄 제이홉 위버스 업뎃 (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2379437207</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2379437207"/>
         <updated>2022-03-13T18:19:14.975Z</updated>
-        <content type="html"><![CDATA[301521]]></content>
+        <content type="html"><![CDATA[301522]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[방탄 알엠 위버스 업뎃 (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2379436305</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2379436305"/>
         <updated>2022-03-13T18:19:14.979Z</updated>
-        <content type="html"><![CDATA[301520]]></content>
+        <content type="html"><![CDATA[301521]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[방탄 지민 위버스 업뎃 "얼른 또 만나요 감사하고 사랑합니다💜" (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2379381971</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2379381971"/>
         <updated>2022-03-13T17:16:39.451Z</updated>
-        <content type="html"><![CDATA[301519]]></content>
+        <content type="html"><![CDATA[301520]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[엔하이픈 정원 멤트♥️💓 (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2379289816</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2379289816"/>
         <updated>2022-03-13T16:23:39.579Z</updated>
+        <content type="html"><![CDATA[301519]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#오늘의ENHYPEN] 오늘 가장 많이 한 말? 우정 DJ 귀여워... 귀여운 천재 DJ 우디&정디🐈🦊와 함께한 경청💞 #경청의_감초_귀염둥이_포켓단 #220313 @ 엔하이픈의 경청 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2379286901</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2379286901"/>
+        <updated>2022-03-14T08:20:30.442Z</updated>
         <content type="html"><![CDATA[301518]]></content>
     </entry>
 </feed>
