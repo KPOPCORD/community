@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-03-14T08:20:31.153Z</updated>
+    <updated>2022-03-14T09:19:22.489Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 오징어 게임 크리틱스초이스 어워즈 최우수 외국어 시리즈 선정]]></title>
+        <id>https://ppt21.com/spoent/66617?category=2</id>
+        <link href="https://ppt21.com/spoent/66617?category=2"/>
+        <updated>2022-03-14T09:19:10.704Z</updated>
+        <content type="html"><![CDATA[우주전쟁]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] [(여자)아이들] 'TOMBOY' M/V (+쇼케이스 무대 영상)]]></title>
+        <id>https://ppt21.com/spoent/66616?category=2</id>
+        <link href="https://ppt21.com/spoent/66616?category=2"/>
+        <updated>2022-03-14T09:19:10.704Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] [브레이브걸스] 'Thank You' M/V (코로나 확진으로 인해 쇼케이스 연기)]]></title>
+        <id>https://ppt21.com/spoent/66615?category=2</id>
+        <link href="https://ppt21.com/spoent/66615?category=2"/>
+        <updated>2022-03-14T09:19:10.706Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 동창들을 만난 박보영]]></title>
         <id>https://ppt21.com/spoent/66613?category=2</id>
@@ -115,27 +136,6 @@
         <id>https://ppt21.com/spoent/66581?category=2</id>
         <link href="https://ppt21.com/spoent/66581?category=2"/>
         <updated>2022-03-12T07:15:17.677Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 김선신 짝사랑한거 아니냐는 댓글에 대한 정용검의 반응]]></title>
-        <id>https://ppt21.com/spoent/66579?category=2</id>
-        <link href="https://ppt21.com/spoent/66579?category=2"/>
-        <updated>2022-03-12T05:14:33.799Z</updated>
-        <content type="html"><![CDATA[강가딘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 급 떠올라서 공유하는 81~82년생 가수들 곡]]></title>
-        <id>https://ppt21.com/spoent/66575?category=2</id>
-        <link href="https://ppt21.com/spoent/66575?category=2"/>
-        <updated>2022-03-11T16:24:49.817Z</updated>
-        <content type="html"><![CDATA[A1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [(여자)아이들] 'TOMBOY' M/V Teaser #1, #2]]></title>
-        <id>https://ppt21.com/spoent/66574?category=2</id>
-        <link href="https://ppt21.com/spoent/66574?category=2"/>
-        <updated>2022-03-11T15:18:12.577Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
