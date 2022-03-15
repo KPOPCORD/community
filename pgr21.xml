@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-03-15T09:17:35.864Z</updated>
+    <updated>2022-03-15T10:19:47.085Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 요즘 걸그룹 개인직캠 조회수 양대산맥 2인]]></title>
+        <id>https://ppt21.com/spoent/66633?category=2</id>
+        <link href="https://ppt21.com/spoent/66633?category=2"/>
+        <updated>2022-03-15T10:19:21.258Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] WWE 명전 헌액자 '레이저 라몬' 스캇 홀 사망]]></title>
         <id>https://ppt21.com/spoent/66628?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/66599?category=2"/>
         <updated>2022-03-13T16:23:26.851Z</updated>
         <content type="html"><![CDATA[빼사스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [태종이방원]이방원에게 독설을 내뱉는 이성계]]></title>
-        <id>https://ppt21.com/spoent/66597?category=2</id>
-        <link href="https://ppt21.com/spoent/66597?category=2"/>
-        <updated>2022-03-13T15:16:36.910Z</updated>
-        <content type="html"><![CDATA[카루오스]]></content>
     </entry>
 </feed>
