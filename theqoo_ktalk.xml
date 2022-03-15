@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2022-03-14T23:18:01.605Z</updated>
+    <updated>2022-03-15T02:40:20.077Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[김재환 - 첫눈처럼 너에게 가겠다 (원곡 : 에일리) KCON:TACT HI 5]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2381066557</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2381066557"/>
+        <updated>2022-03-15T02:40:19.412Z</updated>
+        <content type="html"><![CDATA[301537]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[떡밥모음] 밥친구영상 재명 영상 목록.youtube]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2380931129</id>
@@ -137,12 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2380249219"/>
         <updated>2022-03-14T09:19:21.797Z</updated>
         <content type="html"><![CDATA[301518]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[릴레이댄스] 로켓펀치(Rocket Punch) - CHIQUITA (4K)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2380234128</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2380234128"/>
-        <updated>2022-03-14T20:18:45.967Z</updated>
-        <content type="html"><![CDATA[301517]]></content>
     </entry>
 </feed>

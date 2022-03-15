@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-14T23:18:01.609Z</updated>
+    <updated>2022-03-15T02:40:20.086Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] WWE 명전 헌액자 '레이저 라몬' 스캇 홀 사망 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/66628?category=2</id>
+        <link href="https://ppt21.com/spoent/66628?category=2"/>
+        <updated>2022-03-15T02:40:09.019Z</updated>
+        <content type="html"><![CDATA[김티모]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] BERRY(빛베리) 'Berry Peri' M/V (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/66626?category=2</id>
@@ -131,11 +138,11 @@
         <content type="html"><![CDATA[카루오스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[연예] 2022년 3월 2주 D-차트 : 태연 3주 연속 1위! 로켓펀치 25위-체리블렛 28위 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/66596?category=2</id>
-        <link href="https://ppt21.com/spoent/66596?category=2"/>
-        <updated>2022-03-13T14:16:09.567Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
+        <title type="html"><![CDATA[김재환 - 첫눈처럼 너에게 가겠다 (원곡 : 에일리) KCON:TACT HI 5 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2381066557</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2381066557"/>
+        <updated>2022-03-15T02:40:19.412Z</updated>
+        <content type="html"><![CDATA[301537]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[떡밥모음] 밥친구영상 재명 영상 목록.youtube (더쿠 ─ 케이돌토크)]]></title>
@@ -269,12 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2380249219"/>
         <updated>2022-03-14T09:19:21.797Z</updated>
         <content type="html"><![CDATA[301518]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[릴레이댄스] 로켓펀치(Rocket Punch) - CHIQUITA (4K) (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2380234128</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2380234128"/>
-        <updated>2022-03-14T20:18:45.967Z</updated>
-        <content type="html"><![CDATA[301517]]></content>
     </entry>
 </feed>
