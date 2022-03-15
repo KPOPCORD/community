@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-03-15T13:23:13.465Z</updated>
+    <updated>2022-03-15T14:16:31.191Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 입김이 많이 나네요 날씨가 많이 추워진 것 같아요]]></title>
+        <id>https://ppt21.com/spoent/66640?category=2</id>
+        <link href="https://ppt21.com/spoent/66640?category=2"/>
+        <updated>2022-03-15T14:16:20.724Z</updated>
+        <content type="html"><![CDATA[나스닥]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [브레이브걸스] 'Thank You' 안무영상 + 수트댄스 + 응원법]]></title>
         <id>https://ppt21.com/spoent/66636?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/66609?category=2"/>
         <updated>2022-03-14T04:26:04.243Z</updated>
         <content type="html"><![CDATA[Leeka]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 사쿠라와 김채원의 계약 오피셜이 떴습니다.]]></title>
-        <id>https://ppt21.com/spoent/66603?category=2</id>
-        <link href="https://ppt21.com/spoent/66603?category=2"/>
-        <updated>2022-03-14T01:07:54.761Z</updated>
-        <content type="html"><![CDATA[Old Moon]]></content>
     </entry>
 </feed>
