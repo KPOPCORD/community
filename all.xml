@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-15T10:19:47.090Z</updated>
+    <updated>2022-03-15T11:15:04.410Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] 현재 멜론차트 top100 순위 (feat.여자솔로, 걸그룹) (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/66634?category=2</id>
+        <link href="https://ppt21.com/spoent/66634?category=2"/>
+        <updated>2022-03-15T11:14:54.836Z</updated>
+        <content type="html"><![CDATA[아롱이다롱이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 요즘 걸그룹 개인직캠 조회수 양대산맥 2인 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/66633?category=2</id>
@@ -131,14 +138,7 @@
         <content type="html"><![CDATA[츠라빈스카야]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[연예] [개승자] 최종 라운드 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/66599?category=2</id>
-        <link href="https://ppt21.com/spoent/66599?category=2"/>
-        <updated>2022-03-13T16:23:26.851Z</updated>
-        <content type="html"><![CDATA[빼사스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방탄 오피셜 유튜브 A little taste😋 of #BTS_Dynamite on the 1B Spotify Plaque🍽️🥳 (스포티파이 접시에 비빔밥) (더쿠 ─ 케이돌토크)]]></title>
+        <title type="html"><![CDATA[방탄 오피셜 유튜브 A little taste😋 of #BTS_Dynamite on the 1B Spotify Plaque🍽️🥳 (스포티파이 10억 스밍 접시에 비빔밥 인증) (더쿠 ─ 케이돌토크)]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2381834587</id>
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2381834587"/>
         <updated>2022-03-15T10:19:46.458Z</updated>
