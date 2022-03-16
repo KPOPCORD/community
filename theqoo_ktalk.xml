@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2022-03-16T17:19:22.952Z</updated>
+    <updated>2022-03-16T18:20:53.870Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[방탄 뷔 트윗 업뎃 - 골린이 영상 ⛳️]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2383763893</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2383763893"/>
+        <updated>2022-03-16T18:20:53.067Z</updated>
+        <content type="html"><![CDATA[301580]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하이라이트(HIGHLIGHT) THE 1st FULL ALBUM [DAYDREAM] TRACK LIST 2022. 03. 21. 18:00]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2383610799</id>
@@ -137,12 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2383013117"/>
         <updated>2022-03-16T07:17:08.395Z</updated>
         <content type="html"><![CDATA[301561]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EPEX(이펙스) - 백승, 뮤 Cover (空音 - Hug, Ruel - Not Thinkin' Bout You)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2382947796</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2382947796"/>
-        <updated>2022-03-16T06:21:20.907Z</updated>
-        <content type="html"><![CDATA[301560]]></content>
     </entry>
 </feed>
