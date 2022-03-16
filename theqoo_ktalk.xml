@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2022-03-16T11:14:41.106Z</updated>
+    <updated>2022-03-16T12:28:15.881Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[케이돌 일본 주간 음원 차트 성적 (3월 둘째주)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2383394371</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2383394371"/>
+        <updated>2022-03-16T12:28:15.193Z</updated>
+        <content type="html"><![CDATA[301575]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Behind] 권은비 'ESPER' MV]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2383308332</id>
@@ -137,12 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2382738142"/>
         <updated>2022-03-16T05:15:56.555Z</updated>
         <content type="html"><![CDATA[301556]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[베리베리 VERIVERY DIGITAL SINGLE SERIES 'O' ROUND 0 : WHO Lyrics Spoiler]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2382726359</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2382726359"/>
-        <updated>2022-03-16T05:15:56.562Z</updated>
-        <content type="html"><![CDATA[301555]]></content>
     </entry>
 </feed>
