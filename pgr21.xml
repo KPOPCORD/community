@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-03-16T08:22:18.284Z</updated>
+    <updated>2022-03-16T09:19:02.934Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 권은비 'ESPER' M/V]]></title>
+        <id>https://ppt21.com/spoent/66650?category=2</id>
+        <link href="https://ppt21.com/spoent/66650?category=2"/>
+        <updated>2022-03-16T09:18:49.906Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] [마마무] 솔라 '꿀 (HONEY)' M/V]]></title>
+        <id>https://ppt21.com/spoent/66649?category=2</id>
+        <link href="https://ppt21.com/spoent/66649?category=2"/>
+        <updated>2022-03-16T09:18:49.908Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 역시 기대를 저버리지 않는 롤랜드 에머리히 감독님...]]></title>
         <id>https://ppt21.com/spoent/66646?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/66616?category=2"/>
         <updated>2022-03-14T09:19:10.704Z</updated>
         <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [브레이브걸스] 'Thank You' M/V (코로나 확진으로 인해 쇼케이스 연기)]]></title>
-        <id>https://ppt21.com/spoent/66615?category=2</id>
-        <link href="https://ppt21.com/spoent/66615?category=2"/>
-        <updated>2022-03-14T09:19:10.706Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 동창들을 만난 박보영]]></title>
-        <id>https://ppt21.com/spoent/66613?category=2</id>
-        <link href="https://ppt21.com/spoent/66613?category=2"/>
-        <updated>2022-03-14T08:20:19.081Z</updated>
-        <content type="html"><![CDATA[퍼블레인]]></content>
     </entry>
 </feed>
