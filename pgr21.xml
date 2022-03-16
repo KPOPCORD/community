@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-03-16T09:19:02.934Z</updated>
+    <updated>2022-03-16T10:18:05.242Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] [(여자)아이들] 'TOMBOY' 쇼케이스 개인직캠 (+멜론 TOP100 3위)]]></title>
+        <id>https://ppt21.com/spoent/66651?category=2</id>
+        <link href="https://ppt21.com/spoent/66651?category=2"/>
+        <updated>2022-03-16T10:17:54.462Z</updated>
+        <content type="html"><![CDATA[Davi4ever]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 권은비 'ESPER' M/V]]></title>
         <id>https://ppt21.com/spoent/66650?category=2</id>
@@ -130,12 +137,5 @@
         <link href="https://ppt21.com/spoent/66617?category=2"/>
         <updated>2022-03-14T09:19:10.704Z</updated>
         <content type="html"><![CDATA[우주전쟁]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] [(여자)아이들] 'TOMBOY' M/V (+쇼케이스 무대 영상)]]></title>
-        <id>https://ppt21.com/spoent/66616?category=2</id>
-        <link href="https://ppt21.com/spoent/66616?category=2"/>
-        <updated>2022-03-14T09:19:10.704Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
 </feed>
