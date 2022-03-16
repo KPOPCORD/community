@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-03-16T01:07:17.715Z</updated>
+    <updated>2022-03-16T02:45:45.391Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 역시 기대를 저버리지 않는 롤랜드 에머리히 감독님...]]></title>
+        <id>https://ppt21.com/spoent/66646?category=2</id>
+        <link href="https://ppt21.com/spoent/66646?category=2"/>
+        <updated>2022-03-16T02:45:36.050Z</updated>
+        <content type="html"><![CDATA[우주전쟁]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 이달의소녀 소속사, 2023년 新 보이그룹 '이달의 소년' 론칭]]></title>
+        <id>https://ppt21.com/spoent/66645?category=2</id>
+        <link href="https://ppt21.com/spoent/66645?category=2"/>
+        <updated>2022-03-16T02:45:36.051Z</updated>
+        <content type="html"><![CDATA[TWICE쯔위]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 입김이 많이 나네요 날씨가 많이 추워진 것 같아요]]></title>
         <id>https://ppt21.com/spoent/66640?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/66613?category=2"/>
         <updated>2022-03-14T08:20:19.081Z</updated>
         <content type="html"><![CDATA[퍼블레인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 오늘 아침 생방송 중 위험한 방송사고가 발생했네요]]></title>
-        <id>https://ppt21.com/spoent/66610?category=2</id>
-        <link href="https://ppt21.com/spoent/66610?category=2"/>
-        <updated>2022-03-14T06:21:28.213Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 이번주 레드벨벳 콘서트가 취소되었습니다.]]></title>
-        <id>https://ppt21.com/spoent/66609?category=2</id>
-        <link href="https://ppt21.com/spoent/66609?category=2"/>
-        <updated>2022-03-14T04:26:04.243Z</updated>
-        <content type="html"><![CDATA[Leeka]]></content>
     </entry>
 </feed>
