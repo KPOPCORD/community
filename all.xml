@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-16T22:15:49.659Z</updated>
+    <updated>2022-03-17T02:40:29.016Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] 안지환 성우가 더빙하다 숨넘어갈뻔 했던 사연 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/66663?category=2</id>
+        <link href="https://ppt21.com/spoent/66663?category=2"/>
+        <updated>2022-03-17T02:40:19.094Z</updated>
+        <content type="html"><![CDATA[강가딘]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] [(여자)아이들] 우기 'Easy on me' (cover) (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/66662?category=2</id>
+        <link href="https://ppt21.com/spoent/66662?category=2"/>
+        <updated>2022-03-17T02:40:19.104Z</updated>
+        <content type="html"><![CDATA[Old Moon]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [(여자)아이들] 'TOMBOY' 쇼케이스 개인직캠 (+멜론 TOP100 3위) (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/66651?category=2</id>
@@ -124,18 +138,25 @@
         <content type="html"><![CDATA[Gunners]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[연예] 모로코의 꽃미남 아이돌 뮤비 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/66618?category=2</id>
-        <link href="https://ppt21.com/spoent/66618?category=2"/>
-        <updated>2022-03-14T11:14:54.668Z</updated>
-        <content type="html"><![CDATA[부리뿌리]]></content>
+        <title type="html"><![CDATA[[단독]'대체 불가 K팝 리더' 세븐틴, 5월 정규 4집 컴백 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2383854305</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2383854305"/>
+        <updated>2022-03-17T02:40:28.284Z</updated>
+        <content type="html"><![CDATA[301583]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[연예] 오징어 게임 크리틱스초이스 어워즈 최우수 외국어 시리즈 선정 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/66617?category=2</id>
-        <link href="https://ppt21.com/spoent/66617?category=2"/>
-        <updated>2022-03-14T09:19:10.704Z</updated>
-        <content type="html"><![CDATA[우주전쟁]]></content>
+        <title type="html"><![CDATA[스트레이 키즈 ‘ODDINARY’ 선주문 130만 돌풍 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2383820968</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2383820968"/>
+        <updated>2022-03-17T02:40:28.297Z</updated>
+        <content type="html"><![CDATA[301582]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독] CJ ENM 케이콘, 5월 미국 시작으로 전 세계 오프라인 개최 확정 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2383820099</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2383820099"/>
+        <updated>2022-03-17T02:40:28.297Z</updated>
+        <content type="html"><![CDATA[301581]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[방탄 뷔 트윗 업뎃 - 골린이 영상 ⛳️ (더쿠 ─ 케이돌토크)]]></title>
@@ -255,26 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2383147768"/>
         <updated>2022-03-16T09:19:02.222Z</updated>
         <content type="html"><![CDATA[301564]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[베리베리 강민, 계현, 민찬, 연호, 호영 코로나 확진 관련 안내 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2383103442</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2383103442"/>
-        <updated>2022-03-16T08:22:17.471Z</updated>
-        <content type="html"><![CDATA[301563]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3/17 엠카 라인업 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2383052332</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2383052332"/>
-        <updated>2022-03-16T08:22:17.471Z</updated>
-        <content type="html"><![CDATA[301562]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[((진지)) 일본이 바로 한국 먹을 수는 없지만 암적으로는 가능할듯 (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2383013117</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2383013117"/>
-        <updated>2022-03-16T07:17:08.395Z</updated>
-        <content type="html"><![CDATA[301561]]></content>
     </entry>
 </feed>

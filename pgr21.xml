@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ppt21.com/spoent/0?1=1&amp;category=2</id>
     <title>Pgr21 ─ 연예</title>
-    <updated>2022-03-16T22:15:49.652Z</updated>
+    <updated>2022-03-17T02:40:29.107Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ppt21.com/spoent/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[연예] 안지환 성우가 더빙하다 숨넘어갈뻔 했던 사연]]></title>
+        <id>https://ppt21.com/spoent/66663?category=2</id>
+        <link href="https://ppt21.com/spoent/66663?category=2"/>
+        <updated>2022-03-17T02:40:19.094Z</updated>
+        <content type="html"><![CDATA[강가딘]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] [(여자)아이들] 우기 'Easy on me' (cover)]]></title>
+        <id>https://ppt21.com/spoent/66662?category=2</id>
+        <link href="https://ppt21.com/spoent/66662?category=2"/>
+        <updated>2022-03-17T02:40:19.104Z</updated>
+        <content type="html"><![CDATA[Old Moon]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] [(여자)아이들] 'TOMBOY' 쇼케이스 개인직캠 (+멜론 TOP100 3위)]]></title>
         <id>https://ppt21.com/spoent/66651?category=2</id>
@@ -123,19 +137,5 @@
         <link href="https://ppt21.com/spoent/66619?category=2"/>
         <updated>2022-03-14T12:27:43.089Z</updated>
         <content type="html"><![CDATA[Gunners]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 모로코의 꽃미남 아이돌 뮤비]]></title>
-        <id>https://ppt21.com/spoent/66618?category=2</id>
-        <link href="https://ppt21.com/spoent/66618?category=2"/>
-        <updated>2022-03-14T11:14:54.668Z</updated>
-        <content type="html"><![CDATA[부리뿌리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 오징어 게임 크리틱스초이스 어워즈 최우수 외국어 시리즈 선정]]></title>
-        <id>https://ppt21.com/spoent/66617?category=2</id>
-        <link href="https://ppt21.com/spoent/66617?category=2"/>
-        <updated>2022-03-14T09:19:10.704Z</updated>
-        <content type="html"><![CDATA[우주전쟁]]></content>
     </entry>
 </feed>
