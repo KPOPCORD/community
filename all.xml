@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KPOPCORD.github.io/community/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-18T01:05:47.457Z</updated>
+    <updated>2022-03-18T02:43:38.731Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[연예] 부스터샷 맞은 '최고령 MC' 송해 확진.... 정준하 등도 양성 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/66680?category=2</id>
+        <link href="https://ppt21.com/spoent/66680?category=2"/>
+        <updated>2022-03-18T02:43:29.188Z</updated>
+        <content type="html"><![CDATA[강가딘]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연예] 성캐가 중계 뭉처야 한타 1회 (Pgr21 ─ 연예)]]></title>
+        <id>https://ppt21.com/spoent/66679?category=2</id>
+        <link href="https://ppt21.com/spoent/66679?category=2"/>
+        <updated>2022-03-18T02:43:29.194Z</updated>
+        <content type="html"><![CDATA[강가딘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연예] 이번 주도 카메라감독님의 열정이 느껴진 인기가요 단독샷캠 (Pgr21 ─ 연예)]]></title>
         <id>https://ppt21.com/spoent/66678?category=2</id>
@@ -124,18 +138,11 @@
         <content type="html"><![CDATA[Davi4ever]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[연예] 현재 멜론차트 top100 순위 (feat.여자솔로, 걸그룹) (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/66634?category=2</id>
-        <link href="https://ppt21.com/spoent/66634?category=2"/>
-        <updated>2022-03-15T11:14:54.836Z</updated>
-        <content type="html"><![CDATA[아롱이다롱이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연예] 요즘 걸그룹 개인직캠 조회수 양대산맥 2인 (Pgr21 ─ 연예)]]></title>
-        <id>https://ppt21.com/spoent/66633?category=2</id>
-        <link href="https://ppt21.com/spoent/66633?category=2"/>
-        <updated>2022-03-15T10:19:21.258Z</updated>
-        <content type="html"><![CDATA[Davi4ever]]></content>
+        <title type="html"><![CDATA[투바투 수빈 코로나19 완치 판정 및 격리 해제 안내 (더쿠 ─ 케이돌토크)]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2385342365</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2385342365"/>
+        <updated>2022-03-18T02:43:38.030Z</updated>
+        <content type="html"><![CDATA[301579]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[윤하(YOUNHA) - 사건의 지평선 M/V Teaser 1 (더쿠 ─ 케이돌토크)]]></title>
@@ -269,12 +276,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2384431262"/>
         <updated>2022-03-17T22:17:24.318Z</updated>
         <content type="html"><![CDATA[301560]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[위아이 (WEi) _ Too Bad | 스페셜클립 | Special Clip | 퍼포먼스 | Performance | 4K (더쿠 ─ 케이돌토크)]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2384422421</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2384422421"/>
-        <updated>2022-03-17T22:17:24.319Z</updated>
-        <content type="html"><![CDATA[301559]]></content>
     </entry>
 </feed>

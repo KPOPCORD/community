@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056</id>
     <title>더쿠 ─ 케이돌토크</title>
-    <updated>2022-03-18T01:05:47.459Z</updated>
+    <updated>2022-03-18T02:43:38.729Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://theqoo.net/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[투바투 수빈 코로나19 완치 판정 및 격리 해제 안내]]></title>
+        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2385342365</id>
+        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2385342365"/>
+        <updated>2022-03-18T02:43:38.030Z</updated>
+        <content type="html"><![CDATA[301579]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤하(YOUNHA) - 사건의 지평선 M/V Teaser 1]]></title>
         <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2385048592</id>
@@ -137,12 +144,5 @@
         <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2384431262"/>
         <updated>2022-03-17T22:17:24.318Z</updated>
         <content type="html"><![CDATA[301560]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[위아이 (WEi) _ Too Bad | 스페셜클립 | Special Clip | 퍼포먼스 | Performance | 4K]]></title>
-        <id>https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2384422421</id>
-        <link href="https://theqoo.net/index.php?mid=ktalk&amp;filter_mode=normal&amp;category=21832056&amp;document_srl=2384422421"/>
-        <updated>2022-03-17T22:17:24.319Z</updated>
-        <content type="html"><![CDATA[301559]]></content>
     </entry>
 </feed>
